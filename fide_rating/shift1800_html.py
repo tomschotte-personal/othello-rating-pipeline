@@ -741,7 +741,20 @@ function render() {{
                 .map(([t, n]) =>
                     `<label><input type="checkbox" class="tf-check" value="${{escapeHtml(t)}}" /> ${{escapeHtml(t)}} (${{n}})</label>`
                 ).join('');
-            panel.querySelectorAll('.tf-check').forEach(cb => cb.addEventListener('change', render));
+            // Restore persisted tournament selection (stale names simply won't match)
+            try {{
+                const savedT = JSON.parse(localStorage.getItem('wor-tfilter') || '[]');
+                panel.querySelectorAll('.tf-check').forEach(cb => {{
+                    if (savedT.includes(cb.value)) cb.checked = true;
+                }});
+            }} catch (e) {{}}
+            panel.querySelectorAll('.tf-check').forEach(cb => cb.addEventListener('change', () => {{
+                try {{
+                    localStorage.setItem('wor-tfilter', JSON.stringify(
+                        Array.from(panel.querySelectorAll('.tf-check:checked')).map(c => c.value)));
+                }} catch (e) {{}}
+                render();
+            }}));
             panel.dataset.populated = '1';
         }}
     }} else {{
