@@ -1,0 +1,61 @@
+%%Tournament: 175th Kyoto Meeting
+%%Country: Japan
+%%Date: 14/07/2002
+%%Sender: Tom Schotte
+
+%Round1
+5507 > 6929
+6923 > 11977
+11799 > 10041
+10008 > 11875
+10009 > 11631
+11630 > 5526
+
+%Round2
+5507 > 10008
+6929 > 11875
+6923 > 10009
+11799 > 11630
+5526 > 10041
+11631 > 11977
+
+%Round3
+5507 > 10009
+6929 > 5526
+11799 > 6923
+10008 > 11630
+11875 > 11631
+11977 > 10041
+
+%Round4
+5507 > 11799
+6929 > 6923
+5526 > 10008
+11875 > 10009
+11977 > 11630
+10041 > 11631
+
+%Round5
+6929 > 11799
+6923 > 5507
+5526 > 11875
+10008 > 11977
+10009 > 10041
+11631 > 11630
+
+
+
+%players
+%1 5507	tsuchida	daisuke
+%2 6929 IO Hideo
+%3 6923	kimura	keigo
+%4 11799	hashimoto	yoshiaki
+%5 5526	uno	toshihiro
+%6 10008	okuda	masashi
+%7 10009	taru	eiichi
+%8 11875	eto	tetsuharu
+%9 11631	tatsumi	akihiro
+%10 11977	shimizu	masahiro
+%11 11630	tatsumi	maiho
+%12 10041	tatsumi	atsusi
+

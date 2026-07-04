@@ -1,0 +1,50 @@
+%%Tournament: Czech GPO 8/2007
+%%Country: Czech Republic
+%%Date: 15/07/2007
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4502, STASTNA, Jan, CZ, 4, 248
+%_%   4514, KOTINOVA, Hana, CZ, 3, 194
+%_%   4570, KANOVSKY, Petr, CZ, 6, 309
+%_%   4617, DOUDA, Tomas, CZ, 5, 283
+%_% 210056, MYKHALYUK, Viktoria, UKR, 0, 54
+%_% 210057, MYKHALYUK, Yuliya, UKR, 2, 176
+%_% 210067, SHEVCHUK, Oksana, UKR, 1, 80
+
+
+%Round 1
+210057 (10)<(54)   4617 B
+  4570 (60)>(04) 210067 B
+  4502 (43)>(21)   4514 B
+
+%Round 2
+  4617 (37)>(27)   4502 B
+210056 (04)<(60)   4570 B
+  4514 (37)>(27) 210057 B
+
+%Round 3
+  4570 (38)>(26)   4617 B
+  4502 (60)>(04) 210056 B
+210057 (56)>(08) 210067 B
+
+%Round 4
+  4514 (13)<(51)   4570 B
+210056 (13)<(51) 210057 B
+210067 (06)<(58)   4502 B
+
+%Round 5
+210056 (02)<(62)   4617 B
+  4570 (42)>(22)   4502 B
+210067 (12)<(52)   4514 B
+
+%Round 6
+  4617 (57)>(07) 210067 B
+210057 (06)<(58)   4570 B
+  4514 (54)>(10) 210056 B
+
+%Round 7
+  4514 (17)<(47)   4617 B
+210056 (21)<(43) 210067 B
+  4502 (38)>(26) 210057 B
+

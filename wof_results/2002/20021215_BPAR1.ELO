@@ -1,0 +1,32 @@
+%%Tournament: Tournoi B de Paris
+%%Country: France
+%%Date: 15/12/2002
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+3501 <  610
+
+%%Round: 2
+
+3597 <  610
+
+%%Round: 3
+
+3501 < 3597
+
+%%Round: 4
+
+ 610 > 3501
+3597 >  709
+
+%%Round: 5
+
+ 709 > 3501
+ 610 < 3597
+
+%%Round: 6
+
+3597 > 3501
+ 610 >  709

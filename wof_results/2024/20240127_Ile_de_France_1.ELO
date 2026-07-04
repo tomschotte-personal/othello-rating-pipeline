@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 27/01/2024
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/01/27 18:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50036, CLINTON, Samuel, FRA,  4, 218, 2068
+%_%       2, TASTET, Marc, FRA,  4, 200, 2095
+%_%     839, KASHIWABARA, Takuji, FRA,  3, 178, 2158
+%_%   50096, LEVY, Marc, FRA,  3, 158, 1759
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 121, 1962
+%_%     478, COLLAY, Frederic, FRA,  2, 162, 1867
+%_%      45, ANDRIANI, Bintsa, FRA,  1, 140, 1815
+%_%     228, BUSUTTIL, Michel, FRA,  0, 103, 1501
+
+
+
+%Round: 1
+
+ 50096 (22)<(42)    839  B
+  3598 (11)<(53)  50036  B
+   478 (34)>(30)     45  B
+   228 (19)<(45)      2  B
+
+%Round: 2
+
+   839 (35)>(29)  50036  B
+     2 (40)>(24)    478  B
+    45 (27)<(37)   3598  B
+   228 (21)<(43)  50096  B
+
+%Round: 3
+
+    45 (37)>(27)    228  B
+ 50036 (45)>(19)  50096  B
+   478 (30)<(34)   3598  B
+     2 (33)>(31)    839  B
+
+%Round: 4
+
+   228 (17)<(47)    478  B
+ 50096 (37)>(27)     45  B
+ 50036 (46)>(18)      2  B
+  3598 (39)>(25)    839  B
+
+%Round: 5
+
+   839 (45)>(19)    228  B
+   478 (27)<(37)  50096  B
+     2 (64)>(00)   3598  B
+    45 (19)<(45)  50036  B
+
+
+%%Added results

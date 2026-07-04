@@ -1,0 +1,41 @@
+%%Tournament: Gent Home Beloften
+%%Country: Belgium
+%%Date: 14/09/2008
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/09/16 22:15
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    5923, DE FLOU, Mathias, B,  5.5, 246
+%_%    5921, REUNES, Sigrid, B,  3.5, 197
+%_%    5919, FLOCKMAN, Annie, B,  3, 181
+
+
+
+%Round: 1
+
+  5921 (27)<(37)   5919 B
+
+%Round: 2
+
+  5923 (32)=(32)   5921 B
+
+%Round: 3
+
+  5919 (30)<(34)   5923 B
+
+%Round: 4
+
+  5919 (25)<(39)   5921 B
+
+%Round: 5
+
+  5921 (19)<(45)   5923 B
+
+%Round: 6
+
+  5923 (55)>(09)   5919 B
+
+
+%%Added results

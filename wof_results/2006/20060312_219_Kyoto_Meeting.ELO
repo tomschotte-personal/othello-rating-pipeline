@@ -1,0 +1,60 @@
+%%Tournament: 219th Kyoto Open
+%%Country: Japan
+%%Date: 12/03/2006
+%%Sender: Tom Schotte
+
+%Round1
+6937 > 6997
+6860 > 6929
+11594 > 5526
+5582 > 5576
+10125 > 11898
+
+%Round2
+6937 > 5582
+6860 > 10125
+11594 > 6995
+5576 > 5526
+6997 > 11898
+
+%Round3
+6995 > 10125
+6937 > 5576
+6860 > 11594
+6997 > 5582
+5526 > 6929
+
+%Round4
+6995 > 5526
+6937 > 6860
+11594 > 6997
+5576 > 11898
+6929 > 5582
+
+%Round5
+6995 > 6860
+6937 > 11594
+5576 > 6997
+10125 > 6929
+5526 > 11898
+
+%Round6
+6995 > 6937
+6860 > 5576
+11594 > 10125
+5582 > 5526
+6929 > 11898
+
+
+%Players
+%1 6995	funakoshi	shogo
+%2 6937	yamada	minoru
+%3 6860	miyazaki	yuji
+%4 11594	watanabe	kazuya
+%5 5576	takahashi	yoshiko
+%6 5582	takenobu	kosuke
+%7 6997	yamazoe	keiji
+%8 6929	io	hideo
+%9 10125	nakano	takao
+%10 5526	uno	toshihiro
+%11 11898	sano	takeshi

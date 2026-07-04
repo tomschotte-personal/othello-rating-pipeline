@@ -1,0 +1,57 @@
+%%Tournament: Nouvel An Grenoble
+%%Country: France
+%%Date: 04/01/2025
+%%Sender: Takuji
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2025/02/09 18:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50030, JUIGNER, Arthur, CHE,  5, 223, 2209
+%_%   50067, JUIGNER, Felix, CHE,  4, 186, 1640
+%_%    3515, BUTIN, Pierre, FRA,  3, 177, 1935
+%_%     839, KASHIWABARA, Takuji, FRA,  3, 167, 2092
+%_% + 50128, Saliou, Renaud, FRA,  2, 146, 0
+%_% + 50129, Lavoisy, Olivier, FRA,  1.5, 143, 0
+%_% + 50130, Lavoisy, Samuel, FRA,  1, 126, 0
+%_% + 50132, Lavoisy, Cecile, FRA,  0.5, 112, 0
+
+
+
+%Round: 1
+
+   839 (44)>(20)  50130  B
+ 50030 (39)>(25)  50129  B
+ 50128 (11)<(53)   3515  B
+ 50067 (35)>(29)  50132  B
+
+%Round: 2
+
+   839 (26)<(38)  50067  B
+ 50130 (32)=(32)  50132  B
+  3515 (16)<(48)  50030  B
+ 50129 (11)<(53)  50128  B
+
+%Round: 3
+
+ 50030 (48)>(16)  50067  B
+ 50130 (16)<(48)   3515  B
+ 50128 (26)<(38)    839  B
+ 50132 (18)<(46)  50129  B
+
+%Round: 4
+
+ 50132 (24)<(40)  50128  B
+ 50067 (59)>(05)   3515  B
+ 50129 (32)=(32)  50130  B
+   839 (24)<(40)  50030  B
+
+%Round: 5
+
+ 50129 (29)<(35)    839  B
+ 50130 (26)<(38)  50067  B
+ 50030 (48)>(16)  50128  B
+  3515 (55)>(09)  50132  B
+
+
+%%Added results

@@ -1,0 +1,48 @@
+%%Tournament: Bergen Open 2009
+%%Country: Norway
+%%Date: 10/07/2009
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/07/10 11:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2560, ODEGARD, Martin, N,  6, 275
+%_%    1894, DOVLAND, Johan, N,  3, 231
+%_%    2570, ALBRIGTSEN, Vidar, N,  3, 208
+%_%    1979, HJELMEN, Gisle, N,  0, 54
+
+
+
+%Round: 1
+
+  2570 (07)<(57)   2560 B
+  1979 (01)<(63)   1894 B
+
+%Round: 2
+
+  1894 (31)<(33)   2570 B
+  2560 (46)>(18)   1979 B
+
+%Round: 3
+
+  1894 (20)<(44)   2560 B
+  2570 (64)>(00)   1979 B
+
+%Round: 4
+
+  2560 (43)>(21)   2570 B
+  1894 (64)>(00)   1979 B
+
+%Round: 5
+
+  2570 (30)<(34)   1894 B
+  1979 (24)<(40)   2560 B
+
+%Round: 6
+
+  1979 (11)<(53)   2570 B
+  2560 (45)>(19)   1894 B
+
+
+%%Added results

@@ -1,0 +1,96 @@
+%%Tournament: 28th Meijin Kanagawa Preliminaries
+%%Country: Japan
+%%Date: 04/02/2007
+%%Sender: Tom Schotte
+
+%Round1
+  4014 >   5530 
+  5537 >  12377 
+  5569 >  11026 
+  5685 >   5558 
+ 12376 >   7087 
+  5578 >   5535 
+ 10361 >   5566 
+  7085 >    600 
+  5567 >   6813 
+  5617 >   7092 
+ 11592 >   5689 
+
+%Round2
+  4014 >   5685 
+  5569 >   5537 
+ 12376 >   5578 
+  5558 >   5617 
+  5530 >   7092 
+  5535 >   7087 
+ 10361 >   7085 
+  5567 >  11592 
+  5566 >    600 
+  6813 >   5689 
+ 11026 >  12377 
+
+%Round3
+  4014 >  11026 
+  5537 >   5558 
+  5569 >   5567 
+  5685 >   7085 
+ 12376 >  10361 
+  5530 >   5535 
+  5578 >  11592 
+  7087 >   5617 
+  5566 >   6813 
+   600 >   7092 
+  5689 >  12377 
+
+%Round4
+  4014 >   5567 
+  5537 >   5566 
+  5569 >  12376 
+  5685 >  10361 
+  5558 >   6813 
+  5530 >   5578 
+  5535 >  11026 
+  7087 >   7085 
+  7092 >  12377 
+   600 >  11592 
+  5617 >   5689 
+
+%Round5
+  4014 >   5569 
+  5537 >  12376 
+  5685 >   5530 
+  5558 >   5567 
+  5578 >    600 
+  5535 >   5566 
+ 10361 >   5617 
+  7087 >   6813 
+  7085 >   5689 
+  7092 >  11026 
+ 12377 >  11592 
+
+
+
+%players
+%1 4014	tominaga	kenta
+%2 5537	takanashi	yusuke
+%3 5569	ohmori	keita
+%4 5685	makoto	naruya
+%5 12376	satomi	nobuyuki
+%6 5558	tamaki	kyotaro
+%7 5530	noda	bintatsu
+%8 5578	urashima	mei
+%9 5535	iijima	takamune
+%10 10361	shimamine	kawai
+%11 7087	higuchi	sayuki
+%12 7085	iijima	taihei
+%13 5567	mitsuya	nobuaki
+%14 7092	kasiwagi	mitsuyoshi
+%15 5566	matsuzawa	atsushi
+%16 600	takeda	kyoko
+%17 5617	ikeda	atsuhiko
+%18 6813	yamazaki	nobuyuki
+%19 11026	iimori	keita
+%20 5689	koyahara	naoto
+%21 11592	wada	tahara
+%22 12377	takahashi	ketsu
+

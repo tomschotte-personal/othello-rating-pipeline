@@ -1,0 +1,50 @@
+%%Tournament: Bergen Open 2010
+%%Country: Norway
+%%Date: 31/07/2010
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/09/04 13:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1868, HAUGLAND, Jan Kristian, N,  5, 236
+%_%    2570, ALBRIGTSEN, Vidar, N,  3, 213
+%_%    1800, AAS, Vidar, N,  3, 157
+%_% +140029, BORTHEN, Ivar, N,  2, 149
+%_% +140030, FOSSASKARET Gunnleiv, Berge, N,  2, 123
+%_%    1801, SCHEVING, Gudny Osk, N,  0, 82
+
+
+
+%Round: 1
+
+  2570 (57)>(07) 140030 B
+  1801 (23)<(41)   1800 B
+140029 (21)<(43)   1868 B
+
+%Round: 2
+
+140030 (49)>(15)   1801 B
+  1868 (37)>(27)   2570 B
+  1800 (40)>(24) 140029 B
+
+%Round: 3
+
+  1868 (58)>(06) 140030 B
+140029 (47)>(17)   1801 B
+  2570 (47)>(17)   1800 B
+
+%Round: 4
+
+140030 (45)>(19) 140029 B
+  1800 (11)<(53)   1868 B
+  1801 (08)<(56)   2570 B
+
+%Round: 5
+
+  1800 (48)>(16) 140030 B
+  2570 (26)<(38) 140029 B
+  1868 (45)>(19)   1801 B
+
+
+%%Added results

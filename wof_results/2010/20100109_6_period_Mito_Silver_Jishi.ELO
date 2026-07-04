@@ -1,0 +1,35 @@
+%%Tournament: 6_period_Mito_Silver_Jishi
+%%Country: Japan
+%%Date: 09/01/2010
+%%Sender: Hiroyuki Iwata
+
+%_%   6986, IZUMI, takashi, J, 4.0, 181
+%_%   5534, NAGASHIMA, kazuhito, J, 3.0, 168
+%_%   5600, OHTAKE, kosuke, J, 2.0, 156
+%_%   5618, KATO, tomihiro, J, 2.0, 123
+%_%   5661, KURAHASHI, tetsushi, J, 1.0, 140
+
+%Round 1
+  6986 (46) > (18)   5534
+  5600 (33) > (31)   5661
+
+%Round 2
+  5534 (42) > (22)   5600
+  5618 (39) > (25)   6986
+
+%Round 3
+  6986 (34) > (30)   5661
+  5618 (36) > (28)   5534
+
+%Round 4
+  5534 (35) > (29)   5661
+  5600 (49) > (15)   5618
+
+%Round 5
+  6986 (40) > (24)   5600
+  5661 (50) > (14)   5618
+
+%Round 6
+  6986 (36) > (28)   5600
+  5534 (45) > (19)   5618
+

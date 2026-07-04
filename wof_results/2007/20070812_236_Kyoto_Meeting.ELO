@@ -1,0 +1,52 @@
+%%Tournament: 236th Kyoto Meeting
+%%Country: Japan
+%%Date: 12/08/2007
+%%Sender: Tom Schotte
+
+%round1
+5568 > 10022
+5527 > 10015
+6929 > 6927
+6935 > 6938
+
+%round2
+5568 > 5527
+6929 > 6935
+6938 > 6995
+10015 > 6927
+
+%round3
+5568 > 6929
+5527 > 6935
+6938 > 10015
+6995 > 10022
+
+%round4
+5568 > 6938
+6929 > 5527
+6935 > 10022
+6995 > 6927
+
+%round5
+5568 > 6995
+5527 > 10022
+6929 > 10015
+6927 > 6935
+
+%round6
+5568 > 6927
+5527 > 6995
+6938 > 6929
+10015 > 10022
+
+
+%players
+%1 5568	okamoto	kazuki
+%2 5527	goto	masahiro
+%3 6929	io	hideo
+%4 6938	okamoto	kuwajima
+%5 6935	hosoi	shinsuke
+%6 10015	shimizu	takao
+%7 6995	funakoshi	shogo
+%8 6927	okamoto	misaki
+%9 10022	takahashi	hiroki

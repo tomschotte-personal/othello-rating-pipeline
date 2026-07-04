@@ -1,0 +1,28 @@
+%%Tournament: Citta di Roma 2018 - IV Tappa
+%%Country: Italy
+%%Date: 09/12/2018
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3111, SCOGNAMIGLIO, Paolo, ITA, 4, 216
+%_%  3062, CAVIOLA, Leonardo, ITA, 3, 118
+%_%  2818, DI COLA, Severino, ITA, 3, 115
+%_% 40114, ARCARA, Paolo, ITA, 1, 111
+%_% 40097, CACCIATORE, Alessandro, ITA, 1, 84
+
+
+%Round 1 
+  2818 (42)>(22)  40114  B
+  3111 (50)>(14)   3062  B
+
+%Round 2 
+ 40097 (24)<(40)   2818  B
+ 40114 (25)<(39)   3111  B
+
+%Round 3 
+  3111 (64)>(00)   2818  B
+  3062 (38)>(26)  40097  B
+
+%Round 4 
+ 40097 (01)<(63)   3111  B
+ 40114 (31)<(33)   3062  B

@@ -1,0 +1,60 @@
+%%Tournament: Torneio Othello Patio
+%%Country: Brazil
+%%Date: 25/10/2025
+%%Sender: CORREIA JR. Moises
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    1577, BERGLUND, Caroline, SWE, 5, 243, 2006
+%_%  290103, CID, Vitor Machado, BRA, 4, 220, -1636
+%_%    4083, DE CAMARGO, Lucas, BRA, 4, 218, 1878
+%_%    4155, BRIANTE PIRES, Marcos Paulo, BRA, 3, 172, 1779
+%_%  290025, CORREIA JR., Moises, BRA, 2, 116, 1425
+%_%  290013, FRITSCH, Evans, BRA, 2, 156, 1546
+%_%  290168, PAIE CORREIA, Vitor, BRA, 1, 88, 1041
+%_%  +290616, de Carmargo, Frederico, BRA, 0, 67, -
+%_%  +290617, Gaito dos Reis, Henrique, BRA, 0, 0, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/411
+
+%Round: 1
+
+290168 (09)<(55)   1577  B
+290617 (00)<(64) 290103  B
+290025 (53)>(11) 290616  B
+  4083 (34)>(30) 290013  B
+
+%Round: 2
+
+290616 (20)<(44) 290168  B
+290013 (16)<(48)   4155  B
+290103 (63)>(01) 290025  B
+  1577 (52)>(12)   4083  B
+
+%Round: 3
+
+290616 (15)<(49) 290013  B
+290168 (10)<(54)   4083  B
+290025 (11)<(53)   1577  B
+  4155 (17)<(47) 290103  B
+
+%Round: 4
+
+  4083 (60)>(04) 290616  B
+290013 (19)<(45) 290025  B
+  4155 (61)>(03) 290168  B
+  1577 (33)>(31) 290103  B
+
+%Round: 5
+
+  1577 (50)>(14)   4155  B
+290025 (06)<(58)   4083  B
+290168 (22)<(42) 290013  B
+290103 (47)>(17) 290616  B
+
+%%Added results
+
+290103 (27)<(37)   1577  B

@@ -1,0 +1,22 @@
+%%Tournament: Kfar-Saba open
+%%Country: Israel
+%%Date: 22/06/2019
+%%Sender: Leonid Shifman
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    885, SHIFMAN, Ilya, ISR,  3, 151
+%_% 200010, SHIFMAN, Michael, ISR,  2, 111
+%_% 200018, YOSIFOVICH, Danielle, ISR,  1, 99
+%_% 200009, SHIFMAN, Shani, ISR,  0, 23
+
+%Round: 1
+200010 (49)>(15) 200009  B
+   885 (48)>(16) 200018  B
+
+%Round: 2
+200010 (23)<(41)    885  B
+200009 (06)<(58) 200018  B
+
+%Round: 3
+   885 (62)>(02) 200009  B
+200018 (25)<(39) 200010  B

@@ -1,0 +1,30 @@
+%%Tournament: WOC_1986
+%%Country: World
+%%Date: 15/11/1986
+%%Sender: WOF rating committee (scraped from worldothello.org)
+
+%_%    300, TAMENORI, hideshi, ?, 4.0, 179
+%_%      1, RALLE, paul, ?, 3.0, 168
+%_%    803, JONES, simon, ?, 2.0, 149
+%_%    178, SHAMAN, david, ?, 2.0, 120
+%_%    221, ANDERSSON, rikhard, ?, 2.0, 97
+%_%     35, GHIRARDATO, paolo, ?, 1.0, 86
+%_%     79, LEADER, imre, ?, 0.0, 97
+
+%Round PO
+    300 (56)>(08)       1 
+    300 (36)>(28)       1 
+    178 (42)>(22)      79 
+      1 (33)>(31)      79 
+    300 (39)>(25)     178 
+      1 (34)>(30)      79 
+    300 (48)>(16)     178 
+    221 (47)>(17)      35 
+
+%Round RR
+    221 (50)>(14)      79 
+      1 (38)>(26)     803 
+    803 (37)>(27)       1 
+    178 (37)>(27)      35 
+    803 (60)>(04)      35 
+     35 (38)>(26)     803 

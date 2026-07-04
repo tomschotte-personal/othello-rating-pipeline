@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 25/04/2015
+%%Sender: Gilles Cluzon
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/04/25 18:19
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  5, 215, 1998
+%_%    9025, TOUCHENE, Fouad, DZA,  3.5, 198, 0
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 197, 1901
+%_%     228, BUSUTTIL, Michel, FRA,  2.5, 160, 1535
+%_%   50004, MARTINE, Jean-Christophe, FRA,  2, 143, 0
+%_%    3734, CLUZON, Gilles, FRA,  2, 134, 1351
+%_%     275, OVION, Jacques, FRA,  2, 133, 978
+%_%   50005, MARTINE, Valentin, FRA,  0, 100, 0
+
+
+
+%Round: 1
+
+  3734 (33)>(31)    275  B
+  3598 (37)>(27)   9025  B
+   228 (14)<(50)     45  B
+ 50005 (23)<(41)  50004  B
+
+%Round: 2
+
+  9025 (48)>(16)  50005  B
+ 50004 (33)>(31)   3734  B
+   275 (35)>(29)    228  B
+    45 (24)<(40)   3598  B
+
+%Round: 3
+
+ 50005 (26)<(38)    228  B
+  3598 (36)>(28)  50004  B
+    45 (57)>(07)    275  B
+  3734 (11)<(53)   9025  B
+
+%Round: 4
+
+  3734 (17)<(47)   3598  B
+   275 (51)>(13)  50005  B
+   228 (32)=(32)   9025  B
+ 50004 (24)<(40)     45  B
+
+%Round: 5
+
+ 50005 (22)<(42)   3734  B
+  9025 (38)>(26)     45  B
+   228 (47)>(17)  50004  B
+  3598 (55)>(09)    275  B
+
+
+%%Added results

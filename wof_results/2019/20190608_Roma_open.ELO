@@ -1,0 +1,46 @@
+%%Tournament: ROMA OPEN
+%%Country: Italy
+%%Date: 08/06/2019
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3023, LAI, Fabrizio, ITA, 5, 256-128
+%_%  3062, CAVIOLA, Leonardo, ITA, 4, 184-200
+%_%  2818, DI COLA, Severino, ITA, 4, 262-122
+%_%  2839, LAMBERTI, Luigi, ITA, 3, 181-203
+%_%  2884, VECCHI, Maria Serena, ITA, 3, 206-178
+%_% 40083, PACE, Alessandro, ITA, 3, 116-76
+%_% 40125, PUZZO, Giulio, ITA, 1, 129-255
+%_%  3066, MARCONI, Flavio, ITA, 1, 78-242
+
+%Round 1 
+  2839 (29)<(35)  40083  B
+  2884 (28)<(36)   2818  B
+  3062 (18)<(46)   3023  B
+
+%Round 2 
+  2818 (31)<(33)   3023  B
+ 40083 (48)>(16)  40125  B
+  2884 (22)<(42)   2839  B
+  3066 (15)<(49)   3062  B
+
+%Round 3 
+  3023 (31)<(33)  40083  B
+  2839 (49)>(15)   3062  B
+ 40125 (10)<(54)   2818  B
+  3066 (20)<(44)   2884  B
+
+%Round 4 
+  2818 (48)>(16)   2839  B
+  3023 (60)>(04)   3066  B
+  3062 (36)>(28)  40125  B
+
+%Round 5 
+  2839 (12)<(52)   3023  B
+  2818 (62)>(02)   3066  B
+ 40125 (15)<(49)   2884  B
+
+%Round 6 
+  3062 (33)>(31)   2818  B
+  2884 (30)<(34)   3023  B
+  3066 (37)>(27)  40125  B

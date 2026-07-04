@@ -1,0 +1,48 @@
+%%Tournament: IT_LOC_2025_1st_tournament_Altamura
+%%Country: Italy
+%%Date: 21/12/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3062, CAVIOLA, Leonardo, ITA, 4, 189, 1474
+%_%  +40444, Sette, Andrea, ITA, 3, 181, -
+%_%  +40445, Rella, tommaso, ITA, 3, 144, -
+%_%  +40446, scardigno, Francesco, ITA, 2, 134, -
+%_%  +40447, Scardigno, Claudio, ITA, 1, 111, -
+%_%  +40448, Mastrolia, Salvatore, ITA, 1, 80, -
+%_%  +40449, Lospalluto, Giampiero, ITA, 1, 103, -
+%_%  +40450, Picerno, Francesco, ITA, 1, 82, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/429
+
+%Round: 1
+
+ 40445 (18)<(46)   3062   B
+ 40449 (16)<(48)  40447  B
+ 40444 (49)>(15)  40448  B
+ 40450 (06)<(58)  40446  B
+
+%Round: 2
+
+ 40448 (12)<(52)  40450  B
+ 40449 (22)<(42)  40445  B
+  3062 (43)>(21)  40444  B
+ 40447 (20)<(44)  40446  B
+
+%Round: 3
+
+ 40448 (39)>(25)  40449  B
+ 40445 (38)>(26)  40447  B
+ 40444 (64)>(00)  40450  B
+ 40446 (14)<(50)   3062   B
+
+%Round: 4
+
+ 40446 (18)<(46)  40445  B
+  3062 (50)>(14)  40448  B
+ 40447 (17)<(47)  40444  B
+ 40450 (24)<(40)  40449  B

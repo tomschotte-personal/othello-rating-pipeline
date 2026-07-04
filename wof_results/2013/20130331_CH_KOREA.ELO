@@ -1,0 +1,48 @@
+%%Tournament: 19st KOREA Othello Championships
+%%Country: Korea
+%%Date: 31/03/2013
+%%Sender: Joung-mok OH
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2013/04/01 00:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4074, OH, Joung-Mok, KOR,  5.5, 269
+%_%    7573, HA, Seungsup, KOR,  4.5, 233
+%_%   30010, GIM, Dongsung, KOR,  2, 194
+%_%   30011, CHO, Yoon-jeong, KOR,  0, 72
+
+
+
+%Round: 1
+
+  4074 (53)>(11)  30011  B
+  7573 (38)>(26)  30010  B
+
+%Round: 2
+
+ 30010 (25)<(39)   4074  B
+ 30011 (09)<(55)   7573  B
+
+%Round: 3
+
+  4074 (32)=(32)   7573  B
+ 30010 (51)>(13)  30011  B
+
+%Round: 4
+
+ 30011 (09)<(55)   4074  B
+ 30010 (23)<(41)   7573  B
+
+%Round: 5
+
+  4074 (45)>(19)  30010  B
+  7573 (48)>(16)  30011  B
+
+%Round: 6
+
+  7573 (19)<(45)   4074  B
+ 30011 (14)<(50)  30010  B
+
+
+%%Added results

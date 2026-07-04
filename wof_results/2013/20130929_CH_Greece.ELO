@@ -1,0 +1,42 @@
+%%Tournament: Greek Championship 2013
+%%Country: Greece
+%%Date: 29/09/2013
+%%Sender: Pantelis Theodosiou
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2013/09/29 14:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4164, THEODOSIOU, Pantelis, GRC,  3.5, 185
+%_%  300001, MITSIS, Georgios, GRC,  2.5, 189
+%_%  300018, LITSAS, Andreas, GRC,  2, 133
+%_% +300025, MASTRANTONAKIS, Georgios, GRC,  1, 69
+
+
+
+%Round: 1
+
+  4164 (51)>(13) 300025  B
+300001 (25)<(39) 300018  B
+
+%Round: 2
+
+300018 (13)<(51)   4164  B
+300025 (09)<(55) 300001  B
+
+%Round: 3
+
+300018 (28)<(36) 300025  B
+300001 (46)>(18)   4164  B
+
+%Round: 4
+
+300025 (11)<(53) 300018  B
+  4164 (32)=(32) 300001  B
+
+%Round: 5
+
+300001 (31)<(33)   4164  B
+
+
+%%Added results

@@ -1,0 +1,75 @@
+%%Tournament: 171st Kyoto Meeting
+%%Country: Japan
+%%Date: 10/02/2002
+%%Sender: Tom Schotte
+
+%Round1
+6825 > 6923
+11474 > 10008
+5506 > 6970
+5507 > 11856
+6930 > 11753
+11982 > 10009
+6936 > 6929
+10227 > 11799
+
+%Round2
+6825 > 6930
+11474 > 6936
+5506 > 10227
+6923 > 11753
+10008 > 6929
+6970 > 11799
+5507 > 11982
+10009 > 11856
+
+%Round3
+6825 > 5507
+5506 > 11474
+6923 > 11982
+10008 > 6970
+6930 > 10009
+11799 > 6929
+11856 > 11753
+10227 > 6936
+
+%Round4
+6825 > 5506
+11474 > 6930
+6923 > 5507
+10008 > 10227
+6970 > 6936
+11799 > 10009
+11982 > 11856
+6929 > 11753
+
+%Round5
+6825 > 6923
+11474 > 11982
+5506 > 10008
+6970 > 6930
+5507 > 11799
+10009 > 10227
+6936 > 11753
+11856 > 6929
+
+
+
+
+%players
+%1 6825	shinkawa	hiroki
+%2 11474	shoji	haruka
+%3 5506	tamaki	suguru
+%4 6923	kimura	keigo
+%5 10008	okuda	masashi
+%6 6970	kudashou	takahiro
+%7 5507	tsuchida	daisuke
+%8 6930	nishimine	satoru
+%9 10009	taru	eiichi
+%10 11799	hashimoto	yoshiaki
+%11 11982	sunami	yutuka
+%12 6936	tsubouchi	masao
+%13 11856	isobe	ayuko
+%14 10227	yokoyama	takako
+%15 6929	io	hideo
+%16 11753	yokoyama	chiaki

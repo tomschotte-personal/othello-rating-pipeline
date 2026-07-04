@@ -1,0 +1,28 @@
+%%Tournament: 3_Mito_dragon_playoffs
+%%Country: Japan
+%%Date: 26/12/2010
+%%Sender: Hiroyuki Iwata
+
+%_%  10334, NAGASHIMA, toshiyuki, J, 4.0, 179
+%_%  10408, NAKAI, kota, J, 2.0, 155
+%_%  10596, NAKAI, terawaki, J, 1.0, 93
+%_%  10109, EBIHARA, yusuke, J, 1.0, 85
+
+%Round 1
+ 10408 (35) > (29)  10334
+ 10596 (40) > (24)  10109
+
+%Round 2
+ 10334 (41) > (23)  10109
+ 10408 (41) > (23)  10596
+
+%Round 3
+ 10334 (34) > (30)  10596
+ 10109 (38) > (26)  10408
+
+%Round 4
+ 10334 (40) > (24)  10408
+
+%Round 5
+ 10334 (35) > (29)  10408
+

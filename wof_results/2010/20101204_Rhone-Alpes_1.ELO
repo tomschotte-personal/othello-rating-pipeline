@@ -1,0 +1,51 @@
+%%Tournament: Tournoi Rhone-Alpes 1 2010
+%%Country: France
+%%Date: 04/12/2010
+%%Sender: Pierre Butin
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/12/15 10:25
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     839, KASHIWABARA, Takuji, F,  5, 216
+%_%    3515, BUTIN, Pierre, F,  4, 214
+%_%     143, PELISSIER, Laurent, F,  3, 168
+%_%     125, MICHEL, Stephane, F,  2, 147
+%_%     758, TORRI, Marie-Christine, F,  2, 143
+%_% + 50033, REVILLA-ADAMS, PAMELA, F,  2, 141
+%_%    3824, NICOLAS, Caroline, F,  2, 131
+
+
+
+%Round: 1
+
+  3824 (01)<(63)    143 B
+   839 (43)>(21)    125 B
+  3515 (50)>(14)  50033 B
+
+%Round: 2
+
+ 50033 (39)>(25)   3824 B
+   143 (09)<(55)    839 B
+   758 (13)<(51)   3515 B
+
+%Round: 3
+
+ 50033 (26)<(38)    758 B
+   839 (38)>(26)   3515 B
+   125 (24)<(40)    143 B
+
+%Round: 4
+
+   758 (26)<(38)    839 B
+  3824 (27)<(37)    125 B
+  3515 (48)>(16)    143 B
+
+%Round: 5
+
+   125 (25)<(39)   3515 B
+   758 (26)<(38)   3824 B
+   839 (42)>(22)  50033 B
+
+
+%%Added results

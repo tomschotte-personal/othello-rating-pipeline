@@ -1,0 +1,57 @@
+%%Tournament: Passover 2022, Kfar Saba
+%%Country: Israel
+%%Date: 22/04/2022
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/04/22 16:06
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     885, SHIFMAN, Ilya, ISR,  5, 222, 1740
+%_%  200010, SHIFMAN, Micky, ISR,  4, 201, 1636
+%_%     880, SHIFMAN, Leonid, ISR,  3, 197, 1743
+%_%  200018, YOSIFOVICH, Danielle, ISR,  3, 202, 1393
+%_%  200040, LAUFER, Shachar, ISR,  2, 181, 1590
+%_%  200009, SHIFMAN, Shani, ISR,  2, 129, 888
+%_% +200035, CHAKON, Oren, ISR,  1, 73, 0
+%_%  200401, SHAMIR, Barry, ISR,  0, 75, 0
+
+
+
+%Round: 1
+
+   880 (56)>(08) 200401  B
+200018 (13)<(51) 200010  B
+   885 (50)>(14) 200009  B
+200035 (11)<(53) 200040  B
+
+%Round: 2
+
+200040 (26)<(38)    885  B
+200010 (35)>(29)    880  B
+200401 (03)<(61) 200018  B
+200009 (44)>(20) 200035  B
+
+%Round: 3
+
+200018 (48)>(16) 200009  B
+200035 (37)>(27) 200401  B
+   885 (52)>(12) 200010  B
+   880 (35)>(29) 200040  B
+
+%Round: 4
+
+200010 (59)>(05) 200035  B
+200018 (16)<(48)    885  B
+200009 (17)<(47)    880  B
+200040 (53)>(11) 200401  B
+
+%Round: 5
+
+200035 (00)<(64) 200018  B
+200010 (44)>(20) 200040  B
+   885 (34)>(30)    880  B
+200401 (26)<(38) 200009  B
+
+
+%%Added results

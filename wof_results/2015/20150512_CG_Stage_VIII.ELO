@@ -1,0 +1,40 @@
+%%Tournament: CG - Campionato Genovese Stage VIII
+%%Country: Italy
+%%Date: 12/05/2015
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci
+%%CreationDate: 2016/06/12 23:00
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2866, CONTI, Silvia,  5, 210
+%_%  2855, BIANCHI, Paolo,  4, 227
+%_% 40098, BREGANTE, Alessio,  3, 144
+%_% 40096, TOMASI, Fabio,  2, 120
+%_% 40102, OTTONELLO, Piera,  1, 104
+
+
+%Round: 1
+
+ 40096 (20)<(44)   2866  B
+  2855 (53)>(11)  40098  B 
+
+%Round: 2
+
+  2866 (34)>(30)   2855  B
+ 40102 (22)<(42)  40096  B
+
+%Round: 3
+
+  2855 (54)>(10)  40102  B
+ 40098 (16)<(48)   2866  B
+
+%Round: 4
+
+ 40102 (26)<(38)  40098  B
+ 40096 (07)<(57)   2855  B
+
+%Round: 5
+
+ 40098 (46)>(18)  40096  B
+  2866 (51)>(13)  40102  B

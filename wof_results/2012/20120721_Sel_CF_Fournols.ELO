@@ -1,0 +1,50 @@
+%%Tournament: Selection de Fournols
+%%Country: France
+%%Date: 21/07/2012
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.34
+%%CreationDate: 2012/07/21 17:12
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     355, CASPARD, Emmanuel, FRA,  4, 227
+%_%       2, TASTET, Marc, FRA,  4, 221
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 218
+%_%    3734, CLUZON, Gilles, FRA,  2, 113
+%_% +  9023, DOUAY, Elodie, FRA,  1, 136
+%_%   50053, TASTET, Remi, FRA,  0, 45
+
+
+
+%Round: 1
+
+   355 (27)<(37)   3598  B
+  9023 (21)<(43)   3734  B
+ 50053 (17)<(47)      2  B
+
+%Round: 2
+
+  3734 (12)<(52)    355  B
+  3598 (64)>(00)  50053  B
+     2 (36)>(28)   9023  B
+
+%Round: 3
+
+   355 (58)>(06)  50053  B
+  3734 (02)<(62)      2  B
+  9023 (20)<(44)   3598  B
+
+%Round: 4
+
+     2 (22)<(42)    355  B
+ 50053 (13)<(51)   9023  B
+  3598 (63)>(01)   3734  B
+
+%Round: 5
+
+   355 (48)>(16)   9023  B
+     2 (54)>(10)   3598  B
+  3734 (55)>(09)  50053  B
+
+
+%%Added results

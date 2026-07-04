@@ -1,0 +1,76 @@
+%%Tournament: 3rd Kanto Game
+%%Country: Japan
+%%Date: 13/08/2006
+%%Sender: Tom Schotte
+
+
+%round1
+700 > 5520
+299 > 5594
+5532 > 5603
+5539 > 5547
+4014 > 6923
+5530 > 5591
+6838 > 5589
+
+%round2
+700 > 6838
+5532 > 4014
+5589 > 5594
+5539 > 299
+5530 > 5547
+6923 > 5603
+5594 > 5591
+
+%round3
+700 > 5532
+299 > 5589
+5530 > 5539
+6923 > 4014
+5603 > 5547
+6838 > 5594
+5591 > 5520
+
+%round4
+700 > 5530
+299 > 6838
+5532 > 6923
+5589 > 5591
+4014 > 5539
+5594 > 5603
+5520 > 5547
+
+%round5
+299 > 700
+5532 > 5530
+5589 > 5594
+5539 > 6923
+4014 > 6838
+5603 > 5520
+5591 > 5547
+
+%round6
+700 > 4014
+299 > 5532
+5589 > 5530
+5539 > 5594
+6923 > 5547
+5603 > 5591
+5520 > 6838
+
+
+%1 700	nakajima	tetsuya
+%2 299	murakami	takeshi
+%3 5532	enomoto	yasuhiro
+%4 5589	nagasaki	hidekazu
+%5 5539	yamakawa	takashi
+%6 4014	tominaga	kenta
+%7 5530	noda	bintatsu
+%8 6923	kimura	keigo
+%9 5603	sawaki	yusuke
+%10 5594	masayuki	suko
+%11 6838	yamaguchi	yoshiaki
+%12 5520	okuda	tsuyoshi
+%13 5591	satake	yosuke
+%14 5547	ohno	atsuko
+

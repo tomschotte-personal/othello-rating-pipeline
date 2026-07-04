@@ -1,0 +1,29 @@
+%%Tournament: 36th Japanese championship Kanagawa preliminary women
+%%Country: Japan
+%%Date: 15/06/2008
+%%Sender: Tom Schotte
+
+%round1:
+5572 > 5521
+10322 < 6976
+   600 > 6851
+
+%round2:
+5572 < 6976
+10322 > 6851
+   600 > 5521
+
+%round3:
+5572 > 6851
+10322 >   600
+6976 > 5521
+
+%round4:
+5572 >   600
+10322 > 5521
+6976 > 6851
+
+%round5:
+5572 > 10322
+   600 > 6976
+5521 > 6851

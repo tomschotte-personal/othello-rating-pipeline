@@ -1,0 +1,61 @@
+%%Tournament: IX Copa de Othello - Suzano
+%%Country: Brazil
+%%Date: 25/06/2017
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/31 13:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  4, 212, 1075
+%_%  290020, SOUZA, Gabriel M. O. De, BRA,  4, 202, 0
+%_%  +290189, FURLAN, Rafael, BRA,  3, 191, 0
+%_%  290040, SILVA, Joao Victor S. Da, BRA,  3, 182, 0
+%_%  +290190, TEIXEIRA, Moises Santos, BRA,  3, 175, 0
+%_%  290025, CORREIA JR., Moises, BRA,  3, 151, 0
+%_%  +290191, SANTOS, Rita de Cassia Rufino, BRA,  2, 129, 0
+%_%  +290192, PEREIRA, Fernanda Cristina, BRA,  2, 118, 0
+%_%  +290193, PEREIRA, Luis Henrique Antonio, BRA,  1, 106, 0
+%_%  +290195, CARVALHO, Renato Jose de, BRA,  0, 19, 0
+%_%  +290194, SOUZA, Alcides, BRA,  0, 19, 0
+
+
+
+%Round: 1
+
+290174 (52)>(12) 290192  B
+290191 (17)<(47) 290020  B
+290025 (41)>(23) 290193  B
+290194 (19)<(45) 290040  B
+290190 (45)>(19) 290195  B
+
+%Round: 2
+
+290040 (21)<(43) 290174  B
+290020 (39)>(25) 290025  B
+290192 (12)<(52) 290190  B
+290189 (26)<(38) 290191  B
+
+%Round: 3
+
+290190 (21)<(43) 290020  B
+290174 (29)<(35) 290025  B
+290191 (18)<(46) 290040  B
+290193 (08)<(56) 290189  B
+
+%Round: 4
+
+290020 (24)<(40) 290174  B
+290025 (47)>(17) 290190  B
+290040 (55)>(09) 290193  B
+290189 (48)>(16) 290192  B
+
+%Round: 5
+
+290040 (15)<(49) 290020  B
+290174 (48)>(16) 290191  B
+290025 (03)<(61) 290189  B
+290192 (38)>(26) 290193  B
+
+
+%%Added results

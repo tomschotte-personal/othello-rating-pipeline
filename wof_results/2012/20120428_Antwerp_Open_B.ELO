@@ -1,0 +1,38 @@
+%%Tournament: Antwerp Othello Open B
+%%Country: Belgium
+%%Date: 28/04/2012
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/04/28 22:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  270004, VAN DAMME, Jan, B,  4, 199
+%_%  270013, VAN DEN BRANDT, Joke, B,  2, 123
+%_%  270011, ILITCH, Juliette, B,  1, 108
+%_%  270012, VAN DAMME, Frank Ivo, B,  1, 82
+
+
+
+%Round: 1
+
+270004 (59)>(05) 270013  B
+270011 (54)>(10) 270012  B
+
+%Round: 2
+
+270012 (17)<(47) 270004  B
+270013 (45)>(19) 270011  B
+
+%Round: 3
+
+270004 (50)>(14) 270011  B
+270012 (37)>(27) 270013  B
+
+%Round: 4
+
+270012 (18)<(46) 270013  B
+270004 (43)>(21) 270011  B
+
+
+%%Added results

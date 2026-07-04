@@ -1,0 +1,63 @@
+%%Tournament: Walloxen open
+%%Country: Sweden
+%%Date: 26/05/2023
+%%Sender: KneBt
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/05/28 09:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150009, WETTERGREN, Niklas, SWE,  6, 343, 2070
+%_%    1503, ANDERSSON, Christopher, SWE,  6, 327, 1856
+%_%    1449, ODMARK, Jonas, SWE,  5, 256, 2006
+%_%    1301, STEENTOFT, Benkt, SWE,  4, 252, 1738
+%_%    1385, SINTRING, Oscar, SWE,  4, 215, 1422
+%_% +150086, Odmark, Elvira, SWE,  2, 129, 0
+%_% +150087, Odmark, Valter, SWE,  1, 102, 0
+
+
+
+%Round: 1
+
+  1503 (27)<(37)   1449  B
+  1385 (18)<(46) 150009  B
+  1301 (49)>(15) 150086  B
+
+%Round: 2
+
+150087 (10)<(54)   1385  B
+150086 (00)<(64)   1503  B
+150009 (49)>(15)   1301  B
+
+%Round: 3
+
+  1449 (40)>(24) 150086  B
+  1301 (56)>(08) 150087  B
+  1503 (34)>(30) 150009  B
+
+%Round: 4
+
+  1385 (33)>(31)   1301  B
+150009 (50)>(14)   1449  B
+150087 (04)<(60)   1503  B
+
+%Round: 5
+
+150086 (00)<(64) 150009  B
+  1503 (57)>(07)   1385  B
+  1449 (48)>(16) 150087  B
+
+%Round: 6
+
+  1301 (19)<(45)   1503  B
+150087 (24)<(40) 150086  B
+  1385 (09)<(55)   1449  B
+
+%Round: 7
+
+150009 (64)>(00) 150087  B
+  1449 (22)<(42)   1301  B
+150086 (10)<(54)   1385  B
+
+
+%%Added results

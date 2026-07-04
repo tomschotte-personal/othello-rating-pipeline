@@ -1,0 +1,58 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 08/03/2014
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/03/10 21:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     839, KASHIWABARA, Takuji, FRA,  5, 229, 2199
+%_%    3518, DELAUNAY, Arnaud, FRA,  4, 219, 2188
+%_%    2788, LECAT, Monique, BEL,  3, 171, 1542
+%_%      11, LAZARD, Emmanuel, FRA,  3, 160, 2018
+%_%       2, TASTET, Marc, FRA,  3, 134, 2140
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  2, 163, 1952
+%_%    3600, BENOIT, Serge, FRA,  2, 142, 1371
+%_%    3734, CLUZON, Gilles, FRA,  2, 134, 1358
+%_%     228, BUSUTTIL, Michel, FRA,  1, 128, 1278
+
+
+
+%Round: 1
+
+    11 (03)<(61)    839  B
+  3598 (29)<(35)      2  B
+  3518 (47)>(17)   3600  B
+  2788 (45)>(19)    228  B
+
+%Round: 2
+
+   839 (43)>(21)   3598  B
+     2 (15)<(49)   3518  B
+  3734 (25)<(39)   2788  B
+  3600 (29)<(35)     11  B
+
+%Round: 3
+
+  2788 (31)<(33)    839  B
+  3518 (53)>(11)   3734  B
+   228 (18)<(46)   3600  B
+    11 (55)>(09)      2  B
+
+%Round: 4
+
+  2788 (36)>(28)     11  B
+  3734 (16)<(48)   3598  B
+     2 (35)>(29)    228  B
+   839 (38)>(26)   3518  B
+
+%Round: 5
+
+  3518 (44)>(20)   2788  B
+  3600 (10)<(54)    839  B
+   228 (22)<(42)   3734  B
+  3598 (25)<(39)     11  B
+
+
+%%Added results

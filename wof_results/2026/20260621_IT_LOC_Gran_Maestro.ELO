@@ -1,0 +1,48 @@
+%%Tournament: IT_LOC_ Gran Maestro 2026 Rome
+%%Country: Italy
+%%Date: 21/06/2026
+%%Sender: SCOGNAMIGLIO Paolo
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3037, DI MATTEI, Alessandro, ITA, 4.5, 233, 2181
+%_%   40038, AFFATIGATO, Carlo, ITA, 3, 156, 1908
+%_%    2844, SPERANDIO, Roberto, ITA, 2.5, 155, 2081
+%_%    3111, SCOGNAMIGLIO, Paolo, ITA, 2, 168, 2058
+%_%    3059, DI PIETRO, Massimo, ITA, 2, 142, 1859
+%_%    3005, PALLADINO, Domenico, ITA, 1, 106, 1784
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/562
+
+%Round: 1
+
+  3005 (19)<(45)   3059  B
+  3111 (42)>(22)   2844  B
+  3037 (46)>(18)  40038  B
+
+%Round: 2
+
+ 40038 (38)>(26)   3005  B
+  2844 (32)=(32)   3037  B
+  3059 (38)>(26)   3111  B
+
+%Round: 3
+
+ 40038 (27)<(37)   2844  B
+  3037 (57)>(07)   3059  B
+  3005 (19)<(45)   3111  B
+
+%Round: 4
+
+  2844 (28)<(36)   3005  B
+  3059 (24)<(40)  40038  B
+  3111 (24)<(40)   3037  B
+
+%Round: 5
+
+  3005 (06)<(58)   3037  B
+ 40038 (33)>(31)   3111  B
+  2844 (36)>(28)   3059  B

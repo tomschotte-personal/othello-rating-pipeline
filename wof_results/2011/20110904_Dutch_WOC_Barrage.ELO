@@ -1,0 +1,34 @@
+%%Tournament: Barrage Dutch WOC team
+%%Country: Netherlands
+%%Date: 04/09/2011
+%%Sender: Marcel Sneek
+
+%    ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 5095, van Heere, Mark,   NL, 4, 231
+%_% 4012, de Graaf,  Jan,    NL, 4, 206
+%_% 5071, Hobo,      Roel,   NL, 3, 195
+%_% 5239, Fransen,   Martin, NL, 1, 136
+
+% round 1
+5239 (19) < (45) 5071 B
+4012 (12) < (52) 5095 B
+    
+% round 2
+5095 (53) > (11) 5239 B
+5071 (31) < (33) 4012 B
+    
+% round 3
+5071 (34) > (30) 5095 B
+4012 (37) > (27) 5239 B
+    
+% round 4
+5239 (27) < (37) 5095 B
+4012 (22) < (42) 5071 B
+    
+% round 5
+5095 (12) < (52) 4012 B
+5071 (26) < (38) 5239 B
+    
+% round 6
+5095 (47) > (17) 5071 B
+5239 (14) < (50) 4012 B

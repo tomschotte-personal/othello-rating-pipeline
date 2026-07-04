@@ -1,0 +1,73 @@
+%%Tournament: 29th All Japan Niigata Preliminaries
+%%Country: Japan
+%%Date: 24/06/2001
+%%Sender: Tom Schotte
+
+%http://www4.plala.or.jp/sko/suiyoubi_no_kai/s/result/block_29.html
+
+%Round1
+   488 >  12095  
+  7047 >  12081  
+  7046 >  12082  
+  7051 >  10382  
+ 10380 >   7048  
+  7096 >  10378  
+ 10381 >  10748  
+
+%Round2
+   488 >   7047  
+  7046 >  10380  
+  7051 >   7096  
+ 10382 >  10748  
+  7048 >  12082  
+ 10381 >  10378  
+ 12081 >  12095  
+
+%Round3
+   488 >   7046  
+  7047 >   7048  
+  7051 >  10381  
+ 12082 >  12095  
+ 10382 >  12081  
+  7096 >  10380  
+ 10378 >  10748  
+
+%Round4
+   488 >   7051  
+  7047 >  10381  
+  7046 >   7096  
+ 12082 >  12081  
+  7048 >  10382  
+ 10378 >  10380  
+ 12095 >  10748  
+
+%Round5
+   488 >   7048  
+  7047 >   7051  
+  7046 >  10378  
+ 12082 >   7096  
+ 10382 >  10381  
+ 10380 >  12095  
+ 10748 >  12081  
+
+
+
+%players
+%1 488	takizawa	masaki
+%2 7047	umezawa	ogata
+%3 7046	sasaki	sadayuki
+%4 7051	okuno	tomoji
+%5 12082	aoyagi	masaki
+%6 10382	sato	kikuchi
+%7 7048	kanda	yoshihiro
+%8 10380	watanabe	aoyama
+%9 7096	suzuki	nobuyuki
+%10 10381	iwasaka	nishimura
+%11 10378	takai	akira
+%12 10748	watanabe	noboru
+%13 12081	kochira	taisuke
+%14 12095	takai	toshihiro
+
+
+
+

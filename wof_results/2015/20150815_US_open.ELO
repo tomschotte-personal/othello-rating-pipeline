@@ -1,0 +1,121 @@
+%%Tournament: 2015 US Open
+%%Country: USA
+%%Date: 15/08/2015
+%%Sender: David Parsons
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   3836, BENTOLILA, Sarah, F, 6, 337
+%_%   4043, SEELEY, Ben, USA, 12, 571
+%_%   4089, CHITRA, Yohanes, USA, 7, 436
+%_% +20033, GILLILAND, Richie, USA, 3, 328 
+%_% +20034, ROSS, Stephen, USA, 2, 247
+
+%Round 1
+%Bentolila 43 Gilliland 21 B
+%Chitra 58 Ross 6 B
+
+  3836 (43)>(21)  20033  B
+  4089 (58)>(06)  20034  B
+
+%Round 2
+%Chitra 50 Bentolila 14 B
+%Seeley 53 Gilliland 11 B
+
+  4089 (50)>(14)   3836  B
+  4043 (53)>(11)  20033  B
+
+%Round 3
+%Gilliland 57 Ross 7 B
+%Seeley 42 Chitra 22 B
+
+ 20033 (57)>(07)  20034  B
+  4043 (42)>(22)   4089  B
+
+%Round 4
+%Bentolila 40 Ross 24 B
+%Chitra 45 Gilliland 19 B
+
+  3836 (40)>(24)  20034  B
+  4089 (45)>(19)  20033  B
+
+%Round 5
+%Seeley 40 Ross 24 B
+%Bentolila 38 Gilliland 26 B
+
+  4043 (40)>(24)  20034  B
+  3836 (38)>(26)  20033  B
+
+%Round 6
+%Seeley 48 Bentolila 16 B
+%Ross 22 Chitra 42 B
+
+  4043 (48)>(16)   3836  B
+ 20034 (22)<(42)   4089  B
+
+%Round 7
+%Gilliland 19 Seeley 45 B
+%Chitra 33 Bentolila 31 B
+
+ 20033 (19)<(45)   4043  B
+  4089 (33)>(31)   3836  B
+
+%Round 8
+%Chitra 48 Gilliland 16 B
+%Ross 6 Seeley 58 B
+
+  4089 (48)>(16)  20033  B
+ 20034 (06)<(58)   4043  B
+
+%Round 9
+%Seeley 36 Chitra 28 B
+%Bentolila 33 Ross 31 B
+
+  4043 (36)>(28)   4089  B
+  3836 (33)>(31)  20034  B
+
+%Round 10
+%Seeley 49 Bentolila 15 B
+%Ross 33 Gilliland 31 B
+
+  4043 (49)>(15)   3836  B
+ 20034 (33)>(31)  20033  B
+
+%Round 11
+%Bentolila 41 Gilliland 23 B
+%Chitra 25 Ross 39 B
+
+  3836 (41)>(23)  20033  B
+  4089 (25)<(39)  20034  B
+
+%Round 12
+%Bentolila 16 Chitra 48 B
+%Seeley 58 Gilliland 6 B
+
+  3836 (16)<(48)   4089  B
+  4043 (58)>(06)  20033  B
+
+%%Round 13
+%Gilliland 38 Chitra 26 B
+%Ross 22 Seeley 42 B
+
+ 20033 (38)>(26)   4089  B
+ 20034 (22)<(42)   4043  B
+
+%Round 14
+%Seeley 48 Bentolila 16 B
+%Ross 3 Gilliland 61 B
+
+  4043 (48)>(16)   3836  B
+ 20034 (03)<(61)  20033  B
+
+%Round 15
+%Ross 30 Bentolila 34 B
+%Seeley 52 Chitra 12 B
+
+ 20034 (30)<(34)   3836  B
+  4043 (52)>(12)   4089  B
+
+%Round 16
+%Seeley 50 Chitra 14 B
+
+  4043 (50)>(14)   4089  B

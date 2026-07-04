@@ -1,0 +1,45 @@
+%%Tournament: Goteborg Open
+%%Country: Sweden
+%%Date: 24/02/2019
+%%Sender: Benkt
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/02/24 17:33
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  5, 256, 2171
+%_%    1511, LJUNGQVIST, Daniel, SWE,  4, 197, 1947
+%_%    1379, MAGNUSSON, Johan, SWE,  3, 170, 1643
+%_%  150058, RONN, Tommy, SWE,  2, 121, 1058
+%_%  150068, RAUNEMAA, Kim, SWE,  1, 96, 0
+
+
+
+%Round: 1
+
+150058 (18)<(46)   1511  B
+150016 (56)>(08) 150068  B
+
+%Round: 2
+
+  1511 (12)<(52) 150016  B
+  1379 (50)>(14) 150058  B
+
+%Round: 3
+
+150016 (48)>(16)   1379  B
+150068 (10)<(54)   1511  B
+
+%Round: 4
+
+  1379 (45)>(19) 150068  B
+150058 (04)<(60) 150016  B
+
+%Round: 5
+
+150068 (19)<(45) 150058  B
+  1511 (45)>(19)   1379  B
+
+
+%%Added results
+150016 (30)<(34)   1511  B

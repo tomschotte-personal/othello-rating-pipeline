@@ -1,0 +1,73 @@
+%%Tournament: 153rd Kyoto Meeting
+%%Country: Japan
+%%Date: 09/07/2000
+%%Sender: Tom Schotte
+
+%round1
+11158 > 10770
+11753 > 11855
+882 > 6970
+10008 > 11914
+5526 > 11911
+11844 > 11854
+10753 > 6929
+10009 > 10766
+
+%round2
+11158 > 5526
+11753 > 11844
+882 > 10753
+6970 > 6929
+10008 > 10009
+10766 > 11914
+10770 > 11911
+11854 > 11855
+
+%round3
+11158 > 882
+11753 > 10008
+6970 > 10753
+5526 > 10770
+10766 > 11854
+11844 > 10009
+11911 > 11855
+11914 > 6929
+
+%round4
+11158 > 11753
+882 > 10766
+6970 > 5526
+10008 > 11844
+6929 > 11855
+10009 > 11911
+10770 > 10753
+11854 > 11914
+
+%round5
+11158 > 10008
+11753 > 6970
+882 > 11844
+5526 > 11854
+10766 > 10770
+6929 > 10009
+10753 > 11911
+11855 > 11914
+
+
+%players
+%1 11158	migamo	shinya
+%2 11753	yokoyama	chiaki
+%3 882	ibata	kensuke
+%4 6970	kudashou	takahiro
+%5 10008	okuda	masashi
+%6 5526	uno	toshihiro
+%7 10766	nishimura	hidemi
+%8 11844	fujikura	katuya
+%9 6929	io	hideo
+%10 10753	kagotani	hiroto
+%11 10009	taru	eiichi
+%12 10770	suzuki	shinichi
+%13 11854	hirai	toshimitsu
+%14 11911	yamada	hideyuki
+%15 11855	kikuchi	ryuichi
+%16 11914	hirota	akihiro

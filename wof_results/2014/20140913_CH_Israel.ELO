@@ -1,0 +1,46 @@
+%%Tournament: Israeli Championship
+%%Country: Israel
+%%Date: 13/09/2014
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4151, MILLER, Alexey, IL, 4, 192
+%_%    4039, RADZIVILOVSKY, Lev, IL, 3.5, 192
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 3, 187
+%_%    880, SHIFMAN, Leonid, IL, 3, 202
+%_%    885, SHIFMAN, Ilya, IL, 3, 212
+%_%    200004, MARGALIOT, Michael, IL, 2.5, 157
+%_%    +200009, SHIFMAN, Shani, IL, 1, 62
+%_%    +200010, SHIFMAN, Michael, IL, 0, 76
+
+
+%Round 1
+  4151 (22)<(42)   4039  B
+   885 (18)<(46) 200004  B
+200009 (07)<(57)   4028  B
+   880 (64)>(00) 200010  B
+
+%Round 2
+200004 (16)<(48)    880  B
+  4028 (37)>(27)   4039  B
+200009 (08)<(56)   4151  B
+200010 (15)<(49)    885  B
+
+%Round 3
+   880 (20)<(44)   4028  B
+  4151 (38)>(26)    885  B
+  4039 (32)=(32) 200004  B
+200010 (29)<(35) 200009  B
+
+%Round 4
+  4028 (30)<(34)   4151  B
+  4039 (36)>(28)    880  B
+200004 (41)>(23) 200010  B
+200009 (00)<(64)    885  B
+
+%Round 5
+200010 (09)<(55)   4039  B
+   880 (52)>(12) 200009  B
+200004 (22)<(42)   4151  B
+   885 (45)>(19)   4028  B
+

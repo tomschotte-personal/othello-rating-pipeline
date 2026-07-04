@@ -1,0 +1,36 @@
+%%Tournament: CG - Campionato Genovese Stage IV
+%%Country: Italy
+%%Date: 13/01/2015
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 16:45
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2857, MENOZZI, Giuseppe,  3, 146
+%_%  2855, BIANCHI, Paolo,  2, 127
+%_%  2885, IACONO, Stefano,  2, 102
+%_%  2951, RISSO, Roberta,  1, 71
+%_% 40098, BREGANTE, Alessio,  1, 72
+%_% 40096, TOMASI, Fabio,  0, 58
+
+
+
+%Round: 1
+
+  2857 (56)>(08)  40096  B
+ 40098 (22)<(42)   2855  B
+  2885 (49)>(15)   2951  B
+
+%Round: 2
+
+  2855 (30)<(34)   2857  B
+ 40096 (19)<(45)   2885  B
+  2951 (47)>(17)  40098  B
+
+%Round: 3
+ 
+  2857 (56)>(08)   2885  B
+  2951 (09)<(55)   2855  B
+ 40098 (33)>(31)  40096  B
+ 

@@ -1,0 +1,44 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 24/01/2026
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2026/01/27 00:12
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4.5, 211, 1863
+%_%       2, TASTET, Marc, FRA,  4, 179, 1993
+%_%   50053, TASTET, Remi, FRA,  3.5, 191, 1728
+%_%     228, BUSUTTIL, Michel, FRA,  2, 147, 1344
+%_%   50127, HUGOT, Nicolas, FRA,  1, 112, 0
+
+
+
+%Round: 1
+
+   228 (44)>(20)  50127  B
+  3598 (44)>(20)      2  B
+
+%Round: 2
+
+ 50053 (32)=(32)   3598  B
+     2 (38)>(26)    228  B
+
+%Round: 3
+
+ 50127 (20)<(44)      2  B
+   228 (26)<(38)  50053  B
+
+%Round: 4
+
+  3598 (53)>(11)    228  B
+ 50053 (54)>(10)  50127  B
+
+%Round: 5
+
+     2 (37)>(27)  50053  B
+ 50127 (22)<(42)   3598  B
+
+
+%%Added results

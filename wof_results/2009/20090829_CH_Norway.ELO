@@ -1,0 +1,53 @@
+%%Tournament: Norwegian Championship 2009
+%%Country: Norway
+%%Date: 29/08/2009
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/09/18 18:54
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2560, ODEGARD, Martin, N,  4.5, 213
+%_%    1878, BOE, Alexander, N,  3.5, 199
+%_%    1802, SKOGEN, Tor Birger, N,  3, 181
+%_%    1894, DOVLAND, Johan, N,  3, 171
+%_%    2577, SAWALA, Rita, N,  1, 89
+%_% +140008, KULLANDAIRAJ, George-Paul, N,  0, 107
+
+
+
+%Round: 1
+
+  2560 (47)>(17)   1802 B
+  2577 (15)<(49)   1894 B
+  1878 (44)>(20) 140008 B
+
+%Round: 2
+
+  1894 (22)<(42)   2560 B
+  1802 (35)>(29)   1878 B
+140008 (29)<(35)   2577 B
+
+%Round: 3
+
+  2560 (32)=(32)   1878 B
+  1894 (37)>(27) 140008 B
+  2577 (16)<(48)   1802 B
+
+%Round: 4
+
+140008 (25)<(39)   2560 B
+  1878 (52)>(12)   2577 B
+  1802 (23)<(41)   1894 B
+
+%Round: 5
+
+  2560 (53)>(11)   2577 B
+140008 (06)<(58)   1802 B
+  1894 (22)<(42)   1878 B
+
+
+%%Added results
+  1878 (26)<(38)   2560 B
+  1894 (43)>(21)   1802 B
+  2577 (23)<(41) 140008 B

@@ -1,0 +1,54 @@
+%%Tournament: Citta di Roma - Stage VI
+%%Country: Italy
+%%Date: 26/04/2015
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci
+%%CreationDate: 2016/06/06 21:00
+
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  3037, DI MATTEI, Alessandro,  5, 256
+%_%  3062, CAVIOLA, Leonardo,  4, 186
+%_%   148, ORTIZ, George,  3, 183
+%_%  3019, DIODATI, Michele,  3, 195
+%_%    42, PRIVITERA, Biagio,  2, 142
+%_% 40052, GIGLIUCCI, Chiara,  2, 148
+%_% 40047, PANTANI, Antonio,  1, 86
+%_% 40048, PANTANI, Ennio,  0, 84
+
+
+%Round: 1
+
+  3037 (44)>(20)   3062  B
+ 40052 (12)<(52)    148  B
+  3019 (21)<(43)  40047  B
+ 40048 (24)<(40)     42  B
+ 
+%Round: 2
+
+    42 (04)<(60)   3037  B
+   148 (57)>(07)  40047  B
+ 40052 (16)<(48)   3019  B
+  3062 (51)>(13)  40048  B
+
+%Round: 3
+
+  3037 (58)>(06)    148  B
+  3019 (30)<(34)   3062  B
+ 40047 (02)<(62)     42  B
+ 40048 (14)<(50)  40052  B
+
+%Round: 4
+
+ 40047 (20)<(44)   3037  B
+   148 (41)>(23)     42  B
+  3062 (44)>(20)  40052  B
+ 40048 (19)<(45)   3019  B
+
+%Round: 5
+
+  3037 (50)>(14)  40048  B
+  3062 (37)>(27)    148  B
+    42 (13)<(51)   3019  B
+ 40052 (50)>(14)  40047  B

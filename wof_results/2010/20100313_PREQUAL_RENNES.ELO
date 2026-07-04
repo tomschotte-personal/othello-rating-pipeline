@@ -1,0 +1,63 @@
+%%Tournament: Prequalificatif de Rennes 2010
+%%Country: France
+%%Date: 13/03/2010 - 14/03/2010
+%%Sender: Serge Poirier
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/03/14 12:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3597, BARRE, Sebastien, F,  7, 388
+%_%     839, KASHIWABARA, Takuji, F,  7, 361
+%_%      11, LAZARD, Emmanuel, F,  7, 344
+%_%    3518, DELAUNAY, Arnaud, F,  6, 344
+%_%     145, POIRIER, Serge, F,  3, 243
+
+
+
+%Round: 1
+  839 (22)<(42)   3597 B
+ 3518 (45)>(19)     11 B
+
+%Round: 2
+  145 (16)<(48)   3518 B
+   11 (33)>(31)    839 B
+
+%Round: 3
+ 3597 (27)<(37)     11 B
+  839 (42)>(22)    145 B
+
+%Round: 4
+ 3518 (26)<(38)    839 B
+  145 (29)<(35)   3597 B
+
+%Round: 5
+   11 (49)>(15)    145 B
+ 3597 (30)<(34)   3518 B
+
+%Round: 6
+ 3597 (31)<(33)    839 B
+   11 (31)<(33)   3518 B
+
+%Round: 7
+ 3518 (29)<(35)    145 B
+  839 (29)<(35)     11 B
+
+%Round: 8
+   11 (18)<(46)   3597 B
+  145 (14)<(50)    839 B
+
+%Round: 9
+  839 (36)>(28)   3518 B
+ 3597 (54)>(10)    145 B
+
+%Round: 10
+  145 (22)<(42)     11 B
+ 3518 (21)<(43)   3597 B
+
+
+%%Added results
+ 3597 (33)>(31)    839 B
+  839 (32)=(32)   3597 B
+  839 (30)<(34)   3597 B
+  

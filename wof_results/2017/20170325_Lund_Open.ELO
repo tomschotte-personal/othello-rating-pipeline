@@ -1,0 +1,44 @@
+%%Tournament: Lund Open 
+%%Country: Sweden
+%%Date: 25/03/2017
+%%Sender: Benkt
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/03/25 18:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1301, STEENTOFT, Benkt, SWE,  4, 194, 1766
+%_%    1358, RIGNELL, Daniel, SWE,  3, 175, 1766
+%_%    1459, TURUNEN, Daniel, SWE,  3, 169, 2076
+%_%    1596, RAGNARSSON, Robin, SWE,  3, 165, 1732
+%_% +150060, freiburghaus, kim, SWE,  2, 137, 0
+
+
+
+%Round: 1
+
+  1459 (24)<(40)   1301  B
+  1358 (51)>(13)   1596  B
+
+%Round: 2
+
+150060 (41)>(23)   1358  B
+  1596 (25)<(39)   1459  B
+
+%Round: 3
+
+  1301 (26)<(38)   1596  B
+  1459 (35)>(29) 150060  B
+
+%Round: 4
+
+  1358 (33)>(31)   1459  B
+150060 (12)<(52)   1301  B
+
+%Round: 5
+
+  1596 (49)>(15) 150060  B
+  1301 (36)>(28)   1358  B
+
+
+%%Added results

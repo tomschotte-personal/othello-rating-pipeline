@@ -1,0 +1,39 @@
+%%Tournament: Kfar-Saba, children's Hanukkah tournament
+%%Country: Israel
+%%Date: 26/12/2016
+%%Sender: Leonid Shifman
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_% 200018, YOSIFOVICH, Danielle, ISR,  4, 200
+%_% 200010, SHIFMAN, Michael, ISR,  3, 163
+%_% 200012, FABIAN, Asaf, ISR,  3, 150
+%_% 200015, PRESENTE, Nimrod, ISR,  2, 188
+%_% 200013, EYAL, Ohad, ISR,  2, 127
+%_% 200019, YUSUPOFF, Yoav, ISR,  1, 132
+
+
+
+%Round: 1
+200013 (16)<(48) 200010  B
+200018 (49)>(15) 200012  B
+200019 (10)<(54) 200015  B
+
+%Round: 2
+200013 (39)>(25) 200018  B
+200012 (36)>(28) 200019  B
+200010 (39)>(25) 200015  B
+
+%Round: 3
+200019 (24)<(40) 200013  B
+200018 (55)>(09) 200010  B
+200015 (26)<(38) 200012  B
+
+%Round: 4
+200013 (09)<(55) 200015  B
+200018 (35)>(29) 200019  B
+200010 (44)>(20) 200012  B
+
+%Round: 5
+200012 (41)>(23) 200013  B
+200015 (28)<(36) 200018  B
+200019 (41)>(23) 200010  B

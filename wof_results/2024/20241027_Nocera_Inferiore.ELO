@@ -1,0 +1,51 @@
+%%Tournament: Nocera Inferiore
+%%Country: Italy
+%%Date: 27/10/2024
+%%Sender: ATAMANOV Dmitry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +40241, Savarese, Michele, ITA, 4, 183, -
+%_%  +40242, Horupashenko, Vadym, ITA, 3, 157, -
+%_%  +40243, Farina, Marziano, ITA, 3, 154, -
+%_%  +40244, Alati, Anna, ITA, 3, 151, -
+%_%  +40245, Iovane, Diego, ITA, 2, 132, -
+%_%  +40246, Calabrese, Primo Vinicio, ITA, 2, 117, -
+%_%  +40247, Parisi, Valerio, ITA, 1, 87, -
+%_%  +40248, Lambiase, Giuseppe, ITA, 1, 125, -
+%_%  +40249, Santonicola, Caterina, ITA, 1, 97, -
+%_%  +40250, Marletta, Valerio, ITA, 0, 77, -
+
+%Round: 1
+
+ 40244 (38)>(26)  40248  B
+ 40246 (46)>(18)  40250  B
+ 40243 (47)>(17)  40247  B
+ 40249 (12)<(52)  40242  B
+ 40241 (51)>(13)  40245  B
+
+%Round: 2
+
+ 40247 (38)>(26)  40249  B
+ 40250 (11)<(53)  40245  B
+ 40248 (30)<(34)  40246  B
+ 40242 (45)>(19)  40244  B
+ 40243 (27)<(37)  40241  B
+
+%Round: 3
+
+ 40249 (23)<(41)  40248  B
+ 40244 (44)>(20)  40250  B
+ 40245 (30)<(34)  40243  B
+ 40241 (46)>(18)  40247  B
+ 40246 (19)<(45)  40242  B
+
+%Round: 4
+
+ 40242 (15)<(49)  40241  B
+ 40243 (46)>(18)  40246  B
+ 40247 (14)<(50)  40244  B
+ 40248 (28)<(36)  40245  B
+ 40250 (28)<(36)  40249  B

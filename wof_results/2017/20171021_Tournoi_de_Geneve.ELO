@@ -1,0 +1,51 @@
+%%Tournament: Tournoi de Geneve
+%%Country: Switzerland
+%%Date: 21/10/2017
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/10/21 19:26
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50030, JUIGNER, Arthur, CHE,  5, 218, 2138
+%_%    3024, BORASSI, Michele, ITA,  3, 213, 2239
+%_%     839, KASHIWABARA, Takuji, FRA,  3, 191, 2105
+%_%    4051, DOUSSE, Stephane, CHE,  2, 190, 1776
+%_%   50067, JUIGNER, Felix, CHE,  2, 125, 1605
+%_%   50057, JUIGNER, Francois, CHE,  0, 23, 1069
+
+
+
+%Round: 1
+
+  4051 (24)<(40)    839  B
+ 50057 (03)<(61)   3024  B
+ 50030 (48)>(16)  50067  B
+
+%Round: 2
+
+   839 (21)<(43)  50030  B
+  3024 (53)>(11)  50067  B
+ 50057 (00)<(64)   4051  B
+
+%Round: 3
+
+ 50030 (55)>(09)  50057  B
+ 50067 (35)>(29)    839  B
+  4051 (21)<(43)   3024  B
+
+%Round: 4
+
+  3024 (27)<(37)    839  B
+  4051 (27)<(37)  50030  B
+ 50057 (11)<(53)  50067  B
+
+%Round: 5
+
+ 50030 (35)>(29)   3024  B
+   839 (64)>(00)  50057  B
+ 50067 (10)<(54)   4051  B
+
+
+%%Added results
+  3024 (22)<(42)  50030  B

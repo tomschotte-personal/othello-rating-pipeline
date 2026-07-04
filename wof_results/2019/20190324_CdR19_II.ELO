@@ -1,0 +1,39 @@
+%%Tournament: Citta di Roma 2019 - II Tappa
+%%Country: Italy
+%%Date: 24/03/2019
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3111, SCOGNAMIGLIO, Paolo, ITA, 4, 166
+%_%  2844, SPERANDIO, Roberto, ITA, 3, 166
+%_%  2818, DI COLA, Severino, ITA, 3, 144
+%_% 40038, AFFATIGATO, Carlo, ITA, 2, 135
+%_% 40083, PACE, Alessandro, ITA, 2, 121
+%_%  2851, ROMANO, Benedetto, ITA, 2, 131
+%_%  3062, CAVIOLA, Leonardo, ITA, 2, 100
+%_%  3023, LAI, Fabrizio, ITA, 1, 83
+%_%  3060, RUSSO, Luigi, ITA, 1, 110
+
+%Round 1 
+  3062 (10)<(54)   2844  B
+  3111 (44)>(20)  40083  B
+  3060 (28)<(36)   2851  B
+  2818 (50)>(14)   3023  B
+
+%Round 2 
+  2844 (40)>(24)   2818  B
+ 40038 (21)<(43)   3111  B
+  2851 (26)<(38)   3062  B
+ 40083 (40)>(24)   3060  B
+
+%Round 3 
+  3111 (34)>(30)   2844  B
+  3023 (14)<(50)   2851  B
+  2818 (36)>(28)  40083  B
+  3062 (13)<(51)  40038  B
+
+%Round 4 
+  2851 (19)<(45)   3111  B
+ 40038 (30)<(34)   2818  B
+  2844 (42)>(22)   3023  B
+  3060 (25)<(39)   3062  B

@@ -1,0 +1,72 @@
+%%Tournament: chansaa 5, children 11-15
+%%Country: Mongolia
+%%Date: 03/08/2019
+%%Sender: ??
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/08/13 16:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  440435, BATSAIKHAN, Margad, MNG,  4, 224, 0
+%_%  440456, ARIUNBILEG, Sonomtseren, MNG,  4, 176, 0
+%_%  440428, ERDENEBAT, Narantuya, MNG,  3, 194, 0
+%_%  440433, BAASANJAV, Nyamdavaa, MNG,  3, 181, 0
+%_%  440059, BATKHUU, Ochirkhuu, MNG,  3, 178, 0
+%_%  440439, PUREVSUREN, Zagdsuren, MNG,  3, 167, 0
+%_%  440029, ERDENEMUNKH, Manlai, MNG,  3, 162, 0
+%_%  440048, BATKHUYAG, Shagai, MNG,  3, 160, 0
+%_%  440436, UUGANBAYAR, Temuulen, MNG,  3, 155, 0
+%_%  440455, BAYARSAIKHAN, Edmon, MNG,  2, 141, 0
+%_% +440459, URANCHIMEG, Davaajargal, MNG,  2, 134, 0
+%_%  440051, ERDENEBAATAR, Munkhbayar, MNG,  1, 129, 0
+%_%  440434, ENKHBAYAR, Telmuun, MNG,  1, 119, 0
+
+
+
+%Round: 1
+
+440436 (15)<(49) 440435  B
+440029 (00)<(64) 440455  B
+440456 (38)>(26) 440051  B
+440428 (44)>(20) 440059  B
+440433 (45)>(19) 440048  B
+440439 (46)>(18) 440434  B
+
+%Round: 2
+
+440435 (57)>(07) 440439  B
+440455 (11)<(53) 440428  B
+440048 (05)<(59) 440029  B
+440459 (26)<(38) 440456  B
+440434 (19)<(45) 440433  B
+440051 (24)<(40) 440436  B
+
+%Round: 3
+
+440051 (12)<(52) 440048  B
+440439 (46)>(18) 440459  B
+440428 (44)>(20) 440433  B
+440436 (41)>(23) 440029  B
+440456 (19)<(45) 440435  B
+440059 (64)>(00) 440455  B
+
+%Round: 4
+
+440029 (38)>(26) 440439  B
+440433 (31)<(33) 440436  B
+440435 (42)>(22) 440428  B
+440455 (44)>(20) 440434  B
+440048 (51)>(13) 440459  B
+440059 (16)<(48) 440456  B
+
+%Round: 5
+
+440439 (42)>(22) 440455  B
+440434 (22)<(42) 440029  B
+440428 (31)<(33) 440456  B
+440436 (26)<(38) 440059  B
+440459 (37)>(27) 440051  B
+440435 (31)<(33) 440048  B
+
+
+%%Added results

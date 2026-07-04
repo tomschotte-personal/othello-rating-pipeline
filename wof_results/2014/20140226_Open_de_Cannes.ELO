@@ -1,0 +1,44 @@
+%%Tournament: Open de Cannes 2014
+%%Country: France
+%%Date: 26/02/2014
+%%Sender: David Sahli
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/03/11 18:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     544, SAHLI, David, FRA,  5, 252, 1654
+%_%   50019, JONQUIERES, Philippe, FRA,  4, 157, 1327
+%_%     695, SCHERNO, Dominique, FRA,  3, 192, 1596
+%_%    3783, CATALANOTTI, Alain, FRA,  2, 123, 757
+%_%    3436, DUSOIR, Corentin, FRA,  1, 116, 1113
+
+
+
+%Round: 1
+
+  3783 (42)>(22)   3436  B
+   544 (40)>(24)    695  B
+
+%Round: 2
+
+ 50019 (00)<(64)    544  B
+   695 (52)>(12)   3783  B
+
+%Round: 3
+
+  3436 (14)<(50)    695  B
+  3783 (19)<(45)  50019  B
+
+%Round: 4
+
+   544 (54)>(10)   3783  B
+ 50019 (34)>(30)   3436  B
+
+%Round: 5
+
+   695 (26)<(38)  50019  B
+  3436 (10)<(54)    544  B
+
+
+%%Added results

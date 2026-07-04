@@ -1,0 +1,72 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 20/05/2017
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/05/28 10:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  5, 211, 1918
+%_%   50075, BERTRANDIAS, Marc, FRA,  3.5, 183, 1746
+%_%       2, TASTET, Marc, FRA,  3, 212, 2089
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 179, 1534
+%_%     228, BUSUTTIL, Michel, FRA,  3, 171, 1540
+%_%   50096, LEVY, Marc, FRA,  3, 166, 1895
+%_%      45, ANDRIANI, Bintsa, FRA,  2.5, 181, 1798
+%_%     419, BETIN, Dominique, FRA,  2, 154, 1527
+%_%    3600, BENOIT, Serge, FRA,  2, 146, 1395
+%_%    2788, LECAT, Monique, BEL,  2, 132, 1503
+%_%    3723, LAGACHE, Vincent, FRA,  1, 120, 1419
+%_%   50028, BRUIANT, Jacky, FRA,  1, 82, 1194
+%_%     275, OVION, Jacques, FRA,  1, 63, 1146
+
+
+
+%Round: 1
+
+  3598 (46)>(18)  50075  B
+   419 (31)<(33)   3600  B
+ 50096 (32)=(32)     45  B
+     2 (28)<(36)    228  B
+ 50028 (02)<(62)   9025  B
+  3723 (31)<(33)    275  B
+
+%Round: 2
+
+  3600 (15)<(49)   2788  B
+   228 (17)<(47)   3598  B
+ 50075 (32)=(32)  50096  B
+   275 (30)<(34)   9025  B
+     2 (48)>(16)  50028  B
+    45 (46)>(18)   3723  B
+
+%Round: 3
+
+ 50096 (33)>(31)      2  B
+ 50028 (44)>(20)   3723  B
+  2788 (11)<(53)     45  B
+   228 (52)>(12)    419  B
+  9025 (24)<(40)   3598  B
+  3600 (18)<(46)  50075  B
+
+%Round: 4
+
+  3723 (39)>(25)   3600  B
+  3598 (39)>(25)     45  B
+  2788 (28)<(36)    228  B
+  9025 (20)<(44)  50096  B
+   419 (19)<(45)      2  B
+ 50075 (53)>(11)  50028  B
+
+%Round: 5
+
+ 50028 (09)<(55)   3600  B
+  3723 (12)<(52)    419  B
+ 50096 (25)<(39)   3598  B
+     2 (60)>(04)   2788  B
+   228 (30)<(34)  50075  B
+    45 (25)<(39)   9025  B
+
+
+%%Added results

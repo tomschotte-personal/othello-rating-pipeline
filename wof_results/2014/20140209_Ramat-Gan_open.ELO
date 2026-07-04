@@ -1,0 +1,31 @@
+%%Tournament: Ramat-Gan open
+%%Country: Israel
+%%Date: 09/02/2014
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    880, SHIFMAN, Leonid, IL, 4, 187
+%_%    885, SHIFMAN, Ilya, IL, 3, 170
+%_%    200003, MARGALIOT, Michael, IL, 2, 146
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 1, 115
+%_%    200006, SHIFMAN, Michael, IL, 0, 22
+
+%Round 1
+200003 (13)<(51)    885  B
+   880 (54)>(10)   4028  B
+
+%Round 2
+  4028 (26)<(38) 200003  B
+200006 (00)<(64)    880  B
+
+%Round 3
+   885 (39)>(25)   4028  B
+200003 (64)>(00) 200006  B
+
+%Round 4
+   880 (33)>(31) 200003  B
+200006 (12)<(52)    885  B
+
+%Round 5
+  4028 (54)>(10) 200006  B
+   885 (28)<(36)    880  B

@@ -1,0 +1,53 @@
+%%Tournament: 32nd Sendai Open
+%%Country: Japan
+%%Date: 19/08/2007
+%%Sender: Tom Schotte
+
+%Round1
+5563 > 11405
+5584 > 6877
+5527 = 5562
+7034 > 699
+10372 > 11007
+
+%Round2
+5563 = 10372
+5584 > 7034
+5527 > 699
+5562 > 6877
+11405 > 11007
+
+%Round3
+5563 > 5562
+5584 > 10372
+5527 > 11405
+7034 > 6877
+699 > 11007
+
+%Round4
+5563 > 7034
+5527 > 5584
+5562 = 10372
+699 > 11405
+11007 > 6877
+
+%Round5
+5563 > 5527
+5584 > 699
+5562 > 11007
+7034 > 10372
+6877 > 11405
+
+
+%players
+%1 5563	kurachi	takayuki
+%2 5584	oshimizu	takanori
+%3 5527	goto	masahiro
+%4 5562	hoshino	yoshihiro
+%5 7034	yoshida	taisaku
+%6 10372	yasujima	yuji
+%7 699	kitajima	masato
+%8 6877	yamamoto	noriaki
+%9 11405	yasujima	shingo
+%10 11007	hikichi	kei
+

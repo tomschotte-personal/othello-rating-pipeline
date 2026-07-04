@@ -1,0 +1,122 @@
+%%Tournament: 19th All Japan women
+%%Country: Japan
+%%Date: 04/08/1991
+%%Sender: Tom Schotte
+
+
+%round1
+   359 >  12114  
+ 11758 >  12104  
+ 10144 >  12115  
+   174 >  12110  
+  5521 >  10082  
+ 12112 >  12111  
+   600 >  12113  
+ 10398 >    499  
+   652 >  12116  
+  5501 >  12117  
+ 11755 >  11757  
+ 12119 >  12118  
+ 12121 >  12120  
+ 11754 >  12100  
+  4004 >  12122  
+   502 >  11134  
+
+%round2
+   359 >  12121  
+   499 >  12122  
+ 11758 >    600  
+ 10144 >  11754  
+   174 >   5501  
+ 12111 >  11134  
+ 12112 >    652  
+ 12113 >  12104  
+ 10398 >   4004  
+ 12114 >  12120  
+ 12115 >  12100  
+ 12116 >  12118  
+ 12117 >  10082  
+ 11755 >   5521  
+ 11757 >  12110  
+ 12119 >    502  
+
+%round3
+   499 >  12114  
+ 11758 >    359  
+ 10144 >    174  
+ 12110 >  12104  
+ 10082 >  11134  
+ 12111 >  12116  
+ 12112 >  10398  
+   600 >  12121  
+ 12115 >   4004  
+  5501 >    652  
+ 11757 >  12113  
+ 12118 >  12122  
+ 12119 >  11755  
+ 11754 >   5521  
+ 12100 >  12120  
+   502 >  12117  
+
+%round4
+   359 >  12115  
+   499 >    502  
+ 11758 >  12119  
+ 10144 >  12112  
+ 12110 >  12116  
+   174 >  12111  
+ 12113 >  12117  
+ 12104 >  12122  
+ 12114 >  10082  
+   652 >  12100  
+  5501 >    600  
+ 11755 >  11754  
+ 11757 >  10398  
+ 12121 >  12118  
+  4004 >   5521  
+ 11134 >  12120  
+
+%semi-finals
+   359 >  10144  
+   499 >  11758  
+
+%3/4
+ 11758 >  10144  
+
+%final
+   359 >    499  
+
+
+%players
+%1 359	watanabe	azusa
+%2 499	ohyanagi	masaki
+%3 11758	namiki	rie
+%4 10144	tanaka	mitiko
+%5 12110	monma	miyuki
+%6 174	tamaie	miki
+%7 5521	hamada	kikue
+%8 10082	takeuchi	tomoko
+%9 12111	chatani	shizuko
+%10 12112	hayasaka	atsuko
+%11 12113	mizuno	yoko
+%12 600	takeda	kyoko
+%13 10398	ota	koko
+%14 12104	yamazaki	kyoko
+%15 12114	enjoji	miwako
+%16 12115	nakazato	yuko
+%17 652	horiuchi	keiko
+%18 12116	nakagawa	ayuko
+%19 12117	yoshino	yoshiko
+%20 5501	tamaie	kotoe
+%21 11755	nakazawa	shigeko
+%22 11757	ijichi	mami
+%23 12118	matsumoto	akiko
+%24 12119	kamon	aya
+%25 12120	hamada	kyoko
+%26 12121	taki	kikuko
+%27 11754	Kanno	Keiko
+%28 12100	igarashi	ai
+%29 4004	sano	yoko
+%30 12122	horigome	mika
+%31 11134	maeshima	aya
+%32 502	ishii	masami

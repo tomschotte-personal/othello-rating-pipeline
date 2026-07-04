@@ -1,0 +1,72 @@
+%%Tournament: Prequalificatif Grenoble
+%%Country: France
+%%Date: 19/04/2025 - 20/04/2025
+%%Sender: Takuji
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2025/05/26 19:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50030, JUIGNER, Arthur, CHE,  8.5, 413, 2313
+%_%   50067, JUIGNER, Felix, CHE,  8.5, 408, 2307
+%_%     839, KASHIWABARA, Takuji, FRA,  7, 352, 2096
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 260, 1703
+%_%    3515, BUTIN, Pierre, FRA,  2, 247, 1949
+
+
+
+%Round: 1
+
+  3515 (09)<(55)  50030  B
+ 50067 (32)=(32)    839  B
+
+%Round: 2
+
+    45 (05)<(59)  50067  B
+   839 (41)>(23)   3515  B
+
+%Round: 3
+
+ 50030 (32)=(32)    839  B
+  3515 (31)<(33)     45  B
+
+%Round: 4
+
+ 50067 (37)>(27)   3515  B
+    45 (19)<(45)  50030  B
+
+%Round: 5
+
+   839 (37)>(27)     45  B
+ 50030 (28)<(36)  50067  B
+
+%Round: 6
+
+ 50030 (50)>(14)   3515  B
+   839 (20)<(44)  50067  B
+
+%Round: 7
+
+ 50067 (37)>(27)     45  B
+  3515 (27)<(37)    839  B
+
+%Round: 8
+
+   839 (26)<(38)  50030  B
+    45 (40)>(24)   3515  B
+
+%Round: 9
+
+  3515 (12)<(52)  50067  B
+ 50030 (52)>(12)     45  B
+
+%Round: 10
+
+    45 (17)<(47)    839  B
+ 50067 (31)<(33)  50030  B
+
+
+%%Added results
+ 50067 (28)<(36)  50030  B
+ 50030 (50)>(14)  50067  B
+   839 >     45  B

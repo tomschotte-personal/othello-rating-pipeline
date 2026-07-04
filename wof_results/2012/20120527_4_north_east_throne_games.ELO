@@ -1,0 +1,34 @@
+%%Tournament: 4_north_east_throne_games
+%%Country: Japan
+%%Date: 27/05/2012
+%%Sender: Hiroyuki Iwata
+
+%_%  10372, YASUJIMA, yuji, J, 4.0, 154
+%_%   5584, OSHIMIZU, takanori, J, 3.0, 153
+%_%   7034, YOSHIDA, taisaku, J, 2.0, 157
+%_%  10616, SATOHISA, kazu, J, 1.0, 143
+%_%    652, HORIUCHI, keiko, J, 1.0, 96
+
+%Round 1
+  5584 (34)>(30)   7034 
+ 10616 (44)>(19)    652 
+
+%Round 2
+ 10372 (36)>(28)   7034 
+  5584 (41)>(23)  10616 
+
+%Round 3
+ 10372 (48)>(16)  10616 
+  5584 (47)>(17)    652 
+
+%Round 4
+ 10372 (37)>(27)    652 
+  7034 (35)>(29)  10616 
+
+%Round 5
+ 10372 (33)>(31)   5584 
+   652 (33)>(31)   7034 
+
+%Round 6
+  7034 (33)>(31)  10616 
+

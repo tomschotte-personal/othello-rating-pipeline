@@ -1,0 +1,63 @@
+%%Tournament: LF Open 2013
+%%Country: Denmark
+%%Date: 16/02/2013
+%%Sender: Henrik Vallund
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/02/16 16:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  7, 315, 2083
+%_%     804, HUBBARD, Geoff, AUS,  5, 283, 1932
+%_%    1045, NIELSEN, Kim J., DNK,  5, 280, 1762
+%_%      96, VALLUND, Henrik, DNK,  4, 260, 1892
+%_%    1059, STOEVRING, Pia, DNK,  4, 185, 1686
+%_%    1981, STOKKE, Solrun, DNK,  2, 182, 1541
+%_%    1075, PEDERSEN, Mads, DNK,  1, 119, 1347
+
+
+
+%Round: 1
+
+  1059 (15)<(49)     92  B
+  1075 (16)<(48)   1981  B
+  1045 (21)<(43)    804  B
+
+%Round: 2
+
+    96 (63)>(01)   1075  B
+   804 (29)<(35)   1059  B
+  1981 (11)<(53)   1045  B
+
+%Round: 3
+
+    92 (43)>(21)    804  B
+  1045 (33)>(31)     96  B
+  1059 (43)>(21)   1981  B
+
+%Round: 4
+
+  1075 (16)<(48)   1045  B
+  1981 (14)<(50)     92  B
+    96 (57)>(07)   1059  B
+
+%Round: 5
+
+   804 (47)>(17)   1981  B
+  1059 (35)>(29)   1075  B
+    92 (52)>(12)     96  B
+
+%Round: 6
+
+  1045 (54)>(10)   1059  B
+    96 (24)<(40)    804  B
+  1075 (16)<(48)     92  B
+
+%Round: 7
+
+  1981 (31)<(33)     96  B
+    92 (33)>(31)   1045  B
+   804 (63)>(01)   1075  B
+
+
+%%Added results

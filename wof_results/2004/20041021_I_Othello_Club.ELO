@@ -1,0 +1,32 @@
+%%Tournament: I torneo Othello Club - Milano
+%%Country: Italy
+%%Date: 21/10/2004
+%%Sender: Donato Barnaba
+
+
+%_% 3024, BORASSI, Michele
+%_% 3005, PALLADINO, Domenico
+%_% 2830, FANELLO, Roberto
+%_% 2903, BERSAGLIERI, Daniela
+%_% 2996, DELLABIANCA, Giovanni
+%_% 3055, MASPES, Claudio
+
+
+
+%Round: 1
+
+3024 (55)>(09) 2903 B
+2996 (19)<(45) 3005 B
+2830 (43)>(21) 3055 B
+
+%Round: 2
+
+2830 (23)<(41) 3024 B
+3005 (33)>(31) 2903 B
+3055 (39)>(25) 2996 B
+
+%Round: 3
+
+3024 (45)>(19) 3005 B
+2996 (19)<(45) 2830 B
+2903 (50)>(14) 3055 B

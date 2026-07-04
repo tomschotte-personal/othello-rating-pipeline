@@ -1,0 +1,52 @@
+%%Tournament: 105th Kyoto Meeting
+%%Country: Japan
+%%Date: 12/05/1996
+%%Sender: Tom Schotte
+
+%round1
+11766 > 10984
+11844 > 11765
+6972 > 11856
+10020 > 882
+6824 > 11753
+
+%round2
+11766 > 11753
+11844 > 6972
+11765 > 11856
+10984 > 10020
+882 > 6824
+
+%round3
+11766 > 882
+11844 > 10984
+6972 > 11765
+10020 > 6824
+11753 > 11856
+
+%round4
+11844 > 11753
+6972 > 11766
+10020 > 11856
+11765 > 6824
+882 > 10984
+
+%round5
+11766 > 11844
+6972 > 882
+11753 > 10020
+6824 > 11856
+10984 > 11765
+
+
+%players
+%1 11766	matoba	hisanori
+%2 11844	fujikura	katuya
+%3 6972	miyazaki	toru
+%4 10020	takahashi	manabu
+%5 11753	yokoyama	chiaki
+%6 6824	kuroda	takuji
+%7 11765	masahiro	maeda
+%8 10984	hara	shuichi
+%9 882	ibata	kensuke
+%10 11856	isobe	ayuko

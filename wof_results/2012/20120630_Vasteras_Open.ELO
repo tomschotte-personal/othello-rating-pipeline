@@ -1,0 +1,50 @@
+%%Tournament: Vasteras Open
+%%Country: Sweden
+%%Date: 30/06/2012
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/07/17 19:13
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1492, ENG, Tintin, S,  4.5, 213
+%_%  150009, WETTERGREN, Niklas, S,  3.5, 207
+%_%    1599, KJELLBERG, Arvid, S,  2, 155
+%_%    1495, INGELMAN-SUNDBERG, Simon, S,  2, 131
+%_%    1533, ZEMELKA, Jan, S,  2, 123
+%_%    1301, STEENTOFT, Benkt, S,  1, 131
+
+
+
+%Round: 1
+
+  1301 (17)<(47)   1599  B
+  1495 (19)<(45) 150009  B
+  1492 (59)>(05)   1533  B
+
+%Round: 2
+
+150009 (49)>(15)   1301  B
+  1599 (25)<(39)   1492  B
+  1533 (26)<(38)   1495  B
+
+%Round: 3
+
+  1301 (31)<(33)   1492  B
+150009 (50)>(14)   1533  B
+  1495 (42)>(22)   1599  B
+
+%Round: 4
+
+  1533 (42)>(22)   1301  B
+  1492 (50)>(14)   1495  B
+  1599 (33)>(31) 150009  B
+
+%Round: 5
+
+  1301 (46)>(18)   1495  B
+  1533 (36)>(28)   1599  B
+150009 (32)=(32)   1492  B
+
+
+%%Added results

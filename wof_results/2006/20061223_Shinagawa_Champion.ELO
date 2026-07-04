@@ -1,0 +1,46 @@
+%%Tournament: Shinagawa champion
+%%Country: Japan
+%%Date: 23/12/2006
+%%Sender: Tom Schotte
+
+%elite
+299 > 700
+4014 > 299
+700 < 4014
+4014 > 5530
+
+%intermediate
+5628 > 5547
+5655 > 5520
+5655 >  5567
+5655 > 5628
+5594 > 5533
+5594 > 5520
+5594 > 5655
+
+%challenger
+5596 > 11096
+5596 > 7045
+7045 > 5537
+
+%elite
+% 700	nakajima	tetsuya
+% 299	murakami	takeshi
+% 4014	tominaga	kenta
+% 5530	noda	bintatsu
+%intermediate
+% 5628	ohuchi	yasuhiro
+% 5547	ohno	atsuko
+% 5655	satani	tetsu
+% 5520	okuda	tsuyoshi
+% 5567	mitsuya	nobuaki
+% 5594	masayuki	suko
+% 5533	sato	kouichiro
+% 5520	okuda	tsuyoshi
+
+
+%challenger
+% 5596	okamoto	akihiko
+% 11096	kikukawa	takamichi
+% 5537	takanashi	yusuke
+% 7045	isobe	seiji

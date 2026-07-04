@@ -1,0 +1,56 @@
+%%Tournament: 7th Tatebayashi Open
+%%Country: Japan
+%%Date: 24/06/2007
+%%Sender: Tom Schotte
+
+%% 1:5524 NAGAO Hiroto
+%% 2:6953 TSUNODA Keita
+%% 3: 578 SAKAGUCHI Kazuhiro
+%% 4:6954 OGURI Kenji
+%% 5:5616 TANAKA Atsushi
+%% 6: 888 SUGIYAMA Mitsuaki
+%% 7:6952 SANO Hirotaka
+%% 8:6854 OZAKI Yoshihito
+
+%Round 1
+5524 > 6952
+6953 > 6954
+578 > 6854
+5616 > 888
+
+%Round 2
+5524 > 6954
+6953 > 6952
+578 > 5616
+888 < 6854
+
+%Round 3
+5524 > 6854
+6953 > 5616
+578 > 6952
+6954 < 888
+
+%Round 4
+5524 > 5616
+6953 > 6854
+578 > 6954
+888 > 6952
+
+%Round 5
+5524 > 888
+6953 > 578
+6954 > 6854
+5616 < 6952
+
+%Round 6
+5524 > 578
+6953 > 888
+6954 > 5616
+6952 < 6854
+
+%Round 7
+5524 > 6953
+578 > 888
+6954 < 6952
+5616 > 6854
+

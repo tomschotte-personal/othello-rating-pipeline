@@ -1,0 +1,23 @@
+%%Tournament: Campionato Ligure 2016-2017 - 2a Tappa
+%%Country: Italy
+%%Date: 16/11/2016
+%%Sender: Chiara Gigliucci 
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2855, BIANCHI, Paolo, I, 3, 141
+%_% 40096, TOMASI, Fabio, I, 2, 117
+%_% 40102, OTTONELLO, Piera, I, 1, 77
+%_% 40117, CASTORE, Maurizio, I, 0, 49
+
+%Round 1 
+ 40096 (47)>(17)  40102  B
+  2855 (45)>(19)  40117  B
+
+%Round 2 
+ 40117 (12)<(52)  40096  B
+ 40102 (14)<(50)   2855  B
+
+%Round 3 
+ 40102 (46)>(18)  40117  B
+  2855 (46)>(18)  40096  B
+  

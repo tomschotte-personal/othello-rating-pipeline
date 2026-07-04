@@ -1,0 +1,32 @@
+%%Tournament: 2014_Shikoku_expert_games_final
+%%Country: Japan
+%%Date: 16/02/2014
+%%Sender: Hiroyuki Iwata
+
+%_%  10070, KAMEMOTO, osamu, JPN, 3.0, 109
+%_%  10289, KAWAKAMI, yoshihiro, JPN, 2.0, 113
+%_%  10736, YANAGIHARA, shigemi, JPN, 2.0, 112
+%_%  13110, YOKOYAMA, naoki, JPN, 2.0, 96
+%_%  13073, IKEDA, atsunori, JPN, 1.0, 89
+%_%  11357, TOYOTA, hiroshi, JPN, 1.0, 83
+%_%  13112, YOSHIYUKI, shinsuke, JPN, 1.0, 80
+%_%  10331, MATSUI, takashi, JPN, 0.0, 84
+
+%Round 1
+ 10070 (39)>(25)  13110 
+ 10289 (40)>(24)  10331 
+ 10736 (43)>(21)  11357 
+ 13112 (37)>(27)  13073 
+
+%Round 2
+ 10070 (32)>(31)  10736 
+ 10289 (47)>(17)  13112 
+ 13110 (34)>(30)  11357 
+ 13073 (35)>(29)  10331 
+
+%Round 3
+ 10070 (38)>(26)  10289 
+ 10736 (38)>(26)  13112 
+ 13110 (37)>(27)  13073 
+ 11357 (32)>(31)  10331 
+

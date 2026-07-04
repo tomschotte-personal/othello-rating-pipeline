@@ -1,0 +1,38 @@
+%%Tournament: 2013_Niigate_expert_games
+%%Country: Japan
+%%Date: 20/01/2013
+%%Sender: Hiroyuki Iwata
+
+%_%    488, TAKIZAWA, masaki, JPN, 5.0, 248
+%_%  10083, AIHARA, shigeaki, JPN, 3.0, 163
+%_%   5524, NAGAO, hiroto, JPN, 3.0, 137
+%_%   7048, KANDA, yoshihiro, JPN, 1.0, 122
+%_%   7047, UMEZAWA, yoshinori, JPN, 1.0, 111
+%_%  10032, KOBAYASHI, shiyunzirou, JPN, 1.0, 105
+%_%    652, HORIUCHI, keiko, JPN, 1.0, 74
+
+%Round 1
+   488 (51)>(13)   7047 
+ 10083 (57)>(07)    652 
+ 10032 (36)>(28)   7048 
+
+%Round 2
+   488 (52)>(12)  10083 
+  5524 (37)>(27)  10032 
+  7048 (45)>(19)   7047 
+
+%Round 3
+   488 (46)>(18)   5524 
+ 10083 (39)>(25)   7048 
+   652 (38)>(26)  10032 
+
+%Round 4
+   488 (59)>(05)    652 
+  5524 (42)>(22)  10083 
+  7047 (48)>(16)  10032 
+
+%Round 5
+   488 (40)>(24)   7048 
+  5524 (40)>(24)    652 
+ 10083 (33)>(31)   7047 
+

@@ -1,0 +1,47 @@
+%%Tournament: 2nd Palermo
+%%Country: Italy
+%%Date: 17/05/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40148, MARALDI, Simone, ITA, 4, 165, 992
+%_%   40291, INTRAVAIA, Salvatore, ITA, 3, 159, 1003
+%_%   40103, GUECI, Riccardo, ITA, 2, 155, 1248
+%_%   40258, BOSCO, Marco, ITA, 2, 112, 758
+%_%  +40341, Testaverde, Carlo, ITA, 2, 112, -
+%_%  +40342, Tonon, Damiano, ITA, 1, 105, -
+%_%  +40343, Peduzzi, Enrico, ITA, 1, 88, -
+%_%   40293, MEGNA, Bart, ITA, 1, 75, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/297
+
+%Round: 1
+
+ 40103 (26)<(38)  40293  B
+ 40343 (14)<(50)  40291  B
+ 40148 (51)>(13)  40341  B
+ 40342 (24)<(40)  40258  B
+
+%Round: 2
+
+ 40342 (36)>(28)  40343  B
+ 40341 (14)<(50)  40103  B
+ 40293 (18)<(46)  40258  B
+ 40291 (31)<(33)  40148  B
+
+%Round: 3
+
+ 40258 (22)<(42)  40148  B
+ 40291 (45)>(19)  40293  B
+ 40103 (48)>(16)  40342  B
+ 40343 (14)<(50)  40341  B
+
+%Round: 4
+
+ 40148 (39)>(25)  40103  B
+ 40258 (18)<(46)  40291  B
+ 40341 (35)>(29)  40342  B

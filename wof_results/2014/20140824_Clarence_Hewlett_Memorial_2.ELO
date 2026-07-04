@@ -1,0 +1,48 @@
+%%Tournament: Clarence Hewlett Memorial Day 2
+%%Country: USA
+%%Date: 24/08/2014
+%%Sender: David Rockwell
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/10/16 09:57
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4043, SEELEY, Ben, USA,  6, 270, 2350
+%_%      79, LEADER, Imre, GBR,  2.5, 187, 2168
+%_%   20023, ROSE, Joseph, USA,  2.5, 178, 1419
+%_%    4004, SANO, Yoko, JPN,  1, 133, 1946
+
+
+
+%Round: 1
+
+  4043 (47)>(17)  20023  B
+    79 (41)>(23)   4004  B
+
+%Round: 2
+
+  4004 (21)<(43)   4043  B
+ 20023 (32)=(32)     79  B
+
+%Round: 3
+
+  4043 (35)>(29)     79  B
+ 20023 (39)>(25)   4004  B
+
+%Round: 4
+
+  4004 (40)>(24)     79  B
+ 20023 (13)<(51)   4043  B
+
+%Round: 5
+
+  4043 (50)>(14)   4004  B
+    79 (41)>(23)  20023  B
+
+%Round: 6
+
+    79 (20)<(44)   4043  B
+  4004 (10)<(54)  20023  B
+
+
+%%Added results

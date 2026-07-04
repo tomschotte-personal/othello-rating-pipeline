@@ -1,0 +1,50 @@
+%%Tournament: Kfar Saba open
+%%Country: Israel
+%%Date: 20/04/2024
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/04/20 23:11
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     885, SHIFMAN, Ilya, ISR,  4.5, 194, 1708
+%_%     880, SHIFMAN, Leonid, ISR,  3, 175, 1609
+%_%  200040, LAUFER, Shachar, ISR,  2.5, 188, 1542
+%_%  200404, DVIVON, Konstantin, ISR,  2.5, 182, 1464
+%_%  200010, SHIFMAN, Micky, ISR,  2.5, 165, 1634
+%_%  200406, DVIVON, Tatiana, ISR,  0, 56, 1009
+
+
+
+%Round: 1
+
+   885 (35)>(29) 200040  B
+   880 (38)>(26) 200406  B
+200010 (34)>(30) 200404  B
+
+%Round: 2
+
+200406 (19)<(45)    885  B
+200040 (37)>(27) 200010  B
+200404 (34)>(30)    880  B
+
+%Round: 3
+
+   885 (32)=(32) 200010  B
+200406 (07)<(57) 200404  B
+   880 (36)>(28) 200040  B
+
+%Round: 4
+
+200404 (29)<(35)    885  B
+200010 (10)<(54)    880  B
+200040 (62)>(02) 200406  B
+
+%Round: 5
+
+   885 (47)>(17)    880  B
+200404 (32)=(32) 200040  B
+200406 (02)<(62) 200010  B
+
+
+%%Added results

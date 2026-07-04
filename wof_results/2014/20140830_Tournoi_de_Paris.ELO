@@ -1,0 +1,44 @@
+%%Tournament: Tournoi de Paris
+%%Country: France
+%%Date: 30/08/2014
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/08/30 21:59
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 252, 2114
+%_%     839, KASHIWABARA, Takuji, FRA,  5, 236, 2208
+%_%     228, BUSUTTIL, Michel, FRA,  2, 136, 1524
+
+
+
+%Round: 1
+
+   839 (35)>(29)      2  B
+
+%Round: 2
+
+   228 (23)<(41)    839  B
+
+%Round: 3
+
+     2 (61)>(03)    228  B
+
+%Round: 4
+
+     2 (33)>(31)    839  B
+
+%Round: 5
+
+   839 (49)>(15)    228  B
+
+%Round: 6
+
+   228 (15)<(49)      2  B
+
+
+%%Added results
+   839 (32)=(32)      2  B
+     2 (21)<(43)    839  B
+   839 (50)>(14)      2  B

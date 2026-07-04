@@ -1,0 +1,45 @@
+%%Tournament: 176th Kyoto Meeting
+%%Country: Japan
+%%Date: 11/08/2002
+%%Sender: Tom Schotte
+
+%Round1
+11799 > 10008
+6923 > 6929
+11786 > 11976
+5526 > 5507
+
+%Round2
+11799 > 5526
+6923 > 11786
+10008 > 5507
+11976 > 6929
+
+%Round3
+11799 > 6923
+10008 > 11786
+5526 > 11976
+5507 > 6929
+
+%Round4
+6923 > 10008
+11786 > 11799
+5526 > 6929
+5507 > 11976
+
+%Round5
+11799 > 5507
+6923 > 5526
+10008 > 11976
+11786 > 6929
+
+
+%players
+%1 11799	hashimoto	yoshiaki
+%2 6923	kimura	keigo
+%3 10008	okuda	masashi
+%4 11786	tanaka	norihiro
+%5 5526	uno	toshihiro
+%6 5507	tsuchida	daisuke
+%7 11976	horie	mieko
+%8 6929 IO Hideo

@@ -1,0 +1,28 @@
+%%Tournament: 193rd Kyoto Meeting
+%%Country: Japan
+%%Date: 11/01/2004
+%%Sender: Tom Schotte
+
+5507 > 12036
+6929 > 10009
+5507 > 6929
+10009 > 10008
+5507 > 12036
+10008 > 10009
+5507 > 10008
+12036 > 6929
+12036 > 10009
+6929 > 10008
+5507 > 12036
+6929 > 10009
+5507 > 6929
+12036 > 10008
+10008 > 10009
+
+
+%players
+%1 5507	tsuchida	daisuke
+%2 12036	okamoto	naoki
+%3 6929	io	hideo
+%4 10009	taru	eiichi
+%5 10008	okuda	masashi

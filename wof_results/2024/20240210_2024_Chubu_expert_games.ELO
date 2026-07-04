@@ -1,0 +1,48 @@
+%%Tournament: 2024_Chubu_expert_games
+%%Country: Japan
+%%Date: 10/02/2024
+%%Sender: Hajime NAKAMURA
+
+%_%   5507, TSUCHIDA, daisuke, JPN, 3.0, 139
+%_%   5559, KAWARADA, yuichi, JPN, 3.0, 131
+%_%  14510, HATTORI, kouki, JPN, 3.0, 130
+%_%  14894, KITATANI, yuuma, JPN, 2.0, 141
+%_%   5570, OHIKE, yoshinori, JPN, 2.0, 114
+%_%  11939, MIYAGAWA, keigo, JPN, 2.0, 112
+%_%  12740, YAMANAKA, yukihiro, JPN, 1.0, 94
+%_%   5676, TSUKAMOTO, hiroaki, JPN, 1.0, 84
+%_%  15365, NAKAHAMA, kumi, JPN, 1.0, 81
+%_%  15591, MATSUSHITA, shigeo, JPN, 1.0, 78
+%_%   5699, YOSHIYUKI, suganuma, JPN, 1.0, 77
+%_%  14787, KAWASOE, ousuke, JPN, 1.0, 64
+%_%  16047, HASEGAWA, tetsuya, JPN, 0.0, 65
+%_%  15880, TERASHIMA, takayo, JPN, 0.0, 20
+%_%  15590, MATSUSHITA, shigehiro, JPN, 0.0, 14
+
+%Round 1
+ 14894 (52)>(12)   5676 
+  5507 (58)>(06)  15880 
+  5570 (53)>(11)  14787 
+ 11939 (50)>(14)  16047 
+ 14510 (55)>(09)   5699 
+ 15591 (33)>(31)  15365 
+  5559 (40)>(24)  12740 
+
+%Round 2
+ 15365 (36)>(28)  12740 
+ 14894 (64)>(00)  15880 
+  5507 (42)>(22)   5676 
+ 14787 (53)>(11)  15590 
+ 14510 (36)>(28)  11939 
+  5559 (41)>(23)  15591 
+  5699 (38)>(26)  16047 
+
+%Round 3
+  5507 (39)>(25)  14894 
+  5676 (50)>(14)  15880 
+  5570 (61)>(03)  15590 
+ 11939 (34)>(30)   5699 
+ 12740 (42)>(22)  15591 
+ 14510 (39)>(25)  16047 
+  5559 (50)>(14)  15365 
+

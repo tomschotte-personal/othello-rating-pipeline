@@ -1,0 +1,27 @@
+%%Tournament: north_Kanto_expert_games_finals_2012
+%%Country: Japan
+%%Date: 06/05/2013
+%%Sender: Hiroyuki Iwata
+
+%_%    299, MURAKAMI, takeshi, JPN, 2.5, 103
+%_%   5508, TATSUMI-IIJIMA, yukiko, JPN, 2.0, 115
+%_%   5540, NAKANO, jyou, JPN, 2.0, 98
+%_%   6862, TOKI, yugo, JPN, 1.0, 94
+%_%    652, HORIUCHI, keiko, JPN, 1.0, 77
+%_%   5524, NAGAO, hiroto, JPN, 0.5, 89
+
+%Round 1
+   299 (35)>(29)   5524 
+   652 (34)>(30)   5508 
+  5540 (37)>(27)   6862 
+
+%Round 2
+  5524 (32)=(32)    299 
+  5508 (41)>(23)    652 
+  6862 (38)>(26)   5540 
+
+%Round 3
+   299 (36)>(28)   5524 
+  5508 (44)>(20)    652 
+  5540 (35)>(29)   6862 
+

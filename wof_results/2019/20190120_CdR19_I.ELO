@@ -1,0 +1,45 @@
+%%Tournament: Citta di Roma 2019 - I Tappa
+%%Country: Italy
+%%Date: 20/01/2019
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3024, BORASSI, Michele, CHE, 4, 180
+%_%  3111, SCOGNAMIGLIO, Paolo, ITA, 3, 158
+%_%  2844, SPERANDIO, Roberto, ITA, 3, 157
+%_%    42, PRIVITERA, Biagio, ITA, 2, 126
+%_% 40114, ARCARA, Paolo, ITA, 2, 118
+%_%  3062, CAVIOLA, Leonardo, ITA, 2, 113
+%_%  3023, LAI, Fabrizio, ITA, 1, 143
+%_% 40084, GIANNINI, Valentino, ITA, 1, 94
+%_% 40052, GIGLIUCCI, Chiara, ITA, 1, 59
+%_% 40083, PACE, Alessandro, ITA, 1, 92
+%_% 40075, CESTRA, Carla, ITA, 0, 40
+
+%Round 1 
+    42 (08)<(56)   3024  B
+  2844 (42)>(22)   3023  B
+ 40114 (11)<(53)   3111  B
+  3062 (45)>(19)  40084  B
+ 40075 (13)<(51)  40083  B
+
+%Round 2 
+  3024 (52)>(12)   3062  B
+  3111 (28)<(36)   2844  B
+ 40083 (12)<(52)     42  B
+  3023 (64)>(00)  40075  B
+ 40084 (17)<(47)  40114  B
+
+%Round 3 
+  2844 (31)<(33)   3024  B
+    42 (28)<(36)   3111  B
+  3062 (33)>(31)   3023  B
+ 40114 (35)>(29)  40083  B
+ 40075 (22)<(42)  40084  B
+
+%Round 4 
+  3024 (39)>(25)  40114  B
+  3111 (41)>(23)   3062  B
+ 40084 (16)<(48)   2844  B
+  3023 (26)<(38)     42  B
+ 40052 (59)>(05)  40075  B

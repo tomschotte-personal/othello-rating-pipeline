@@ -1,0 +1,94 @@
+%%Tournament: 108th Kyoto Meeting
+%%Country: Japan
+%%Date: 11/08/1996
+%%Sender: Tom Schotte
+
+%round1
+10014 > 882
+6972 > 10020
+5516 > 11846
+11753 > 6929
+11848 > 10009
+10770 > 5526
+10984 > 11861
+11766 > 10041
+6824 > 11626
+11862 > 11847
+% 11863 and 11403 did not play
+
+%round2
+5526 > 11403
+10014 > 11848
+5516 > 6972
+11863 > 11862
+11753 > 11626
+11766 > 10984
+6929 > 6824
+10041 > 11861
+882 > 11846
+10009 > 10020
+11847 > 10770
+
+%round3
+5526 > 11848
+10014 > 11766
+6972 > 882
+5516 > 6929
+11863 > 11847
+10770 > 10009
+11403 > 11626
+10984 > 10041
+10020 > 11846
+6824 > 11753
+11861 > 11862
+
+%round4
+5526 > 6824
+6972 > 11847
+11753 > 11861
+11848 > 11863
+11403 > 10041
+10984 > 10014
+11766 > 5516
+11846 > 11862
+6929 > 10770
+882 > 10009
+11626 > 10020
+
+%round5
+5526 > 10984
+10014 > 11753
+6972 > 11766
+5516 > 11847
+11863 > 11861
+11848 > 6929
+10770 > 6824
+11403 > 882
+10020 > 11862
+11846 > 10009
+10041 > 11626
+
+
+%players
+%1 5526	uno	toshihiro
+%2 10014	suzuki	takao
+%3 6972	miyazaki	toru
+%4 5516	ishikawa	akira
+%5 11863	kodama	takashi
+%6 11753	yokoyama	chiaki
+%7 11848	sonozaki	hiromichi
+%8 10770	suzuki	shinichi
+%9 11403	yasuda	tadahiro
+%10 10984	hara	shuichi
+%11 11766	matoba	hisanori
+%12 10020	takahashi	manabu
+%13 11846	sonozaki	rie
+%14 6929	io	hideo
+%15 6824	kuroda	takuji
+%16 10041	tatsumi	atsusi
+%17 882	ibata	kensuke
+%18 11861	sonozaki	kyoko
+%19 10009	taru	eiichi
+%20 11862	kitaoka	takeshi
+%21 11847	sonozaki	yutuka
+%22 11626	yoshimura	osamu

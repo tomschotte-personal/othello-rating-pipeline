@@ -1,0 +1,35 @@
+%%Tournament: 106_Mito_meeting
+%%Country: Japan
+%%Date: 09/07/2017
+%%Sender: Hiroyuki Iwata
+
+%_%   6986, IZUMI, takashi, JPN, 4.0, 219
+%_%   5600, OHTAKE, kosuke, JPN, 4.0, 202
+%_%   6987, KINOSHITA, tsutomu, JPN, 2.0, 174
+%_%  13528, MATSUSHITA, junichi, JPN, 2.0, 141
+%_%  14035, ONO, toshinori, JPN, 0.0, 32
+
+%Round 1
+  6986 (54)>(10)   6987 
+ 13528 (51)>(13)  14035 
+
+%Round 2
+  6986 (43)>(21)  13528 
+  5600 (57)>(07)  14035 
+
+%Round 3
+  6986 (32)=(32)   5600 
+ 13528 (34)>(30)   6987 
+
+%Round 4
+  6986 (58)>(06)  14035 
+  5600 (41)>(23)   6987 
+
+%Round 5
+  5600 (40)>(24)  13528 
+  6987 (58)>(06)  14035 
+
+%Round 6
+  6986 (32)=(32)   5600 
+  6987 (53)>(11)  13528 
+

@@ -1,0 +1,43 @@
+%%Tournament: Kfar-Saba ice-cream tournament
+%%Country: Israel
+%%Date: 19/05/2018
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    200018, YOSIFOVICH, Danielle, IL, 5, 249
+%_%    200010, SHIFMAN, Michael, IL, 4, 202
+%_%    200012, FABIAN, Asaf, IL, 3, 171
+%_%    200027, FABIAN, Guy, IL, 2, 143
+%_%    200009, SHIFMAN, Shani, IL, 1, 103
+%_%    200022, YOSIFOVICH, Amit, IL, 0, 92
+
+
+%Round 1
+200009 (38)>(26) 200022  B
+200027 (30)<(34) 200018  B
+200012 (13)<(51) 200010  B
+
+%Round 2
+200009 (31)<(33) 200027  B
+200018 (54)>(10) 200012  B
+200022 (27)<(37) 200010  B
+
+
+%Round 3
+200010 (08)<(56) 200018  B
+200012 (39)>(25) 200009  B
+200027 (43)>(21) 200022  B
+
+
+%Round 4
+200009 (00)<(64) 200010  B
+200027 (15)<(49) 200012  B
+200022 (14)<(50) 200018  B
+
+
+%Round 5
+200012 (60)>(04) 200022  B
+200010 (42)>(22) 200027  B
+200018 (55)>(09) 200009  B
+
+

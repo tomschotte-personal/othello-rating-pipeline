@@ -1,0 +1,102 @@
+%%Tournament: Clarence Hewlett Memorial
+%%Country: USA
+%%Date: 27/08/2011
+%%Sender: David Parsons
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  5513, TANIDA, Kunihiko, USA, 10.0, 452
+%_%  4089, CHITRA, Yohanes, USA, 7.0, 372
+%_%   657, PARSONS, David, USA, 4.0, 310
+%_% 20000, PETRIC, Vlad, USA, 4.0, 296
+%_%  6438, CAI, Jian, USA, 4.0, 290
+%_%  6403, KATZMAN, Sharon, USA, 1.0, 200
+
+%Round 1
+%Katzman 28 Parsons 36 B
+%Cai 21 Tanida 43 B
+%Chitra 47 Petric 17 B
+
+  6403 (28)<(36)    657  B
+  6438 (21)<(43)   5513  B
+  4089 (47)>(17)  20000  B
+
+%Round 2
+%Tanida 55 Chitra 9 B
+%Parsons 23 Cai 41 B
+%Petric 56 Katzman 8 B
+
+  5513 (55)>(09)   4089  B
+   657 (23)<(41)   6438  B
+ 20000 (56)>(08)   6403  B
+
+%Round 3
+%Tanida 33 Parsons 31 W
+%Chitra 47 Katzman 17 B
+%Cai 21 Petric 43 B
+
+  5513 (33)>(31)    657  W
+  4089 (47)>(17)   6403  B
+  6438 (21)<(42)  20000  B
+
+%Round 4
+%Katzman 27 Cai 37 B
+%Petric 15 Tanida 49 B
+%Parsons 23 Chitra 41 B
+
+  6403 (27)<(37)   6438  B
+ 20000 (15)<(49)   5513  B
+   657 (23)<(41)   4089  B
+
+%Round 5
+%Parsons 42 Petric 22 W
+%Katzman 18 Tanida 46 W
+%Cai 17 Chitra 47 W
+
+   657 (42)>(22)  20000  W
+  6403 (18)<(46)   5513  W
+  6438 (17)<(47)   4089  W
+
+%Round 6
+%Parsons 51 Katzman 13 B
+%Chitra 43 Petric 21 W
+%Cai 21 Tanida 43 W
+
+   657 (41)>(23)   6403  B
+  4089 (43)>(21)  20000  W
+  6438 (21)<(43)   5513  W
+
+%Round 7
+%Tanida 41 Chitra 23 B
+%Parsons 23 Cai 41 W
+%Petric 47 Katzman 17 W
+
+  5513 (41)>(23)   4089  B
+   657 (23)<(41)   6438  W
+ 20000 (47)>(17)   6403  W
+
+%Round 8
+%Tanida 40 Parsons 24 B
+%Chitra 47 Katzman 17 W
+%Cai 44 Petric 20 W
+
+  5513 (40)>(24)    657  B
+  4089 (47)>(17)   6403  W
+  6438 (44)>(20)  20000  W
+
+%Round 9
+%Parsons 36 Chitra 28 W
+%Cai 23 Katzman 41 B
+%Tanida 42 Petric 22 B
+
+   657 (36)>(28)   4089  W
+  6438 (23)<(41)   6403  B
+  5513 (42)>(22)  20000  B
+
+%Round 10
+%Parsons 31 Petric 32 B
+%Katzman 4 Tanida 60 B
+%Cai 24 Chitra 40 B 
+
+   657 (31)<(32)  20000  B
+  6403 (04)<(60)   5513  B
+  6438 (24)<(40)   4089  B

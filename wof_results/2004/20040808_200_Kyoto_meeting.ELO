@@ -1,0 +1,108 @@
+%%Tournament: 200th Kyoto Meeting
+%%Country: Japan
+%%Date: 08/08/2004
+%%Sender: Tom Schotte
+
+%Round1
+6860 > 5547
+5511 > 10119
+10122 > 6919
+7081 > 6801
+5506 > 6970
+5560 > 10123
+5669 > 10009
+10010 > 10766
+10038 > 6929
+10753 > 6995
+%two players missing
+
+%Round2
+6860 > 5669
+5511 > 10010
+10122 > 5560
+6970 > 6919
+5506 > 7081
+6995 > 6929
+6801 > 10123
+10038 > 10753
+10766 > 5547
+10119 > 10009
+%two players missing
+
+%Round3
+5511 > 10038
+10122 > 6860
+7081 > 10753
+6970 > 10766
+5506 > 5669
+5560 > 6919
+10123 > 6976
+6995 > 10010
+6801 > 10119
+5547 > 6929
+
+%Round4
+6860 > 10038
+5511 > 10122
+7081 > 5560
+6970 > 6801
+5506 > 6995
+5669 > 10123
+5547 > 10009
+10010 > 10753
+10766 > 10119
+6919 > 6976
+
+%Round5
+6860 > 7081
+5511 > 5506
+10122 > 6970
+5560 > 10766
+10123 > 10119
+6995 > 10038
+6801 > 5669
+5547 > 10010
+6929 > 10009
+10753 > 6919
+10008 > 6976
+
+%Round6
+6860 > 5511
+10122 > 5506
+7081 > 6995
+6970 > 5547
+5560 > 6801
+10123 > 10038
+5669 > 10766
+10010 > 10008
+6929 > 10753
+10119 > 6919
+10009 > 6976
+
+
+
+%players
+%1 6860	miyazaki	yuji
+%2 5511	takano	toshimi
+%3 10122	tanino	takumi
+%4 7081	kado	naoki
+%5 6970	kudashou	takahiro
+%6 5506	tamaki	suguru
+%7 5560	tsuji	shinji
+%8 10123	nakamura	shuhei
+%9 5669	nakano	shunsuke
+%10 6995	funakoshi	shogo
+%11 6801	koukawa	satoshi
+%12 5547	ohno	atsuko
+%13 10010	aoki	akira
+%14 6929	io	hideo
+%15 10038	wazuki	hiroyuki
+%16 10753	kagotani	hiroto
+%17 10766	nishimura	hidemi
+%18 10119	sentoku	hidefumi
+%19 10009	taru	eiichi
+%20 6919	fukunaga	kohachi
+%21 10008	okuda	masashi
+%22 6976	asano	yuki
+
+

@@ -1,0 +1,72 @@
+%%Tournament: Nordic Championship
+%%Country: Denmark
+%%Date: 10/08/2013
+%%Sender: Henrik Vallund
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/08/10 18:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  6, 266, 1838
+%_%      92, FELDBORG, Karsten, DNK,  6, 262, 2083
+%_%    1513, ASPENRYD, Henry, SWE,  5, 288, 1973
+%_%    1375, STENBERG, Veronica, SWE,  4, 224, 1795
+%_%    1358, RIGNELL, Daniel, SWE,  3, 228, 1964
+%_%      96, VALLUND, Henrik, DNK,  3, 225, 1892
+%_%      93, LUND JENSEN, Erik, DNK,  0.5, 169, 1946
+%_%    1019, AAGAARD-HANSEN, Jens, DK2,  0.5, 130, 1661
+
+
+
+%Round: 1
+
+    93 (15)<(49)   1513  B
+  1375 (11)<(53)   2570  B
+  1019 (16)<(48)     92  B
+  1358 (21)<(43)     96  B
+
+%Round: 2
+
+  2570 (41)>(23)     93  B
+  1513 (53)>(11)   1019  B
+    96 (28)<(36)   1375  B
+    92 (29)<(35)   1358  B
+
+%Round: 3
+
+    93 (32)=(32)   1019  B
+  2570 (42)>(22)     96  B
+  1358 (31)<(33)   1513  B
+  1375 (29)<(35)     92  B
+
+%Round: 4
+
+    96 (33)>(31)     93  B
+  1019 (16)<(48)   1358  B
+    92 (39)>(25)   2570  B
+  1513 (45)>(19)   1375  B
+
+%Round: 5
+
+    93 (28)<(36)   1358  B
+    96 (26)<(38)     92  B
+  1375 (40)>(24)   1019  B
+  2570 (34)>(30)   1513  B
+
+%Round: 6
+
+    92 (34)>(30)     93  B
+  1358 (29)<(35)   1375  B
+  1513 (53)>(11)     96  B
+  1019 (29)<(35)   2570  B
+
+%Round: 7
+
+    93 (10)<(54)   1375  B
+    92 (39)>(25)   1513  B
+  2570 (36)>(28)   1358  B
+    96 (62)>(02)   1019  B
+
+
+%%Added results
+  2570 (31)<(33)     92  B

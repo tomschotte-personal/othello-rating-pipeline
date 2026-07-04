@@ -1,0 +1,45 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 25/01/2025
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2025/01/26 23:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4, 283, 1993
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 264, 1649
+%_%     228, BUSUTTIL, Michel, FRA,  1, 159, 1344
+%_%  410000, OUREGA, Loh Jeannot, CIV,  0, 62, 1227
+
+
+
+%Round: 1
+
+   228 (22)<(42)     45  B
+410000 (26)<(38)      2  B
+
+%Round: 2
+
+     2 (61)>(03)    228  B
+    45 (45)>(19) 410000  B
+
+%Round: 3
+
+   228 (47)>(17) 410000  B
+     2 (16)<(48)     45  B
+
+%Round: 4
+
+    45 (50)>(14)    228  B
+
+%Round: 5
+
+   228 (09)<(55)      2  B
+
+%Round: 6
+
+    45 (15)<(49)      2  B
+
+
+%%Added results

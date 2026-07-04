@@ -1,0 +1,34 @@
+%%Tournament: 44_Sea_of_Japan_open_qualifier
+%%Country: Japan
+%%Date: 16/02/2025
+%%Sender: Hajime NAKAMURA
+
+%_%   5524, NAGAO, hiroto, JPN, 4.0, 210
+%_%  10083, AIHARA, shigeaki, JPN, 4.0, 206
+%_%    488, TAKIZAWA, masaki, JPN, 2.0, 183
+%_%   7047, UMEZAWA, yoshinori, JPN, 2.0, 169
+
+%Round 1
+ 10083 (36)>(28)    488 
+  5524 (34)>(30)   7047 
+
+%Round 2
+  7047 (34)>(30)    488 
+ 10083 (38)>(26)   5524 
+
+%Round 3
+ 10083 (44)>(20)   7047 
+  5524 (43)>(21)    488 
+
+%Round 4
+   488 (38)>(26)  10083 
+  5524 (44)>(20)   7047 
+
+%Round 5
+   488 (37)>(27)   5524 
+ 10083 (34)>(30)   7047 
+
+%Round 6
+  7047 (35)>(29)    488 
+  5524 (36)>(28)  10083 
+

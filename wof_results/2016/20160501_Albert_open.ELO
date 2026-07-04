@@ -1,0 +1,65 @@
+%%Tournament: Albert Open
+%%Country: France
+%%Date: 01/05/2016
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/05/01 22:40
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      45, ANDRIANI, Bintsa, FRA,  5, 263, 1808
+%_%   50076, MILLOT, Jean-Marc, FRA,  4, 208, 1596
+%_%     419, BETIN, Dominique, FRA,  3, 199, 1355
+%_% +  9058, BOULENGER, Sophie, FRA,  3, 197, 0
+%_%   50028, BRUIANT, Jacky, FRA,  3, 150, 1313
+%_% +  9061, TIMMERMAN Jean, Louis, FRA,  2, 155, 0
+%_% +  9060, LABIS, Albert, FRA,  2, 119, 0
+%_%     275, OVION, Jacques, FRA,  2, 111, 1296
+%_% +  9059, MANSET, Alexis, FRA,  1.5, 144, 0
+%_% +  9057, CARTON, Mickael, FRA,  1.5, 114, 0
+%_% +  9056, CARTON, Patrick, FRA,  1, 60, 0
+
+
+
+%Round: 1
+
+    45 (49)>(15)   9061  B
+   419 (50)>(14)   9060  B
+ 50076 (44)>(20)   9056  B
+   275 (21)<(43)   9057  B
+ 50028 (42)>(22)   9058  B
+
+%Round: 2
+
+   419 (26)<(38)     45  B
+  9059 (29)<(35)    275  B
+  9061 (51)>(13)   9058  B
+  9060 (49)>(15)   9057  B
+ 50076 (55)>(09)  50028  B
+
+%Round: 3
+
+    45 (48)>(16)  50076  B
+  9056 (00)<(64)    419  B
+  9057 (12)<(52)   9058  B
+   275 (37)>(27)   9061  B
+ 50028 (45)>(19)   9059  B
+
+%Round: 4
+
+  9060 (10)<(54)  50028  B
+    45 (64)>(00)    275  B
+  9061 (40)>(24)   9059  B
+ 50076 (47)>(17)    419  B
+  9058 (52)>(12)   9057  B
+
+%Round: 5
+
+   419 (42)>(22)   9061  B
+  9057 (32)=(32)   9059  B
+  9058 (58)>(06)   9060  B
+ 50028 (00)<(64)     45  B
+   275 (18)<(46)  50076  B
+
+
+%%Added results

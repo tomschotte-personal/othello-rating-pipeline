@@ -1,0 +1,45 @@
+%%Tournament: Cambridge Regional
+%%Country: Great-Britain
+%%Date: 06/05/2017
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information provided by Imre Leader
+%%CreationDate: 2017/05/07 16:20
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  6, 305, 
+%_%    2006, ARNOLD, Roy, GBR,  3, 172, 
+%_%    2047, BARRASS, Iain, GBR,  3, 170, 
+%_%    4019, PRIDMORE, Ben, GBR,  0, 121, 
+
+%Round: 1
+
+  2006 (17)<(47)     79  B
+  2047 (44)>(20)   4019  B
+
+%Round: 2
+
+  4019 (26)<(38)   2006  B
+    79 (51)>(13)   2047  B
+
+%Round: 3
+
+  2006 (26)<(38)   2047  B
+    79 (59)>(05)   4019  B
+
+%Round: 4
+
+    79 (50)>(14)   2006  B
+  4019 (16)<(48)   2047  B
+
+%Round: 5
+
+  2006 (39)>(25)   4019  B
+  2047 (01)<(63)     79  B
+
+%Round: 6
+
+  2047 (26)<(38)   2006  B
+  4019 (29)<(35)     79  B
+
+%%Added results

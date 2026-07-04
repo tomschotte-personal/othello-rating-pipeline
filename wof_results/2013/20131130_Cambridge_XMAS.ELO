@@ -1,0 +1,57 @@
+%%Tournament: Cambridge Christmas tournament
+%%Country: Great-Britain
+%%Date: 30/11/2013
+%%Sender: David Haigh
+
+%%Creator: David Haigh
+%%CreationDate: 2013/12/06 17:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, prev BOF rating, prev BOF games
+%_%    2006, ARNOLD, Roy, GB,  1,, 1329, 1353  
+%_%      73, BRIGHTWELL, Graham, GB, 2,, 1823, 963 
+%_%      79, LEADER, Imre, GB,  5.5,, 1855, 942
+%_%    5301, BERG, Matthias, DE,  6.5,, 1821, 38
+%_% +100020, BALKAN, Gokce, GB, 1,, 1400, 0 
+
+
+%Round: 1
+
+    79 > 100020  
+    73 >   2006 
+
+%Round: 2
+
+    79 >   2006 
+  5301 >     73  
+
+%Round: 3
+
+    79 >     73 
+  5301 > 100020 
+
+%Round: 4
+
+    73 > 100020 
+  5301 >   2006 
+
+%Round: 5
+
+100020 >   2006 
+  5301 >     79        
+
+%Round: 6
+
+  2006 > 100020 
+  5301 =     79  
+
+%Round: 7
+
+  5301 >     73 
+    79 >   2006 
+
+%Round: 8
+
+    79 >     73 
+  5301 > 100020 
+
+%%Added results

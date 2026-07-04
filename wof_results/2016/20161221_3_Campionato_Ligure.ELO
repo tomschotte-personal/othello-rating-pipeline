@@ -1,0 +1,19 @@
+%%Tournament: Campionato Ligure 2016-2017 - 3a Tappa
+%%Country: Italy
+%%Date: 21/12/2016
+%%Sender: Chiara Gigliucci 
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2855, BIANCHI, Paolo, I, 3, 91
+%_% 40102, OTTONELLO, Piera, I, 2, 57
+%_% 40117, CASTORE, Maurizio, I, 0, 44
+
+
+%Round 1 
+  2855 (46)>(18)  40102  B
+
+%Round 2 
+ 40117 (19)<(45)   2855  B
+
+%Round 3 
+ 40102 (39)>(25)  40117  B

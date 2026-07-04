@@ -1,0 +1,64 @@
+%%Tournament: 2009 US Open
+%%Country: USA
+%%Date: 21/03/2009
+%%Sender: Randy Fang
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/03/21 19:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4088, FANG, Randy, USA,  7, 311
+%_%    4089, CHITRA, Yohanes, USA,  6, 295
+%_%    6444, BARRICELLI, Giovanni, USA,  4, 244
+%_%    6407, LINDSTROM, Eric, USA,  4, 231
+%_%    6428, BISHOP, Robert, USA,  3, 230
+%_% + 20005, MONGER, Elisha, USA,  3, 219
+%_% + 20004, ROBICHAUD, Gregory, USA,  1, 94
+
+
+
+%Round: 1
+
+  4088 (52)>(12)  20005 B
+%Timed out
+  6407 (32)>(31)   6428 B
+  6444 (42)>(22)  20004 B
+
+%Round: 2
+
+  6407 (28)<(36)   4088 B
+  4089 (42)>(22)   6444 B
+ 20004 (04)<(60)  20005 B
+
+%Round: 3
+
+ 20004 (00)<(64)   4088 B
+  4089 (39)>(25)   6428 B
+ 20005 (27)<(37)   6407 B
+
+%Round: 4
+
+  6407 (18)<(46)   4089 B
+ 20005 (44)>(20)   6444 B
+ 20004 (12)<(52)   6428 B
+
+%Round: 5
+
+  4088 (36)>(28)   6444 B
+  6428 (44)>(20)  20005 B
+  4089 (60)>(04)  20004 B
+
+%Round: 6
+
+  6444 (41)>(23)   6407 B
+ 20005 (16)<(48)   4089 B
+  6428 (25)<(39)   4088 B
+
+%Round: 7
+
+  4088 (44)>(20)   4089 B
+  6428 (13)<(51)   6444 B
+  6407 (52)>(12)  20004 B
+
+
+%%Added results

@@ -1,0 +1,48 @@
+%%Tournament: Lomma Open
+%%Country: Sweden
+%%Date: 07/03/2026
+%%Sender: FREIBURGHAUS Kim
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  150016, EKLUND, Oskar, SWE, 5, 199, 2260
+%_%    1454, FRONMARK, Marcus, SWE, 4, 174, 2021
+%_%    1595, WAHLGREN, Rasmus, SWE, 3, 162, 1646
+%_%  150060, FREIBURGHAUS, Kim, SWE, 2, 136, 1965
+%_%    1596, RAGNARSSON, Robin, SWE, 1, 129, 1934
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/476
+
+%Round: 1
+
+  1454 (50)>(14) 150060  B
+  1596 (24)<(40)   1595  B
+
+%Round: 2
+
+  1595 (26)<(38)   1454  B
+150060 (29)<(35) 150016  B
+
+%Round: 3
+
+  1454 (33)>(31)   1596  B
+150016 (42)>(22)   1595  B
+
+%Round: 4
+
+  1596 (25)<(39) 150060  B
+150016 (43)>(21)   1454  B
+
+%Round: 5
+
+  1595 (42)>(22) 150060  B
+150016 (47)>(17)   1596  B
+
+%%Added results
+
+  1595 (13)<(51)   1454  B
+150060 (11)<(53) 150016  B
+150016 (38)>(26)   1454  B

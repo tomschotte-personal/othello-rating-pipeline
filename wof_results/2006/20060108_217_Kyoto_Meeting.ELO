@@ -1,0 +1,76 @@
+%%Tournament: 217th Kyoto Open
+%%Country: Japan
+%%Date: 08/01/2006
+%%Sender: Tom Schotte
+
+%Round1
+698 > 6970
+6860 > 11901
+6919 > 6931
+7054 > 10010
+5573 > 10125
+6995 > 5526
+6807 > 6929
+
+%Round2
+6970 > 6931
+6860 > 6807
+6919 > 698
+7054 > 6995
+5526 > 10125
+5573 > 10010
+6929 > 11901
+
+%Round3
+698 > 6807
+6970 > 5526
+6860 > 5573
+7054 > 6919
+10125 > 10010
+6995 > 6929
+6931 > 11901
+
+%Round4
+698 > 6995
+6970 > 6807
+6860 > 7054
+6919 > 5573
+5526 > 6929
+10125 > 6931
+10010 > 11901
+
+%Round5
+698 > 6860
+6970 > 6919
+7054 > 5526
+6995 > 10125
+10010 > 6931
+6807 > 11901
+6929 > 5573
+
+%Round6
+698 > 7054
+6970 > 6860
+6919 > 6995
+5526 > 10010
+10125 > 6807
+5573 > 11901
+6931 > 6929
+
+
+
+%Players
+%1 698	suekuni	makoto
+%2 6970	kudashou	takahiro
+%3 6860	miyazaki	yuji
+%4 6919	fukunaga	kohachi
+%5 7054	nakamori	hiroki
+%6 5526	uno	toshihiro
+%7 10125	nakano	takao
+%8 5573	nagayama	hironari
+%9 6995	funakoshi	shogo
+%10 10010	aoki	akira
+%11 6807	waku	you
+%12 6929	io	hideo
+%13 6931	obama	satomi
+%14 11901	nishimura	junichi

@@ -1,0 +1,39 @@
+%%Tournament: oudenaarde othello open B
+%%Country: Belgium
+%%Date: 30/06/2024
+%%Sender: SCHOTTE Tom
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  270004, VAN DAMME, Jan, BEL, 5, 197, 1266
+%_%  270009, JACOBS, Kristoffel, BEL, 3.5, 199, 1004
+%_%  270062, DEMOOR, Daphne, BEL, 2.5, 150, 1086
+%_%    2750, POLIAKOFF, Pierre, BEL, 2, 131, 1185
+%_%  270040, VAN DER AUWERA, Bjorn, BEL, 2, 123, 1123
+
+%Round: 1
+
+  2750 (15)<(49) 270040  B
+270009 (18)<(46) 270004  B
+
+%Round: 2
+
+270004 (42)>(22) 270062  B
+270040 (02)<(62) 270009  B
+
+%Round: 3
+
+270062 (32)=(32) 270009  B
+270004 (33)>(31)   2750  B
+
+%Round: 4
+
+270040 (20)<(44) 270004  B
+  2750 (44)>(20) 270062  B
+
+%Round: 5
+
+270009 (55)>(09)   2750  B
+270062 (44)>(20) 270040  B

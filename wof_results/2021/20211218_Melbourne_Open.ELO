@@ -1,0 +1,51 @@
+%%Tournament: Melbourne Open
+%%Country: Australia
+%%Date: 18/12/2021
+%%Sender: G.Ortiz
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2021/12/28 22:19
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4113, VINAR, Matt, AUS,  5, 305, 2173
+%_%  260035, CHAN, Ivan, AUS,  4, 218, 1126
+%_% +260038, SKEWES, William, AUS,  3, 151, 0
+%_%  260037, SKEWES, Eugene, AUS,  2, 122, 0
+%_%  260009, MILANKOV, Dylan, AUS,  1, 105, 99
+%_% +260039, CHAN, Denise, AUS,  0, 59, 0
+
+
+
+%Round: 1
+
+260038 (14)<(50) 260035  B
+260009 (15)<(49) 260037  B
+260039 (01)<(63)   4113  B
+
+%Round: 2
+
+260037 (22)<(42) 260038  B
+260035 (58)>(06) 260039  B
+  4113 (56)>(08) 260009  B
+
+%Round: 3
+
+260037 (00)<(64)   4113  B
+260009 (11)<(53) 260035  B
+260038 (46)>(18) 260039  B
+
+%Round: 4
+
+  4113 (64)>(00) 260038  B
+260035 (51)>(13) 260037  B
+260039 (08)<(56) 260009  B
+
+%Round: 5
+
+  4113 (58)>(06) 260035  B
+260038 (49)>(15) 260009  B
+260037 (38)>(26) 260039  B
+
+
+%%Added results
+260035 (42)>(22)   4113  B

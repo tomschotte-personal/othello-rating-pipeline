@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 28/01/2023
+%%Sender: Michel Busuttil
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/01/28 18:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4, 204, 2095
+%_%   50096, LEVY, Marc, FRA,  4, 195, 1759
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 194, 1962
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 190, 1832
+%_%     839, KASHIWABARA, Takuji, FRA,  3, 172, 2158
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 131, 1815
+%_%     228, BUSUTTIL, Michel, FRA,  1, 118, 1501
+%_%     419, BETIN, Dominique, FRA,  0, 76, 1442
+
+
+
+%Round: 1
+
+   839 (51)>(13)     45  B
+ 50096 (43)>(21)    228  B
+   419 (09)<(55)   3598  B
+     2 (24)<(40)   9025  B
+
+%Round: 2
+
+  9025 (30)<(34)    839  B
+  3598 (22)<(42)  50096  B
+   228 (33)>(31)    419  B
+    45 (06)<(58)      2  B
+
+%Round: 3
+
+   228 (24)<(40)   9025  B
+ 50096 (30)<(34)    839  B
+     2 (33)>(31)   3598  B
+   419 (14)<(50)     45  B
+
+%Round: 4
+
+    45 (18)<(46)  50096  B
+   839 (31)<(33)      2  B
+  3598 (44)>(20)    228  B
+  9025 (50)>(14)    419  B
+
+%Round: 5
+
+   839 (22)<(42)   3598  B
+   419 (08)<(56)      2  B
+   228 (20)<(44)     45  B
+ 50096 (34)>(30)   9025  B
+
+
+%%Added results

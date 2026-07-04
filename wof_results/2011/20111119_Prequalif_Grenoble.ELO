@@ -1,0 +1,72 @@
+%%Tournament: prequalificatif de Grenoble
+%%Country: France
+%%Date: 19/11/2011 - 20/11/2011
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/11/20 23:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     839, KASHIWABARA, Takuji, F, 10, 425
+%_%       2, TASTET, Marc, F,  6.5, 367
+%_%    3518, DELAUNAY, Arnaud, F,  6, 346
+%_%      11, LAZARD, Emmanuel, F,  5.5, 352
+%_%     125, MICHEL, Stephane, F,  2, 190
+
+
+
+%Round: 1
+
+   839 (33)>(31)      2  B
+  3518 (28)<(36)     11  B
+
+%Round: 2
+
+   125 (07)<(57)   3518  B
+    11 (26)<(38)    839  B
+
+%Round: 3
+
+     2 (32)=(32)     11  B
+   839 (47)>(17)    125  B
+
+%Round: 4
+
+  3518 (30)<(34)    839  B
+   125 (29)<(35)      2  B
+
+%Round: 5
+
+    11 (56)>(08)    125  B
+     2 (38)>(26)   3518  B
+
+%Round: 6
+
+     2 (30)<(34)    839  B
+    11 (26)<(38)   3518  B
+
+%Round: 7
+
+  3518 (46)>(18)    125  B
+   839 (44)>(20)     11  B
+
+%Round: 8
+
+    11 (27)<(37)      2  B
+   125 (07)<(57)    839  B
+
+%Round: 9
+
+   839 (58)>(06)   3518  B
+     2 (55)>(09)    125  B
+
+%Round: 10
+
+   125 (15)<(49)     11  B
+  3518 (35)>(29)      2  B
+
+
+%%Added results
+     2 (48)>(16)    839  B
+   839 (45)>(19)      2  B
+   839 (44)>(20)      2  B

@@ -1,0 +1,44 @@
+%%Tournament: Kfar-Saba children open 
+%%Country: Israel
+%%Date: 30/12/2017
+%%Sender: Leonid Shifman
+
+% ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    200012, FABIAN, Asaf, IL, 4, 191
+%_%    200034, CHERESHNYA, Yaron, IL, 3, 165
+%_%    200025, ASULIN, Noam, IL, 3, 169
+%_%    200040, LAUFER, Shahar, IL, 3, 187
+%_%    200009, SHIFMAN, Shani, IL, 3, 153
+%_%    200014, FRIDMAN, Tal, IL, 3, 149
+%_%    200026, ASULIN, Avner, IL, 1, 111
+
+%Round 1
+
+200009 (09)<(55) 200040  B
+200012 (35)>(29) 200014  B
+200025 (27)<(37) 200034  B
+
+%Round 2
+
+200014 (14)<(50) 200009  B
+200040 (26)<(38) 200034  B
+200026 (20)<(44) 200012  B
+
+%Round 3
+
+200040 (43)>(21) 200026  B
+200009 (21)<(43) 200025  B
+200034 (13)<(51) 200012  B
+
+%Round 4
+
+200026 (11)<(53) 200034  B
+200025 (29)<(35) 200014  B
+200012 (34)>(30) 200040  B
+
+%Round 5
+200014 (38)>(26) 200026  B
+200034 (24)<(40) 200009  B
+200025 (37)>(27) 200012  B
+
+%%Added results

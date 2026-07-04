@@ -1,0 +1,34 @@
+%%Tournament: Selection d'Aubervilliers
+%%Country: France
+%%Date: 30/06/2001
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 709 <  355
+3518 < 3517
+   2 > 3378
+
+%%Round: 2
+
+3517 <    2
+3378 <  781
+ 355 > 3518
+
+%%Round: 3
+
+ 781 =  709
+   2 >  355
+3517 > 3378
+
+%%Round: 4
+
+ 709 <    2
+ 355 > 3517
+3518 <  781
+
+%%Round: 5
+
+3517 <  709
+ 781 <    2
+3378 > 3518

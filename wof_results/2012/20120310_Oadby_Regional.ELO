@@ -1,0 +1,63 @@
+%%Tournament: Oadby Regional
+%%Country: Great-Britain
+%%Date: 10/03/2012
+%%Sender: ROWE Stephen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/03/23 02:38
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      79, LEADER, Imre, GB,  7, 289
+%_%    2052, EDMEAD, Garry, GB,  6, 298
+%_%    2047, BARRASS, Iain, GB,  5, 282
+%_%    2042, BURGESS, Andrew, GB,  3, 236
+%_%    2006, ARNOLD, Roy, GB,  3, 226
+%_%    2091, ROWE, Stephen, GB,  3, 187
+%_%    2353, CALLADINE, Robert, GB,  1, 106
+
+
+
+%Round: 1
+
+    79 (47)>(17)   2091  B
+  2042 (18)<(46)   2047  B
+  2353 (15)<(49)   2052  B
+
+%Round: 2
+
+  2091 (34)>(30)   2042  B
+  2047 (42)>(22)   2006  B
+  2052 (30)<(34)     79  B
+
+%Round: 3
+
+  2006 (46)>(18)   2091  B
+    79 (49)>(15)   2353  B
+  2052 (47)>(17)   2042  B
+
+%Round: 4
+
+  2091 (12)<(52)   2047  B
+    79 (34)>(30)   2006  B
+  2042 (52)>(12)   2353  B
+
+%Round: 5
+
+  2047 (58)>(06)   2353  B
+  2006 (25)<(39)   2052  B
+  2042 (21)<(43)     79  B
+
+%Round: 6
+
+  2353 (11)<(53)   2091  B
+  2052 (42)>(22)   2047  B
+  2006 (06)<(58)   2042  B
+
+%Round: 7
+
+  2091 (13)<(51)   2052  B
+  2047 (22)<(42)     79  B
+  2353 (07)<(57)   2006  B
+
+
+%%Added results

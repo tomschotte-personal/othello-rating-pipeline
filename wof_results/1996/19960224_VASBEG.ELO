@@ -1,0 +1,34 @@
+%%Tournament: Vasteras Beginner's tournament
+%%Country: Sweden
+%%Date: 24/02/1996
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+1477 < 1475
+1474 < 1429
+1476 < 1424
+
+%%Round: 2
+
+1429 < 1476
+1424 > 1477
+1475 > 1474
+
+%%Round: 3
+
+1476 > 1477
+1429 > 1475
+1474 < 1424
+
+%%Round: 4
+
+1475 > 1476
+1477 < 1474
+1424 > 1429
+
+%%Round: 5
+
+1476 < 1474
+1475 < 1424
+1429 > 1477

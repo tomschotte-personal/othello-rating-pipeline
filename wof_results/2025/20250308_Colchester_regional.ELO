@@ -1,0 +1,50 @@
+%%Tournament: Colchester Regional 2025
+%%Country: Great-Britain
+%%Date: 08/03/2025
+%%Sender: Stephen Rowe
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2025/03/08 02:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    6437, BECK, David, GBR,  5, 244, 2123
+%_%      79, LEADER, Imre, GBR,  4, 278, 2170
+%_%    4123, CHAN, Cheuk Wing, HKG,  3, 141, 1080
+%_%    2091, ROWE, Stephen, GBR,  2, 121, 1497
+%_% +100068, Abbott, Stephen, GB,  1, 90, 0
+%_%    2093, JORDAN, Yvette, GBR,  0, 86, 1309
+
+
+
+%Round: 1
+
+100068 (31)<(33)   2091  B
+  4123 (43)>(21)   2093  B
+  6437 (34)>(30)     79  B
+
+%Round: 2
+
+  2091 (29)<(35)   4123  B
+  2093 (11)<(53)   6437  B
+    79 (64)>(00) 100068  B
+
+%Round: 3
+
+100068 (15)<(49)   6437  B
+  2091 (40)>(24)   2093  B
+  4123 (02)<(62)     79  B
+
+%Round: 4
+
+  2093 (30)<(34) 100068  B
+  6437 (57)>(07)   4123  B
+    79 (58)>(06)   2091  B
+
+%Round: 5
+
+  4123 (54)>(10) 100068  B
+  2091 (13)<(51)   6437  B
+    79 (64)>(00)   2093  B
+
+
+%%Added results

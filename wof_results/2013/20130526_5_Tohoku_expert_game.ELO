@@ -1,0 +1,31 @@
+%%Tournament: 5_Tohoku_expert_game
+%%Country: Japan
+%%Date: 26/05/2013
+%%Sender: Hiroyuki Iwata
+
+%_%   5584, OSHIMIZU, takanori, JPN, 4.0, 177
+%_%  10616, SATOHISA, kazu, JPN, 3.0, 138
+%_%  10372, YASUJIMA, yuji, JPN, 2.0, 110
+%_%   7034, YOSHIDA, taisaku, JPN, 1.0, 109
+%_%    652, HORIUCHI, keiko, JPN, 0.0, 106
+
+%Round 1
+  5584 (48)>(16)   7034 
+ 10616 (36)>(28)    652 
+
+%Round 2
+  5584 (40)>(24)    652 
+ 10616 (39)>(25)  10372 
+
+%Round 3
+ 10616 (40)>(24)   7034 
+ 10372 (33)>(31)    652 
+
+%Round 4
+  5584 (48)>(16)  10372 
+  7034 (41)>(23)    652 
+
+%Round 5
+  5584 (41)>(23)  10616 
+ 10372 (36)>(28)   7034 
+

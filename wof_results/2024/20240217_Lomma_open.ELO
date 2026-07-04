@@ -1,0 +1,28 @@
+%%Tournament: Lomma open
+%%Country: Sweden
+%%Date: 17/02/2024
+%%Sender: kim freiburghaus
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/02/29 19:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150060, FREIBURGHAUS, Kim, SWE,  2, 113, 1862
+%_%    1454, FRONMARK, Marcus, SWE,  1, 79, 2007
+
+
+
+%Round: 1
+
+  1454 (46)>(18) 150060  B
+
+%Round: 2
+
+150060 (46)>(18)   1454  B
+
+%Round: 3
+
+  1454 (15)<(49) 150060  B
+
+
+%%Added results

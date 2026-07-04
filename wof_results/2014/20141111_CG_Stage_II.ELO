@@ -1,0 +1,26 @@
+%%Tournament: CG - Campionato Genovese Stage II
+%%Country: Italy
+%%Date: 11/11/2014
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 15:50
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2855, BIANCHI, Paolo,  3, 133
+%_%  2885, IACONO, Stefano,  2, 97
+%_% 40096, LANZAVECCHIA, Pierdante,  1, 61
+
+
+
+%Round: 1
+
+  2855 (45)>(19)   2885  B
+
+%Round: 2
+
+ 40096 (09)<(55)   2855  B
+
+%Round: 3
+ 
+  2885 (45)>(19)  40096  B

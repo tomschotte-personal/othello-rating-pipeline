@@ -1,0 +1,62 @@
+%%Tournament: Australian Nationals 2010
+%%Country: Australia
+%%Date: 28/08/2010
+%%Sender: Tom Schotte
+
+%List of players (scores & disc-counts do NOT include the 1 game final or BYEs)
+
+%_%    4113, VINAR, Matt, AUS, 5, 258
+%_%    4112, FU, Amy, AUS, 4, 236
+%_%  260007, YANAGI, Michiko, AUS, 3.5, 225
+%_% +260008, YANAGI, Masahide, AUS, 3, 146
+%_%  260005, MOYLE, Justin, AUS, 2, 94
+%_%    4107, HUGHES, Scott, AUS, 2.5, 184
+%_%  260003, GIRARDO, Robert, AUS, 2, 148
+%_% +260009, MILANKOV, Dylan, AUS, 1, 86
+%_%  260004, DIXON, Nicole, AUS, 1, 68
+%_% +260010, VINAR-HENDRICH, Lachlan, AUS, 1, 64
+%_% +260011, MACARIO, Maria, AUS, 0, 91
+ 
+
+%Round 1
+  4113  (45)>(19) 260007 B
+  4112  (59)>(05) 260004 B 
+  4107  (58)>(06) 260010 B
+260008  (39)>(25) 260009 B
+260005  (37)>(27) 260003 B
+%Maria(260011) - BYE
+
+%Round 2
+  4113  (62)>(02) 260008 B
+  4107  (18)<(46)   4112 B
+260007  (55)>(09) 260004 B
+260005  (45)>(19) 260011 B
+260003  (43)>(21) 260009 B
+%Lachlan(260010) - BYE
+
+%Round 3
+  4112  (17)<(47)   4113 B
+260005  (02)<(62)   4107 B
+260008  (41)>(23) 260003 B
+260009  (00)<(64) 260007 B
+260010  (34)>(30) 260011 B
+%Nicole(260004) - BYE
+
+%Round 4
+  4113  (54)>(10) 260005 B
+260010  (00)<(64)   4112 B
+260007  (32)=(32)   4107 B
+260004  (14)<(50) 260008 B
+260003  (46)>(18) 260011 B
+%Dylan(260009) - BYE
+
+%Round 5
+  4107  (14)<(50)   4113 B
+260007  (55)>(09) 260003 B
+260008  (14)<(50)   4112 B
+260009  (40)>(24) 260010 B
+260011  (24)<(40) 260004 B
+%Justin(260005) - BYE
+
+%FINAL
+  4113  (50)>(14)   4112 B

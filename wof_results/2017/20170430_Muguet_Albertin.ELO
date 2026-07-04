@@ -1,0 +1,55 @@
+%%Tournament: Muguet ALBERTIN
+%%Country: France
+%%Date: 30/04/2017
+%%Sender: Jacky Bruiant
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/04/30 16:11
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 242, 1786
+%_%     419, BETIN, Dominique, FRA,  4, 194, 1481
+%_%   50053, TASTET, Remi, FRA,  3, 169, 992
+%_%     275, OVION, Jacques, FRA,  2, 169, 1141
+%_%    9061, TIMMERMAN, Jean-Louis, FRA,  2, 142, 1056
+%_%   50028, BRUIANT, Jacky, FRA,  2, 135, 1223
+%_%   50081, TASTET, Sophie, FRA,  2, 117, 202
+%_%  +50097, OVION, Alix-Anne, FRA,  1, 64, 0
+
+
+
+%Round: 1
+
+    45 (31)<(33)   9061  B
+   419 (50)>(14)  50081  B
+   275 (51)>(13)  50053  B
+
+%Round: 2
+
+  9061 (42)>(22)    275  B
+ 50053 (13)<(51)     45  B
+ 50028 (29)<(35)    419  B
+
+%Round: 3
+
+ 50081 (06)<(58)     45  B
+   419 (53)>(11)   9061  B
+   275 (44)>(20)  50028  B
+ 50097 (06)<(58)  50053  B
+
+%Round: 4
+
+ 50081 (41)>(23)    275  B
+    45 (43)>(21)    419  B
+  9061 (27)<(37)  50053  B
+ 50028 (41)>(23)  50097  B
+
+%Round: 5
+
+    45 (59)>(05)  50028  B
+ 50053 (48)>(16)  50081  B
+   419 (35)>(29)    275  B
+ 50097 (35)>(29)   9061  B
+
+
+%%Added results

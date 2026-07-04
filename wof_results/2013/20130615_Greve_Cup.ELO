@@ -1,0 +1,48 @@
+%%Tournament: Greve Cup 2013
+%%Country: Denmark
+%%Date: 15/06/2013
+%%Sender: Mateusz
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/07/19 22:38
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1045, NIELSEN, Kim J., DNK,  5, 248, 1720
+%_%    1025, BADSTED, Palle, DNK,  3, 212, 1761
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  3, 177, 1647
+%_%    1981, STOKKE, Solrun, DNK,  1, 131, 1532
+
+
+
+%Round: 1
+
+  1045 (58)>(06)   1981  B
+  1025 (36)>(28)   1019  B
+
+%Round: 2
+
+  1045 (37)>(27)   1025  B
+  1981 (29)<(35)   1019  B
+
+%Round: 3
+
+  1045 (43)>(21)   1019  B
+  1981 (53)>(11)   1025  B
+
+%Round: 4
+
+  1045 (47)>(17)   1981  B
+  1025 (50)>(14)   1019  B
+
+%Round: 5
+
+  1045 (38)>(26)   1025  B
+  1981 (24)<(40)   1019  B
+
+%Round: 6
+
+  1045 (25)<(39)   1019  B
+  1981 (02)<(62)   1025  B
+
+
+%%Added results

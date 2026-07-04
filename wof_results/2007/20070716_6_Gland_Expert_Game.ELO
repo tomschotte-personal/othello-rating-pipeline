@@ -1,0 +1,122 @@
+%%Tournament: 6th Gland Expert Game
+%%Country: Japan
+%%Date: 16/07/2007
+%%Sender: Tom Schotte
+
+%Round1
+699 > 5547
+5514 > 6974
+5502 > 5551
+6959 > 6914
+4014 > 5628
+6840 > 5518
+5517 > 5545
+5520 > 7000
+5603 > 10144
+5654 > 5555
+5584 > 652
+6816 > 5609
+6839 > 5563
+5525 > 4004
+5574 > 6931
+
+%Round2
+699 > 5525
+5514 > 5584
+5502 > 5574
+6959 > 5603
+5563 > 5609
+6840 > 4014
+5517 > 5654
+5520 > 652
+6931 > 5551
+5547 > 4004
+6816 > 6839
+7000 > 6974
+5628 > 5518
+5555 > 5545
+6914 > 10144
+
+%Round3
+699 > 5517
+5514 > 6959
+5502 > 5520
+4014 > 6839
+5563 > 5628
+6840 > 6816
+5603 > 5584
+5654 > 5525
+6931 > 6914
+5547 > 5555
+652 > 5551
+7000 > 5574
+4004 > 5545
+6974 > 10144
+5609 > 5518
+
+%Round4
+699 > 6840
+5514 > 5502
+6959 > 5520
+4014 > 5654
+5563 > 5547
+5517 > 6816
+5603 > 7000
+6931 > 6974
+5584 > 5574
+652 > 6914
+6839 > 5525
+5628 > 5555
+4004 > 5609
+5551 > 10144
+5518 > 5545
+
+%Round5
+699 > 5514
+5502 > 6840
+6959 > 5517
+4014 > 5603
+5563 > 6931
+5520 > 6816
+5654 > 5628
+5584 > 6839
+5547 > 7000
+652 > 4004
+5525 > 5574
+5555 > 6914
+6974 > 5609
+5551 > 5518
+5545 > 10144
+
+
+%players
+%1 699	kitajima	masato
+%2 5514	watahiki	kenta
+%3 5502	goto	hiroshi
+%4 6959	suzuki	takahiro
+%5 4014	tominaga	kenta
+%6 5563	kurachi	takayuki
+%7 6840	tanaka	siyuntaro
+%8 5517	watanabe	hideaki
+%9 5520	okuda	tsuyoshi
+%10 5603	sawaki	yusuke
+%11 5654	kanou	eisuke
+%12 6931	obama	satomi
+%13 5584	oshimizu	takanori
+%14 5547	ohno	atsuko
+%15 652	horiuchi	keiko
+%16 6816	asahina	satoshi
+%17 6839	matsutani	shinpei
+%18 7000	miyashita	naoto
+%19 5525	ura	satoru
+%20 5628	ohuchi	yasuhiro
+%21 5555	sato	tetsuya
+%22 4004	sano	yoko
+%23 6974	hirabayasi	eiji
+%24 5551	sugisaki	nemoto
+%25 5574	takashima	ryoji
+%26 6914	nakayama	takahiro
+%27 5609	mori	takahiro
+%28 5518	shimonosono	kozo
+%29 5545	kobayashi	manabu
+%30 10144	tanaka	mitiko

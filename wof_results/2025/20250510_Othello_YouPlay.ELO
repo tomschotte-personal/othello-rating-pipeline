@@ -1,0 +1,52 @@
+%%Tournament: Othello YouPlay
+%%Country: Poland
+%%Date: 10/05/2025
+%%Sender: ATAMANOV Dmitry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  130008, POLONSKI, Maciej, POL, 4, 173, 1870
+%_%  +130070, Szalankiewicz, Gniewomir, POL, 3, 145, -
+%_%  +130071, Jany, Piotr, POL, 2, 147, -
+%_%  +130072, Slodzinski, Kacper, POL, 2, 153, -
+%_%  +130073, Pawlak, Tomasz, POL, 2, 111, -
+%_%  +130074, Gronowski, Jakub, POL, 1, 91, -
+%_%  +130075, Slodzinska, Dominika, POL, 1, 112, -
+%_%  +130076, Zamrzycki, Andrzej, POL, 1, 92, -
+
+%Round: 1
+
+130070 (35)>(29) 130076  B
+130071 (19)<(45) 130008  B
+130072 (27)<(37) 130074  B
+130073 (14)<(50) 130075  B
+
+%Round: 2
+
+130073 (09)<(55) 130072  B
+130076 (10)<(54) 130071  B
+130008 (44)>(20) 130074  B
+130075 (18)<(46) 130070  B
+
+%Round: 3
+
+130076 (12)<(52) 130073  B
+130072 (43)>(21) 130075  B
+130074 (06)<(58) 130071  B
+130070 (16)<(48) 130008  B
+
+%Round: 4
+
+130075 (23)<(41) 130076  B
+130074 (28)<(36) 130073  B
+130071 (16)<(48) 130070  B
+130008 (36)>(28) 130072  B
+
+%%Added results
+
+130072 (09)<(55) 130008  B
+130070 (19)<(45) 130071  B
+130072 (23)<(41) 130070  B
+130008 (52)>(12) 130071  B

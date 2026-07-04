@@ -1,0 +1,67 @@
+%%Tournament: 38th Niigata Othello Conference
+%%Country: Japan
+%%Date: 02/04/2000
+%%Sender: Tom Schotte
+
+%round1
+488 > 11999
+7047 > 12001
+7096 > 7048
+11128 > 12000
+10585 > 10381
+11998 > 11957
+7046 > 12002 
+
+%round2
+488 > 7047
+7096 > 11128
+7048 > 11998
+10585 > 7046
+11957 > 12000
+11999 > 12001
+10381 > 12002
+
+%round3
+488 > 10585
+7047 > 11957
+7096 > 7046
+7048 > 11128
+11998 > 12000
+10381 > 11999
+12001 > 12002
+
+%round4
+488 > 7096
+7047 > 7048
+11128 > 11998
+10585 > 10381
+7046 > 11999
+11957 > 12001
+12000 > 12002
+
+%round5
+488 > 7046
+7047 > 7096
+7048 > 10585
+11128 > 11957
+11998 > 10381
+11999 > 12002
+12000 > 12001
+
+
+
+%players
+%1 488	takizawa	masaki	
+%2 7047	umezawa	yoshinori
+%3 7096	suzuki	nobuyuki
+%4 7048	kanda	yoshihiro
+%5 11128	kume	tomofumi
+%6 10585	matuzawa	takashi
+%7 11998	yokoi	taiki
+%8 7046	sasaki	sadayuki
+%9 11957 watanabe teruko
+%10 11999	sato	kisan
+%11 10381	iwasaka	nishimura
+%12 12000	igarashi	yoshifumi
+%13 12001	igarashi	nozomi
+%14 12002	sato	haruna

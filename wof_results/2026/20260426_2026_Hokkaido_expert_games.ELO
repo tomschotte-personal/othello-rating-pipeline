@@ -1,0 +1,42 @@
+%%Tournament: 2026_Hokkaido_expert_games
+%%Country: Japan
+%%Date: 26/04/2026
+%%Sender: WOF rating committee (unofficial; from JP Federation block CSV)
+
+%_%   5581, TAKAHASHI, satomi, JPN, 6.0, 112
+%_%  16133, MATSURA, yoichiro, JPN, 3.0, 155
+%_%   6868, SASAKI, sohei, JPN, 3.0, 131
+%_%  13907, TATENO, yuuya, JPN, 2.5, 181
+%_%   7018, OKABAYASHI, noguchi, JPN, 2.0, 145
+%_%  15892, YAMAMOTO, sora, JPN, 1.0, 232
+%_%  10555, ISHII, kentarou, JPN, 0.5, 196
+
+%Round 1
+   6868 (32)=(32)   16133 
+   5581 (15)>(49)   15892 
+   7018 (25)>(39)   10555 
+
+%Round 2
+   6868 (26)>(38)    7018 
+  16133 (32)=(32)   10555 
+   5581 (08)>(56)   13907 
+
+%Round 3
+   5581 (27)>(37)    6868 
+  13907 (18)>(46)   15892 
+  16133 (26)>(38)    7018 
+
+%Round 4
+   6868 (32)=(32)   13907 
+  15892 (17)>(47)   10555 
+   5581 (19)>(45)   16133 
+
+%Round 5
+   6868 (04)>(60)   15892 
+   5581 (24)>(40)    7018 
+  13907 (31)>(33)   10555 
+
+%Round 6
+   7018 (04)>(60)   15892 
+  16133 (20)>(44)   13907 
+   5581 (19)>(45)   10555 

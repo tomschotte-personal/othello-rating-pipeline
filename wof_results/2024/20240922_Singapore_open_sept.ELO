@@ -1,0 +1,44 @@
+%%Tournament: Singapore open sept. 2024
+%%Country: Singapore
+%%Date: 22/09/2024
+%%Sender: Alex Koh
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/09/22 14:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  250005, GOH, Jun Jie Anthony, SGP,  4.5, 216, 1918
+%_%  250293, KOH DING SHENG, Calvin, SGP,  3.5, 173, 1883
+%_%  250174, KURNIAWAN, Samuel Henry, SGP,  3.5, 173, 1926
+%_%  250120, WIRAWAN, Daniel, SGP,  2, 153, 1865
+%_%  250300, TAY WEI SHENG, Mark, SGP,  1.5, 125, 1296
+
+
+
+%Round: 1
+
+250300 (20)<(44) 250120  B
+250005 (45)>(19) 250293  B
+
+%Round: 2
+
+250174 (32)=(32) 250005  B
+250293 (32)=(32) 250300  B
+
+%Round: 3
+
+250120 (26)<(38) 250293  B
+250300 (18)<(46) 250174  B
+
+%Round: 4
+
+250005 (49)>(15) 250300  B
+250174 (35)>(29) 250120  B
+
+%Round: 5
+
+250293 (44)>(20) 250174  B
+250120 (14)<(50) 250005  B
+
+
+%%Added results

@@ -1,0 +1,64 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 01/03/2020
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/06/05 23:31
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 242, 2084
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 179, 1805
+%_%   50096, LEVY, Marc, FRA,  3, 190, 1720
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 172, 1738
+%_%     228, BUSUTTIL, Michel, FRA,  2, 163, 1514
+%_%    3600, BENOIT, Serge, FRA,  2, 156, 1367
+%_%    3734, CLUZON, Gilles, FRA,  2, 127, 1315
+%_%     275, OVION, Jacques, FRA,  1.5, 152, 1093
+%_%     419, BETIN, Dominique, FRA,  1.5, 140, 1514
+%_%   50097, OVION, Alix-Anne, FRA,  1, 79, 51
+
+
+
+%Round: 1
+
+   228 (30)<(34)     45  B
+ 50096 (29)<(35)   9025  B
+     2 (59)>(05)   3600  B
+   419 (51)>(13)  50097  B
+  3734 (35)>(29)    275  B
+
+%Round: 2
+
+  3600 (58)>(06)    419  B
+    45 (62)>(02)   3734  B
+ 50097 (08)<(56)    228  B
+   275 (28)<(36)  50096  B
+  9025 (20)<(44)      2  B
+
+%Round: 3
+
+   275 (18)<(46)  50097  B
+   228 (43)>(21)   3600  B
+   419 (22)<(42)   9025  B
+     2 (49)>(15)     45  B
+  3734 (15)<(49)  50096  B
+
+%Round: 4
+
+    45 (35)>(29)    419  B
+  3600 (19)<(45)    275  B
+ 50096 (26)<(38)      2  B
+ 50097 (01)<(63)   3734  B
+  9025 (44)>(20)    228  B
+
+%Round: 5
+
+   228 (14)<(50)  50096  B
+     2 (52)>(12)   3734  B
+   419 (32)=(32)    275  B
+  3600 (53)>(11)  50097  B
+  9025 (31)<(33)     45  B
+
+
+%%Added results

@@ -1,0 +1,59 @@
+%%Tournament: 41st Niigata Othello Conference
+%%Country: Japan
+%%Date: 23/12/2001
+%%Sender: Tom Schotte
+
+%round1
+488 > 7048
+7034 > 10381
+7047 > 11128
+10585 > 7046
+5545 > 7051
+11996 > 11997
+
+%round2
+488 > 7047
+7048 > 11128
+7046 > 11997
+7034 > 5545
+10585 > 11996
+7051 > 10381
+
+%round3
+488 > 10585
+7048 > 11997
+7046 > 5545
+7034 > 7051
+7047 > 11996
+11128 > 10381
+
+%round4
+488 > 7034
+7048 > 10585
+7046 > 7047
+7051 > 11128
+5545 > 11996
+10381 > 11997
+
+%round5
+488 > 7046
+7048 > 7034
+7047 > 7051
+10585 > 5545
+11128 > 11997
+10381 > 11996
+
+
+%players
+%1 488	takizawa	masaki	
+%2 7048	kanda	yoshihiro
+%3 7046	sasaki	sadayuki
+%4 7034	yoshida	taisaku
+%5 7047	umezawa	yoshinori
+%6 10585	matuzawa	takashi
+%7 11128	kume	tomofumi
+%8 7051	okuno	tomoji
+%9 5545	kobayashi	manabu
+%10 10381	iwasaka	nishimura
+%11 11996 watanabe teruko
+%12 11997 naruse yumiko

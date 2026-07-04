@@ -1,0 +1,50 @@
+%%Tournament: PGS categorie ed esordienti
+%%Country: Italy
+%%Date: 25/01/2025
+%%Sender: VECCHI Elisabetta
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40230, IANNUZZI, Emanuele, ITA, 4, 162, 1294
+%_%   +40256, Santori, Monaldo, ITA, 3, 158, -
+%_%   40222, MARIOTTI, Andrea, ITA, 2.5, 147, -
+%_%   40207, LUCENTI, Valerio, ITA, 2, 122, -
+%_%   +40257, Venditti, Donato, ITA, 2, 125, -
+%_%   +40258, Bosco, Marco, ITA, 2, 106, -
+%_%   40185, PARADISI, Simone, ITA, 1.5, 129, -
+%_%   +40259, Bianchi, Francesco, ITA, 1, 112, -
+%_%   +40260, Bianchi, Laura Sofia, ITA, 1, 91, -
+%_%   40219, MAZZOCCO, Luca, ITA, 1, 96, -
+
+%Round: 1
+
+ 40222 (16)<(48)  40230  B
+ 40219 (46)>(18)  40259  B
+ 40260 (22)<(42)  40185  B
+ 40258 (18)<(46)  40256  B
+ 40257 (18)<(46)  40207  B
+
+%Round: 2
+
+ 40259 (15)<(49)  40222  B
+ 40257 (48)>(16)  40258  B
+ 40256 (50)>(14)  40260  B
+ 40207 (40)>(24)  40185  B
+ 40230 (41)>(23)  40219  B
+
+%Round: 3
+
+ 40260 (23)<(41)  40259  B
+ 40219 (27)<(37)  40258  B
+ 40185 (31)<(33)  40257  B
+ 40222 (50)>(14)  40207  B
+ 40256 (20)<(44)  40230  B
+
+%Round: 4
+
+ 40230 (38)>(26)  40257  B
+ 40207 (22)<(42)  40256  B
+ 40185 (32)=(32)  40222  B
+ 40259 (24)<(40)  40258  B

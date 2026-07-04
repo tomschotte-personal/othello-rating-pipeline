@@ -1,0 +1,63 @@
+%%Tournament: Lund Open
+%%Country: Sweden
+%%Date: 19/03/2011
+%%Sender: Henry
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/05/27 00:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1301, STEENTOFT, Benkt, S,  6.5, 270
+%_%    1358, RIGNELL, Daniel, S,  6, 279
+%_%    1577, ODSELL, Caroline, S,  4.5, 267
+%_%  150009, WETTERGREN, Niklas, S,  4, 229
+%_%    1596, RAGNARSSON, Robin, S,  3, 218
+%_%    1390, MANSSON, Sandra, S,  3, 199
+%_%    1389, SOSNOWSKI, Mateusz, PL,  1, 162
+
+
+
+%Round: 1
+
+  1596 (17)<(47)   1577  B
+  1389 (25)<(39) 150009  B
+  1390 (24)<(40)   1301  B
+
+%Round: 2
+
+  1358 (56)>(08)   1389  B
+  1301 (33)>(31)   1596  B
+150009 (35)>(29)   1390  B
+
+%Round: 3
+
+  1577 (32)=(32)   1301  B
+  1390 (11)<(53)   1358  B
+  1596 (36)>(28) 150009  B
+
+%Round: 4
+
+  1389 (26)<(38)   1390  B
+150009 (37)>(27)   1577  B
+  1358 (37)>(27)   1596  B
+
+%Round: 5
+
+  1301 (45)>(19) 150009  B
+  1596 (38)>(26)   1389  B
+  1577 (31)<(33)   1358  B
+
+%Round: 6
+
+  1390 (35)>(29)   1596  B
+  1358 (27)<(37)   1301  B
+  1389 (16)<(48)   1577  B
+
+%Round: 7
+
+150009 (31)<(33)   1358  B
+  1577 (42)>(22)   1390  B
+  1301 (43)>(21)   1389  B
+
+
+%%Added results

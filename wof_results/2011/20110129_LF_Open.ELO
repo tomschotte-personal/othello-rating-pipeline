@@ -1,0 +1,48 @@
+%%Tournament: LF Open
+%%Country: Denmark
+%%Date: 29/01/2011
+%%Sender: Henrik Vallund
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/01/30 13:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     804, HUBBARD, Geoff, AUS,  6, 295
+%_%      96, VALLUND, Henrik, DK,  3, 185
+%_%    1981, STOKKE, Solrun, DK,  3, 179
+%_%    1048, JENSEN, Kim Dennis, DK,  0, 109
+
+
+
+%Round: 1
+
+  1048 (21)<(43)   1981 B
+   804 (54)>(10)     96 B
+
+%Round: 2
+
+    96 (41)>(23)   1048 B
+  1981 (23)<(41)    804 B
+
+%Round: 3
+
+  1048 (14)<(50)    804 B
+    96 (41)>(23)   1981 B
+
+%Round: 4
+
+  1981 (49)>(15)   1048 B
+    96 (26)<(38)    804 B
+
+%Round: 5
+
+  1048 (20)<(44)     96 B
+   804 (64)>(00)   1981 B
+
+%Round: 6
+
+   804 (48)>(16)   1048 B
+  1981 (41)>(23)     96 B
+
+
+%%Added results

@@ -1,0 +1,66 @@
+%%Tournament: Brazilian championship
+%%Country: Brazil
+%%Date: 29/08/2010
+%%Sender: Lucas Cherem de Camargo Rodrigues
+
+
+%Standings after Round 5
+%4155 Marcos K-mar‹o Pires 5
+%4172 Henrique Oliveira 4
+%4175 Maur’cio Katayama 3
+%4083 Lucas Cherem 3
+%4071 Daniel Dantas 2.5
+%4159 Roberto Iglesias 2.5
+%4170 Bruna Artoni 2
+%4176 Rose Artoni 1
+%4177 Daniel Saraiva 1
+%4178 Beatriz Pires 1
+
+%Round 1
+4083 (22)<(42) 4155 B
+4159 (32)=(32) 4071 B
+4177 (11)<(53) 4175 B
+4172 (64)>(00) 4178 B
+4176 (11)<(53) 4170 B
+
+%Round 2
+4155 (43)>(21) 4172 B
+4175 (46)>(18) 4170 B
+4083 (47)>(17) 4159 B
+4071 (54)>(10) 4177 B
+4178 (28)<(36) 4176 B
+
+%Round 3
+4175 (15)<(49) 4155 B
+4172 (40)>(24) 4071 B
+4170 (45)>(19) 4083 B
+4159 (40)>(24) 4176 B
+4177 (11)<(53) 4178 B
+
+%Round 4
+4155 (54)>(10) 4170 B
+4172 (56)>(08) 4175 B
+4178 (27)<(37) 4159 B
+4071 (27)<(37) 4083 B
+4176 (19)<(45) 4177 B
+
+%Round 5
+4159 (25)<(39) 4155 B
+4170 (13)<(51) 4172 B 
+4175 (57)>(07) 4178 B
+4083 (43)>(21) 4177 B
+4176 (21)<(43) 4071 B
+
+
+%Semifinals
+
+4155 (22)<(42) 4083 B
+4175 (09)<(53) 4172 B
+
+%Third place
+4155 (52)>(12) 4175 B
+
+%Final
+4083 (35)>(29) 4172 B
+4172 (44)>(20) 4083 B
+4083 (33)>(31) 4172 B

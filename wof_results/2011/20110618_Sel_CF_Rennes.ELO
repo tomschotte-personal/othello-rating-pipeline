@@ -1,0 +1,41 @@
+%%Tournament: Selection CF Rennes
+%%Country: France
+%%Date: 18/06/2011
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/06/22 14:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     145, POIRIER, Serge, F,  6, 258
+%_%     419, BETIN, Dominique, F,  4, 228
+%_%    3728, POIRIER, Antoine, F,  2, 138
+
+
+
+%Round: 1
+
+  3728 (06)<(58)    145  B
+
+%Round: 2
+
+   419 (48)>(16)   3728  B
+
+%Round: 3
+
+   145 (36)>(28)    419  B
+
+%Round: 4
+
+   145 (39)>(25)   3728  B
+
+%Round: 5
+
+  3728 (11)<(53)    419  B
+
+%Round: 6
+
+   419 (19)<(45)    145  B
+
+
+%%Added results

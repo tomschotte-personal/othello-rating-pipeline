@@ -1,0 +1,39 @@
+%%Tournament: 32_Kawagoe_queen_prince_prelim
+%%Country: Japan
+%%Date: 22/05/2016
+%%Sender: Hiroyuki Iwata
+
+%_%  13742, AZUMA, yoshiyuki, JPN, 4.0, 183
+%_%  13191, IZURA, daisei, JPN, 2.5, 152
+%_%  13608, YAMAGUCHI, tomoo, JPN, 2.0, 124
+%_%  13390, DOI, rakuto, JPN, 1.0, 90
+%_%   5537, TAKANASHI, yusuke, JPN, 1.0, 75
+%_%   5547, OHNO, atsuko, JPN, 1.0, 70
+%_%  12739, KOBAYASHI, mai, JPN, 1.0, 58
+%_%   5577, KURITA, seiya, JPN, 1.0, 53
+%_%  13593, OKINAWA, hinata, JPN, 0.5, 91
+
+%Round 1
+  5577 (41)>(23)   5537 
+  5547 (46)>(18)  12739 
+ 13742 (47)>(17)  13593 
+ 13191 (46)>(18)  13608 
+
+%Round 2
+  5537 (52)>(12)   5577 
+ 12739 (40)>(24)   5547 
+ 13742 (43)>(21)  13191 
+ 13608 (47)>(17)  13390 
+
+%Round 3
+ 13742 (47)>(17)  13390 
+ 13593 (32)=(32)  13191 
+
+%Round 4
+ 13191 (53)>(11)  13390 
+ 13608 (41)>(23)  13593 
+
+%Round 5
+ 13742 (46)>(18)  13608 
+ 13390 (45)>(19)  13593 
+

@@ -1,0 +1,24 @@
+%%Tournament: 5th Singapore Open 2012 (Division B)
+%%Country: Singapore
+%%Date: 09/09/2012
+%%Sender: Alex Koh
+
+% 3 rounds round-robin results
+% ID, FAMILY NAME, Firstname, COUNTRY, score, MBQ
+%_% 250065, LOW,      Wee Hao Eddie, SGP, 2, 117
+%_% 250007, WU,       Jin Feng,      SGP, 1.5, 96
+%_% 250103, MUHAMMAD, Nur Hakim,     SGP, 1.5, 90
+%_% 250024, NG,       Hui Wen,       SGP, 1 81
+
+% Round 1
+250065 (23)<(41) 250007  B
+250103 (42)>(22) 250024  B
+
+%Round 2
+250065 (48)>(16) 250103  B
+250024 (43)>(21) 250007  B
+
+%Round 3
+250065 (46)>(18) 250024  B
+250007 (32)=(32) 250103  B
+

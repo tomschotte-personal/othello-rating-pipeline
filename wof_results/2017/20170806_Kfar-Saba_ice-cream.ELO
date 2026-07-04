@@ -1,0 +1,41 @@
+%%Tournament: Kfar-Saba ice-cream
+%%Country: Israel
+%%Date: 06/08/2017
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       885, SHIFMAN, Ilya, IL, 5, 252
+%_%       880, SHIFMAN, Leonid, IL, 4, 220
+%_%    200018, YOSIFOVICH, Danielle, IL,†2,†145
+%_%    200010, SHIFMAN, Michael, IL, 2, 137
+%_%    200034, CHERESHNYA, Yaron, IL,†1,†120
+%_%    200040, LAUFER, Shahar, IL,†1,†86
+
+
+%Round 1
+200034 (16)<(48) 200018  B
+   885 (57)>(07) 200040  B
+200010 (22)<(42)    880  B
+
+%Round 2
+200034 (06)<(58)    885  B
+200040 (23)<(41) 200010  B
+200018 (18)<(46)    880  B
+
+
+%Round 3
+200010 (37)>(27) 200034  B
+   885 (54)>(10) 200018  B
+   880 (52)>(12) 200040  B
+
+
+%Round 4
+200034 (13)<(51)    880  B
+   885 (52)>(12) 200010  B
+200018 (30)<(34) 200040  B
+
+
+%Round 5
+200040 (10)<(54) 200034  B
+   880 (29)<(35)    885  B
+200010 (25)<(39) 200018  B

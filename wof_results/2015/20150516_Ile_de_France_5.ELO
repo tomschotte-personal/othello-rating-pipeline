@@ -1,0 +1,58 @@
+%%Tournament: Ile de France 5
+%%Country: France
+%%Date: 16/05/2015
+%%Sender: Gilles Cluzon
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/05/16 18:45
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     433, NICOLET, Stephane, FRA,  5, 226, 2058
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 164, 1995
+%_%       2, TASTET, Marc, FRA,  3, 213, 2085
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 188, 1822
+%_%    9025, TOUCHENE, Fouad, DZA,  2, 160, 1506
+%_%   50077, CHADAIGNE, Romain, F,  2, 130, 0
+%_%    3723, LAGACHE, Vincent, FRA,  1, 55, 1356
+%_%    3734, CLUZON, Gilles, FRA,  0, 112, 1384
+%_%     275, OVION, Jacques, FRA,  1, 32, 1356
+
+
+
+%Round: 1
+
+   433 (60)>(04)   3734  B
+     2 (46)>(18)  50077  B
+    45 (26)<(38)   3598  B
+  9025 (51)>(13)    275  B
+
+%Round: 2
+
+  3598 (06)<(58)    433  B
+ 50077 (34)>(30)   3734  B
+   275 (19)<(45)     45  B
+  9025 (21)<(43)      2  B
+
+%Round: 3
+
+  3734 (31)<(33)   3723  B
+    45 (45)>(19)  50077  B
+  3598 (40)>(24)   9025  B
+     2 (29)<(35)    433  B
+
+%Round: 4
+
+  3734 (29)<(35)   9025  B
+     2 (31)<(33)   3598  B
+  3723 (22)<(42)  50077  B
+   433 (38)>(26)     45  B
+
+%Round: 5
+
+  9025 (29)<(35)    433  B
+  3723 (00)<(64)      2  B
+ 50077 (17)<(47)   3598  B
+    45 (46)>(18)   3734  B
+
+
+%%Added results

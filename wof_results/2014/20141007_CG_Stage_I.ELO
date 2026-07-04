@@ -1,0 +1,31 @@
+%%Tournament: CG - Campionato Genovese Stage I
+%%Country: Italy
+%%Date: 07/10/2014
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 15:40
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2908, FERRANDO, Marco,  2, 122
+%_%  2857, MENOZZI, Giuseppe,  2, 118
+%_%  2855, BIANCHI, Paolo,  2, 113
+%_%  2951, RISSO, Roberta,  0, 29
+
+
+
+%Round: 1
+
+  2908 (31)<(33)   2855  B
+  2951 (12)<(52)   2857  B
+
+%Round: 2
+
+  2857 (43)>(21)   2855  B
+  2951 (14)<(50)   2908  B
+
+%Round: 3
+ 
+  2855 (59)>(05)   2951  B
+  2908 (41)>(23)   2857  B
+  

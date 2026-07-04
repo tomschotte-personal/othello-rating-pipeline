@@ -1,0 +1,33 @@
+%%Tournament: Festival de Esportes Mentais Suzano
+%%Country: Brazil
+%%Date: 15/07/2017
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/30 22:26
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  3, 157, 1075
+%_%  290272, KITADA, Paulo Cesar, BRA,  2, 133, 0
+%_%  290190, TEIXEIRA, Moises Santos, BRA,  1, 50, 0
+%_%  +290271, SILVA, Willian Antonio, BRA,  0, 44, 0
+
+
+
+%Round: 1
+
+290174 (63)>(01) 290271  B
+290190 (07)<(57) 290272  B
+
+%Round: 2
+
+290271 (15)<(49) 290272  B
+290174 (57)>(07) 290190  B
+
+%Round: 3
+
+290272 (27)<(37) 290174  B
+290190 (36)>(28) 290271  B
+
+
+%%Added results

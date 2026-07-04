@@ -1,0 +1,50 @@
+%%Tournament: Passover over
+%%Country: Israel
+%%Date: 13/04/2023
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/04/13 14:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     885, SHIFMAN, Ilya, ISR,  5, 197, 1740
+%_%  200010, SHIFMAN, Micky, ISR,  2.5, 170, 1636
+%_%    4151, MILLER, Alexey, ISR,  2.5, 141, 1556
+%_%     880, SHIFMAN, Leonid, ISR,  2, 177, 1743
+%_%  200404, Dvivon, Konstantin, ISR,  2, 153, 0
+%_%  200400, Kaminsky, Oleg, ISR,  1, 122, 0
+
+
+
+%Round: 1
+
+   880 (31)<(33)   4151  B
+200010 (53)>(11) 200400  B
+   885 (50)>(14) 200404  B
+
+%Round: 2
+
+   880 (31)<(33)    885  B
+200404 (24)<(40) 200010  B
+200400 (30)<(34)   4151  B
+
+%Round: 3
+
+   885 (35)>(29)   4151  B
+200010 (18)<(46)    880  B
+200404 (30)<(34) 200400  B
+
+%Round: 4
+
+   885 (37)>(27) 200010  B
+   880 (39)>(25) 200400  B
+200404 (51)>(13)   4151  B
+
+%Round: 5
+
+200400 (22)<(42)    885  B
+  4151 (32)=(32) 200010  B
+   880 (30)<(34) 200404  B
+
+
+%%Added results

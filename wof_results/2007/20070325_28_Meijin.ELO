@@ -1,0 +1,28 @@
+%%Tournament: 28_Meijin
+%%Country: Japan
+%%Date: 25/03/2007
+%%Sender: Hiroyuki Iwata
+
+%_%   4014, TOMINAGA, kenta, J, 3.0, 110
+%_%    299, MURAKAMI, takeshi, J, 2.0, 103
+%_%   5532, ENOMOTO, yasuhiro, J, 2.0, 86
+%_%   5530, NODA, bintatsu, J, 1.0, 89
+%_%   5507, TSUCHIDA, daisuke, J, 0.0, 31
+%_%    700, NAKAJIMA, tetsuya, J, 0.0, 31
+%_%   5523, ARAKI, yasuyuki, J, 0.0, 31
+%_%   5669, NAKANO, shunsuke, J, 0.0, 31
+
+%Round 1
+  4014 (33) > (31)   5669
+   299 (33) > (31)   5523
+  5532 (33) > (31)    700
+  5530 (33) > (31)   5507
+
+%Round 2
+  4014 (33) > (31)    299
+  5532 (33) > (31)   5530
+
+%Round 3
+  4014 (44) > (20)   5532
+   299 (39) > (25)   5530
+

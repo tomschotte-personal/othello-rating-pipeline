@@ -1,0 +1,58 @@
+%%Tournament: I tappa Citta di Roma 2005-06
+%%Country: Italy
+%%Date: 18/09/2005
+%%Sender: Donato Barnaba
+
+
+%_%   2844, SPERANDIO, Roberto
+%_%   3035, DI GIAMBATTISTA, Francesco
+%_%   3037, DI MATTEI, Alessandro
+%_%   3036, SAGRATELLA, Simone
+%_%   2842, TUCCI, Alessandro
+%_%   2805, ALAMI, Carlo
+%_%   3019, DIODATI, Michele
+%_%   2818, DI COLA, Severino
+
+
+
+%Round: 1
+
+3037 (55)>(09) 3035 B
+3036 (43)>(21) 2818 B
+2842 (43)>(21) 3019 B
+
+%Round: 2
+
+2818 (28)<(36) 2842 B
+3035 (17)<(47) 3036 B
+2844 (39)>(25) 3037 B
+
+%Round: 3
+
+3036 (25)<(39) 2844 B
+2842 (34)>(30) 3035 B
+3019 (47)>(17) 2818 B
+
+%Round: 4
+
+3035 (20)<(44) 3019 B
+2844 (51)>(13) 2842 B
+3037 (32)>(31) 3036 B
+
+%Round: 5
+
+2842 (21)<(43) 3037 B
+3019 (16)<(48) 2844 B
+2818 (64)>(00) 3035 B
+
+%Round: 6
+
+2844 (43)>(21) 2818 B
+3037 (54)>(10) 3019 B
+3036 (34)>(30) 2842 B
+
+%Round: 7
+
+3019 (24)<(40) 3036 B
+2818 (13)<(51) 3037 B
+3035 (30)<(34) 2844 B

@@ -1,0 +1,58 @@
+%%Tournament: Milan Open - Italian Grand Prix 2016
+%%Country: Italy
+%%Date: 21/02/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Giuseppe Chiarulli ( 20/06/2016 22:47 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   839, KASHIWABARA, Takuji, F, 6, 297
+%_%  2869, COLAO, Luca, I, 5, 242
+%_% 40027, TORMENE, Paolo, I, 5, 287
+%_%  2855, BIANCHI, Paolo, I, 4, 191
+%_% 40006, CHIARULLI, Giuseppe, I, 4, 243
+%_% 40002, ILACQUA, Gianluca, I, 4, 237
+%_%  3005, PALLADINO, Domenico, I, 4, 214
+%_%  2884, VECCHI, Maria Serena, I, 2, 147
+%_% 40052, GIGLIUCCI, Chiara, I, 1, 165
+
+%Round 1 
+   839 (35)>(29)  40027  B
+ 40006 (56)>(08)   3005  B
+  2855 (15)<(49)   2869  B
+  2884 (13)<(51)  40002  B
+
+%Round 2 
+  2869 (28)<(36)    839  B
+ 40002 (23)<(41)  40006  B
+  3005 (38)>(26)  40052  B
+ 40027 (47)>(17)   2855  B
+
+%Round 3 
+   839 (41)>(23)  40006  B
+  2869 (15)<(49)   3005  B
+ 40052 (24)<(40)  40002  B
+ 40027 (51)>(13)   2884  B
+
+%Round 4 
+  3005 (16)<(48)    839  B
+ 40002 (34)>(30)  40027  B
+ 40006 (29)<(35)   2855  B
+  2884 (45)>(19)  40052  B
+
+%Round 5 
+   839 (31)<(33)  40002  B
+ 40027 (45)>(19)   3005  B
+  2855 (49)>(15)   2884  B
+ 40052 (21)<(43)   2869  B
+
+%Round 6 
+ 40002 (29)<(35)   2855  B
+  2884 (15)<(49)    839  B
+  2869 (37)>(27)  40006  B
+ 40052 (12)<(52)  40027  B
+
+%Round 7 
+  2855 (07)<(57)    839  B
+ 40002 (27)<(37)   2869  B
+  3005 (51)>(13)   2884  B
+ 40006 (34)>(30)  40052  B

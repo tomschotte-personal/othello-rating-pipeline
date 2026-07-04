@@ -1,0 +1,89 @@
+%%Tournament: 1st Guardia V - Teramo
+%%Country: Italy
+%%Date: 04/10/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +40425, Faga, Valentina, ITA, 4, 162, -
+%_%  +40432, Narcisi, Rosanna, ITA, 4, 186, -
+%_%  +40429, Bellini, Stefano, ITA, 3, 153, -
+%_%  +40414, Milano, Matilde, ITA, 3, 130, -
+%_%  +40427, Bellini, Serena, ITA, 3, 130, -
+%_%  +40413, Finelli, Edoardo, ITA, 3, 127, -
+%_%  +40422, Faga, Ilaria, ITA, 2, 127, -
+%_%  +40423, Di Gianvittorio, Federico, ITA, 2, 145, -
+%_%  +40419, Di Panfilo, Lorenzo, ITA, 2, 106, -
+%_%  +40418, Di Panfilo, Gabriele, ITA, 2, 118, -
+%_%  +40412, Di Francesco, Riccardo, ITA, 2, 135, -
+%_%  +40416, Cantoro, Leonardo, ITA, 2, 144, -
+%_%  +40420, Di Biase, Teresa, ITA, 2, 134, -
+%_%  +40428, Bellini, Noemi, ITA, 2, 127, -
+%_%  +40430, Raschiatore, Davide, ITA, 2, 115, -
+%_%  +40426, Gentile, Stefania, ITA, 1, 122, -
+%_%  +40421, Fidanza, Azzurra, ITA, 1, 95, -
+%_%  +40424, Di Gianvittorio, Elenia, ITA, 1, 112, -
+%_%  +40415, Cantoro, Andrea, ITA, 1, 112, -
+%_%  +40433, Bufalari, Ida, ITA, 1, 98, -
+%_%  +40417, Ranalli, Tatiana, ITA, 0, 97, -
+%_%  +40431, Raschiatore, Sara, ITA, 0, 60, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/387
+
+%Round: 1
+
+ 40428 (29)<(35)  40419  B
+ 40418 (33)>(31)  40431  B
+ 40430 (11)<(53)  40423  B
+ 40424 (36)>(28)  40417  B
+ 40432 (34)>(30)  40412  B
+ 40414 (34)>(30)  40420  B
+ 40426 (28)<(36)  40416  B
+ 40415 (25)<(39)  40413  B
+ 40433 (20)<(44)  40421  B
+ 40425 (40)>(24)  40429  B
+ 40422 (39)>(25)  40427  B
+
+%Round: 2
+
+ 40412 (39)>(25)  40415  B
+ 40420 (26)<(38)  40433  B
+ 40429 (55)>(09)  40428  B
+ 40417 (14)<(50)  40430  B
+ 40431 (20)<(44)  40426  B
+ 40427 (39)>(25)  40418  B
+ 40421 (20)<(44)  40432  B
+ 40416 (30)<(34)  40422  B
+ 40413 (39)>(25)  40424  B
+ 40419 (20)<(44)  40425  B
+ 40423 (27)<(37)  40414  B
+
+%Round: 3
+
+ 40424 (21)<(43)  40419  B
+ 40431 (09)<(55)  40427  B
+ 40415 (19)<(45)  40420  B
+ 40428 (48)>(16)  40417  B
+ 40430 (54)>(10)  40412  B
+ 40433 (13)<(51)  40416  B
+ 40426 (31)<(33)  40429  B
+ 40423 (56)>(08)  40421  B
+ 40425 (40)>(24)  40418  B
+ 40422 (31)<(33)  40414  B
+ 40432 (52)>(12)  40413  B
+
+%Round: 4
+
+ 40412 (34)>(30)  40424  B
+ 40418 (37)>(27)  40433  B
+ 40421 (23)<(41)  40428  B
+ 40420 (33)>(31)  40426  B
+ 40416 (27)<(37)  40413  B
+ 40427 (34)>(30)  40423  B
+ 40429 (41)>(23)  40422  B
+ 40419 (08)<(56)  40432  B
+ 40414 (26)<(38)  40425  B
+ 40417 (21)<(43)  40415  B

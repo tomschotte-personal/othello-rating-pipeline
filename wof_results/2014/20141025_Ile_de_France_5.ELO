@@ -1,0 +1,58 @@
+%%Tournament: Ile de France 5
+%%Country: France
+%%Date: 25/10/2014
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/10/28 23:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3518, DELAUNAY, Arnaud, FRA,  5, 246, 2148
+%_%    3384, AUZENDE, Frederic, FRA,  4, 212, 2041
+%_%    3600, BENOIT, Serge, FRA,  3, 184, 1418
+%_%     275, OVION, Jacques, FRA,  3, 160, 1327
+%_%    3734, CLUZON, Gilles, FRA,  3, 153, 1387
+%_% + 50072, YONNET-LONDONO BAENA, Ruben, FRA,  2, 155, 0
+%_% + 50073, LIN, Laurent, FRA,  2, 147, 0
+%_% + 50071, CORBINEAU, Georges, FRA,  2, 142, 0
+%_% + 50070, LONGUET, Nicolas, FRA,  1, 81, 0
+
+
+
+%Round: 1
+
+ 50070 (15)<(49)   3384  B
+ 50073 (04)<(60)   3518  B
+ 50072 (25)<(39)   3734  B
+ 50071 (49)>(15)    275  B
+
+%Round: 2
+
+   275 (52)>(12)  50070  B
+  3384 (48)>(16)  50073  B
+  3734 (44)>(20)   3600  B
+  3518 (58)>(06)  50071  B
+
+%Round: 3
+
+ 50071 (29)<(35)   3734  B
+  3600 (46)>(18)    275  B
+ 50070 (14)<(50)  50072  B
+  3518 (39)>(25)   3384  B
+
+%Round: 4
+
+  3734 (15)<(49)   3518  B
+ 50072 (10)<(54)   3600  B
+  3384 (46)>(18)  50071  B
+   275 (41)>(23)  50073  B
+
+%Round: 5
+
+  3600 (24)<(40)   3518  B
+ 50073 (64)>(00)  50070  B
+   275 (34)>(30)  50072  B
+  3734 (20)<(44)   3384  B
+
+
+%%Added results

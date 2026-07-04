@@ -1,0 +1,54 @@
+%%Tournament: Norwegian Junior Championship 2010
+%%Country: Norway
+%%Date: 05/03/2010
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/09/04 13:52
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2543, KJELLSTADLI, Ingvild, N,  6, 331
+%_% +140025, Tofighi, Sara, N,  3, 174
+%_% +140024, TOFIGHI, Moshtaba, N,  2.5, 185
+%_% +140028, HUSSEIN, Hasan, N,  2.5, 143
+%_% +140026, JABAI, Kawsu, N,  2, 138
+%_% +140027, JABAI, Fatima, N,  0, 53
+
+
+
+%Round: 1
+
+  2543 (64)>(00) 140026 B
+140028 (32)=(32) 140025 B
+140027 (12)<(52) 140024 B
+
+%Round: 2
+
+140025 (00)<(64)   2543 B
+140024 (22)<(42) 140028 B
+140026 (64)>(00) 140027 B
+
+%Round: 3
+
+  2543 (48)>(16) 140024 B
+140028 (55)>(09) 140027 B
+140026 (19)<(45) 140025 B
+
+%Round: 4
+
+140028 (10)<(54) 140026 B
+140027 (13)<(51)   2543 B
+140024 (32)=(32) 140025 B
+
+%Round: 5
+
+  2543 (60)>(04) 140028 B
+140025 (45)>(19) 140027 B
+140026 (01)<(63) 140024 B
+
+%Round: 6
+
+  2543 (44)>(20) 140025 B
+
+
+%%Added results

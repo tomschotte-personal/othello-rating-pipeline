@@ -1,0 +1,44 @@
+%%Tournament: Campeonato Brasileiro de Othello 2019 - A
+%%Country: Brazil
+%%Date: 23/11/2019
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/01/15 09:17
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  5, 222, 1269
+%_%    4155, BRIANTE PIRES, Marcos Paulo, BRA,  4, 210, 1592
+%_%  290025, CORREIA JR., Moises, BRA,  3, 158, 1026
+%_%  290051, CORREIA, Rafael Augusto P., BRA,  2, 121, 704
+%_%  290040, SILVA, Joao Victor S. Da, BRA,  1, 129, 814
+
+
+
+%Round: 1
+
+290040 (28)<(36) 290051  B
+  4155 (26)<(38) 290174  B
+
+%Round: 2
+
+290051 (20)<(44)   4155  B
+290025 (45)>(19) 290040  B
+
+%Round: 3
+
+  4155 (57)>(07) 290025  B
+290174 (54)>(10) 290051  B
+
+%Round: 4
+
+290025 (17)<(47) 290174  B
+290040 (21)<(43)   4155  B
+
+%Round: 5
+
+290174 (43)>(21) 290040  B
+290051 (15)<(49) 290025  B
+
+
+%%Added results

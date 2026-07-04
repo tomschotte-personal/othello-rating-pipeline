@@ -1,0 +1,29 @@
+%%Tournament: Oslo Open
+%%Country: Norway
+%%Date: 20/01/2007
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+2507 > 2525
+1878 > 1964
+
+%%Round: 2
+
+2507 > 1993
+2525 > 1878
+
+%%Round: 3
+
+1964 < 2507
+2525 > 1993
+
+%%Round: 4
+
+1993 < 1878
+1964 < 2525
+
+%%Round: 5
+
+1878 < 2507
+1993 > 1964

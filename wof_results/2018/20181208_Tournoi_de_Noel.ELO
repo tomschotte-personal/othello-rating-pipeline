@@ -1,0 +1,71 @@
+%%Tournament: Tournoi de Noel
+%%Country: France
+%%Date: 08/12/2018
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/12/26 17:25
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      11, LAZARD, Emmanuel, FRA,  4, 213, 1941
+%_%       2, TASTET, Marc, FRA,  4, 213, 2096
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 204, 1931
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 201, 1776
+%_%    2788, LECAT, Monique, BEL,  3, 166, 1401
+%_%   50075, BERTRANDIAS, Marc, FRA,  3, 163, 1749
+%_%    3734, CLUZON, Gilles, FRA,  2, 153, 1298
+%_%     283, LE MORVAN, Herve, FRA,  2, 144, 0
+%_%     228, BUSUTTIL, Michel, FRA,  2, 121, 1459
+%_%   50052, LE MORVAN, Eric, FRA,  1.5, 163, 1235
+%_%    3600, BENOIT, Serge, FRA,  1.5, 134, 1319
+%_%   50097, OVION, Alix-Anne, FRA,  0, 45, 547
+
+
+
+%Round: 1
+
+ 50075 (53)>(11)   3734  B
+  2788 (52)>(12)    283  B
+  3598 (52)>(12)  50052  B
+    11 (47)>(17)   3600  B
+   228 (17)<(47)     45  B
+ 50097 (05)<(59)      2  B
+
+%Round: 2
+
+  3600 (07)<(57)    283  B
+  3734 (60)>(04)  50097  B
+     2 (40)>(24)   3598  B
+  2788 (15)<(49)     11  B
+ 50052 (31)<(33)    228  B
+    45 (31)<(33)  50075  B
+
+%Round: 3
+
+ 50075 (41)>(23)   2788  B
+  3598 (50)>(14)   3600  B
+   228 (34)>(30)   3734  B
+ 50097 (07)<(57)  50052  B
+   283 (21)<(43)     45  B
+    11 (39)>(25)      2  B
+
+%Round: 4
+
+  3600 (64)>(00)  50097  B
+     2 (48)>(16)    228  B
+    11 (51)>(13)  50075  B
+  3734 (45)>(19)    283  B
+ 50052 (31)<(33)   2788  B
+    45 (23)<(41)   3598  B
+
+%Round: 5
+
+ 50075 (23)<(41)      2  B
+    45 (57)>(07)   3734  B
+  3598 (37)>(27)     11  B
+   283 (35)>(29)  50097  B
+  2788 (43)>(21)    228  B
+ 50052 (32)=(32)   3600  B
+
+
+%%Added results

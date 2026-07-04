@@ -1,0 +1,32 @@
+%%Tournament: Match_Israel-III - Israel (youth)
+%%Country: Israel
+%%Date: 08/08/2017
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    880, SHIFMAN, Leonid, IL, 3, 184
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 2, 165
+%_%    200010, SHIFMAN, Michael, IL, 2, 89
+%_% 200018, YOSIFOVICH, Danielle, IL, 1, 76
+
+
+%Round 1
+200010 (33)>(31)    880  B
+200018 (33)>(31)   4028  B
+
+%Round 2
+   880 (53)>(11) 200018  B
+  4028 (29)<(35) 200010  B
+
+
+%Round 3
+  4028 (50)>(14) 200018  B
+   880 (54)>(10) 200010  B
+
+
+%Round 4
+200018 (18)<(46)    880  B
+200010 (11)<(53)   4028  B
+
+
+

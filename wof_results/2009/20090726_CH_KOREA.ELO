@@ -1,0 +1,51 @@
+%%Tournament: 14th KoA Championships 2009
+%%Country: Korea
+%%Date: 26/07/2009
+%%Sender: Kyung Joong Kim
+ 
+%%Creator: PAPP 1.32
+%%CreationDate: 2009/07/26 23:55
+ 
+ 
+%Ranking of the 7 players after round 5:
+ 
+%_% ID,  NAME, Firstname, COUNTRY, score, disc-coun
+ 
+%_%   4162,  YoSeop, YU,     {KOREA} 4 pts [232]
+%_%   4087,  KwangWook, LEE, {KOREA} 4 pts [200]
+%_%   4074,  Joungmok, OH,   {KOREA} 3 pts [185]
+%_%   7573,  Seungsup, HA,   {KOREA} 2.5 pts [190]
+%_%   4161,  Youjoon, SEO,   {KOREA} 2.5 pts [134]
+%_%  30003,  YoonJoo, HWANG, {KOREA} 2 pts [129]
+%_%  30000,  Geuncheol, LEE, {KOREA} 1 pt [ 90]
+   
+%Round: 1
+ 7573 (32)=(32) 4161 W
+30003 (40)>(24) 30000 W
+ 4162 (11)<(53) 4087 W
+
+%Round: 2 
+4074 (50)>(14) 30003 W
+4087 (39)>(25) 7573 W
+4161 (13)<(51) 4162 W
+ 
+%Round: 3
+ 4087 (26)<(38) 4074 W
+30000 (00)<(64) 4162 W
+30003 (53)>(11) 4161 W
+ 
+%Round: 4
+ 4162 (42)>(22) 4074 W
+30003 (22)<(42) 4087 W
+ 7573 (64)>(00) 30000 W
+ 
+%Round: 5
+ 4074 (35)>(29) 7573 W
+ 4162 (64)>(00) 30003 W
+30000 (26)<(38) 4161 W
+ 
+%Finals: 1
+4087 (22)<(42) 4162 W
+ 
+ %Finals: 2
+4162 (35)>(29) 4087 W

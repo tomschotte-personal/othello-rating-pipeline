@@ -1,0 +1,54 @@
+%%Tournament: 180th Kyoto Meeting
+%%Country: Japan
+%%Date: 18/12/2002
+%%Sender: Tom Schotte
+
+%Round1
+5507 > 11431
+6970 > 10009
+10038 > 6929
+10008 > 10351
+5516 > 10014
+
+%Round2
+5507 > 10008
+6970 > 5516
+10351 > 10014
+6929 > 11431
+10038 > 6995
+
+%Round3
+5507 > 6970
+10351 > 10038
+6929 > 5516
+6995 > 11431
+10009 > 10008
+
+%Round4
+6970 > 6929
+10351 > 5507
+10038 > 10009
+10008 > 10014
+6995 > 5516
+
+%Round5
+5507 > 10038
+6970 > 10351
+6929 > 6995
+10008 > 11431
+10014 > 10009
+
+
+
+%players
+%1 TSUCHIDA Daisuke (Japan)[id: 5507]
+%2 KUDASHOU Takahiro (Japan) [id:6970]
+%3 TOKUMARU Kikuchi (Japan)[id: 10351]
+%4 IO Hideo (Japan)[id: 6929]
+%5 10038	wazuki	hiroyuki
+%6 OKUDA Masashi (Japan)[id:10008]
+%7 6995	funakoshi	shogo
+%8 5516	ishikawa	akira
+%9 10014	suzuki	takao
+%10 TARU Eiichi (Japan)[id: 10009]
+%11 11431	maeno	ken'ichi

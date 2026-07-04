@@ -1,0 +1,55 @@
+%%Tournament: Marche-en-Famenne Othello Open 2016
+%%Country: Belgium
+%%Date: 20/02/2016
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/03/01 19:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    5012, KORTENDIJK, Albert, NLD,  5, 255, 2018
+%_%    5909, VAN DAMME, Brecht, BEL,  5, 214, 1666
+%_%    2795, SCHOTTE, Tom, BEL,  4, 214, 2048
+%_%    5159, PRASEPTYO, Linda, NLD,  2, 183, 1894
+%_%    5908, DARCK, Nancy, BEL,  1, 141, 1472
+%_% +270024, NICHOLLS, Frederic, BEL,  1, 114, 0
+
+
+
+%Round: 1
+
+  2795 (20)<(44)   5159  B
+270024 (04)<(60)   5012  B
+  5909 (42)>(22)   5908  B
+
+%Round: 2
+
+  5012 (24)<(40)   2795  B
+  5159 (28)<(36)   5909  B
+  5908 (26)<(38) 270024  B
+
+%Round: 3
+
+  2795 (27)<(37)   5909  B
+  5012 (43)>(21)   5908  B
+270024 (06)<(58)   5159  B
+
+%Round: 4
+
+  5908 (15)<(49)   2795  B
+  5909 (36)>(28) 270024  B
+  5159 (23)<(41)   5012  B
+
+%Round: 5
+
+  2795 (45)>(19) 270024  B
+  5908 (34)>(30)   5159  B
+  5012 (42)>(22)   5909  B
+
+%Round: 6
+
+  5012 (45)>(19) 270024  B
+  5908 (23)<(41)   5909  B
+
+
+%%Added results

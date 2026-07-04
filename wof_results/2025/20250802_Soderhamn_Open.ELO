@@ -1,0 +1,67 @@
+%%Tournament: Soderhamn open
+%%Country: Sweden
+%%Date: 02/08/2025
+%%Sender: ASPENRYD Henry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  150009, WETTERGREN, Niklas, SWE, 9, 312, 2174
+%_%    1503, ANDERSSON, Christopher, SWE, 7, 286, 1923
+%_%    1492, ENG, Tintin, SWE, 6, 210, 2057
+%_%    1513, ASPENRYD, Henry, SWE, 4, 249, 2015
+%_%    1301, STEENTOFT, Benkt, SWE, 4, 223, 1731
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/346
+
+%Round: 1
+
+  1503 (50)>(14)   1513  B
+  1492 (36)>(28)   1301  B
+
+%Round: 2
+
+  1513 (30)<(34)   1492  B
+150009 (42)>(22)   1503  B
+
+%Round: 3
+
+  1301 (33)>(31)   1513  B
+  1492 (41)>(23) 150009  B
+
+%Round: 4
+
+150009 (45)>(19)   1301  B
+  1503 (49)>(15)   1492  B
+
+%Round: 5
+
+  1301 (22)<(42)   1503  B
+  1513 (26)<(38) 150009  B
+
+%Round: 6
+
+  1301 (43)>(21)   1492  B
+  1513 (30)<(34)   1503  B
+
+%Round: 7
+
+  1492 (11)<(53)   1513  B
+  1503 (29)<(35) 150009  B
+
+%Round: 8
+
+150009 (50)>(14)   1492  B
+  1513 (35)>(29)   1301  B
+
+%Round: 9
+
+  1301 (19)<(45) 150009  B
+  1492 (38)>(26)   1503  B
+
+%Round: 10
+
+  1503 (34)>(30)   1301  B
+150009 (34)>(30)   1513  B

@@ -1,0 +1,47 @@
+%%Tournament: 33rd Sendai Open
+%%Country: Japan
+%%Date: 16/09/2007
+%%Sender: Tom Schotte
+
+%Round1
+10613 > 6885
+5584 > 10061
+7031 > 11989
+6887 > 6889
+
+%Round2
+10613 > 7031
+5584 > 6887
+10061 > 6889
+6885 > 11989
+
+%Round3
+10613 > 5584
+10061 > 6887
+7031 > 6885
+6889 > 11989
+
+%Round4
+10613 > 10061
+5584 > 7031
+6885 > 6889
+11989 > 6887
+
+%Round5
+10613 > 6887
+5584 > 6885
+10061 > 11989
+7031 > 6889
+
+
+
+
+%players
+%1 10613	saito	kenta
+%2 5584	oshimizu	takanori
+%3 10061	ogurosawa	shu
+%4 7031	shoji	ayaka
+%5 6885	hanzawa	satiko
+%6 6887	notani	kawamura
+%7 6889	koike	yudai
+%8 11989	suguwara	yusei

@@ -1,0 +1,44 @@
+%%Tournament: Open de Liege
+%%Country: Belgium
+%%Date: 10/02/2013
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/02/10 19:10
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4012, DE GRAAF, Jan C., NLD,  4.5, 193, 1932
+%_%    5239, FRANSEN, Martin, NLD,  4, 196, 1845
+%_%    2795, SCHOTTE, Tom, BEL,  2.5, 166, 2085
+%_%    5905, MAY, Michael, BEL,  2, 147, 1628
+%_%    5083, SNEEK, Marcel, NLD,  2, 138, 1679
+
+
+
+%Round: 1
+
+  2795 (20)<(44)   5083  B
+  5239 (54)>(10)   5905  B
+
+%Round: 2
+
+  4012 (43)>(21)   5239  B
+  5905 (16)<(48)   2795  B
+
+%Round: 3
+
+  5083 (13)<(51)   5905  B
+  2795 (32)=(32)   4012  B
+
+%Round: 4
+
+  5239 (38)>(26)   2795  B
+  4012 (44)>(20)   5083  B
+
+%Round: 5
+
+  5905 (30)<(34)   4012  B
+  5083 (21)<(43)   5239  B
+
+
+%%Added results

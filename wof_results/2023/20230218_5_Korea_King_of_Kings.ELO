@@ -1,0 +1,48 @@
+%%Tournament: 5th Korea King of Kings
+%%Country: Korea
+%%Date: 18/02/2023
+%%Sender: Taeyeon Kim
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/02/18 15:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   30503, JANG, Hyunwoo, KOR,  4, 213, 2230
+%_%   30102, SOHR, Jaeyoung, KOR,  4, 177, 2088
+%_%   30037, KIM, Jungsoo, KOR,  4, 166, 1839
+%_%   30501, AHN, Taeyoung, KOR,  2, 171, 1865
+%_%    7573, HA, Seungsup, KOR,  1, 113, 1725
+
+
+
+%Round: 1
+
+ 30501 (30)<(34)  30037  B
+ 30102 (06)<(58)  30503  B
+
+%Round: 2
+
+  7573 (19)<(45)  30102  B
+ 30503 (36)>(28)  30501  B
+
+%Round: 3
+
+ 30037 (35)>(29)  30503  B
+ 30501 (50)>(14)   7573  B
+
+%Round: 4
+
+ 30102 (41)>(23)  30501  B
+  7573 (26)<(38)  30037  B
+
+%Round: 5
+
+ 30503 (50)>(14)   7573  B
+ 30037 (19)<(45)  30102  B
+
+
+%%Added results
+ 30501 (28)<(36)  30503  B
+ 30102 (48)>(16)  30037  B
+ 30037 (24)<(40)  30501  B
+ 30102 (29)<(35)  30503  B

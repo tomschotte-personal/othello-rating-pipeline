@@ -1,0 +1,39 @@
+%%Tournament: Oslo open
+%%Country: Norway
+%%Date: 01/02/2025
+%%Sender: SKOGEN Tor Birger
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    2570, ALBRIGTSEN, Vidar, NOR, 5, 193, 1957
+%_%  140031, TVEDT, Sverre, NOR, 4, 175, 1654
+%_%  140059, HAUS, Knut Bjarte, NOR, 3, 173, 1925
+%_%    1802, SKOGEN, Tor Birger, NOR, 2, 145, 1774
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR, 1, 114, 1860
+
+%Round: 1
+
+  2570 (46)>(18) 140059  B
+140031 (38)>(26)   2511  B
+
+%Round: 2
+
+  1802 (23)<(41)   2570  B
+140059 (28)<(36) 140031  B
+
+%Round: 3
+
+  2511 (22)<(42)   1802  B
+140031 (31)<(33)   2570  B
+
+%Round: 4
+
+  2570 (41)>(23)   2511  B
+  1802 (22)<(42) 140059  B
+
+%Round: 5
+
+  1802 (26)<(38) 140031  B
+  2511 (11)<(53) 140059  B

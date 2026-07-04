@@ -1,0 +1,32 @@
+%%Tournament: 3rd Korean Othello Open 2008
+%%Country: Korea
+%%Date: 27/01/2008
+%%Sender: Tom Schotte
+
+%round1:
+7552 > 7578
+7563 > 7578
+
+%round2:
+7578 < 7563
+7555 > 7552
+
+%round3:
+7552 < 7563
+7555 = 7578
+
+%round4:
+7555 < 7563
+7578 < 7552
+
+%round5:
+7578 < 7563
+7552 < 7555
+
+%round6:
+7563 < 7552
+7578 < 7555
+
+%finals:
+7563 > 7555
+

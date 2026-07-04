@@ -1,0 +1,53 @@
+%%Tournament: 177th Kyoto Meeting
+%%Country: Japan
+%%Date: 08/09/2002
+%%Sender: Tom Schotte
+
+%Round1
+6970 > 6995
+5506 > 5507
+6929 > 11799
+5526 > 10041
+11875 > 10009
+
+%Round2
+6995 > 11799
+6970 > 10008
+5506 > 5526
+5507 > 10009
+11875 > 6929
+
+%Round3
+6995 > 10008
+5506 > 11875
+5507 > 6929
+5526 > 6970
+11799 > 10041
+
+%Round4
+6995 > 11875
+6970 > 5506
+5507 > 5526
+10008 > 11799
+10041 > 10009
+
+%Round5
+6995 > 5506
+6970 > 5507
+10008 > 10009
+6929 > 5526
+10041 > 11875
+
+
+%players
+%1 6995	funakoshi	shogo
+%2 6970 KUDASHOU Takahiro
+%3 5506	tamaki	suguru
+%4 5507	tsuchida	daisuke
+%5 10008	okuda	masashi
+%6 6929 IO Hideo
+%7 10041	tatsumi	atsusi
+%8 5526	uno	toshihiro
+%9 11799	hashimoto	yoshiaki
+%10 11875	eto	tetsuharu
+%11 10009 TARU Eiichi

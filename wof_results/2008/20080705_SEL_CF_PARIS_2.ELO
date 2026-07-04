@@ -1,0 +1,48 @@
+%%Tournament: selectionparis.05072008
+%%Country: France
+%%Date: 05/07/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/07/19 18:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3692, CAPELLE, Stephane, F,  5, 236
+%_%      45, ANDRIANI, Bintsa, F,  3, 176
+%_%    3836, BENTOLILA, Sarah, F,  3, 168
+%_%    3734, CLUZON, Gilles, F,  3, 165
+%_%    3778, SAGONA, Eric, F,  2, 153
+%_%    3600, BENOIT, Serge, F,  2, 134
+%_%     275, OVION, Jacques, F,  1, 88
+
+
+
+%Round: 1
+
+  3836 (49)>(15)   3734 B
+  3692 (51)>(13)   3600 B
+  3778 (49)>(15)    275 B
+
+%Round: 2
+
+  3600 (10)<(54)     45 B
+  3836 (44)>(20)   3778 B
+  3734 (11)<(53)   3692 B
+
+%Round: 3
+
+  3692 (52)>(12)   3836 B
+    45 (54)>(10)    275 B
+  3778 (43)>(21)   3600 B
+
+%Round: 4
+
+  3692 (43)>(21)   3778 B
+    45 (41)>(23)   3836 B
+   275 (09)<(55)   3734 B
+
+%Round: 5
+
+  3600 (50)>(14)    275 B
+    45 (27)<(37)   3692 B
+  3734 (44)>(20)   3778 B

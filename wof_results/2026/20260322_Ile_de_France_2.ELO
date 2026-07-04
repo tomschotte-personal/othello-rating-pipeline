@@ -1,0 +1,55 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 22/03/2026
+%%Sender: TASTET Marc
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%      11, LAZARD, Emmanuel, FRA, 4, 227, 1980
+%_%       2, TASTET, Marc, FRA, 4, 211, 2053
+%_%     839, KASHIWABARA, Takuji, FRA, 4, 186, 2100
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA, 3, 154, 1963
+%_%      45, ANDRIANI, Bintsa, FRA, 2, 162, 1730
+%_%   50127, HUGOT, Nicolas, FRA, 2, 122, -
+%_%     228, BUSUTTIL, Michel, FRA, 1, 134, 1446
+%_%     702, BERTRAM, Henry, FRA, 0, 84, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/506
+
+%Round: 1
+
+    45 (30)<(34)    839  B
+   702 (13)<(51)     11  B
+   228 (24)<(40)      2  B
+  3598 (39)>(25)  50127  B
+
+%Round: 2
+
+ 50127 (53)>(11)    702  B
+    45 (34)>(30)    228  B
+   839 (39)>(25)   3598  B
+    11 (37)>(27)      2  B
+
+%Round: 3
+
+   702 (24)<(40)    228  B
+     2 (59)>(05)  50127  B
+  3598 (38)>(26)     45  B
+    11 (27)<(37)    839  B
+
+%Round: 4
+
+    45 (50)>(14)    702  B
+ 50127 (33)>(31)    228  B
+  3598 (10)<(54)     11  B
+   839 (21)<(43)      2  B
+
+%Round: 5
+
+     2 (42)>(22)     45  B
+    11 (58)>(06)  50127  B
+   228 (09)<(55)    839  B
+   702 (22)<(42)   3598  B

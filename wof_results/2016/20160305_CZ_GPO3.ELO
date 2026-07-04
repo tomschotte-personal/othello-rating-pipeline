@@ -1,0 +1,28 @@
+%%Tournament: Czech GPO 3/2016
+%%Country: Czech Republic
+%%Date: 05/03/2016
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZE, 2, 121
+%_% 210167, KRENEK, Lukas, CZE, 2, 122
+%_% 210172, GURZI, Fedos, CZE, 0, 44
+%_% 210173, CERNY, Filip, CZE, 2, 97
+
+
+%Round 1
+
+210172 (07)<(57)   4509  B
+210167 (30)<(34) 210173  B
+
+
+%Round 2
+
+  4509 (38)>(26) 210173  B
+210172 (10)<(54) 210167  B
+
+
+%Round 3
+
+210167 (38)>(26)   4509  B
+210173 (37)>(27) 210172  B

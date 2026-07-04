@@ -1,0 +1,47 @@
+%%Tournament: 40th Niigata Othello Conference
+%%Country: Japan
+%%Date: 08/04/2001
+%%Sender: Tom Schotte
+
+%round1
+488 > 11024
+7046 > 12008
+7048 > 7051
+12009 > 11996
+
+%round2
+488 > 7048
+7046 > 12009
+11024 > 7051
+11996 > 12008
+
+%round3
+488 > 7046
+7048 > 12009
+11024 > 11996
+7051 > 12008
+
+%round4
+488 > 11996
+7046 > 7051
+7048 > 11024
+12009 > 12008
+
+%round5
+488 > 12009
+7046 > 7048
+11024 > 12008
+7051 > 11996
+
+
+%players
+%1 488	takizawa	masaki	
+%2 7046	sasaki	sadayuki
+%3 7048	kanda	yoshihiro
+%4 11024	igarashi	toshiyuki
+%5 12009	tanaka	yusuke
+%6 7051	okuno	tomoji
+%7 11996	watanabe	teruko
+%8 12008	akahara	kenta
+
+

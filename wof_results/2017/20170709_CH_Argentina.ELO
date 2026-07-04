@@ -1,0 +1,37 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 09/07/2017
+%%Sender: Daniel Olivares
+
+%          ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    280033, PEELLIZZARI, Maximiliano, 5,231
+%_%       650, OLIVARES, Daniel, ARG, 4, 174
+%_%      4168, LISNOVSKY, Marcelo, ARG, 3, 138
+%_%      4157, ITURBIDE, Paula, ARG, 1, 154
+%_%    280034, SEIFERT, Max, ARG, 1, 135
+%_%    280042, VAZQUEZ, German, ARG, 1, 128
+
+%Round 1
+280042 (38)>(26) 280034  B
+  4168 (33)>(31)   4157  B
+280033 (53)>(11)    650  B
+
+%Round 2
+  4157 (27)<(37) 280033  B
+280034 (30)<(34)    650  B
+280042 (30)<(34)   4168  B
+
+%Round 3
+280033 (42)>(22) 280042  B
+   650 (40)>(24)   4157  B
+  4168 (35)>(29) 280034  B
+
+%Round 4
+280042 (19)<(45)    650  B
+  4168 (16)<(48) 280033  B
+280034 (37)>(27)   4157  B
+
+%Round 5
+   650 (44)>(20)   4168  B
+  4157 (45)>(19) 280042  B
+280033 (51)>(13) 280034  B

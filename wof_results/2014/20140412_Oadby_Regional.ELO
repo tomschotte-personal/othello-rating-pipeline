@@ -1,0 +1,56 @@
+%%Tournament: Oadby Regional 2014
+%%Country: Great-Britain
+%%Date: 12/04/2014
+%%Sender: Stephen ROWE
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/04/14 10:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2065, MARSON, Phil, GBR,  5.5, 269, 1774
+%_%    2047, BARRASS, Iain, GBR,  4, 231, 1904
+%_%    2042, BURGESS, Andrew, GBR,  3.5, 211, 1464
+%_%    2006, ARNOLD, Roy, GBR,  3, 186, 1584
+%_%    2091, ROWE, Stephen, GBR,  2, 174, 1457
+%_% +100020, BALKAN, Gokce, GB,  0, 81, 0
+
+
+
+%Round: 1
+
+  2065 (32)=(32)   2042  B
+100020 (19)<(45)   2047  B
+  2091 (14)<(50)   2006  B
+
+%Round: 2
+
+  2006 (22)<(42)   2065  B
+  2047 (42)>(22)   2091  B
+  2042 (56)>(08) 100020  B
+
+%Round: 3
+
+  2047 (41)>(23)   2006  B
+100020 (05)<(59)   2065  B
+  2091 (28)<(36)   2042  B
+
+%Round: 4
+
+  2065 (50)>(14)   2091  B
+  2042 (40)>(24)   2047  B
+  2006 (47)>(17) 100020  B
+
+%Round: 5
+
+  2047 (23)<(41)   2065  B
+  2042 (28)<(36)   2006  B
+100020 (06)<(58)   2091  B
+
+%Round: 6
+
+  2042 (19)<(45)   2065  B
+  2006 (08)<(56)   2047  B
+  2091 (38)>(26) 100020  B
+
+
+%%Added results

@@ -1,0 +1,37 @@
+%%Tournament: Israeli Championship
+%%Country: Israel
+%%Date: 22/09/2012
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, IL, 5, 212
+%_%    880, SHIFMAN, Leonid, IL, 3.5, 208
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 2.5, 176
+%_%    200003, MARGALIOT, Michael, IL, 2, 112
+%_%    885, SHIFMAN, Ilya, IL, 1, 128
+%_%    4039, RADZIVILOVSKY, Lev, IL, 1, 124
+
+%Round 1
+   880 (41)>(23)    885  B
+  4028 (29)<(35)   4085  B
+  4039 (29)<(35) 200003  B
+
+%Round 2
+   885 (31)<(33) 200003  B
+   880 (32)=(32)   4028  B
+  4085 (55)>(09)   4039  B
+
+%Round 3
+  4039 (12)<(52)    880  B
+  4028 (24)<(40)    885  B
+200003 (24)<(40)   4085  B
+
+%Round 4
+   880 (56)>(08) 200003  B
+  4028 (39)>(25)   4039  B
+   885 (19)<(45)   4085  B
+
+%Round 5
+  4085 (37)>(27)    880  B
+200003 (12)<(52)   4028  B
+  4039 (49)>(15)    885  B

@@ -1,0 +1,58 @@
+%%Tournament: Torneo di Natale 2011 - Torre del Greco
+%%Country: Italy
+%%Date: 27/12/2011
+%%Sender: Donato Barnaba
+
+
+% 3037, DI MATTEI, Alessandro
+% 2843, STANZIONE, Pierluigi
+% 2839, LAMBERTI, Luigi
+% 3001, LIGUORI, Tommaso
+% 3111, SCOGNAMIGLIO, Paolo
+% 3019, DIODATI, Michele
+% 42, PRIVITERA, Biagio
+% 2933, PRIVITERA, Francesco
+% 2803, TEDESCO, Giuseppe
+% 2913, AMIRANTE, Andrea
+
+
+
+%Round: 1
+
+  3037 (51)>(13)   3019  B
+    42 (34)>(30)   2843  B
+  3111 (46)>(18)   2933  B
+  2913 (13)<(51)   2839  B
+  3001 (53)>(11)   2803  B
+
+%Round: 2
+
+  2839 (21)<(43)   3037  B
+  3001 (25)<(39)   3111  B
+  3019 (30)<(34)     42  B
+  2843 (48)>(16)   2913  B
+  2933 (58)>(06)   2803  B
+
+%Round: 3
+
+  3037 (21)<(43)   3111  B
+    42 (21)<(43)   2839  B
+  2843 (23)<(41)   3001  B
+  2913 (14)<(50)   2933  B
+  2803 (31)<(33)   3019  B
+
+%Round: 4
+
+  3111 (35)>(29)     42  B
+  2933 (32)=(32)   3037  B
+  2839 (18)<(46)   3001  B
+  3019 (12)<(52)   2843  B
+  2803 (08)<(56)   2913  B
+
+%Round: 5
+
+  2843 (16)<(48)   3111  B
+  3001 (45)>(19)   2933  B
+  3037 (40)>(24)     42  B
+  2839 (42)>(22)   2803  B
+  2913 (27)<(37)   3019  B

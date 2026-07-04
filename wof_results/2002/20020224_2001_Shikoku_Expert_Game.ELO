@@ -1,0 +1,59 @@
+%%Tournament: Shikoku Expert Game 2002
+%%Country: Japan
+%%Date: 24/02/2002
+%%Sender: Tom Schotte
+
+%round1
+6925 > 10325
+11891 > 11894
+11057 > 6839
+11892 > 11442
+11893 > 11885
+11888 > 10736
+
+%round2
+6925 > 11442
+11057 > 11891
+11893 > 11892
+6839 > 11894
+11885 > 11888
+10325 > 10736
+
+%round3
+6925 > 11893
+11891 > 11888
+11892 > 11057
+6839 > 10325
+11885 > 11894
+10736 > 11442
+
+%round4
+6925 > 11892
+11891 > 11885
+11057 > 10325
+11893 > 6839
+11442 > 11888
+11894 > 10736
+
+%round5
+11891 > 6925
+11057 > 11893
+11892 > 11885
+6839 > 10736
+11442 > 10325
+11888 > 11894
+
+
+%players
+%1 6925	izumo	kengo
+%2 11891	terai	satoshi
+%3 11057	iwasaki	kazuo
+%4 11892	nomura	shuya
+%5 11893	furakawa	masaki
+%6 6839	matsutani	shinpei
+%7 11442	nomuracho	ryoji
+%8 11885	ohata	murase
+%9 11888	osada	michiko
+%10 10736	yanagihara	shigemi
+%11 11894	nomura	toyokazu
+%12 10325	okamoto	siyunya

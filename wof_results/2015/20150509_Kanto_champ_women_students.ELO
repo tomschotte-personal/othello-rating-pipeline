@@ -1,0 +1,26 @@
+%%Tournament: Kanto_champ_women_students
+%%Country: Japan
+%%Date: 09/05/2015
+%%Sender: Hiroyuki Iwata
+
+%_%    299, MURAKAMI, takeshi, JPN, 2.0, 102
+%_%   5567, MITSUYA, nobuaki, JPN, 2.0, 92
+%_%   5508, TATSUMI-IIJIMA, yukiko, JPN, 2.0, 80
+%_%  12648, AKAGI, tachiro, JPN, 1.0, 100
+%_%  11054, IWAKURA, hiroaki, JPN, 1.0, 90
+%_%    652, HORIUCHI, keiko, JPN, 0.0, 48
+
+%Round 1
+   299 (40)>(24)  11054 
+  5508 (35)>(29)    652 
+  5567 (37)>(27)  12648 
+
+%Round 2
+ 11054 (41)>(23)    299 
+  5508 (45)>(19)    652 
+ 12648 (42)>(22)   5567 
+
+%Round 3
+   299 (39)>(25)  11054 
+  5567 (33)>(31)  12648 
+

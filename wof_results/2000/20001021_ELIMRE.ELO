@@ -1,0 +1,29 @@
+%%Tournament: Selection de Rennes
+%%Country: France
+%%Date: 21/10/2000
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+  45 >  946
+ 940 >  894
+
+%%Round: 2
+
+ 947 <   45
+ 946 <  940
+
+%%Round: 3
+
+ 894 >  946
+ 940 >  947
+
+%%Round: 4
+
+  45 >  940
+ 947 <  894
+
+%%Round: 5
+
+ 946 >  947
+ 894 <   45

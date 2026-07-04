@@ -1,0 +1,103 @@
+%%Tournament: 5th Shanghai Othello Open
+%%Country: China
+%%Date: 22/07/2012
+%%Sender: Tom Schotte
+
+%round1
+  7118 >   4160 
+  7205 >   7207 
+  7112 >   7206 
+  4143 >   7208 
+  4088 >   7209 
+170003 >   7154 
+  4082 >   7210 
+  7115 >   7147 
+
+%round2
+  7118 >   4143 
+  7112 >   7205 
+  4160 >   7208 
+170003 >   7115 
+  7206 >   7207 
+  7147 >   7154 
+  4082 >   4088 
+  7209 >   7210 
+
+%round3
+  7205 >   7147 
+  7112 >   7118 
+  4143 >   7207 
+  4160 >   7115 
+170003 >   4082 
+  7206 >   4088 
+  7208 >   7209 
+  7154 >   7210 
+
+%round4
+  7118 >   7206 
+  7205 >   4160 
+  4143 >   4082 
+  4088 >   7208 
+170003 >   7112 
+  7147 >   7209 
+  7207 >   7210 
+  7115 >   7154 
+
+
+%round5
+  7118 =   7205 
+  7112 >   7115 
+  4143 > 170003 
+  4088 >   4160 
+  7206 >   7209 
+  7147 >   4082 
+  7207 >   7154 
+  7208 >   7210 
+
+%round6
+  7118 > 170003 
+  7205 >   4088 
+  4143 >   7112 
+  4160 >   7210 
+  7147 >   7206 
+  7207 >   7115 
+  7208 >   4082 
+  7154 >   7209 
+
+%round7
+  7118 >   7147 
+  7205 >   4143 
+  7112 >   7208 
+  4088 > 170003 
+  4160 >   7207 
+  7206 >   7154 
+  4082 >   7209 
+  7115 >   7210 
+
+%semifinals
+  4143 (32)=(32)   7118 
+  7112 (39)>(25)   7205 
+
+%play-off
+  4143 (19)<(45)   7205 
+
+%final
+  7112 (23)<(41)   7118 
+
+%players
+%1 KANG Le (China)[id: 7118] 1st
+%2 WANG Zhen (China)[Id:7205] NEW 3rd
+%3 FENG Ling (China)[id: 7112] 2nd
+%4 ZHAO Jing (China)[id: 4143] 4th
+%5 FANG Randy (USA)[id: 4088]
+%6 ZHOU Jian (China)[id: 4160]
+%7 YANG Kelvin (Hong-Kong)[id: 170003]
+%8 YANG Ren (China) [id:7206] NEW
+%9 ZHU Linyun (China)[id: 7147]
+%10 XU Lingzhe (China) [id:7207] NEW
+%11 QIN Jingmin (China)[id: 4082]
+%12 HUANG Helou (China)[id: 7115]
+%13 HAN Yue (China) [id:7208] NEW
+%14 HONG Yulan (China)[id: 7154]
+%15 WEN Zeshun (China) [id:7209] NEW
+%16 ZHU Yaoting (China) [id:7210] NEW

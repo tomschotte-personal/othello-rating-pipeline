@@ -1,0 +1,52 @@
+%%Tournament: Swiss championship
+%%Country: Switzerland
+%%Date: 30/04/2016
+%%Sender: Francois Juigner
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/05/31 22:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     839, KASHIWABARA, Takuji, FRA,  5, 217, 2145
+%_%   50030, JUIGNER, Arthur, FRA,  4, 216, 2199
+%_%     475, LANUIT, Christophe, FRA,  3, 183, 1831
+%_%    4051, DOUSSE, Stephane, CHE,  2, 139, 1897
+%_%   50067, JUIGNER, Felix, FRA,  1, 125, 1683
+%_%   50057, JUIGNER, Francois, FRA,  0, 80, 1153
+
+
+
+%Round: 1
+
+   839 (51)>(13)  50067  W
+ 50030 (60)>(04)  50057  W
+   475 (47)>(17)   4051  W
+
+%Round: 2
+
+   839 (49)>(15)   4051  B
+ 50030 (43)>(21)  50067  B
+   475 (50)>(14)  50057  B
+
+%Round: 3
+
+   839 (43)>(21)  50057  W
+ 50030 (43)>(21)    475  W
+  4051 (37)>(27)  50067  B
+
+%Round: 4
+
+   839 (38)>(26)    475  B
+ 50030 (42)>(22)   4051  B
+ 50067 (39)>(25)  50057  B
+
+%Round: 5
+
+   839 (36)>(28)  50030  B
+   475 (39)>(25)  50067  B
+  4051 (48)>(16)  50057  W
+
+
+%%Added results
+   839 (48)>(16)  50030  B
+ 50030 (28)<(36)    839  B

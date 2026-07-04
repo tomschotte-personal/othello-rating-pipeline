@@ -1,0 +1,48 @@
+%%Tournament: National Open (day 2)
+%%Country: USA
+%%Date: 10/07/2011
+%%Sender: David Rockwell
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/07/10 15:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   20009, RUHMKORFF, Ben, USA,  5, 227
+%_%    5513, TANIDA, Kunihiko, J,  4, 266
+%_%    6419, ARMATYS, Frank, USA,  3, 176
+%_%    6428, BISHOP, Robert, USA,  0, 99
+
+
+
+%Round: 1
+
+  5513 (30)<(34)  20009  B
+  6428 (10)<(54)   6419  B
+
+%Round: 2
+
+  6419 (34)>(30)   5513  B
+ 20009 (49)>(15)   6428  B
+
+%Round: 3
+
+  5513 (53)>(11)   6428  B
+  6419 (26)<(38)  20009  B
+
+%Round: 4
+
+ 20009 (13)<(51)   5513  B
+  6419 (37)>(27)   6428  B
+
+%Round: 5
+
+  5513 (58)>(06)   6419  B
+  6428 (16)<(48)  20009  B
+
+%Round: 6
+
+  6428 (20)<(44)   5513  B
+ 20009 (45)>(19)   6419  B
+
+
+%%Added results

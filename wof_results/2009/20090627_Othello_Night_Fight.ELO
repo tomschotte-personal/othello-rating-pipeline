@@ -1,0 +1,69 @@
+%%Tournament: Othello Night Fight
+%%Country: Finland
+%%Date: 27/06/2009
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 21:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1640, LONNQVIST, Fredrik, FIN,  9, 453
+%_%    1638, LONNQVIST, Viktor, FIN,  7, 370
+%_%    1602, LONNQVIST, Tom, FIN,  7, 363
+%_%    1606, LONNQVIST, Christer, FIN,  4, 272
+%_%    1612, AHLGREN, Janne, FIN,  3, 222
+
+
+
+%Round: 1
+
+  1638 (28)<(36)   1602 B
+  1612 (18)<(46)   1606 B
+
+%Round: 2
+
+  1640 (39)>(25)   1638 B
+  1602 (34)>(30)   1606 B
+
+%Round: 3
+
+  1612 (18)<(46)   1602 B
+  1640 (44)>(20)   1606 B
+
+%Round: 4
+
+  1612 (10)<(54)   1640 B
+  1606 (25)<(39)   1638 B
+
+%Round: 5
+
+  1638 (39)>(25)   1612 B
+  1602 (19)<(45)   1640 B
+
+%Round: 6
+
+  1602 (31)<(33)   1638 B
+  1606 (51)>(13)   1612 B
+
+%Round: 7
+
+  1638 (22)<(42)   1640 B
+  1606 (01)<(63)   1602 B
+
+%Round: 8
+
+  1606 (06)<(58)   1640 B
+  1602 (17)<(47)   1612 B
+
+%Round: 9
+
+  1640 (64)>(00)   1612 B
+  1638 (51)>(13)   1606 B
+
+%Round: 10
+
+  1640 (27)<(37)   1602 B
+  1612 (11)<(53)   1638 B
+
+
+%%Added results

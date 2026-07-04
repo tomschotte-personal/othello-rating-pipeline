@@ -1,0 +1,37 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 24/06/2018
+%%Sender: Daniel Olivares
+
+%     ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      4168, LISNOVSKY, Marcelo, ARG, 5, 196
+%_%       650, OLIVARES, Daniel, ARG, 4, 255
+%_%    280042, VAZQUEZ, Germán, ARG, 3, 140
+%_%      4157, ITURBIDE, Paula, ARG, 2, 168
+%_%    280034, SEIFERT, Max, ARG, 1, 131
+%_%    280038, COHEN, Mercedes, ARG, 0, 70
+
+%Round 1
+280034 (27)<(37) 280042  B
+  4157 (12)<(52)    650  B
+  4168 (42)>(22) 280038  B
+
+%Round 2
+   650 (63)>(01) 280042  B
+  4157 (25)<(39)   4168  B
+280038 (14)<(50) 280034  B
+
+%Round 3
+280042 (46)>(18) 280038  B
+  4168 (35)>(29)    650  B
+280034 (12)<(52)   4157  B
+
+%Round 4
+  4168 (39)>(25) 280034  B
+  4157 (31)<(33) 280042  B
+   650 (64)>(00) 280038  B
+
+%Round 5
+280038 (16)<(48)   4157  B
+280042 (23)<(41)   4168  B
+280034 (17)<(47)    650  B

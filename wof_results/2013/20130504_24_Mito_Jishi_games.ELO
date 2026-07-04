@@ -1,0 +1,31 @@
+%%Tournament: 24_Mito_Jishi_games
+%%Country: Japan
+%%Date: 04/05/2013
+%%Sender: Hiroyuki Iwata
+
+%_%   6986, IZUMI, takashi, JPN, 3.0, 162
+%_%  10272, TSUCHIYA, ryosuke, JPN, 3.0, 125
+%_%  10870, NAKAMURA, keiko, JPN, 2.0, 117
+%_%  10616, SATOHISA, kazu, JPN, 1.0, 120
+%_%   6891, KATORI, mitihiro, JPN, 1.0, 116
+
+%Round 1
+ 10272 (34)>(30)  10616 
+  6891 (38)>(26)  10870 
+
+%Round 2
+ 10272 (39)>(25)   6986 
+ 10616 (40)>(24)   6891 
+
+%Round 3
+  6986 (40)>(24)   6891 
+ 10870 (34)>(30)  10616 
+
+%Round 4
+  6986 (53)>(11)  10870 
+ 10272 (34)>(30)   6891 
+
+%Round 5
+  6986 (44)>(20)  10616 
+ 10870 (46)>(18)  10272 
+

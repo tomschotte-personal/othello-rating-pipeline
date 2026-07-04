@@ -1,0 +1,65 @@
+%%Tournament: 37th Belgian Championship
+%%Country: Belgium
+%%Date: 11/10/2020
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/10/11 20:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  6, 309, 2047
+%_%    5900, REUNES, Nick, BEL,  5, 300, 1752
+%_%    5909, VAN DAMME, Brecht, BEL,  5, 274, 1556
+%_%    5214, DE BOER, Rosalinde, NLD,  5, 247, 1627
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  4, 230, 1410
+%_%  270033, SCHOTTE, Wout, BEL,  2, 99, -25
+%_%  270032, SCHOTTE, Sander, BEL,  1, 116, 312
+
+
+
+%Round: 1
+
+  5900 (45)>(19)   4068  B
+  2795 (42)>(22) 270032  B
+270033 (02)<(62)   5909  B
+
+%Round: 2
+
+  5214 (39)>(25)   2795  B
+  5909 (37)>(27)   5900  B
+270032 (28)<(36) 270033  B
+
+%Round: 3
+
+  4068 (39)>(25)   5909  B
+270033 (13)<(51)   5214  B
+  5900 (55)>(09) 270032  B
+
+%Round: 4
+
+  2795 (64)>(00) 270033  B
+270032 (13)<(51)   4068  B
+  5214 (05)<(59)   5900  B
+
+%Round: 5
+
+  5909 (59)>(05) 270032  B
+  5900 (20)<(44)   2795  B
+  4068 (24)<(40)   5214  B
+
+%Round: 6
+
+270033 (03)<(61)   5900  B
+  5214 (21)<(43)   5909  B
+  2795 (52)>(12)   4068  B
+
+%Round: 7
+
+270032 (06)<(58)   5214  B
+  4068 (52)>(12) 270033  B
+  5909 (15)<(49)   2795  B
+
+
+%%Added results
+  5900 (33)>(31)   2795  B
+270033 (29)<(35) 270032  B

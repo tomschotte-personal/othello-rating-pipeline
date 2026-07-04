@@ -1,0 +1,50 @@
+%%Tournament: Calvin College Open
+%%Country: USA
+%%Date: 21/04/2013
+%%Sender: David Rockwell
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/05/01 16:57
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    6412, ROCKWELL, David, USA,  5, 213, 1739
+%_%   20020, ENTINGH, Eric, USA,  4, 234, 1799
+%_%    6418, WIENCEK, Tom, USA,  3, 189, 1494
+%_% + 20026, Matheson, Joseph, USA,  2, 113, 0
+%_% + 20028, Zylstra, Isaac, USA,  1, 130, 0
+%_% + 20027, Drexel, John, USA,  0, 81, 0
+
+
+
+%Round: 1
+
+  6412 (37)>(27)   6418  B
+ 20026 (01)<(63)  20020  B
+ 20027 (19)<(45)  20028  B
+
+%Round: 2
+
+ 20028 (26)<(38)   6418  B
+ 20027 (15)<(49)  20026  B
+ 20020 (23)<(41)   6412  B
+
+%Round: 3
+
+  6412 (41)>(23)  20027  B
+  6418 (13)<(51)  20020  B
+ 20026 (37)>(27)  20028  B
+
+%Round: 4
+
+  6412 (43)>(21)  20026  B
+ 20028 (19)<(45)  20020  B
+  6418 (52)>(12)  20027  B
+
+%Round: 5
+
+ 20028 (13)<(51)   6412  B
+ 20020 (52)>(12)  20027  B
+ 20026 (05)<(59)   6418  B
+
+
+%%Added results

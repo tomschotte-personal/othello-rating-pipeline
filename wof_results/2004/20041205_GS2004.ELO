@@ -1,0 +1,44 @@
+%%Tournament: II torneo Othello Club - Milano
+%%Country: Italy
+%%Date: 05/12/2004
+%%Sender: Donato Barnaba
+
+
+%_% 6439, KOTIN, David
+%_% 4514, KVAPILOVA, Hana
+%_% 3024, BORASSI, Michele
+%_% 3005, PALLADINO, Domenico
+%_% 2984, CANU, Massimo
+%_% 2903, BERSAGLIERI, Daniela
+%_% 3008, TORMENE, Enrico
+%_% 407, BARNABA, Donato
+
+
+
+%Round: 1
+
+ 407 (64)>(00) 6439 B
+2903 (08)<(55) 3024 B
+3005 (48)>(16) 4514 B
+3008 (08)<(56) 2984 B
+
+%Round: 2
+
+2984 (18)<(46)  407 B
+3024 (49)>(15) 3005 B
+6439 (49)>(15) 3008 B
+4514 (36)>(28) 2903 B
+
+%Round: 3
+
+ 407 (34)>(30) 3024 B
+3005 (64)>(00) 6439 B
+4514 (15)<(49) 2984 B
+2903 (42)>(22) 3008 B
+
+%Round: 4
+
+3005 (48)>(16)  407 B
+3024 (32)=(32) 2984 B
+6439 (34)>(30) 2903 B
+3008 (20)<(44) 4514 B

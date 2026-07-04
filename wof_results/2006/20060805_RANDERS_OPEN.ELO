@@ -1,0 +1,37 @@
+%%Tournament: RANDERS Open
+%%Country: Denmark
+%%Date: 05/08/2006
+%%Sender: Emmanuel.Lazard
+
+%%Creator: PAPP 1.28
+%%CreationDate: 2006/08/08 16:53
+
+%%Round: 1
+
+1096 < 1046
+1040 >   96
+1047 < 1000
+
+%%Round: 2
+
+1046 > 1040
+  96 > 1047
+1000 > 1096
+
+%%Round: 3
+
+1040 < 1000
+  96 < 1046
+1047 > 1096
+
+%%Round: 4
+
+1046 > 1047
+1000 <   96
+1096 < 1040
+
+%%Round: 5
+
+1046 > 1000
+  96 > 1096
+1047 < 1040

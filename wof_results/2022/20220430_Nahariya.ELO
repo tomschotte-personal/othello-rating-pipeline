@@ -1,0 +1,57 @@
+%%Tournament: Nahariya
+%%Country: Israel
+%%Date: 30/04/2022
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/04/30 20:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  200010, SHIFMAN, Micky, ISR,  5, 230, 1636
+%_%     885, SHIFMAN, Ilya, ISR,  4, 208, 1740
+%_%  200040, LAUFER, Shachar, ISR,  3, 185, 1590
+%_%     880, SHIFMAN, Leonid, ISR,  3, 162, 1743
+%_%  200018, YOSIFOVICH, Danielle, ISR,  2, 159, 1393
+%_%  200400, Kaminsky, Oleg, isr,  1, 155, 0
+%_% +200404, Kurilenkov, Konstantin, isr,  1, 95, 0
+%_%  200009, SHIFMAN, Shani, ISR,  1, 86, 888
+
+
+
+%Round: 1
+
+   885 (50)>(14) 200040  B
+200404 (39)>(25) 200400  B
+200010 (63)>(01) 200009  B
+200018 (31)<(33)    880  B
+
+%Round: 2
+
+   885 (17)<(47) 200010  B
+200040 (36)>(28) 200400  B
+   880 (43)>(21) 200404  B
+200009 (13)<(51) 200018  B
+
+%Round: 3
+
+200400 (49)>(15) 200009  B
+200404 (07)<(57) 200040  B
+200018 (22)<(42)    885  B
+200010 (39)>(25)    880  B
+
+%Round: 4
+
+200040 (25)<(39) 200010  B
+200009 (46)>(18) 200404  B
+200400 (31)<(33) 200018  B
+   880 (19)<(45)    885  B
+
+%Round: 5
+
+   880 (42)>(22) 200400  B
+200009 (11)<(53) 200040  B
+200010 (42)>(22) 200018  B
+   885 (54)>(10) 200404  B
+
+
+%%Added results

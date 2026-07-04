@@ -1,0 +1,49 @@
+%%Tournament: Rome Xmas
+%%Country: Italy
+%%Date: 27/12/2014
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 16:25
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  3037, DI MATTEI, Alessandro,  4.5, 200
+%_%    36, MARCONI, Francesco,  3.5, 203
+%_%  3019, DIODATI, MICHELE,  3, 191
+%_%  3062, CAVIOLA, Leonardo,  3, 164
+%_% 40052, GIGLIUCCI, Chiara,  1, 107
+%_%  2884, VECCHI, Maria Serena,  0, 95
+
+
+
+
+%Round: 1
+
+  3037 (58)>(06)  40052   B
+    36 (47)>(17)   2884   B
+  3019 (25)<(39)   3062   B
+
+%Round: 2
+
+ 40052 (19)<(45)   3062   B
+  2884 (11)<(53)   3019   B
+  3037 (35)>(29)     36   B
+
+%Round: 3
+
+    36 (51)>(13)  40052   B
+  3019 (32)=(32)   3037   B
+  3062 (34)>(30)   2884   B
+
+%Round: 4
+
+ 40052 (54)>(10)   2884   B
+  3037 (38)>(26)   3062   B
+    36 (32)=(32)   3019   B
+
+%Round: 5
+
+  3019 (49)>(15)  40052   B
+  3062 (20)<(44)     36   B
+  2884 (27)<(37)   3037   B
+  

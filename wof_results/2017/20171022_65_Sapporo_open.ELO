@@ -1,0 +1,37 @@
+%%Tournament: 65_Sapporo_open
+%%Country: Japan
+%%Date: 22/10/2017
+%%Sender: Hiroyuki Iwata
+
+%_%   5555, SATO, tetsuya, JPN, 4.0, 198
+%_%   6868, SASAKI, sohei, JPN, 4.0, 178
+%_%   6872, NOZAKI, jyunetsu, JPN, 2.0, 166
+%_%   7018, OKABAYASHI, noguchi, JPN, 1.0, 144
+%_%  12941, YAMADA, yukie, JPN, 1.0, 102
+%_%   5582, TAKENOBU, kosuke, JPN, 1.0, 44
+
+%Round 1
+  6868 (54)>(10)  12941 
+  5555 (35)>(29)   7018 
+
+%Round 2
+  6868 (41)>(23)   5555 
+  7018 (43)>(21)   6872 
+
+%Round 3
+  6868 (43)>(21)   6872 
+  5555 (40)>(24)  12941 
+
+%Round 4
+  6868 (40)>(24)   7018 
+  6872 (50)>(14)  12941 
+  5582 (44)>(20)   5555 
+
+%Round 5
+  5555 (38)>(26)   6872 
+ 12941 (38)>(26)   7018 
+
+%Round 6
+  5555 (42)>(22)   7018 
+  6872 (48)>(16)  12941 
+

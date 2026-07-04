@@ -1,0 +1,39 @@
+%%Tournament: Cambridge Regional 2018
+%%Country: Great-Britain
+%%Date: 02/06/2018
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader.
+%%CreationDate: 2018/06/22 17:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, BOF rating, BOF games
+%_%      79, LEADER, Imre, GBR, 6, ,1889, 1155
+%_%    4019, PRIDMORE, Ben, GBR, 3, ,1418, 617
+%_%    2006, ARNOLD, Roy, GBR, 2, ,1338, 1534
+%_%    2091, ROWE, Steve, GBR, 1, ,1240, 364
+
+%Round: 1
+    79 (60)>(04)   2006   B
+  2091 (18)<(46)   4019   B
+  
+%Round: 2
+  4019 (26)<(38)     79   B
+  2006 (45)>(19)   2091   B
+    
+%Round: 3
+    79 (52)>(12)   2091   B
+  4019 (32)=(32)   2006   B
+  
+%Round: 4
+  2006 (09)<(55)     79   B
+  4019 (45)>(19)   2091   B
+    
+%Round: 5
+    79 (45)>(19)   4019   B
+  2091 (36)>(28)   2006   B
+    
+%Round: 6
+  2091 (08)<(56)     79   B
+  2006 (32)=(32)   4019   B
+
+%%Added results

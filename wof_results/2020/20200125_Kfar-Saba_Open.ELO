@@ -1,0 +1,51 @@
+%%Tournament: Kfar-Saba Open
+%%Country: Israel
+%%Date: 25/01/2020
+%%Sender: Leonid Shifman
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/06/01 18:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     880, SHIFMAN, Leonid, ISR,  5, 248
+%_%  200010, SHIFMAN, Michael,  ISR,  3, 199
+%_%     885, SHIFMAN, Ilya, ISR,  3, 152
+%_%  200040, LAUFER, Shachar, ISR,  2, 150
+%_%    4028, RADZIVILOVSKY, Pavel, ISR,  1, 144
+%_%  200009, SHIFMAN, Shani,  ISR,  1, 67
+
+
+
+%Round: 1
+
+200010 (08)<(56)    880  B
+  4028 (27)<(37)    885  B
+200009 (15)<(49) 200040  B
+
+%Round: 2
+
+200009 (04)<(60) 200010  B
+   880 (34)>(30)   4028  B
+200040 (29)<(35)    885  B
+
+%Round: 3
+
+  4028 (27)<(37) 200009  B
+200010 (31)<(33) 200040  B
+   885 (13)<(51)    880  B
+
+%Round: 4
+
+200009 (07)<(57)    885  B
+200010 (46)>(18)   4028  B
+200040 (17)<(47)    880  B
+
+%Round: 5
+
+  4028 (42)>(22) 200040  B
+   885 (10)<(54) 200010  B
+   880 (60)>(04) 200009  B
+
+
+%%Added results
+

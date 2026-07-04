@@ -1,0 +1,54 @@
+%%Tournament: Championnat de France junior 2008
+%%Country: France
+%%Date: 15/11/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/12/17 10:52
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3793, ROUSSET, Gabriel, F,  7, 282
+%_%    3728, POIRIER, Antoine, F,  4, 282
+%_%    3794, GAUDAIRE, Arthur, F,  4, 276
+%_%    3524, POIRIER, Thibault, F,  3, 149
+%_% + 50000, THIAM, Moma, F,  1, 107
+
+
+
+%Round: 1
+
+  3524 (22)<(42)   3793 B
+ 50000 (16)<(48)   3728 B
+
+%Round: 2
+
+  3794 (63)>(01)  50000 B
+  3728 (24)<(40)   3524 B
+
+%Round: 3
+
+  3793 (37)>(27)   3728 B
+  3524 (00)<(64)   3794 B
+
+%Round: 4
+
+ 50000 (17)<(47)   3524 B
+  3794 (28)<(36)   3793 B
+
+%Round: 5
+
+  3728 (31)<(33)   3794 B
+  3793 (47)>(17)  50000 B
+
+%Round: 6
+
+  3793 (40)>(24)   3794 B
+  3728 (64)>(00)  50000 B
+
+%Round: 7
+
+  3794 (24)<(40)   3793 B
+ 50000 (16)<(48)   3728 B
+
+
+%%Added results

@@ -1,0 +1,44 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 02/03/2025
+%%Sender: M. Busuttil
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2025/03/07 19:38
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  5, 230, 1913
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 209, 1653
+%_%     228, BUSUTTIL, Michel, FRA,  3, 152, 1361
+%_%    2788, LECAT, Monique, BEL,  2, 144, 1460
+%_%   50127, HUGOT, Nicolas, FRA,  1, 105, 0
+
+
+
+%Round: 1
+
+   228 (18)<(46)   3598  B
+    45 (40)>(24)   2788  B
+
+%Round: 2
+
+ 50127 (16)<(48)     45  B
+  2788 (27)<(37)    228  B
+
+%Round: 3
+
+  3598 (52)>(12)   2788  B
+   228 (53)>(11)  50127  B
+
+%Round: 4
+
+    45 (60)>(04)    228  B
+ 50127 (15)<(49)   3598  B
+
+%Round: 5
+
+  2788 (41)>(23)  50127  B
+  3598 (43)>(21)     45  B
+
+
+%%Added results

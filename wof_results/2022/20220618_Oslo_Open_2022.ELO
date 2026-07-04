@@ -1,0 +1,46 @@
+%%Tournament: Oslo Open 2022
+%%Country: Norway
+%%Date: 18/06/2022
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/10/10 19:57
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  5, 191, 1898
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3, 185, 1802
+%_%  140031, TVEDT, Sverre, NOR,  2.5, 157, 1652
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  2.5, 152, 1198
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 155, 1590
+
+
+
+%Round: 1
+
+  1802 (28)<(36) 140048  B
+  2570 (33)>(31)   2511  B
+
+%Round: 2
+
+  2511 (47)>(17)   1802  B
+140048 (32)=(32) 140031  B
+
+%Round: 3
+
+  1802 (45)>(19) 140031  B
+  2570 (43)>(21) 140048  B
+
+%Round: 4
+
+140031 (28)<(36)   2570  B
+140048 (23)<(41)   2511  B
+
+%Round: 5
+
+  1802 (25)<(39)   2570  B
+  2511 (26)<(38) 140031  B
+
+
+%%Added results
+  2570 (45)>(19)   2511  B
+140048 (18)<(46) 140031  B

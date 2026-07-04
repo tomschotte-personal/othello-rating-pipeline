@@ -1,0 +1,86 @@
+%%Tournament: 4th King State Cup B
+%%Country: Japan
+%%Date: 19/08/2006
+%%Sender: Tom Schotte
+
+%round1
+5596 > 5696
+5697 > 5537
+10131 > 5555
+7088 > 10470
+5659 > 5585
+5552 > 11803
+11062 > 11805
+11804 > 11806
+
+%round2
+5596 > 5645
+5697 > 5585
+10131 > 11804
+7088 > 11062
+5537 > 11803
+5659 > 5552
+10470 > 5696
+11805 > 11806
+
+%round3
+5596 > 5697
+7088 > 10131
+5555 > 5696
+5645 > 5537
+5585 > 11803
+5659 > 11062
+10470 > 5552
+11805 > 11804
+
+%round4
+5596 > 10131
+5697 > 5645
+7088 > 5659
+5555 > 10470
+5537 > 11062
+5585 > 5552
+11803 > 11806
+11804 > 5552
+
+%round5
+5596 > 7088
+5697 > 5659
+10131 > 5585
+5537 > 5555
+5645 > 11805
+5696 > 11806
+11803 > 11062
+10470 > 11804
+
+%round6
+5596 > 5659
+5697 > 7088
+10131 > 5537
+5555 > 5645
+5585 > 11806
+5696 > 11804
+11803 > 10470
+5552 > 11805
+
+
+
+%players
+%1 5596	okamoto	akihiko
+%2 5697	saito	tauru
+%3 10131	nogami	yoshiyuki
+%4 7088	sano	hidekazu
+%5 5555	sato	tetsuya
+%6 5537	takanashi	yusuke
+%7 5645	kimura	masashi
+%8 5585	yasuda	kenji
+%9 5659	hamada	atushi
+%10 5696	shigeru	hayakawa
+%11 11803	miyazaki	takeaki
+%12 10470	maruta	osamu
+%13 5552	sakurai	takeuchi
+%14 11062	kadowaki	norihiro
+%15 11804	ide	ryomigi
+%16 11805	takahashi	nobuaki
+%17 11806	abe	satoshi
+

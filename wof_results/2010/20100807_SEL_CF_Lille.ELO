@@ -1,0 +1,44 @@
+%%Tournament: Selection de Lille
+%%Country: France
+%%Date: 07/08/2010
+%%Sender: Monique Lecat
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/10/08 21:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2788, LECAT, Monique, B,  5, 207
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  4, 226
+%_%    5903, LECAT, Florian, B,  3, 155
+%_% + 50032, LECHIEN, Vianney, F,  2, 128
+%_%    5922, LECAT, Vincent, B,  1, 124
+
+
+
+%Round: 1
+
+  3598 (30)<(34)   2788 B
+  5922 (24)<(40)  50032 B
+
+%Round: 2
+
+  5903 (55)>(09)   5922 B
+ 50032 (13)<(51)   3598 B
+
+%Round: 3
+
+  2788 (53)>(11)  50032 B
+  3598 (63)>(01)   5903 B
+
+%Round: 4
+
+  5922 (22)<(42)   3598 B
+  5903 (19)<(45)   2788 B
+
+%Round: 5
+
+ 50032 (24)<(40)   5903 B
+  2788 (35)>(29)   5922 B
+
+
+%%Added results

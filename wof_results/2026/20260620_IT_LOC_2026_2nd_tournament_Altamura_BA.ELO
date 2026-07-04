@@ -1,0 +1,60 @@
+%%Tournament: IT_LOC_2026_2nd_tournament_Altamura(BA)
+%%Country: Italy
+%%Date: 20/06/2026
+%%Sender: PICERNO Francesco
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40445, RELLA, Tommaso, ITA, 4, 185, 833
+%_%   40444, SETTE, Andrea, ITA, 3, 160, -
+%_%   40449, LOSPALLUTO, Giampiero, ITA, 3, 120, -
+%_%  +40510, Ostuni, Mara, ITA, 2, 158, -
+%_%  +40511, STRICCOLI, Carlo, ITA, 2, 137, -
+%_%  +40512, Dambrosio, Caterina, ITA, 2, 128, -
+%_%  +40513, Lorusso, Matteo, ITA, 2, 128, -
+%_%  +40514, Rondinone, Pietro, ITA, 2, 126, -
+%_%  +40515, Tancredi, Giuseppe, ITA, 2, 133, -
+%_%  +40516, Dileo, Grazia, ITA, 1, 104, -
+%_%  +40517, Rondinone, Mattia, ITA, 1, 68, -
+%_%  +40518, Dileo, Giulia, ITA, 0, 89, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/585
+
+%Round: 1
+
+ 40513 (15)<(49)  40445  B
+ 40510 (60)>(04)  40512  B
+ 40518 (26)<(38)  40517  B
+ 40514 (42)>(22)  40516  B
+ 40444 (49)>(15)  40515  B
+ 40511 (64)>(00)  40449  B
+
+%Round: 2
+
+ 40512 (38)>(26)  40515  B
+ 40449 (45)>(19)  40518  B
+ 40516 (29)<(35)  40513  B
+ 40517 (00)<(64)  40514  B
+ 40445 (44)>(20)  40510  B
+ 40511 (11)<(53)  40444  B
+
+%Round: 3
+
+ 40518 (29)<(35)  40516  B
+ 40515 (43)>(21)  40517  B
+ 40513 (23)<(41)  40449  B
+ 40510 (48)>(16)  40511  B
+ 40514 (08)<(56)  40512  B
+ 40444 (24)<(40)  40445  B
+
+%Round: 4
+
+ 40445 (52)>(12)  40514  B
+ 40512 (30)<(34)  40444  B
+ 40449 (34)>(30)  40510  B
+ 40516 (18)<(46)  40511  B
+ 40517 (09)<(55)  40513  B
+ 40515 (49)>(15)  40518  B

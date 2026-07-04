@@ -1,0 +1,24 @@
+%%Tournament: Argentina Open
+%%Country: Argentina
+%%Date: 17/02/2008
+%%Sender: Emmanuel.Lazard
+
+%%Round 1
+4167 > 4168
+ 650 = 4166
+
+%%Round 2
+4168 <  650
+4157 < 4167
+
+%%Round 3
+ 650 > 4157
+4166 > 4168
+
+%%Round 4
+4157 < 4166
+4167 >  650
+
+%%Round 5
+4166 > 4167
+4168 > 4157

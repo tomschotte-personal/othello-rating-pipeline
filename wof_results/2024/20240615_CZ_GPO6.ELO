@@ -1,0 +1,39 @@
+%%Tournament: Czech GPO 6/2024
+%%Country: Czech Republic
+%%Date: 15/06/2024
+%%Sender: DOUDA Tomas
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    4617, DOUDA, Tomas, CZE, 5, 213, 1714
+%_%  210183, ZINCENKO, Nikita, CZE, 4, 156, 1087
+%_%  210176, SLADEK, Vitek, CZE, 2, 141, 1214
+%_%    4509, RYBARIK, Jan, CZE, 2, 71, 921
+%_%  210210, KALILOVA, Jana, CZE, 2, 59, -
+
+%Round: 1
+
+210183 (52)>(12)   4509  B
+210176 (25)<(39)   4617  B
+
+%Round: 2
+
+  4509 (37)>(27) 210176  B
+210210 (11)<(53) 210183  B
+
+%Round: 3
+
+  4617 (64)>(00)   4509  B
+210176 (58)>(06) 210210  B
+
+%Round: 4
+
+210210 (00)<(64)   4617  B
+210183 (33)>(31) 210176  B
+
+%Round: 5
+
+  4617 (46)>(18) 210183  B
+  4509 (22)<(42) 210210  B

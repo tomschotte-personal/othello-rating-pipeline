@@ -1,0 +1,39 @@
+%%Tournament: Othello Chansaa 16, Master
+%%Country: Mongolia
+%%Date: 19/10/2024
+%%Sender: KHUYAGBAATAR Buyanzaya
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  440428, ERDENEBAT, Narantuya, MNG, 4, 192, 1422
+%_%  440021, MAKHGALSUREN, Janlavchariv, MNG, 3, 160, 1407
+%_%  440128, ENKHBOLD, Nandinkhuu, MNG, 2, 121, 1073
+%_% +440804, Batmunkh, Gantulga, MNG, 2, 102, -
+%_%  440369, CHOIROV, Unurbat, MNG, 1, 105, 544
+%_%  440741, MUNKHBAATAR, Munkhjargal, MNG, 0, 88, 754
+
+%Round: 1
+
+440428 (45)>(19) 440369  B
+440741 (23)<(41) 440804  B
+440128 (13)<(51) 440021  B
+
+%Round: 2
+
+440804 (14)<(50) 440428  B
+440021 (36)>(28) 440741  B
+440369 (19)<(45) 440128  B
+
+%Round: 3
+
+440369 (16)<(48) 440021  B
+440741 (06)<(58) 440428  B
+440128 (30)<(34) 440804  B
+
+%Round: 4
+
+440428 (39)>(25) 440021  B
+440804 (13)<(51) 440369  B
+440741 (31)<(33) 440128  B

@@ -1,0 +1,50 @@
+%%Tournament: Grenoble fin d'annee
+%%Country: France
+%%Date: 21/12/2013
+%%Sender: Takuji Kashiwabara
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/03/23 12:40
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     839, KASHIWABARA, Takuji, FRA,  5, 185, 2174
+%_%   50030, JUIGNER, Arthur, FRA,  4, 261, 2052
+%_%     125, MICHEL, Stephane, FRA,  3, 171, 1123
+%_%   50067, JUIGNER, Felix, FRA,  2, 150, 1508
+%_%    3824, NICOLAS, Caroline, FRA,  1, 138, 1152
+%_%   50063, SCHNEIDER, Doris, FRA,  0, 55, 0
+
+
+
+%Round: 1
+
+   839 (37)>(27)  50063  B
+ 50030 (62)>(02)  50067  B
+  3824 (28)<(36)    125  B
+
+%Round: 2
+
+ 50063 (04)<(60)   3824  B
+ 50067 (28)<(36)    839  B
+   125 (13)<(51)  50030  B
+
+%Round: 3
+
+ 50030 (61)>(03)  50063  B
+   839 (35)>(29)   3824  B
+ 50067 (22)<(42)    125  B
+
+%Round: 4
+
+ 50063 (12)<(52)  50067  B
+   125 (25)<(39)    839  B
+  3824 (03)<(61)  50030  B
+
+%Round: 5
+
+   839 (38)>(26)  50030  B
+ 50067 (46)>(18)   3824  B
+   125 (55)>(09)  50063  B
+
+
+%%Added results

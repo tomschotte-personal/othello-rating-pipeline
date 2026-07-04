@@ -1,0 +1,65 @@
+%%Tournament: Open Ile de France 6
+%%Country: France
+%%Date: 10/11/2018
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/11/24 12:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 207, 2082
+%_%     839, KASHIWABARA, Takuji, FRA,  4, 194, 2074
+%_%   50075, BERTRANDIAS, Marc, FRA,  3.5, 214, 1735
+%_%   50006, BISMUTH, Frederic, FRA,  3, 216, 1836
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 207, 1764
+%_%    3734, CLUZON, Gilles, FRA,  3, 131, 1252
+%_%    9025, TOUCHENE, Fouad, DZA,  2.5, 167, 1619
+%_%   50053, TASTET, Remi, FRA,  2, 145, 1406
+%_%     228, BUSUTTIL, Michel, FRA,  2, 133, 1419
+%_%    3600, BENOIT, Serge, FRA,  1, 108, 1313
+%_%   50097, OVION, Alix-Anne, FRA,  1, 78, 455
+
+
+
+%Round: 1
+
+ 50097 (11)<(53)  50075  B
+ 50006 (56)>(08)   3734  B
+     2 (50)>(14)   3600  B
+ 50053 (06)<(58)    228  B
+  9025 (34)>(30)     45  B
+
+%Round: 2
+
+   228 (06)<(58)  50006  B
+   839 (29)<(35)      2  B
+ 50075 (32)=(32)   9025  B
+  3734 (40)>(24)  50053  B
+    45 (64)>(00)  50097  B
+
+%Round: 3
+
+ 50053 (23)<(41)     45  B
+  9025 (29)<(35)    228  B
+     2 (45)>(19)  50006  B
+  3734 (08)<(56)  50075  B
+  3600 (18)<(46)    839  B
+
+%Round: 4
+
+ 50006 (26)<(38)    839  B
+ 50075 (22)<(42)      2  B
+   228 (21)<(43)     45  B
+ 50097 (15)<(49)   9025  B
+  3600 (29)<(35)   3734  B
+
+%Round: 5
+
+    45 (29)<(35)      2  B
+ 50006 (57)>(07)   3600  B
+ 50053 (52)>(12)  50097  B
+ 50075 (51)>(13)    228  B
+   839 (41)>(23)   9025  B
+
+
+%%Added results

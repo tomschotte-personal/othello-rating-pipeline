@@ -1,0 +1,18 @@
+%%Tournament: Czech GPO 4/2009
+%%Country: Czech Republic
+%%Date: 18/04/2009
+%%Sender: DOUDA, Tomas
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZ, 0, 31
+%_%   4510, RYBARIK, Ivo, CZ, 2, 171
+%_%   4617, DOUDA, Tomas, CZ, 4, 182
+
+
+ 4510 (27)<(37)   4617 B
+ 4509 (05)<(59)   4510 B
+ 4509 (00)<(64)   4617 B
+ 4617 (40)>(24)   4510 B
+ 4510 (61)>(03)   4509 B
+ 4617 (41)>(23)   4509 B
+

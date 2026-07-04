@@ -1,0 +1,44 @@
+%%Tournament: Singapore Open jul 2024
+%%Country: Singapore
+%%Date: 14/07/2024
+%%Sender: Alex Koh
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/07/14 14:06
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  250147, SIA, Cheng Yong, SGP,  4, 213, 2133
+%_%  250005, GOH, Jun Jie Anthony, SGP,  4, 208, 1967
+%_%  250174, KURNIAWAN, Samuel Henry, SGP,  3, 154, 1931
+%_%  250009, ONG WEI KOK, Jason, SGP,  2.5, 161, 1762
+%_%  250300, TAY WEI SHENG, Mark, SGP,  1.5, 104, 0
+
+
+
+%Round: 1
+
+250009 (25)<(39) 250174  B
+250147 (34)>(30) 250005  B
+
+%Round: 2
+
+250300 (00)<(64) 250147  B
+250005 (33)>(31) 250009  B
+
+%Round: 3
+
+250174 (18)<(46) 250005  B
+250009 (32)=(32) 250300  B
+
+%Round: 4
+
+250147 (31)<(33) 250009  B
+250300 (27)<(37) 250174  B
+
+%Round: 5
+
+250005 (59)>(05) 250300  B
+250174 (20)<(44) 250147  B
+
+
+%%Added results

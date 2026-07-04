@@ -1,0 +1,33 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 12/10/2013
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/10/16 19:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  3, 182, 2114
+%_%    3734, CLUZON, Gilles, FRA,  1, 78, 1359
+%_%    3600, BENOIT, Serge, FRA,  1, 66, 1332
+%_%     419, BETIN, Dominique, FRA,  1, 58, 1376
+
+
+
+%Round: 1
+
+   419 (19)<(45)   3600  B
+  3734 (06)<(58)      2  B
+
+%Round: 2
+
+     2 (61)>(03)    419  B
+  3600 (20)<(44)   3734  B
+
+%Round: 3
+
+   419 (36)>(28)   3734  B
+     2 (63)>(01)   3600  B
+
+
+%%Added results

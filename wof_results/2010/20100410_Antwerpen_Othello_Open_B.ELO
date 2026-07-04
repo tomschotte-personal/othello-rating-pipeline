@@ -1,0 +1,34 @@
+%%Tournament: Antwerpen Othello Open B
+%%Country: Belgium
+%%Date: 10/04/2010
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/04/12 22:05
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  270004, VAN DAMME, Jan, B,  2.5, 138
+%_%    5062, DE GRAAF, Corrie, NL,  2.5, 108
+%_%    5919, FLOCKMAN, Annie, B,  1, 83
+%_%    5923, DE FLOU, Mathias, B,  0, 55
+
+
+
+%Round: 1
+
+  5919 (13)<(51) 270004 B
+  5062 (37)>(27)   5923 B
+
+%Round: 2
+
+  5923 (19)<(45)   5919 B
+270004 (32)=(32)   5062 B
+
+%Round: 3
+
+  5919 (25)<(39)   5062 B
+  5923 (09)<(55) 270004 B
+
+
+%%Added results
+270004 (60)>(04)   5062 B

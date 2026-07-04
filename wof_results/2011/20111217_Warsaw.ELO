@@ -1,0 +1,73 @@
+%%Tournament: Polish Grand Prix (Warsaw)
+%%Country: Poland
+%%Date: 17/12/2011
+%%Sender: Roman Kraczyk
+
+%_%    4048, KRACZYK, ROMAN, POL,       7,    654
+%_%    5725, CUPIAL, MILOSZ, POL,       7,    647
+%_%    5726, MARCINIAK, BARTOSZ, POL,   6.5,  624
+%_%  130011, SURY, BARTLOMIEJ, POL,     6,    655
+%_%    5739, TOROUS, MARIUSZ, POL,      6,    595
+%_%    5707, ZANIEWSKI, ROBERT, POL,    5.5,  601
+%_%    5711, ZIEBA, GRZEGORZ, POL,      5,    561
+%_%    5745, BUKA, MICHAL, POL,         5,    560
+%_%    5730, DOMINCZAK, CEZARY, POL,    3,    451
+%_%    5755, WEGLOREK, ARKADIUSZ, POL,  2,    361
+%_%  130009, JAWORSKI, HENRYK, POL,     1,    334
+%_% +130017, SOLTYSIAK, ANDRZEJ, POL,   0,    329
+
+%Round 1
+  5707 >   5725  B
+130011 >   5745  B
+  5730 <   4048  B
+  5726 > 130009  B
+  5755 <   5711  B
+  5739 > 130017  B
+
+%Round 2
+  5711 < 130011  B
+  4048 <   5739  B
+  5707 =   5726  B
+  5725 > 130009  B
+  5745 >   5755  B
+130017 <   5730  B
+
+%Round 3
+130011 >   5739  B
+  5726 >   5725  B
+  4048 >   5707  B
+  5730 <   5711  B
+130009 <   5745  B
+  5755 > 130017  B
+
+%Round 4
+  5726 > 130011  B
+  5745 <   4048  B
+  5739 <   5711  B
+  5707 >   5730  B
+  5725 >   5755  B
+130017 < 130009  B
+
+%Round 5
+  5711 <   5726  B
+130011 <   4048  B
+130009 <   5707  B
+  5730 <   5725  B
+  5755 <   5739  B
+130017 <   5745  B
+
+%Round 6
+  4048 >   5726  B
+  5745 <   5707  B
+  5725 > 130011  B
+  5739 >   5730  B
+  5711 > 130017  B
+130009 <   5755  B
+
+%Round 7
+  5755 <   4048  B
+  5726 <   5739  B
+  5707 >   5711  B
+130017 <   5725  B
+130011 > 130009  B
+  5730 <   5745  B

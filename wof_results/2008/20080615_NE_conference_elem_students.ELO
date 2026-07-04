@@ -1,0 +1,30 @@
+%%Tournament: 2008 northeast conference elementary students
+%%Country: Japan
+%%Date: 15/06/2008
+%%Sender: Tom Schotte
+
+%round1:
+10061 > 10370
+6883 > 6888
+
+%round2:
+10061 < 10371
+6883 > 10370
+
+%round3:
+10061 > 6888
+10370 > 10371
+
+%round4:
+10061 > 6883
+10371 > 6888
+
+%round5:
+10061 > 10371
+10370 > 6888
+
+
+
+
+
+

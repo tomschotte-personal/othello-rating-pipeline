@@ -1,0 +1,56 @@
+%%Tournament: 35th Belgian Othello Championship
+%%Country: Belgium
+%%Date: 03/06/2018
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/06/03 20:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  6, 301, 2047
+%_%    5239, FRANSEN, Martin, NLD,  4, 199, 1725
+%_%    5900, REUNES, Nick, BEL,  3, 189, 1752
+%_%  270024, NICHOLLS, Frederic, BEL,  2, 182, 1609
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  2, 145, 1410
+%_%  270004, VAN DAMME, Jan, BEL,  1, 136, 1009
+
+
+
+%Round: 1
+
+  5900 (06)<(58)   2795  B
+  5239 (51)>(13)   4068  B
+270024 (48)>(16) 270004  B
+
+%Round: 2
+
+  4068 (17)<(47)   5900  B
+  2795 (36)>(28) 270024  B
+270004 (28)<(36)   5239  B
+
+%Round: 3
+
+  5900 (48)>(16) 270024  B
+  4068 (31)<(33) 270004  B
+  5239 (11)<(53)   2795  B
+
+%Round: 4
+
+270004 (19)<(45)   5900  B
+270024 (34)>(30)   5239  B
+  2795 (58)>(06)   4068  B
+
+%Round: 5
+
+  5900 (31)<(33)   5239  B
+270004 (20)<(44)   2795  B
+  4068 (34)>(30) 270024  B
+
+%Round: 6
+
+  5900 (12)<(52)   2795  B
+  4068 (44)>(20) 270004  B
+270024 (26)<(38)   5239  B
+
+
+%%Added results

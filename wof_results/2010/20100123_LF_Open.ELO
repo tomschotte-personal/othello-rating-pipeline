@@ -1,0 +1,44 @@
+%%Tournament: 2010 LF Open
+%%Country: Denmark
+%%Date: 23/01/2010
+%%Sender: Geoff Hubbard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/01/23 18:21
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     804, HUBBARD, Geoff, AUS,  5, 228
+%_%    1059, STOEVRING, Pia, DK,  4, 172
+%_%    1045, NIELSEN, Kim J., DK,  3, 199
+%_%    1981, STOKKE, Solrun, DK,  2, 134
+%_%  220001, TERKELSEN, Signe, DK,  1, 107
+
+
+
+%Round: 1
+
+   804 (42)>(22)   1059 B
+  1045 (48)>(16)   1981 B
+
+%Round: 2
+
+220001 (10)<(54)   1045 B
+  1981 (10)<(54)    804 B
+
+%Round: 3
+
+  1059 (35)>(29)   1981 B
+   804 (54)>(10) 220001 B
+
+%Round: 4
+
+  1045 (26)<(38)    804 B
+220001 (22)<(42)   1059 B
+
+%Round: 5
+
+  1981 (39)>(25) 220001 B
+  1059 (33)>(31)   1045 B
+
+
+%%Added results

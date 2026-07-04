@@ -1,0 +1,31 @@
+%%Tournament: 49_All_Japan_Hokkaido_prelim
+%%Country: Japan
+%%Date: 24/09/2023
+%%Sender: Hajime NAKAMURA
+
+%_%   6868, SASAKI, sohei, JPN, 4.0, 222
+%_%   5581, TAKAHASHI, satomi, JPN, 3.0, 127
+%_%  13945, KOBAYASHI, takao, JPN, 2.0, 166
+%_%   7018, OKABAYASHI, noguchi, JPN, 1.0, 99
+%_%  14706, YAMADA, yoshikatsu, JPN, 0.0, 26
+
+%Round 1
+  6868 (42)>(22)  13945 
+  5581 (41)>(23)   7018 
+
+%Round 2
+  6868 (64)>(00)   5581 
+  7018 (52)>(12)  14706 
+
+%Round 3
+  6868 (64)>(00)  14706 
+  5581 (36)>(28)  13945 
+
+%Round 4
+  6868 (52)>(12)   7018 
+ 13945 (64)>(00)  14706 
+
+%Round 5
+ 13945 (52)>(12)   7018 
+  5581 (50)>(14)  14706 
+

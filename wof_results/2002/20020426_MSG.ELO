@@ -1,0 +1,31 @@
+%%Tournament: Mont St Guibert
+%%Country: France
+%%Date: 26/04/2002
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+298 =  482
+2781 = 2784
+
+%%Round: 2
+
+482 > 2753
+2784 <  298
+
+%%Round: 3
+
+2781 <  482
+298 > 2753
+
+%%Round: 4
+
+482 > 2784
+2753 > 2781
+
+%%Round: 5
+
+2781 >  298
+2784 > 2753
+
+

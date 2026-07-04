@@ -1,0 +1,59 @@
+%%Tournament: German championship
+%%Country: Germany
+%%Date: 05/07/2025 - 06/07/2025
+%%Sender: ATAMANOV Dmitry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    5301, BERG, Matthias, DEU, 5, 246, 2231
+%_%   70002, ROSSLER, Daniel, DEU, 3, 157, 1926
+%_%    5321, GORNERT, Daniel, DEU, 2, 165, 1696
+%_%   70052, SONDERMANN, Henry, DEU, 2, 145, 1623
+%_%   70010, NEUHAUS, Sven, DEU, 1, 123, 1540
+%_%   70003, BEYER, Guenther, DEU, 2, 124, 1694
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/333
+
+%Round: 1
+
+ 70052 (20)<(44)   5301  B
+ 70010 (20)<(44)  70003  B
+ 70002 (26)<(38)   5321  B
+
+%Round: 2
+
+  5301 (48)>(16)  70010  B
+ 70003 (30)<(34)  70002  B
+  5321 (31)<(33)  70052  B
+
+%Round: 3
+
+ 70052 (43)>(21)  70010  B
+ 70002 (18)<(46)   5301  B
+  5321 (55)>(09)  70003  B
+
+%Round: 4
+
+ 70010 (31)<(33)  70002  B
+  5301 (52)>(12)   5321  B
+ 70003 (33)>(31)  70052  B
+
+%Round: 5
+
+ 70052 (18)<(46)  70002  B
+  5321 (29)<(35)  70010  B
+ 70003 (08)<(56)   5301  B
+
+%%Added results
+
+ 70010 (39)>(25)  70003  B
+ 70003 (03)<(61)  70010  B
+  5321 (55)>(09)  70052  B
+ 70052 (50)>(14)   5321  B
+ 70052 (21)<(43)   5321  B
+ 70002 (35)>(29)   5301  B
+  5301 (64)>(00)  70002  B
+ 70002 (22)<(42)   5301  B

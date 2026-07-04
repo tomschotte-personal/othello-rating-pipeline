@@ -1,0 +1,48 @@
+%%Tournament: Australian Nationals 2009
+%%Country: Australia
+%%Date: 19/09/2009
+%%Sender: Geoff Hubbard
+
+%List of players (scores & disc-counts do NOT include the 1 game final)
+%_%    4108, CAIRNS, Nathan, AUS, 2, 156
+%_%    4145, CAIRNS, Phil, AUS, 2, 165
+%_%  260004, DIXON, Nicole, AUS, 1, 71
+%_%    4111, DUFFY, Norm, AUS, 2, 122
+%_% +260006, DUFFY, Bernadette, AUS, 2, 147 
+%_%    4107, HUGHES, Scott, AUS, 5, 216
+%_%    4113, VINAR, Matt, AUS, 3, 230
+%_% +260007, YANAGI, Michiko, AUS, 3, 173
+
+
+%Round 1
+260006  (39)>(25)   4108 B
+  4145  (14)<(50)   4107 B 
+  4113  (64)>(00) 260004 B
+  4111  (35)>(29) 260007 B
+
+%Round 2
+  4107  (42)>(22)   4111 B
+  4113  (58)>(06) 260006 B
+  4108  (45)>(19) 260004 B
+260007  (46)>(18)   4145 B
+
+%Round 3
+  4107  (45)>(19)   4113 B
+  4111  (36)>(28)   4108 B
+260006  (21)<(43) 260007 B
+260004  (02)<(62)   4145 B
+
+%Round 4
+260007  (21)<(43)   4107 B
+  4113  (59)>(05)   4111 B
+  4145  (31)<(33)   4108 B
+260004  (11)<(53) 260006 B
+
+%Round 5
+260006  (28)<(36)   4107 B
+  4145  (40)>(24)   4111 B
+260007  (34)>(30)   4113 B
+  4108  (25)<(39) 260004 B
+
+%FINAL
+  4107  (30)<(34)   4113 B

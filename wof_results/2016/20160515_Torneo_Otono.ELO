@@ -1,0 +1,38 @@
+%%Tournament: Torneo Otono
+%%Country: Argentina
+%%Date: 15/05/2016
+%%Sender: Daniel Olivares
+
+%          ID, NAME, Firstname, COUNTRY, score, disc-count    
+%_%       650, OLIVARES, Daniel, ARG, 4, 228
+%_%      4167, COELLO, Alejandro, ARG, 3.5, 197
+%_%      4168, LISNOVSKY, Marcelo, ARG, 3, 190
+%_%    280035, NAKASONE, David, ARG, 2, 149
+%_%    280034, SEIFERT, Max, ARG, 1.5, 123
+%_%    280038, COHEN, Mercedes, ARG, 1, 73
+
+%Round 1
+   650 (44)>(20) 280034  B
+280035 (27)<(37)   4168  B
+  4167 (60)>(04) 280038  B
+
+%Round 2
+280038 (03)<(61)   4168  B
+280034 (09)<(55) 280035  B
+  4167 (43)>(21)    650  B
+
+%Round 3
+   650 (64)>(00) 280038  B
+280035 (15)<(49)   4167  B
+  4168 (24)<(40) 280034  B
+
+%Round 4
+  4167 (13)<(51)   4168  B
+   650 (52)>(12) 280035  B
+280038 (42)>(22) 280034  B
+
+%Round 5
+  4168 (17)<(47)    650  B
+280035 (40)>(24) 280038  B
+280034 (32)=(32)   4167  B
+

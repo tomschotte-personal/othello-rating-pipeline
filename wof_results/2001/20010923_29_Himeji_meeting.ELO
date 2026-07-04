@@ -1,0 +1,39 @@
+%%Tournament: 29th Himeji Meeting
+%%Country: Japan
+%%Date: 23/09/2001
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka29.html
+
+%Round1
+10228 > 10351
+10766 > 10753
+11975 > 10025
+
+%Round2
+10351 > 10025
+10228 > 10766
+10753 > 11975
+
+%Round3
+10351 > 11975
+10228 > 10753
+10766 > 10025
+
+%Round4
+10351 > 10766
+11975 > 10228
+10753 > 10025
+
+%Round5
+10351 > 10753
+10766 > 11975
+10025 > 10228
+
+%players
+%1 TOKUMARU Kikuchi (Japan)[id: 10351]
+%2 URUSHIHARA Yoshihisa (Japan)[id: 10228]
+%3 NISHIMURA Hidemi (Japan)[id: 10766]
+%4 11975	sugai	katsumi
+%5 KAGOTANI Hiroto (Japan)[id: 10753]
+%6 NOBUHITO Yoichi (Japan)[id: 10025]

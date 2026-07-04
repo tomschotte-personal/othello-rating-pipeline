@@ -1,0 +1,62 @@
+%%Tournament: Doncaster Regional
+%%Country: Great-Britain
+%%Date: 03/12/2016
+%%Sender: Sue Barrass
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/12/03 16:51
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  7, 324, 2138
+%_%    2006, ARNOLD, Roy, GBR,  5, 269, 1466
+%_%    2047, BARRASS, Iain, GBR,  4, 266, 1767
+%_%    2078, KYTE, Bruce, GBR,  3, 195, 1490
+%_%      76, FORSYTH, Iain, GBR,  2, 160, 1352
+%_%     189, HAIGH, David, GBR,  0, 130, 1256
+
+
+
+%Round: 1
+
+  2047 (56)>(08)     76  B
+   189 (27)<(37)   2006  B
+  2078 (06)<(58)     79  B
+
+%Round: 2
+
+  2006 (37)>(27)   2047  B
+    76 (10)<(54)   2078  B
+    79 (59)>(05)    189  B
+
+%Round: 3
+
+  2047 (53)>(11)   2078  B
+  2006 (27)<(37)     79  B
+   189 (29)<(35)     76  B
+
+%Round: 4
+
+    79 (39)>(25)   2047  B
+  2078 (45)>(19)    189  B
+    76 (30)<(34)   2006  B
+
+%Round: 5
+
+  2047 (46)>(18)    189  B
+    79 (53)>(11)     76  B
+  2006 (55)>(09)   2078  B
+
+%Round: 6
+
+    76 (22)<(42)   2047  B
+  2006 (52)>(12)    189  B
+    79 (41)>(23)   2078  B
+
+%Round: 7
+
+    79 (37)>(27)   2006  B
+  2078 (47)>(17)   2047  B
+    76 (44)>(20)    189  B
+
+
+%%Added results

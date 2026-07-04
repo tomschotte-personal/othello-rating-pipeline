@@ -1,0 +1,52 @@
+%%Tournament: Australian Othello Nationals 2014
+%%Country: Australia
+%%Date: 26/04/2014
+%%Sender: G.Ortiz
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/04/26 13:42
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4113, VINAR, Matt, AUS,  5, 266, 2173
+%_%    4107, HUGHES, Scott, AUS,  4, 221, 2016
+%_%    4108, CAIRNS, Nathan, AUS,  3, 173, 127
+%_%    4145, CAIRNS, Phil, AUS,  3, 183, 1736
+%_%  260020, MILANKOV, Samuel, AUS,  2, 125, 317
+%_%  260003, GIRARDO, Robert, AUS,  2, 107, 659
+%_%  260027, BROOM, Adrian, AUS,  1, 85, 0
+
+
+
+%Round: 1
+
+  4145 (49)>(15) 260027  B
+260020 (50)>(14) 260003  B
+  4107 (19)<(45)   4113  B
+
+%Round: 2
+
+  4113 (55)>(09) 260020  B
+  4108 (50)>(14)   4145  B
+260027 (00)<(64)   4107  B
+
+%Round: 3
+
+  4107 (51)>(13) 260020  B
+  4113 (57)>(07)   4108  B
+260003 (11)<(53)   4145  B
+
+%Round: 4
+
+260027 (25)<(39) 260003  B
+  4108 (17)<(47)   4107  B
+  4145 (16)<(48)   4113  B
+
+%Round: 5
+
+260020 (13)<(51)   4145  B
+260003 (03)<(61)   4113  B
+  4108 (59)>(05) 260027  B
+
+
+%%Added results: Final  Matt Vinar 17-47 Scott Hughes
+  4113 (17)<(47)   4107  B

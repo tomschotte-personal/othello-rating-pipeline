@@ -1,0 +1,55 @@
+%%Tournament: Citta' di Roma 2018 - Tappa II
+%%Country: Italy
+%%Date: 22/04/2018
+%%Sender: Chiara Gigliucci
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3037, DI MATTEI, Alessandro, I, 4, 202
+%_%  2844, SPERANDIO, Roberto, I, 3, 140
+%_%  3111, SCOGNAMIGLIO, Paolo, I, 3, 161
+%_%  3062, CAVIOLA, Leonardo, I, 3, 159
+%_%  2841, VECCHI, Elisabetta, I, 3, 154
+%_%  2884, VECCHI, Maria Serena, I, 2, 146
+%_% 40048, PANTANI, Ennio, I, 2, 92
+%_%  3019, DIODATI, Michele, I, 2, 147
+%_% 40052, GIGLIUCCI, Chiara, I, 2, 102
+%_% 40075, CESTRA, Carla, I, 1, 73
+%_% 40047, PANTANI, Antonio, I, 1, 74
+%_%  3023, LAI, Fabrizio, I, 1, 117
+%_% 40114, ARCARA, Paolo, I, 1, 64
+%_% 40084, GIANNINI, Valentino, I, 0, 99
+
+
+%Round 1 
+  2884 (27)<(37)   2844  B
+  3037 (50)>(14)   2841  B
+ 40052 (12)<(52)   3111  B
+  3019 (37)>(27)  40084  B
+ 40047 (07)<(57)   3062  B
+  3023 (44)>(20)  40075  B
+
+%Round 2 
+  2844 (37)>(27)   3019  B
+  3062 (07)<(57)   3037  B
+  3111 (57)>(07)  40048  B
+  2884 (47)>(17)   3023  B
+  2841 (51)>(13)  40047  B
+ 40084 (20)<(44)  40052  B
+
+%Round 3 
+  3037 (50)>(14)   2844  B
+  3019 (31)<(33)   3111  B
+ 40075 (09)<(55)   3062  B
+  3023 (28)<(36)   2841  B
+ 40048 (16)<(48)   2884  B
+ 40052 (34)>(30)  40114  B
+ 40047 (42)>(22)  40084  B
+
+%Round 4 
+  3111 (19)<(45)   3037  B
+  2844 (52)>(12)  40052  B
+  3062 (40)>(24)   2884  B
+  2841 (53)>(11)  40075  B
+ 40047 (12)<(52)   3019  B
+ 40048 (36)>(28)   3023  B
+ 40114 (34)>(30)  40084  B

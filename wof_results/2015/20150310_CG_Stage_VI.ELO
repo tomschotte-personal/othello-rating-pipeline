@@ -1,0 +1,34 @@
+%%Tournament: CG - Campionato Genovese Stage VI
+%%Country: Italy
+%%Date: 10/03/2015
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/30 15:20
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2855, BIANCHI, Paolo, 3, 150
+%_%  2885, IACONO, Stefano, 2, 109
+%_% 40098, BREGANTE, Alessio,  2, 93
+%_% 40104, MORTOLA, Alberto, 2, 95
+%_% 40096, TOMASI, Fabio,  0, 58
+%_% 40102, OTTONELLO, Piera,  0, 71
+
+
+%Round: 1
+
+  2855 (50)>(14)  40096  B
+ 40104 (16)<(48)   2885  B
+ 40098 (40)>(24)  40102  B
+
+%Round: 2
+
+  2885 (19)<(45)   2855  B
+ 40096 (20)<(44)  40098  B
+ 40102 (25)<(39)  40104  B
+
+%Round: 3
+ 
+  2855 (55)>(09)  40098  B
+ 40102 (22)<(42)   2885  B
+ 40104 (40)>(24)  40096  B

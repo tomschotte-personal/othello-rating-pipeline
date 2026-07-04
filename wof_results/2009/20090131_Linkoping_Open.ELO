@@ -1,0 +1,63 @@
+%%Tournament: Linkoping Open 2009
+%%Country: Sweden
+%%Date: 31/01/2009
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/02/17 14:30
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1566, ROSELL, Daniel, S,  7, 310
+%_%    1511, LJUNGQVIST, Daniel, S,  5.5, 311
+%_%    1495, INGELMAN-SUNDBERG, Simon, S,  5.5, 259
+%_%    1563, EILERTSEN, Jonas, S,  4, 206
+%_%    1520, LARSSON, Benny, S,  3, 220
+%_%    1497, ANDERSSON, Mattias, S,  2, 195
+%_% +  6553, ALIN, Cecilia, S,  1, 123
+
+
+
+%Round: 1
+
+  1563 (17)<(47)   1566 B
+  1495 (34)>(30)   1520 B
+  1497 (49)>(15)   6553 B
+
+%Round: 2
+
+  1511 (32)=(32)   1495 B
+  6553 (20)<(44)   1563 B
+  1520 (48)>(16)   1497 B
+
+%Round: 3
+
+  1566 (46)>(18)   6553 B
+  1497 (13)<(51)   1511 B
+  1563 (40)>(24)   1520 B
+
+%Round: 4
+
+  1495 (38)>(26)   1497 B
+  1520 (23)<(41)   1566 B
+  1511 (63)>(01)   1563 B
+
+%Round: 5
+
+  6553 (13)<(51)   1520 B
+  1563 (30)<(34)   1495 B
+  1566 (52)>(12)   1511 B
+
+%Round: 6
+
+  1497 (30)<(34)   1563 B
+  1511 (53)>(11)   6553 B
+  1495 (23)<(41)   1566 B
+
+%Round: 7
+
+  1520 (04)<(60)   1511 B
+  1566 (43)>(21)   1497 B
+  6553 (06)<(58)   1495 B
+
+
+%%Added results

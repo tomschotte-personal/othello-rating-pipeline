@@ -1,0 +1,64 @@
+%%Tournament: Danish championship
+%%Country: Denmark
+%%Date: 11/09/2010
+%%Sender: Henry
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     804, HUBBARD, Geoff, AUS,  7, 288
+%_%      93, LUND JENSEN, Erik, DK,  6, 317
+%_%      92, FELDBORG, Karsten, DK,  5, 252
+%_%  220003, LINDE, Mathias, Dk,  4, 235
+%_%    1017, MAARTENSSON, Mikael, DK,  3, 210
+%_%    1059, STOEVRING, Pia, DK,  3, 206
+%_%    1025, BADSTED, Palle, DK,  1, 180
+
+
+
+%Round: 1
+
+    93 (44)>(20)    804 B
+  1059 (21)<(43)     92 B
+220003 (42)>(22)   1025 B
+
+%Round: 2
+
+  1025 (10)<(54)     93 B
+   804 (44)>(20)   1059 B
+  1017 (36)>(28) 220003 B
+
+%Round: 3
+
+    93 (43)>(21)   1017 B
+    92 (29)<(35)    804 B
+  1059 (37)>(27)   1025 B
+
+%Round: 4
+
+220003 (23)<(41)     93 B
+  1025 (25)<(39)     92 B
+  1017 (31)<(33)   1059 B
+
+%Round: 5
+
+   804 (33)>(31)   1025 B
+    92 (50)>(14)   1017 B
+  1059 (27)<(37) 220003 B
+
+%Round: 6
+
+    93 (36)>(28)   1059 B
+  1017 (29)<(35)    804 B
+220003 (48)>(16)     92 B
+
+%Round: 7
+
+    92 (35)>(29)     93 B
+   804 (47)>(17) 220003 B
+  1025 (25)<(39)   1017 B
+
+%Round: 8
+
+   804 (34)>(30)     93 B
+
+
+%%Added results

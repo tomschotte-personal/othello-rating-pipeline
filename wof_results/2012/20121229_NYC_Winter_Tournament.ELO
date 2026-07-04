@@ -1,0 +1,58 @@
+%%Tournament: 2012 NYC Winter Tournament
+%%Country: USA
+%%Date: 29/12/2012
+%%Sender: David Parsons
+
+%  ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_% 20000, PETRIC, Vlad, USA, 2.0, 155
+%_%  6438, CAI, Jian, USA, 3.0, 207
+%_%  6403, KATZMAN, Sharon, USA, 0.0, 85
+%_% 20022, HAI, Jerry, USA, 3.0, 178
+%_%   657, PARSONS, David, USA, 4.0, 169
+%_%  6428, BISHOP, Robert, USA, 3.0, 171
+
+%Round 1
+%Parsons 36 Cai 28 B
+%Hai 48 Katzman 16 B
+%Petric 34 Bishop 30 B
+
+   657 (36)>(28)   6438  B
+ 20022 (48)>(16)   6403  B
+ 20000 (34)>(30)   6428  B
+
+%Round 2
+%Parsons 21 Hai 43 B
+%Cai 29 Bishop 35 B
+%Petric 46 Katzman 18 B
+
+   657 (21)<(43)  20022  B
+  6438 (29)<(39)   6428  B
+ 20000 (46)>(18)   6403  B
+
+%Round 3
+%Parsons 34 Petric 30 B
+%Cai 45 Hai 19 B
+%Katzman 20 Bishop 44 B
+
+   657 (34)>(30)  20000  B
+  6438 (45)>(19)  20022  B
+  6403 (20)<(44)   6428  B
+
+%Round 4
+%Parsons 39 Katzman 25 B
+%Cai 42 Petric 22 B
+%Hai 27 Bishop 37 B
+
+   657 (39)>(25)   6403  B
+  6438 (42)>(22)  20000  B
+ 20022 (27)<(37)   6428  B
+
+%Round 5
+%Parsons 39 Bishop 25 B
+%Cai 58 Katzman 6 B
+%Hai 41 Petric 23 B
+
+   657 (39)>(25)   6428  B
+  6438 (58)>(06)   6403  B
+ 20022 (41)>(23)  20000  B

@@ -1,0 +1,50 @@
+%%Tournament: ILE DE FRANCE 4
+%%Country: France
+%%Date: 02/06/2024
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2024/06/03 12:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50096, LEVY, Marc, FRA,  5, 229, 1795
+%_%       2, TASTET, Marc, FRA,  4, 254, 2011
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 191, 1771
+%_%     228, BUSUTTIL, Michel, FRA,  2, 115, 1402
+%_%     702, BERTRAM, Henry, FRA,  1, 81, 0
+%_%   50126, MELCER, Stephane, FRA,  0, 90, 0
+
+
+
+%Round: 1
+
+ 50096 (39)>(25)      2  B
+   228 (26)<(38)     45  B
+   702 (38)>(26)  50126  B
+
+%Round: 2
+
+    45 (27)<(37)  50096  B
+     2 (64)>(00)    702  B
+ 50126 (30)<(34)    228  B
+
+%Round: 3
+
+ 50096 (48)>(16)    702  B
+    45 (51)>(13)  50126  B
+   228 (08)<(56)      2  B
+
+%Round: 4
+
+ 50126 (14)<(50)  50096  B
+   702 (26)<(38)    228  B
+     2 (52)>(12)     45  B
+
+%Round: 5
+
+ 50096 (55)>(09)    228  B
+ 50126 (07)<(57)      2  B
+    45 (63)>(01)    702  B
+
+
+%%Added results

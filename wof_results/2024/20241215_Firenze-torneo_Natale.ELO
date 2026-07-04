@@ -1,0 +1,52 @@
+%%Tournament: Firenze - Torneo Natale
+%%Country: Italy
+%%Date: 15/12/2024
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40151, BARSOTTI, Paolo, ITA, 6, 280, 1365
+%_%    3062, CAVIOLA, Leonardo, ITA, 5, 207, 1432
+%_%   40163, PISTOLESI, Sandra, ITA, 4, 217, 1396
+%_%   40158, LANDINI, Carlo, ITA, 4, 217, 1195
+%_%   40159, BANDIERA, Marco, ITA, 2, 153, 946
+%_%   40160, LUZI, Ilaria, ITA, 2, 150, 516
+%_%   40234, MICHELINI, Flavia, ITA, 1, 120, -
+
+%Round: 1
+
+ 40158 (31)<(33)   3062  B
+ 40159 (13)<(51)  40163  B
+ 40151 (57)>(07)  40160  B
+
+%Round: 2
+
+ 40160 (16)<(48)  40159  B
+ 40163 (46)>(18)  40234  B
+  3062 (30)<(34)  40151  B
+
+%Round: 3
+
+ 40151 (45)>(19)  40163  B
+ 40159 (23)<(41)   3062  B
+ 40234 (07)<(57)  40158  B
+
+%Round: 4
+
+ 40234 (21)<(43)  40160  B
+  3062 (36)>(28)  40163  B
+ 40158 (21)<(43)  40151  B
+
+%Round: 5
+
+ 40151 (50)>(14)  40159  B
+ 40160 (29)<(35)  40158  B
+  3062 (35)>(29)  40234  B
+
+%Round: 6
+
+ 40163 (41)>(23)  40160  B
+ 40159 (23)<(41)  40158  B
+ 40234 (13)<(51)  40151  B

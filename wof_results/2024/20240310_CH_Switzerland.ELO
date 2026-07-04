@@ -1,0 +1,47 @@
+%%Tournament: Swiss Othello Championships 
+%%Country: Switzerland
+%%Date: 10/03/2024
+%%Sender: BERG Matthias
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3024, BORASSI, Michele, CHE, 6, 281, 2376
+%_%    5301, BERG, Matthias, DEU, 5, 246, 2258
+%_%   50030, JUIGNER, Arthur, CHE, 2, 202, 2304
+%_%  240002, JOYE, Frederic, CHE, 0, 103, 1900
+
+%Round: 1
+
+  3024 (31)<(33)   5301  B
+240002 (05)<(59)  50030  B
+
+%Round: 2
+
+ 50030 (30)<(34)   3024  B
+  5301 (56)>(08) 240002  B
+
+%Round: 3
+
+  3024 (41)>(23) 240002  B
+  5301 (33)>(31)  50030  B
+
+%Round: 4
+
+ 50030 (37)>(27) 240002  B
+  5301 (24)<(40)   3024  B
+
+%Round: 5
+
+  3024 (48)>(16)  50030  B
+240002 (20)<(44)   5301  B
+
+%Round: 6
+
+240002 (20)<(44)   3024  B
+ 50030 (29)<(35)   5301  B
+
+%Round: 7
+
+  5301 (21)<(43)   3024  B

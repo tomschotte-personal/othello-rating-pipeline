@@ -1,0 +1,35 @@
+%%Tournament: Selection de Strasbourg
+%%Country: France
+%%Date: 04/11/1995
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+ 696 >  786
+ 691 >  695
+ 475 >  635
+
+%%Round: 2
+
+ 695 >  696
+ 786 <  635
+ 691 >  475
+
+%%Round: 3
+
+ 635 >  695
+ 696 <  691
+ 475 >  786
+
+%%Round: 4
+
+ 691 <  635
+ 695 >  786
+ 696 <  475
+
+%%Round: 5
+
+ 786 >  691
+ 635 >  696
+ 475 <  695

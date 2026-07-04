@@ -1,0 +1,64 @@
+%%Tournament: Waarschoot Othello Open
+%%Country: Belgium
+%%Date: 25/06/2016
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/06/25 19:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  6.5, 308, 2048
+%_%    5012, KORTENDIJK, Albert, NLD,  5, 261, 2018
+%_%    5909, VAN DAMME, Brecht, BEL,  4, 218, 1666
+%_%  270024, NICHOLLS, Frederic, BEL,  3.5, 203, 0
+%_%    5900, REUNES, Nick, BEL,  3, 214, 1802
+%_%      43, PUZZO, Luigi, ITA,  3, 211, 1617
+%_%    1599, KJELLBERG, Arvid, SWE,  3, 160, 1678
+
+
+
+%Round: 1
+
+  5900 (35)>(29)     43  B
+  5012 (18)<(46)   2795  B
+  1599 (18)<(46) 270024  B
+
+%Round: 2
+
+  5909 (37)>(27)   5012  B
+270024 (34)>(30)   5900  B
+  2795 (56)>(08)   1599  B
+
+%Round: 3
+
+    43 (50)>(14) 270024  B
+  1599 (35)>(29)   5909  B
+  5900 (20)<(44)   2795  B
+
+%Round: 4
+
+  5012 (46)>(18)   1599  B
+  2795 (54)>(10)     43  B
+  5909 (17)<(47)   5900  B
+
+%Round: 5
+
+270024 (32)=(32)   2795  B
+  5900 (20)<(44)   5012  B
+    43 (25)<(39)   5909  B
+
+%Round: 6
+
+  1599 (35)>(29)   5900  B
+  5909 (42)>(22) 270024  B
+  5012 (51)>(13)     43  B
+
+%Round: 7
+
+  2795 (43)>(21)   5909  B
+    43 (51)>(13)   1599  B
+270024 (22)<(42)   5012  B
+
+
+%%Added results
+  5012 (23)<(41)   2795  B

@@ -1,0 +1,24 @@
+%%Tournament: 2008 Tokai block preliminary C
+%%Country: Japan
+%%Date: 22/06/2008
+%%Sender: Tom Schotte
+
+
+%ROUND1
+10179 > 10399
+
+%ROUND2
+10179 > 6972
+
+%ROUND3
+10399 > 6972
+
+%ROUND4
+10179 < 10399
+
+%ROUND5
+10179 < 6972
+
+%ROUND6
+10399 > 6972
+

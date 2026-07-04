@@ -1,0 +1,46 @@
+%%Tournament: Leeds Regional 2019
+%%Country: Great-Britain
+%%Date: 08/06/2019
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/06/08 19:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  5, 269, 2145
+%_%    2078, KYTE, Bruce, GBR,  5, 234, 1703
+%_%    2006, ARNOLD, Roy, GBR,  2, 159, 1584
+%_%  100007, BUTLER, Robert, GBR,  0, 58, 1056
+
+
+
+%Round: 1
+
+  2006 (47)>(17) 100007  B
+    79 (40)>(24)   2078  B
+
+%Round: 2
+
+  2078 (45)>(19)   2006  B
+100007 (10)<(54)     79  B
+
+%Round: 3
+
+  2006 (15)<(49)     79  B
+  2078 (54)>(10) 100007  B
+
+%Round: 4
+
+  2078 (33)>(31)     79  B
+100007 (21)<(43)   2006  B
+
+%Round: 5
+
+  2006 (26)<(38)   2078  B
+
+%Round: 6
+
+    79 (55)>(09)   2006  B
+
+
+%%Added results

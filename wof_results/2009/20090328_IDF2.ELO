@@ -1,0 +1,51 @@
+%%Tournament: IDF2
+%%Country: France
+%%Date: 28/03/2009
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/04/03 11:59
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3597, BARRE, Sebastien, F,  5, 197
+%_%      45, ANDRIANI, Bintsa, F,  4, 227
+%_%    3384, AUZENDE, Frederic, F,  3, 181
+%_%    3841, LEBLANC, Aurelien, F,  3, 170
+%_%     839, KASHIWABARA, Takuji, F,  2, 163
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  2, 130
+%_%    3778, SAGONA, Eric, F,  1, 92
+
+
+
+%Round: 1
+
+  3841 (43)>(21)   3598 B
+   839 (48)>(16)   3778 B
+%    45 (22)<(42)   3597 B
+
+%Round: 2
+
+%  3778 (04)<(60)     45 B
+  3384 (21)<(43)   3841 B
+  3597 (37)>(27)    839 B
+
+%Round: 3
+
+   839 (28)<(36)   3384 B
+%  3598 (06)<(58)     45 B
+  3841 (23)<(41)   3597 B
+
+%Round: 4
+
+  3597 (34)>(30)   3384 B
+  3778 (22)<(42)   3598 B
+%    45 (43)>(21)   3841 B
+
+%Round: 5
+
+  3384 (54)>(10)   3778 B
+%    45 (44)>(20)    839 B
+  3598 (21)<(43)   3597 B
+
+
+%%Added results

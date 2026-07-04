@@ -1,0 +1,23 @@
+%%Tournament: Belarus qualif. WOC 2015
+%%Country: Belarus
+%%Date: 08/08/2015
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     3,     160
+%_%   40040, ZHUK,        Katsiaryna, BLR,     2,     108
+%_%  360006, BADYTCHYK,   Dzmitry,    BLR,     1,      46
+%_%      43, PUZZO,       Luigi       ITA,     0,      70
+
+
+%Round 1
+ 40040 (55)>(09) 360006  B
+360000 (41)>(23)     43  B
+
+%Round 2
+360006 (37)>(27)     43  B
+360000 (55)>(09)  40040  W
+
+%Round 3
+360000 (64)>(00) 360006  B
+ 40040 (44)>(20)     43  W

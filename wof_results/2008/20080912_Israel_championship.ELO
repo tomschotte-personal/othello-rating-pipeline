@@ -1,0 +1,32 @@
+%%Tournament: Israel championship
+%%Country: Israel
+%%Date: 12/09/2008
+%%Sender: Tom Schotte
+
+%Rounds
+
+200002 > 885
+4039 > 200002
+885 > 4039
+4039 > 4150
+4039 > 4028
+200002 > 4150
+4150 > 4039
+200002 > 4028
+885 > 200000
+200002 > 200000
+4028 > 200000
+885 > 200007
+4150 > 200007
+4028 > 200007
+200000 > 200007
+
+%bye: 885, 4150, 4028, 200000, 200007
+
+%DRUK Erez (Israel)[id: 200002]
+%SHIFMAN Ilya (Israel)[id: 885]
+%RADZIVILOVSKY Lev (Israel)[id: 4039]
+%LEWI Moshe (Israel)[id: 4150]
+%RADZIVILOVSKY Pavel (Israel)[id: 4028]
+%GREENGLAZ Ilya (Israel)[id: 200000]
+%ONN Amos (Israel)[id: 200007]

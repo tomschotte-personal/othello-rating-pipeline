@@ -1,0 +1,36 @@
+%%Tournament: 7th King State Cup B
+%%Country: Japan
+%%Date: 18/11/2006
+%%Sender: Tom Schotte
+
+%round1
+5537 > 5555
+5617 > 5514
+
+%round2
+5537 > 5617
+5555 > 10135
+
+%round3
+5537 > 10135
+5555 > 5514
+
+%round4
+5617 > 5555
+5514 > 10135
+
+%round5
+5537 > 5514
+10135 > 5617
+
+%round6
+5537 > 5555
+5617 > 10135
+
+%players
+%1 5537	takanashi	yusuke
+%2 5555	sato	tetsuya
+%3 5617	ikeda	atsuhiko
+%4 10135	hara	yuki
+%5 5514	watahiki	kenta
+

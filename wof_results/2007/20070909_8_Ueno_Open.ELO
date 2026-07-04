@@ -1,0 +1,123 @@
+%%Tournament: 8th Ueno Open
+%%Country: Japan
+%%Date: 09/09/2007
+%%Sender: Tom Schotte
+
+%Round1
+5537 > 5665
+5538 > 5589
+700 > 5545
+177 > 10144
+5563 > 5547
+5533 > 5629
+5591 > 5502
+5513 > 5508
+7048 > 5551
+5567 > 5630
+5595 > 5614
+5543 > 5555
+4004 > 5517
+5518 > 5609
+600 > 10919
+
+%Round2
+5537 > 5513
+5538 > 4004
+700 > 5518
+177 > 5563
+5589 > 5502
+5533 > 7048
+5609 > 5614
+5555 > 10144
+5547 > 5517
+5665 > 10919
+5567 > 5591
+5595 > 5543
+5630 > 5551
+5629 > 5508
+5545 > 600
+
+%Round3
+5537 > 5518
+5538 > 177
+700 > 5595
+5563 > 5543
+5589 > 5547
+5533 > 5567
+5591 > 4004
+5513 > 7048
+5609 > 600
+5555 > 5545
+5502 > 5551
+5630 > 5629
+5508 > 10919
+10144 > 5517
+5614 > 5665
+
+%Round4
+5537 > 5533
+5538 > 700
+177 > 5595
+5563 > 5567
+5589 > 5630
+5591 > 5513
+5609 > 5555
+7048 > 4004
+5547 > 600
+5665 > 10144
+5502 > 5614
+5543 > 5518
+5629 > 5545
+5508 > 5517
+10919 > 5551
+
+%Round5
+5537 > 5538
+700 > 5533
+177 > 5591
+5563 > 5609
+5589 > 5595
+5513 > 5567
+7048 > 5543
+5555 > 5630
+5547 > 5545
+5665 > 5629
+5502 > 5508
+4004 > 5518
+10144 > 10919
+5614 > 600
+5517 > 5551
+
+
+
+%players
+%1 5537	takanashi	yusuke
+%2 5538	ito	jyunya
+%3 700	nakajima	tetsuya
+%4 177	rose	brian
+%5 5563	kurachi	takayuki
+%6 5589	nagasaki	hidekazu
+%7 5533	sato	kouichiro
+%8 5591	satake	yosuke
+%9 5513	tanida	kunihiko
+%10 5609	mori	takahiro
+%11 7048	kanda	yoshihiro
+%12 5555	sato	tetsuya
+%13 5547	ohno	atsuko
+%14 5665	kawaguchi	yuuki
+%15 5502	goto	hiroshi
+%16 5567	mitsuya	nobuaki
+%17 5595	kuramochi	yuta
+%18 5543	watanabe	keiichi
+%19 5630	tanaka	syu
+%20 4004	sano	yoko
+%21 5629	ito	taishou
+%22 5508	tatsumi	yukiko
+%23 10144	tanaka	mitiko
+%24 5614	ishihara	makoto
+%25 5518	shimonosono	kozo
+%26 600	takeda	kyoko
+%27 5545	kobayashi	manabu
+%28 10919	takikawa	akurai
+%29 5517	watanabe	hideaki
+%30 5551	sugisaki	nemoto

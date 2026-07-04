@@ -1,0 +1,28 @@
+%%Tournament: Australian Nationals 2021 Playoff Final 4
+%%Country: Australia
+%%Date: 22/04/2022
+%%Sender: Matt Vinar
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/05/26 21:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4130, William, Joanna, Aus,  2, 132, 0
+%_%    4107, HUGHES, Scott, AUS,  2, 112, 1955
+%_%    4113, VINAR, Matt, AUS,  2, 99, 2045
+%_%  260035, Chan, Ivan, Aus,  0, 41, 0
+
+%Round: 1
+  4107 (08)<(56)   4130  B
+  4113 (47)>(17) 260035  B
+
+%Round: 2
+  4113 (17)<(47)   4107  B
+  4130 (47)>(17) 260035  B
+
+%Round: 3
+  4130 (29)<(35)   4113  B
+260035 (07)<(57)   4107  B
+
+%%Added results
+  4130 (28)<(36)   4107  B

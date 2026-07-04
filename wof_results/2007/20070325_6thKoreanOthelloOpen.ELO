@@ -1,0 +1,29 @@
+%%Tournament: 6th Korean Othello Open
+%%Country: Korea
+%%Date: 25/03/2007
+%%Sender: Tom Schotte
+
+%round1:
+4074 = 4162
+7573 < 7571
+
+%round2:
+7571 < 4074
+7586 > 7573
+
+%round3:
+4074 > 7586
+4162 > 7571
+
+%round4:
+7586 > 4162
+7573 < 4074
+
+%round5:
+7571 > 7586
+4162 > 7573
+
+%finals:
+4074 > 4162
+4162 < 4074
+

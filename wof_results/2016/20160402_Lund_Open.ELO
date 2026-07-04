@@ -1,0 +1,41 @@
+%%Tournament: Lund Open
+%%Country: Sweden
+%%Date: 02/04/2016
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/05/11 18:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  6, 278, 2032
+%_%    1596, RAGNARSSON, Robin, SWE,  3, 190, 1839
+%_%    1358, RIGNELL, Daniel, SWE,  3, 156, 1813
+
+
+
+%Round: 1
+
+  1596 (03)<(61) 150016  B
+
+%Round: 2
+
+  1358 (33)>(31)   1596  B
+
+%Round: 3
+
+150016 (52)>(12)   1358  B
+
+%Round: 4
+
+150016 (41)>(23)   1596  B
+
+%Round: 5
+
+  1596 (53)>(11)   1358  B
+
+%Round: 6
+
+  1358 (20)<(44) 150016  B
+
+
+%%Added results

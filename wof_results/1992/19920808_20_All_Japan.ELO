@@ -1,0 +1,219 @@
+%%Tournament: 20th All Japan
+%%Country: Japan
+%%Date: 08/08/1992
+%%Sender: Tom Schotte
+
+%group A
+5515 > 10285
+5515 > 177
+5515 > 10982
+10285 > 10982
+177 > 10285
+177 > 10982
+
+%group B
+11341 > 11210
+11341 > 5516
+11341 > 10741
+10741 > 11210
+10741 > 5516
+5516 > 11210
+11341 > 603
+
+%group C
+488 > 11206
+488 > 11286
+488 > 655
+655 > 11206
+655 > 11286
+11206 > 11286
+
+%group D
+299 > 11196
+299 > 10989
+299 > 10963
+11196 > 10989
+11196 > 10963
+10989 > 10963
+299 > 10070
+299 > 11341
+
+%group E
+300 > 11297
+300 > 7018
+300 > 11267
+7018 > 11297
+7018 > 11267
+11297 > 11267
+300 > 11053
+300 > 11341
+300 > 173
+
+%group F
+10070 > 6872
+10070 > 10971
+10070 > 6955
+10971 > 6872
+10971 > 6955
+6872 > 6955
+
+%group G
+651 > 11190
+651 > 11009
+651 > 10984
+11190 > 11009
+11190 > 10984
+10984 > 11009
+651 > 488
+651 > 11341
+651 > 802
+
+%group H
+603 > 703
+603 > 11313
+603 > 11077
+703 > 11313
+703 > 11077
+11313 > 11077
+
+%group I
+11103 > 11102
+11103 > 11133
+11103 > 10198
+10198 > 11133
+10198 > 11102
+11102 > 11133
+
+%group J
+5502 > 10991
+5502 > 11078
+5502 > 10936
+11078 > 10991
+11078 > 10936
+10991 > 10936
+5502 > 11103
+5502 > 299
+5502 > 173
+
+
+%group K
+578 > 888
+578 > 11166
+578 > 11348
+11348 > 888
+11348 > 11166
+11166 > 888
+578 > 601
+578 > 802
+578 > 5502
+578 > 300
+
+%group L
+173 > 6952
+173 > 4003
+173 > 5524
+6952 > 4003
+4003 > 5524
+5524 > 6952
+173 > 6843
+173 > 651
+
+%group M
+802 > 7063
+802 > 11161
+802 > 11223
+11223 > 7063
+11223 > 11161
+11161 > 7063
+802 > 5515
+802 > 299
+
+%group N
+11053 > 11763
+11053 > 10988
+11017 > 11053
+11017 > 11763
+10988 > 11017
+10988 > 11763
+
+%group O
+601 > 10405
+601 > 5525
+601 > 11106
+10405 > 5525
+5525 > 11106
+11106 > 10405
+
+%group P
+6843 > 10086
+6843 > 11070
+6843 > 11318
+11318 > 10086
+11318 > 11070
+11070 > 10086
+
+
+%1. 578  Kazuhiro Sakaguchi  7/7  
+%2. 300  Hideshi Tamenori  6/7  
+%3. 5502 Hiroshi Goto  6/7  
+%4. 173 Ken'Ichi Ishii  5/7  
+%5. 651 Hideki Kitajima  4/7  
+%6. 802 Tatsuya Mine  4/7  
+%7. 299 Takeshi Murakami  4/7  
+%8. 11341 Ryoichi Taniguchi  4/7  
+%9. 5515 Masayuki Komagata  3/4  
+%10. 488 Masaki Takizawa  3/4  
+%11. 10070 Osamu Kamemoto  3/4  
+%12. 603 Shigeru Kaneda  3/4  
+%13. 11103 Hideto Kitajima  3/4  
+%14. 11053 Yasuhiro Itoshima  2/4  
+%15. 601 Katsuhiko Kozuka  3/4  
+%16. 6843 Ken'Ichi Itagaki  2/4  
+%17. 10285 Koji Matsui  1/3  
+%18. 177 Brian    177   2/3  
+%19. 10982 Tatsuya Handa  0/3  
+%20. 11210 Hiromi Niinobe  0/3  
+%21. 5516 Akira Ishikawa  1/3  
+%22. 10741 Hiroyuki Enomoto  2/3  
+%23. 11206 Takeshi Nakaoka  1/3  
+%24. 11286 Hiroaki Senoo  0/3  
+%25. 655 Nobuyuki Takizawa  2/3  
+%26. 11196 Shingo Nakajima  2/3  
+%27. 10989 Akihiro Hashiguchi  1/3  
+%28. 10963 Tomohiro Fukami  0/3  
+%29. 11297 Yoshihiro Shirakura  1/3  
+%30. 7018 Noguchi Okabayashi  2/3  
+%31. 11267 Akira Sasaki  0/3  
+%32. 6872 Jyunetsu Nozaki  1/3  
+%33. 10971 Akihiko Goto  2/3  
+%34. 6955 Masaki Iwasaki  0/3  
+%35. 11190 Yoshihito Naito  2/3  
+%36. 11009 Masaki Hirata  0/3  
+%37. 10984 Shuichi Hara  1/3  
+%38. 703 Koichi Maeda  2/3  
+%39. 11313 Tokio Suzuki  1/3  
+%40. 11077 Takeshi Katsumi  0/3  
+%41. 11102 Hiroshi Kirihara  1/3  
+%42. 11133 Tsuyoshi Maeda  0/3  
+%43. 10198 Toshimi Kunii  1/3  
+%44. 10991 Yasuhiro Hashimoto  1/3  
+%45. 11078 Takano Katsuno  2/3  
+%46. 10936 Yuji Asai  0/3  
+%47. 888 Mitsuaki Sugiyama  0/3  
+%48. 11166 Keiji Mori  1/3  
+%49. 11348 Hirohisa Tezuka  2/3  
+%50. 6952 Hirotaka Sano  1/3  
+%51. 4003 Toru Yamada  1/3  
+%52. 5524 Hiroto Nagao  1/3  
+%53. 7063 Akira Hasegawa  0/3  
+%54. 11161 Jun Miyazaki  1/3  
+%55. 11223 Hisaichi Nomura  2/3  
+%56. 11017 Akira Hosaka  2/3  
+%57. 11763 Minoru Sasaki  0/3  
+%58. 10988 Tsuyoshi Hasegawa  2/3  
+%59. 10405 Hiroshi Funasaki  1/3  
+%60. 5525 Satoru Ura  1/3  
+%61. 11106 Atsushi Kobayashi  1/3  
+%62. 10086 Chiaki Yoshikawa  0/3  
+%63. 11070 Hisato Kashima  1/3  
+%64. 11318 Tomohisa Takahashi  2/3

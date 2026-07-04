@@ -1,0 +1,31 @@
+%%Tournament: 40_All_Japan_north_Kanto_prelim
+%%Country: Japan
+%%Date: 24/06/2012
+%%Sender: Hiroyuki Iwata
+
+%_%  10616, SATOHISA, kazu, J, 4.0, 143
+%_%   5584, OSHIMIZU, takanori, J, 3.0, 159
+%_%  12507, MIURA, toshie, J, 2.0, 112
+%_%  10061, OGUROSAWA, shu, J, 1.0, 116
+%_%   7034, YOSHIDA, taisaku, J, 0.0, 109
+
+%Round 1
+ 10616 (33)>(31)   7034 
+  5584 (43)>(21)  12507 
+
+%Round 2
+ 10616 (33)>(31)  10061 
+ 12507 (32)>(32)   7034 
+
+%Round 3
+ 10616 (35)>(29)   5584 
+ 10061 (38)>(26)   7034 
+
+%Round 4
+  5584 (44)>(20)   7034 
+ 12507 (38)>(26)  10061 
+
+%Round 5
+ 10616 (42)>(21)  12507 
+  5584 (43)>(21)  10061 
+

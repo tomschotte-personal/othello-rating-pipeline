@@ -1,0 +1,64 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 12/05/2019
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/05/12 19:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4.5, 195, 2079
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 205, 1949
+%_%      45, ANDRIANI, Bintsa, FRA,  3.5, 189, 1779
+%_%      11, LAZARD, Emmanuel, FRA,  3, 170, 2010
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 164, 1567
+%_%     228, BUSUTTIL, Michel, FRA,  2, 166, 1551
+%_%   50096, LEVY, Marc, FRA,  2, 156, 1800
+%_%     478, COLLAY, Frederic, FRA,  2, 148, 1768
+%_%   50028, BRUIANT, Jacky, FRA,  1, 133, 1124
+%_%    9061, TIMMERMAN, Jean-Louis, FRA,  0, 74, 1117
+
+
+
+%Round: 1
+
+     2 (41)>(23)  50028  B
+  9061 (05)<(59)   3598  B
+   228 (18)<(46)     45  B
+ 50096 (27)<(37)     11  B
+  9025 (24)<(40)    478  B
+
+%Round: 2
+
+    45 (50)>(14)   9061  B
+ 50028 (22)<(42)  50096  B
+    11 (16)<(48)      2  B
+   228 (29)<(35)   9025  B
+  3598 (38)>(26)    478  B
+
+%Round: 3
+
+  9061 (23)<(41)  50028  B
+     2 (32)=(32)     45  B
+  9025 (29)<(35)   3598  B
+   478 (20)<(44)     11  B
+ 50096 (37)>(27)    228  B
+
+%Round: 4
+
+ 50028 (25)<(39)    478  B
+    11 (27)<(37)   9025  B
+   228 (50)>(14)   9061  B
+    45 (39)>(25)  50096  B
+  3598 (31)<(33)      2  B
+
+%Round: 5
+
+ 50096 (25)<(39)   9025  B
+    45 (22)<(42)   3598  B
+ 50028 (22)<(42)    228  B
+   478 (23)<(41)      2  B
+  9061 (18)<(46)     11  B
+
+
+%%Added results

@@ -1,0 +1,52 @@
+%%Tournament: Prequalificatif de Rennes
+%%Country: France
+%%Date: 16/04/2011 - 17/04/2011
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/06/22 11:09
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3518, DELAUNAY, Arnaud, F,  5, 252
+%_%    3384, AUZENDE, Frederic, F,  3, 210
+%_%     839, KASHIWABARA, Takuji, F,  3, 210
+%_%     145, POIRIER, Serge, F,  1, 96
+
+
+
+%Round: 1
+
+  3384 (30)<(34)    839  B
+   145 (12)<(52)   3518  B
+
+%Round: 2
+
+  3518 (30)<(34)   3384  B
+   839 (50)>(14)    145  B
+
+%Round: 3
+
+  3384 (52)>(12)    145  B
+  3518 (34)>(30)    839  B
+
+%Round: 4
+
+   839 (44)>(20)   3384  B
+  3518 (45)>(19)    145  B
+
+%Round: 5
+
+  3384 (15)<(49)   3518  B
+   145 (34)>(30)    839  B
+
+%Round: 6
+
+   145 (05)<(59)   3384  B
+   839 (22)<(42)   3518  B
+
+
+%%Added results
+  3384 (33)>(31)    839  B
+  3384 (33)>(31)   3518  B
+  3518 (38)>(26)   3384  B
+  3384 (34)>(30)   3518  B

@@ -1,0 +1,40 @@
+%%Tournament: Czech GPO 2/2007
+%%Country: Czech Republic
+%%Date: 11/11/2006
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4502, STASTNA, Jan, CZ, 4, 249
+%_%   4606, RUSA, Katerina, CZ, 3, 211
+%_%   4617, DOUDA, Tomas, CZ, 6, 257
+%_%   4619, DREVOJANEK, Radim, CZ, 1, 140
+%_%   4620, NOVAKOVA, Jirina, CZ, 0, 39
+
+
+%Round 1
+  4617 (36)>(28)   4619 B
+  4606 (12)<(52)   4502 B
+
+%Round 2
+  4619 (60)>(04)   4620 B
+  4502 (07)<(57)   4617 B
+
+%Round 3
+  4617 (45)>(19)   4606 B
+  4620 (00)<(64)   4502 B
+
+%Round 4
+  4606 (37)>(27)   4619 B
+  4620 (20)<(44)   4617 B
+
+%Round 5
+  4502 (45)>(19)   4619 B
+  4606 (57)>(07)   4620 B
+
+%Round 6
+  4617 (34)>(30)   4606 B
+  4619 (06)<(58)   4502 B
+
+%Round 7
+  4502 (23)<(41)   4617 B
+  4606 (56)>(08)   4620 B

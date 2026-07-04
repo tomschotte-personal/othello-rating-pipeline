@@ -1,0 +1,18 @@
+%%Tournament: Belarus Championship rematch
+%%Country: Belarus
+%%Date: 28/06/2015
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     1,      81
+%_%  360005, PANASIUK,    Aliaksandr, BLR,     2,     111
+
+
+%Round 1
+360000 (34)>(30) 360005  B
+
+%Round 2
+360005 (45)>(19) 360000  B
+
+%Round 3
+360005 (36)>(28) 360000  W

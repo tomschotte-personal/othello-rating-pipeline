@@ -1,0 +1,50 @@
+%%Tournament: Uppsala Open
+%%Country: Sweden
+%%Date: 11/12/2010
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/03/21 14:26
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% +150015, Oscar, Eriksson, S,  4.5, 204
+%_%  150009, WETTERGREN, Niklas, S,  4, 209
+%_%    1492, ENG, Tintin, S,  3, 193
+%_%    1495, INGELMAN-SUNDBERG, Simon, S,  2.5, 153
+%_%    1389, SOSNOWSKI, Mateusz, PL,  1, 87
+%_%    1503, ANDERSSON, Christopher, S,  0, 114
+
+
+
+%Round: 1
+
+  1492 (53)>(11)   1389 B
+  1503 (30)<(34)   1495 B
+150009 (23)<(41) 150015 B
+
+%Round: 2
+
+  1495 (20)<(44)   1492 B
+  1389 (11)<(53) 150009 B
+150015 (44)>(20)   1503 B
+
+%Round: 3
+
+  1492 (30)<(34) 150009 B
+  1495 (32)=(32) 150015 B
+  1503 (27)<(37)   1389 B
+
+%Round: 4
+
+150015 (39)>(25)   1492 B
+150009 (50)>(14)   1503 B
+  1389 (12)<(52)   1495 B
+
+%Round: 5
+
+  1492 (41)>(23)   1503 B
+150015 (48)>(16)   1389 B
+  1495 (15)<(49) 150009 B
+
+
+%%Added results

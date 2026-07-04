@@ -1,0 +1,129 @@
+%%Tournament: 9th Ueno Open
+%%Country: Japan
+%%Date: 14/10/2007
+%%Sender: Tom Schotte
+
+%Round1
+5512 > 10919
+5514 > 5516
+5558 > 5594
+5589 > 10944
+5502 > 5545
+700 > 5534
+5563 > 699
+5555 > 5551
+5591 > 5508
+7039 > 5592
+5524 > 5621
+5535 > 5569
+5519 > 5518
+5538 > 5609
+5577 > 5654
+5543 > 6931
+
+%Round2
+5512 > 5524
+5514 > 5502
+5558 > 5543
+5589 > 5538
+5534 > 5518
+700 > 5519
+5563 > 5591
+5555 > 7039
+5592 > 5551
+5594 > 6931
+5569 > 5654
+5535 > 5577
+5516 > 5545
+5508 > 699
+5609 > 10944
+10919 > 5621
+
+%Round3
+5512 > 5555
+5514 > 5589
+5558 > 5563
+5502 > 5538
+5534 > 5569
+700 > 5535
+5591 > 5543
+7039 > 5524
+5592 > 10919
+5594 > 5508
+5654 > 5518
+5519 > 5577
+5516 > 5609
+699 > 6931
+5621 > 5551
+10944 > 5545
+
+%Round4
+5512 > 5558
+5514 > 700
+5589 > 5535
+5502 > 5519
+5534 > 5516
+5563 > 5555
+5591 > 7039
+5592 > 5594
+5524 > 5543
+5569 > 5609
+5654 > 10944
+5538 > 5577
+5508 > 10919
+699 > 5621
+5551 > 6931
+5545 > 5518
+
+%Round5
+5512 > 5514
+5558 > 700
+5589 > 5563
+5502 > 5591
+5534 > 5592
+5555 > 5535
+7039 > 5519
+5524 > 5538
+5594 > 5516
+5569 > 5508
+5654 > 699
+5577 > 5543
+5609 > 10919
+5621 > 10944
+5551 > 5545
+6931 > 5518
+
+
+%players
+%1 5512	ohno	tomohiro
+%2 5514	watahiki	kenta
+%3 5558	tamaki	kyotaro
+%4 5589	nagasaki	hidekazu
+%5 5502	goto	hiroshi
+%6 5534	nagashima	kazuhito
+%7 700	nakajima	tetsuya
+%8 5563	kurachi	takayuki
+%9 5555	sato	tetsuya
+%10 5591	satake	yosuke
+%11 7039	kinoshita	hiroko
+%12 5592	kato	taiji
+%13 5524	nagao	hiroto
+%14 5594	masayuki	suko
+%15 5569	ohmori	keita
+%16 5654	kanou	eisuke
+%17 5535	iijima	takamune
+%18 5519	koshino	kazuhiko
+%19 5538	ito	jyunya
+%20 5516	ishikawa	akira
+%21 5577	kurita	seiya
+%22 5508	tatsumi	yukiko
+%23 5609	mori	takahiro
+%24 699	kitajima	masato
+%25 5621	haneda	jun
+%26 5551	sugisaki	nemoto
+%27 5543	watanabe	keiichi
+%28 10919	takikawa	akurai
+%29 10944	chatani	shoji
+%30 5545	kobayashi	manabu
+%31 6931	obama	satomi
+%32 5518	shimonosono	kozo

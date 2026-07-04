@@ -1,0 +1,37 @@
+%%Tournament: Nahariya Open
+%%Country: Israel
+%%Date: 18/08/2006
+%%Sender: Tom Schotte
+
+%Round1
+4039 > 4151
+879 > 4085
+885 < 4028
+
+%Round2
+4028 < 879
+880 > 4039
+4151 < 885
+
+%Round3
+879 > 880
+4039 > 4028
+885 < 4085
+
+%Round4
+4039 > 879
+4085 > 880
+4028 > 4151
+
+%Round5
+4085 < 4039
+4151 < 879
+880 > 885
+
+%SHIFMAN Leonid (Israel)[id: 880]
+%SHIFMAN Ilya (Israel)[id: 885]
+%SHIFMAN Benyamin (Israel)[id: 879]
+%MILLER Alexey (Israel)[id: 4151]
+%MALNEV Andrey (Israel)[id: 4085]
+%RADZIVILOVSKY Lev (Israel)[id: 4039]
+%RADZIVILOVSKY Pavel (Israel)[id: 4028]

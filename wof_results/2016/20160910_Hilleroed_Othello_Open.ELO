@@ -1,0 +1,48 @@
+%%Tournament: Hilleroed Othello Open
+%%Country: Denmark
+%%Date: 10/09/2016
+%%Sender: Erik Lund Jensen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/09/14 21:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  5, 216, 2087
+%_%      93, LUND JENSEN, Erik, DNK,  4, 221, 1943
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  2, 178, 1647
+%_%    1017, MAARTENSSON, Mikael, DNK,  1, 153, 1382
+
+
+
+%Round: 1
+
+  1019 (37)>(27)   1017  B
+    92 (39)>(25)     93  B
+
+%Round: 2
+
+    93 (34)>(30)   1019  B
+  1017 (36)>(28)     92  B
+
+%Round: 3
+
+  1017 (23)<(41)     93  B
+  1019 (28)<(36)     92  B
+
+%Round: 4
+
+  1017 (14)<(50)   1019  B
+    93 (31)<(33)     92  B
+
+%Round: 5
+
+  1019 (08)<(56)     93  B
+    92 (41)>(23)   1017  B
+
+%Round: 6
+
+    93 (34)>(30)   1017  B
+    92 (39)>(25)   1019  B
+
+
+%%Added results

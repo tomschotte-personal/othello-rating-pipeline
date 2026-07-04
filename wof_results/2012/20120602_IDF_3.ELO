@@ -1,0 +1,56 @@
+%%Tournament: Open Ile de France 3
+%%Country: France
+%%Date: 02/06/2012
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/06/02 22:17
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     433, NICOLET, Stephane, F,  4.5, 191
+%_%       2, TASTET, Marc, F,  3.5, 174
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  3, 189
+%_%    3384, AUZENDE, Frederic, F,  3, 175
+%_%    3734, CLUZON, Gilles, F,  2, 128
+%_%   50034, KLEINER, Alexis, F,  1.5, 156
+%_% + 50064, HAMEL, Christophe, F,  1.5, 131
+%_%    3600, BENOIT, Serge, F,  1, 112
+
+
+
+%Round: 1
+
+     2 (41)>(23)  50034  B
+ 50064 (31)<(33)    433  B
+  3598 (36)>(28)   3384  B
+  3734 (41)>(23)   3600  B
+
+%Round: 2
+
+  3734 (14)<(50)   3598  B
+   433 (32)=(32)      2  B
+  3600 (40)>(24)  50064  B
+  3384 (38)>(26)  50034  B
+
+%Round: 3
+
+     2 (39)>(25)   3600  B
+  3384 (51)>(13)   3734  B
+  3598 (21)<(43)    433  B
+ 50034 (32)=(32)  50064  B
+
+%Round: 4
+
+  3598 (28)<(36)      2  B
+   433 (44)>(20)   3384  B
+  3600 (14)<(50)  50034  B
+ 50064 (44)>(20)   3734  B
+
+%Round: 5
+
+     2 (26)<(38)   3384  B
+  3600 (10)<(54)   3598  B
+ 50034 (25)<(39)    433  B
+
+
+%%Added results

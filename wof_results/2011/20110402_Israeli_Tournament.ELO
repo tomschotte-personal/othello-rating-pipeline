@@ -1,0 +1,31 @@
+%%Tournament: Israeli tournament
+%%Country: Israel
+%%Date: 02/04/2011
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, IL, 3.5, 138
+%_%    880, SHIFMAN, Leonid, IL, 3, 176
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 1.5, 92
+%_%    885, SHIFMAN, Ilya, IL, 1, 138
+%_%    200006, MARGALIOT, Michael, IL, 1, 96
+
+%Round 1
+885 (31)<(33) 200006 B
+880 (63)>(01) 4028 B
+
+%Round 2
+4085 (37)>(27) 885 B
+200006 (16)<(48) 880 B
+
+%Round 3
+880 (31)<(33) 4085 B
+4028 (45)>(19) 200006 B
+
+%Round 4
+4085 (32)=(32) 4028 B
+885 (30)<(34) 880 B
+
+%Round 5
+200006 (28)<(36) 4085 B
+4028 (14)<(50) 885 B

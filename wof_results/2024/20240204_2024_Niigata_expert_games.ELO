@@ -1,0 +1,38 @@
+%%Tournament: 2024_Niigata_expert_games
+%%Country: Japan
+%%Date: 04/02/2024
+%%Sender: Hajime NAKAMURA
+
+%_%    488, TAKIZAWA, masaki, JPN, 5.0, 219
+%_%  10083, AIHARA, shigeaki, JPN, 3.0, 164
+%_%   5524, NAGAO, hiroto, JPN, 3.0, 115
+%_%   7047, UMEZAWA, yoshinori, JPN, 2.0, 143
+%_%  15460, NAGATA, yuuya, JPN, 1.0, 125
+%_%  14273, OKAMOTO, sakutaro, JPN, 1.0, 95
+%_%  10032, KOBAYASHI, syunjiro, JPN, 0.0, 99
+
+%Round 1
+ 15460 (35)>(29)  14273 
+   488 (57)>(07)   5524 
+ 10083 (41)>(23)  10032 
+
+%Round 2
+ 14273 (43)>(21)  10032 
+  7047 (33)>(31)  15460 
+   488 (36)>(28)  10083 
+
+%Round 3
+   488 (35)>(29)   7047 
+ 10083 (33)>(31)  15460 
+  5524 (36)>(28)  10032 
+
+%Round 4
+   488 (54)>(10)  14273 
+ 10083 (34)>(30)   7047 
+  5524 (36)>(28)  15460 
+
+%Round 5
+  7047 (51)>(13)  14273 
+   488 (37)>(27)  10032 
+  5524 (36)>(28)  10083 
+

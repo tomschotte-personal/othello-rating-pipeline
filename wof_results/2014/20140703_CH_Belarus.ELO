@@ -1,0 +1,35 @@
+%%Tournament: Belarus Championship 2014
+%%Country: Belarus
+%%Date: 03/07/2014
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     5,     199
+%_%  360001, KRYVASHEYEU, Andrei,     BLR,     1,     120
+%_%  360002, KRYVASHEYEU, Pavel,      BLR,     1,     96
+%_%  360005, PANASIUK,    Aliaksandr, BLR,     3,     182
+%_%  360010, PANASIUK,    Sviatlana,  BLR,     1,     107
+
+
+%Round 1
+360001 (45)>(19) 360002  B
+360010 (23)<(41) 360005  B
+
+%Round 2
+360000 (37)>(27) 360001  B
+360002 (49)>(15) 360010  B
+
+%Round 3
+360010 (27)<(37) 360000  B
+360005 (55)>(09) 360002  B
+
+%Round 4
+360000 (33)>(31) 360005  B
+360001 (22)<(42) 360010  B
+
+%Round 5
+360002 (19)<(45) 360000  B
+360005 (38)>(26) 360001  B
+
+%Final
+360005 (17)<(47) 360000  B

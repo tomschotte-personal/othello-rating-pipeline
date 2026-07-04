@@ -1,0 +1,41 @@
+%%Tournament: Czech GPO 5/2011
+%%Country: Czech Republic
+%%Date: 08/10/2011
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4501, VORACEK, Miroslav, CZ, 4, 232
+%_%   4503, KREJCIK, Roman, CZ, 2, 102
+%_%   4509, RYBARIK, Jan, CZ, 0, 53
+%_%   4617, DOUDA, Tomas, CZ, 3, 179
+%_% 210072, SRNCOVA, Radana, CZ, 1, 74
+
+
+%Round 1
+
+  4617 (55)>(09) 210072  B
+  4501 (64)>(00)   4509  B
+
+
+%Round 2
+
+210072 (06)<(58)   4501  B
+  4503 (17)<(47)   4617  B
+
+
+%Round 3
+
+  4501 (59)>(05)   4503  B
+  4509 (28)<(36) 210072  B
+
+
+%Round 4
+
+  4503 (39)>(25)   4509  B
+  4617 (13)<(51)   4501  B
+
+
+%Round 5
+
+  4509 (00)<(64)   4617  B
+210072 (23)<(41)   4503  B

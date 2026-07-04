@@ -1,0 +1,52 @@
+%%Tournament: chansaa 17, Youth age 6-9, ranked
+%%Country: Mongolia
+%%Date: 15/02/2025
+%%Sender: KHUYAGBAATAR Buyanzaya
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  440590, TSEGMID, Ayushbaatar, MNG, 4, 224, 824
+%_%  440698, ERDENEBAYAR, Lkhagvasuren, MNG, 3, 202, 845
+%_%  440589, TSERENPIL, Anar, MNG, 3, 174, 456
+%_%  440638, TSEND-AYUSH, Nandinkhusel, MNG, 3, 159, 417
+%_%  440569, ALTANGEREL, Amar-Erdene, MNG, 3, 170, 957
+%_%  440800, JIGMEDDORJ, Naran-Erdene, MNG, 2, 130, 410
+%_%  440657, TSERENBAT, Suld, MNG, 1, 124, 455
+%_%  440831, ORGIL, Tsagaadai, MNG, 1, 97, -
+
+%Round: 1
+
+440569 (35)>(29) 440657  B
+440800 (08)<(56) 440698  B
+440831 (23)<(41) 440589  B
+440590 (47)>(17) 440638  B
+
+%Round: 2
+
+440638 (49)>(15) 440800  B
+440657 (43)>(21) 440831  B
+440589 (37)>(27) 440590  B
+440698 (24)<(40) 440569  B
+
+%Round: 3
+
+440831 (36)>(28) 440800  B
+440638 (40)>(24) 440657  B
+440590 (47)>(17) 440698  B
+440569 (25)<(39) 440589  B
+
+%Round: 4
+
+440657 (20)<(44) 440800  B
+440698 (58)>(06) 440831  B
+440590 (47)>(17) 440569  B
+440589 (28)<(36) 440638  B
+
+%Round: 5
+
+440638 (17)<(47) 440698  B
+440657 (08)<(56) 440590  B
+440800 (35)>(29) 440589  B
+440569 (53)>(11) 440831  B

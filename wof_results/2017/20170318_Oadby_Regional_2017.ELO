@@ -1,0 +1,63 @@
+%%Tournament: Oadby Regional 2017
+%%Country: Great-Britain
+%%Date: 18/03/2017
+%%Sender: Steve Rowe
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/03/18 19:20
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  7, 324, 2213
+%_%      85, STEPHENSON, Neil, GBR,  5, 269, 2130
+%_%    2047, BARRASS, Iain, GBR,  5, 258, 1904
+%_%    2078, KYTE, Bruce, GBR,  4, 231, 1662
+%_%    2006, ARNOLD, Roy, GBR,  3, 217, 1584
+%_%    2091, ROWE, Stephen, GBR,  2, 165, 1457
+%_%    2001, STEPHENSON, Ken, GBR,  2, 160, 1792
+
+
+
+%Round: 1
+
+    85 (24)<(40)   2078  B
+  2091 (35)>(29)   2001  B
+    79 (51)>(13)   2006  B
+
+%Round: 2
+
+    85 (45)>(19)   2001  B
+  2078 (24)<(40)   2047  B
+  2006 (50)>(14)   2091  B
+
+%Round: 3
+
+  2047 (51)>(13)   2006  B
+    79 (38)>(26)   2078  B
+    85 (42)>(22)   2091  B
+
+%Round: 4
+
+  2006 (22)<(42)     85  B
+  2091 (04)<(60)     79  B
+  2001 (14)<(50)   2047  B
+
+%Round: 5
+
+  2001 (37)>(27)   2078  B
+    85 (28)<(36)     79  B
+  2091 (19)<(45)   2047  B
+
+%Round: 6
+
+  2047 (16)<(48)     85  B
+  2006 (23)<(41)   2078  B
+    79 (51)>(13)   2001  B
+
+%Round: 7
+
+  2001 (08)<(56)   2006  B
+  2047 (16)<(48)     79  B
+  2078 (33)>(31)   2091  B
+
+
+%%Added results

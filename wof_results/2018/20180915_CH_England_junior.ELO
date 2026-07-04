@@ -1,0 +1,53 @@
+%%Tournament: British Junior Championship 2018
+%%Country: Great-Britain
+%%Date: 15/09/2018
+%%Sender: richard brand
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/09/17 21:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  100027, PLOWMAN, Mark, GBR,  5, 243, 1037
+%_%  100037, PLOWMAN, Anya, GBR,  3, 196, 40
+%_%  100025, BRAND, Lucy, GBR,  3, 178, -469
+%_% +100046, SANATH-VIJAY, Yaj, GBR,  3, 148, 0
+%_% +100047, SANATH-VIJAY, Djia, GBR,  3, 131, 0
+%_% +100045, BYRNE, Finn, GBR,  2, 160, 0
+%_%  100042, PLOWMAN, Sophie, GBR,  1, 104, -655
+
+
+
+%Round: 1
+
+100037 (31)<(33) 100047  B
+100025 (38)>(26) 100046  B
+100042 (20)<(44) 100045  B
+
+%Round: 2
+
+100047 (00)<(64) 100027  B
+100045 (26)<(38) 100025  B
+100046 (36)>(28) 100042  B
+
+%Round: 3
+
+100045 (29)<(35) 100047  B
+100046 (09)<(55) 100037  B
+100027 (50)>(14) 100025  B
+
+%Round: 4
+
+100037 (18)<(46) 100027  B
+100025 (60)>(04) 100042  B
+100047 (27)<(37) 100046  B
+
+%Round: 5
+
+100042 (12)<(52) 100037  B
+100025 (28)<(36) 100047  B
+100027 (43)>(21) 100045  B
+
+
+%%Added results
+
+100037 (12)<(52) 100027  B

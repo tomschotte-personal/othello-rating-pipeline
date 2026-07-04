@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 04/03/2017
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/03/24 21:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  5, 200, 1883
+%_%   50036, CLINTON, Samuel, FRA,  4, 219, 1952
+%_%      11, LAZARD, Emmanuel, FRA,  3, 179, 2005
+%_%     228, BUSUTTIL, Michel, FRA,  2.5, 176, 1488
+%_%    2788, LECAT, Monique, BEL,  2.5, 148, 1479
+%_%    9025, TOUCHENE, Fouad, DZA,  2, 155, 1561
+%_%     275, OVION, Jacques, FRA,  1, 110, 1141
+%_%    3600, BENOIT, Serge, FRA,  0, 93, 1447
+
+
+
+%Round: 1
+
+  9025 (44)>(20)   3600  B
+  2788 (23)<(41)     11  B
+ 50036 (29)<(35)   3598  B
+   228 (54)>(10)    275  B
+
+%Round: 2
+
+  3600 (18)<(46)   2788  B
+    11 (39)>(25)   9025  B
+   275 (00)<(64)  50036  B
+  3598 (43)>(21)    228  B
+
+%Round: 3
+
+   228 (32)=(32)   2788  B
+    11 (31)<(33)   3598  B
+  3600 (21)<(43)    275  B
+  9025 (23)<(41)  50036  B
+
+%Round: 4
+
+ 50036 (42)>(22)     11  B
+   275 (26)<(38)   9025  B
+  2788 (14)<(50)   3598  B
+   228 (48)>(16)   3600  B
+
+%Round: 5
+
+ 50036 (43)>(21)    228  B
+  3598 (39)>(25)   9025  B
+  2788 (33)>(31)    275  B
+  3600 (18)<(46)     11  B
+
+
+%%Added results

@@ -1,0 +1,40 @@
+%%Tournament: York Regional 2018
+%%Country: Great-Britain
+%%Date: 24/03/2018
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/03/24 17:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2078, KYTE, Bruce, GBR,  5, 235, 1546
+%_%    2006, ARNOLD, Roy, GBR,  1, 149, 1466
+
+
+
+%Round: 1
+
+  2006 (24)<(40)   2078  B
+
+%Round: 2
+
+  2078 (52)>(12)   2006  B
+
+%Round: 3
+
+  2006 (15)<(49)   2078  B
+
+%Round: 4
+
+  2078 (26)<(38)   2006  B
+
+%Round: 5
+
+  2006 (31)<(33)   2078  B
+
+%Round: 6
+
+  2078 (35)>(29)   2006  B
+
+
+%%Added results

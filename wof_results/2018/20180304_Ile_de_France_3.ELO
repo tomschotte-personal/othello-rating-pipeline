@@ -1,0 +1,50 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 04/03/2018
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/03/04 18:54
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 212, 1949
+%_%   50075, BERTRANDIAS, Marc, FRA,  4, 201, 1766
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 183, 1779
+%_%   50096, LEVY, Marc, FRA,  3, 167, 1800
+%_%     228, BUSUTTIL, Michel, FRA,  1, 143, 1551
+%_%   50097, OVION, Alix-Anne, FRA,  0, 54, 994
+
+
+
+%Round: 1
+
+ 50075 (50)>(14)  50097  B
+   228 (18)<(46)   3598  B
+ 50096 (28)<(36)     45  B
+
+%Round: 2
+
+  3598 (27)<(37)  50075  B
+ 50097 (26)<(38)  50096  B
+    45 (40)>(24)    228  B
+
+%Round: 3
+
+ 50075 (28)<(36)  50096  B
+  3598 (44)>(20)     45  B
+   228 (56)>(08)  50097  B
+
+%Round: 4
+
+    45 (23)<(41)  50075  B
+ 50096 (38)>(26)    228  B
+ 50097 (06)<(58)   3598  B
+
+%Round: 5
+
+ 50075 (45)>(19)    228  B
+    45 (64)>(00)  50097  B
+  3598 (37)>(27)  50096  B
+
+
+%%Added results

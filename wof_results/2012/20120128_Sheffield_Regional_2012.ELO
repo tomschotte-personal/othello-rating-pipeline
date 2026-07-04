@@ -1,0 +1,63 @@
+%%Tournament: Sheffield Regional
+%%Country: Great-Britain
+%%Date: 28/01/2012
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/01/28 17:30
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2052, EDMEAD, Garry, GB,  7, 329
+%_%    2047, BARRASS, Iain, GB,  5, 281
+%_%    4019, PRIDMORE, Ben, GB,  4, 239
+%_%    2006, ARNOLD, Roy, GB,  3.5, 211
+%_%    2042, BURGESS, Andrew, GB,  3, 211
+%_%  100004, LIGHTMAN, Marie, GB,  3, 171
+%_%      76, FORSYTH, Iain, GB,  2.5, 182
+
+
+
+%Round: 1
+
+    76 (09)<(55)   2052  B
+  2047 (25)<(39)   2042  B
+  2006 (20)<(44)   4019  B
+
+%Round: 2
+
+100004 (19)<(45)   2047  B
+  4019 (22)<(42)     76  B
+  2042 (20)<(44)   2006  B
+
+%Round: 3
+
+  2052 (34)>(30)   4019  B
+  2006 (47)>(17) 100004  B
+    76 (23)<(41)   2042  B
+
+%Round: 4
+
+  2047 (49)>(15)   2006  B
+  2042 (12)<(52)   2052  B
+100004 (39)>(25)     76  B
+
+%Round: 5
+
+  4019 (36)>(28)   2042  B
+    76 (11)<(53)   2047  B
+  2052 (61)>(03) 100004  B
+
+%Round: 6
+
+  2006 (32)=(32)     76  B
+100004 (20)<(44)   4019  B
+  2047 (28)<(36)   2052  B
+
+%Round: 7
+
+  2042 (31)<(33) 100004  B
+  2052 (51)>(13)   2006  B
+  4019 (23)<(41)   2047  B
+
+
+%%Added results

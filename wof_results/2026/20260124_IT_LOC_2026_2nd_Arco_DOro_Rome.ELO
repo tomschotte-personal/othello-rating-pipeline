@@ -1,0 +1,54 @@
+%%Tournament: IT_LOC_2026_2nd_Arco_D'Oro_tournament_Rome
+%%Country: Italy
+%%Date: 24/01/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40301, INDELICATO, Francesco, ITA, 3, 167, -
+%_%   40321, SERRAINO, Tiziana, ITA, 3, 142, -
+%_%   40309, BELARDINELLI, Matteo, ITA, 3, 158, -
+%_%   40324, FORIERE, Tiberio, ITA, 2, 157, -
+%_%  +40458, Deiana, Chiara, ITA, 2, 123, -
+%_%  +40459, Guardati, Francesca, ITA, 2, 132, -
+%_%  +40460, Dy, Allen, ITA, 2, 111, -
+%_%  +40461, Binda, Elisa, ITA, 2, 118, -
+%_%   40317, FORIERE, Flavio, ITA, 1, 88, -
+%_%   40319, GIACCONE, Tommaso, ITA, 0, 84, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/462
+
+%Round: 1
+
+ 40309 (22)<(42)  40324  B
+ 40319 (16)<(48)  40461  B
+ 40459 (24)<(40)  40458  B
+ 40460 (11)<(53)  40301  B
+ 40321 (52)>(12)  40317  B
+
+%Round: 2
+
+ 40309 (48)>(16)  40319  B
+ 40317 (19)<(45)  40459  B
+ 40458 (25)<(39)  40460  B
+ 40461 (00)<(64)  40324  B
+ 40301 (31)<(33)  40321  B
+
+%Round: 3
+
+ 40319 (24)<(40)  40317  B
+ 40459 (41)>(23)  40461  B
+ 40460 (25)<(39)  40309  B
+ 40458 (23)<(41)  40301  B
+ 40324 (22)<(42)  40321  B
+
+%Round: 4
+
+ 40321 (15)<(49)  40309  B
+ 40301 (42)>(22)  40459  B
+ 40324 (29)<(35)  40458  B
+ 40461 (47)>(17)  40317  B
+ 40460 (36)>(28)  40319  B

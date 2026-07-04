@@ -1,0 +1,87 @@
+%%Tournament: 5th Ueno Open
+%%Country: Japan
+%%Date: 13/05/2007
+%%Sender: Tom Schotte
+
+%Round1
+   700 >   5538 
+  4014 >   5514 
+  5539 >   5545 
+  5558 >   6960 
+  5597 >   5600 
+  6840 >  10145 
+  5533 >   6827 
+   177 >   5614 
+  5542 >    791 
+  5519 >   5524 
+
+%Round2
+   700 >   5519 
+  4014 >   5533 
+  5558 >    177 
+  5597 >   5539 
+  6840 >   5542 
+  5614 >   6960 
+  5538 >   5524 
+  5514 >   6827 
+ 10145 >    791 
+  5545 >   5600 
+
+%Round3
+   700 >   5597 
+  4014 >   5558 
+  5539 >   6840 
+  5614 >   5514 
+  5538 >   5545 
+   177 >   5533 
+  5542 >   5519 
+  6827 >   6960 
+  5600 >    791 
+  5524 >  10145 
+
+%Round4
+   700 >   4014 
+  5539 >    177 
+  5558 >   6840 
+  5597 >   5542 
+  5614 >   5538 
+  5533 >   5519 
+  5514 >   5545 
+ 10145 >   5600 
+  6827 >   5524 
+  6960 >    791 
+
+%Round5
+   700 >   5614 
+  4014 >   5597 
+  5539 >   5558 
+  6840 >    177 
+  5533 >  10145 
+  5538 >   6827 
+  5514 >   5542 
+  5519 >   5600 
+  5545 >    791 
+  6960 >   5524 
+
+
+%Players
+%1 700	nakajima	tetsuya
+%2 4014	tominaga	kenta
+%3 5539	yamakawa	takashi
+%4 5558	tamaki	kyotaro
+%5 5597	sawada	tomohiro
+%6 6840	tanaka	shuntarou
+%7 5614	ishihara	makoto
+%8 5533	sato	kouichiro
+%9 5538	ito	junya
+%10 5514	watahiki	kenta
+%11 177	rose	brian
+%12 5542	koide	satoshi
+%13 5519	koshino	kazuhiko
+%14 10145	omodera	osamu
+%15 5545	kobayashi	manabu
+%16 6827	shimizu	kenko
+%17 6960	namiki	kazunari
+%18 5600	ohtake	kosuke
+%19 5524	nagao	hiroto
+%20 791	hasegawa	hideko

@@ -1,0 +1,75 @@
+%%Tournament: Prequalificatif Grenoble
+%%Country: France
+%%Date: 21/06/2008 - 22/06/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/07/19 18:09
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     839, KASHIWABARA, Takuji, F,  6, 308
+%_%    3518, DELAUNAY, Arnaud, F,  6, 281
+%_%    3515, BUTIN, Pierre, F,  5.5, 292
+%_%      45, ANDRIANI, Bintsa, F,  4, 229
+%_%     475, LANUIT, Christophe, F,  3.5, 270
+%_%    3820, MAIGNE, Lena, F,  2, 130
+%_%     125, MICHEL, Stephane, F,  1, 114
+
+
+
+%Round: 1
+
+  3515 (21)<(43)    839 B
+  3820 (16)<(48)   3518 B
+   125 (03)<(61)    475 B
+
+%Round: 2
+
+    45 (52)>(12)   3820 B
+   475 (32)=(32)   3515 B
+  3518 (48)>(16)    125 B
+
+%Round: 3
+
+   839 (41)>(23)    475 B
+   125 (09)<(55)     45 B
+  3515 (34)>(30)   3518 B
+
+%Round: 4
+
+  3820 (45)>(19)    125 B
+  3518 (36)>(28)    839 B
+    45 (00)<(64)   3515 B
+
+%Round: 5
+
+   475 (24)<(40)   3518 B
+  3515 (55)>(09)   3820 B
+   839 (44)>(20)     45 B
+
+%Round: 6
+
+   125 (18)<(46)   3515 B
+    45 (37)>(27)    475 B
+  3820 (07)<(57)    839 B
+
+%Round: 7
+
+  3518 (39)>(25)     45 B
+   839 (55)>(09)    125 B
+   475 (63)>(01)   3820 B
+
+%%Demi-finales
+    839 >     45
+     45 <    839
+   3518 >   3515
+   3515 <   3518
+
+%%Match 3/4
+    45 >   3515
+  3515 <     45
+
+%%Finale
+   839 >   3518
+  3518 <    839
+

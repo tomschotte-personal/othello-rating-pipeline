@@ -1,0 +1,133 @@
+%%Tournament: 202nd Kyoto Meeting
+%%Country: Japan
+%%Date: 10/10/2004
+%%Sender: Tom Schotte
+
+%Round1
+300 > 12042
+5669 > 698
+5506 > 10766
+6860 > 11084
+7054 > 6970
+10119 > 10009
+10010 > 5507
+10128 > 653
+10122 > 6976
+10123 > 10753
+5547 > 12043
+6995 > 653
+5588 > 600
+12030 > 6929
+5521 > 11485
+
+%Round2
+698 > 6929
+300 > 6995
+6860 > 10119
+6976 > 600
+7054 > 12030
+10010 > 5588
+12042 > 10008
+6970 > 5669
+5507 > 10753
+10128 > 5506
+10122 > 10123
+5547 > 5521
+653 > 10009
+11084 > 10766
+11485 > 12043
+
+%Round3
+698 > 5507
+300 > 6860
+5669 > 653
+5506 > 10119
+6976 > 10123
+7054 > 10128
+12042 > 12030
+6970 > 10010
+10122 > 5547
+6995 > 11485
+10753 > 10009
+600 > 10766
+5521 > 5588
+11084 > 6929
+10008 > 12043
+
+%Round4
+698 > 10128
+300 > 7054
+5669 > 10010
+6860 > 6995
+6976 > 5506
+10119 > 10753
+6970 > 10122
+5507 > 5588
+5547 > 12042
+12030 > 10008
+600 > 10123
+653 > 6929
+10766  > 10009
+%three players left
+
+%Round5
+698 > 6860
+300 > 6970
+5669 > 10122
+5506 > 5547
+7054 > 6976
+10119 > 12042
+10010 > 10753
+5507 > 6995
+10128 > 12030
+10123 > 10008
+5588 > 10766
+12043 > 6929
+%five players left
+
+%Round6
+698 > 300
+5669 > 7054
+5506 > 6970
+6860 > 5507
+6976 > 10128
+10119 > 10122
+10010 > 5547
+12042 > 5588
+10123 > 6995
+10753 > 12043
+10009 > 10008
+6929 > 10766
+%six players left
+
+%players
+%1 698	suekuni	makoto
+%2 300	tamenori	hideshi
+%3 5669	nakano	shunsuke
+%4 5506	tamaki	suguru
+%5 6860	miyazaki	yuji
+%6 6976	asano	yuki
+%7 7054	nakamori	hiroki
+%8 10119	sentoku	hidefumi
+%9 10010	aoki	akira
+%10 12042	norimitsu	ayumi
+%11 6970	kudashou	takahiro
+%12 5507	tsuchida	daisuke
+%13 10128	hamoto	kazuhiro
+%14 10122	tanino	takumi
+%15 10123	nakamura	shuhei
+%16 5547	ohno	atsuko
+%17 6995	funakoshi	shogo
+%18 5588	kobayashi	ritsuko
+%19 10753	kagotani	hiroto
+%20 10009	taru	eiichi
+%21 12043	norimitsu	hiromi
+%22 12030	sato	ai
+%23 600	takeda	kyoko
+%24 653	takeda	hajime
+%25 5521	hamada	kikue
+%26 11084	kawai	tokunao
+%27 6929	io	hideo
+%28 10766	nishimura	hidemi
+%29 10008	okuda	masashi
+%30 11485	senoo	yasuyo

@@ -1,0 +1,33 @@
+%%Tournament: Tournoi A de Rennes
+%%Country: France
+%%Date: 19/06/1999
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+ 940 >  891
+ 145 > 3389
+
+%%Round: 2
+
+3350 <  940
+ 891 <  145
+
+%%Round: 3
+
+3389 <  891
+ 145 > 3350
+ 940 >  948
+
+%%Round: 4
+
+ 145 <  940
+ 948 < 3350
+3392 < 3389
+
+%%Round: 5
+
+3350 <  891
+ 948 < 3392
+3389 <  940

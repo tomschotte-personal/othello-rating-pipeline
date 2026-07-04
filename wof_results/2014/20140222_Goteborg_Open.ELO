@@ -1,0 +1,24 @@
+%%Tournament: Goteborg Open 2014
+%%Country: Sweden
+%%Date: 22/02/2014
+%%Sender: Oskar Eklund
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/02/23 11:43
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  2, 81, 1960
+%_%    1454, FRONMARK, Marcus, SWE,  0, 47, 2063
+
+
+
+%Round: 1
+
+150016 (43)>(21)   1454  B
+
+%Round: 2
+
+  1454 (26)<(38) 150016  B
+
+
+%%Added results

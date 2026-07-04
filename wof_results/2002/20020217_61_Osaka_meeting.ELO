@@ -1,0 +1,104 @@
+%%Tournament: 61st Osaka Meeting
+%%Country: Japan
+%%Date: 17/02/2002
+%%Sender: Tom Schotte
+
+%http://www.eonet.ne.jp/~kinki/oosaka/2002/02-02/oosaka02-02B.html
+
+%Round1
+  6972 >  11625  
+  6925 >   5507  
+  6970 >  12072  
+ 11855 >   6978  
+  6825 >  10014  
+ 11779 >  11799  
+ 11781 >  11631  
+  6937 >   6930  
+ 11626 >  12078  
+  6980 >  11780  
+ 10041 >   6929  
+ 11782 >  12079  
+
+%Round2
+  6972 >  11626  
+  6925 >   6825  
+  6970 >  11781  
+ 11855 >  10041  
+  5507 >  11780  
+ 11799 >   6930  
+ 11779 >  11782  
+ 12072 >  12078  
+  6937 >   6980  
+ 10014 >  11625  
+  6978 >   6929  
+ 12080 >  12079  
+
+%Round3
+  6972 >  11779  
+  6970 >   6925  
+ 11855 >   6937  
+  5507 >  11626  
+ 11799 >  12080  
+  6825 >  10041  
+  6929 >   6930  
+ 11781 >   6980  
+ 12072 >  11782  
+  6978 >  10014  
+ 11631 >  12079  
+ 11625 >  12078  
+
+%Round4
+  6972 >   6970  
+  6925 >  11779  
+ 11799 >  11855  
+  6825 >   6978  
+  6929 >  10014  
+ 11780 >  12080  
+ 11781 >   5507  
+  6937 >  12072  
+ 11626 >  11631  
+ 10041 >  11625  
+ 11782 >   6980  
+  6930 >  12079  
+
+%Round5
+  6972 >  11799  
+  6925 >  11781  
+  6970 >   6825  
+ 11855 >  11626  
+  5507 >   6937  
+  6929 >   6978  
+ 11779 >  10041  
+ 11780 >  11782  
+ 12072 >  11631  
+  6980 >  11625  
+ 10014 >   6930  
+ 12078 >  12080  
+
+
+%players
+%1 6972	miyazaki	toru
+%2 6925	izumo	kengo
+%3 6970	kudashou	takahiro
+%4 11855	kikuchi	ryuichi
+%5 5507	tsuchida	daisuke
+%6 11799	hashimoto	yoshiaki
+%7 6825	shinkawa	hiroki
+%8 6929	io	hideo
+%9 11779	shima	miyuki
+%10 11780	sawada	eijiro
+%11 11781	tsuyuzaki	miria
+%12 12072	satake	mari
+%13 6937	yamada	minoru
+%14 11626	yoshimura	osamu
+%15 6980	matsumoto	kazunori
+%16 10014	suzuki	takao
+%17 6978	matsumoto	kishie
+%18 12078	tanoue	emiko
+%19 10041	tatsumi	atsusi
+%20 11782	murakami	tadayoshi
+%21 11631	tatsumi	akihiro
+%22 6930	nishimine	satoru
+%23 12079	tanoue	syu
+%24 11625	hiraki	tatsuya
+%25 12080	ogawa	kodai

@@ -1,0 +1,51 @@
+%%Tournament: LF Open
+%%Country: Denmark
+%%Date: 26/01/2019
+%%Sender: Kim J. Nielsen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/01/26 16:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     804, HUBBARD, Geoff, AUS,  5, 242, 1860
+%_%    1045, NIELSEN, Kim J., DNK,  4, 210, 1748
+%_%  220013, HOEGH, Daniel, DNK,  2, 153, 1222
+%_%    1981, STOKKE, Solrun, DNK,  2, 132, 1296
+%_%    1000, MICHAELSEN, Peter, DNK,  2, 105, 1436
+%_%    1059, STOEVRING, Pia, DNK,  0, 118, 1291
+
+
+
+%Round: 1
+
+  1059 (22)<(42)   1981  B
+  1045 (42)>(22) 220013  B
+  1000 (01)<(63)    804  B
+
+%Round: 2
+
+220013 (42)>(22)   1059  B
+  1981 (18)<(46)   1000  B
+   804 (37)>(27)   1045  B
+
+%Round: 3
+
+  1059 (30)<(34)   1000  B
+220013 (25)<(39)    804  B
+  1045 (50)>(14)   1981  B
+
+%Round: 4
+
+   804 (51)>(13)   1059  B
+  1000 (06)<(58)   1045  B
+  1981 (46)>(18) 220013  B
+
+%Round: 5
+
+  1059 (31)<(33)   1045  B
+   804 (52)>(12)   1981  B
+220013 (46)>(18)   1000  B
+
+
+%%Added results
+  1045 (37)>(27)    804  B

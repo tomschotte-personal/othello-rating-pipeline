@@ -1,0 +1,39 @@
+%%Tournament: Italian Open
+%%Country: Italy
+%%Date: 24/07/2022
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2838, COLANGIUOLO, Enrico, ITA, 4, 179-77
+%_%  2840, ROSSI, Pietro, ITA, 2.5, 146-110
+%_%    42, PRIVITERA, Biagio, ITA, 2.5, 144-112
+%_%  8022, PECCERILLO, Vincenzo, ITA, 2, 119-137
+%_%  2884, VECCHI, Maria Serena, ITA, 2, 116-140
+%_%  3062, CAVIOLA, Leonardo, ITA, 2, 138-118
+%_% 40052, GIGLIUCCI, Chiara, ITA, 1, 128-128
+%_% 40097, CACCIATORE, Alessandro, ITA, 0, 54-202
+
+%Round: 1
+  2840 (28)<(36)   3062  B
+  2884 (14)<(50)     42  B
+  8022 (38)>(26)  40052  B
+ 40097 (10)<(54)   2838  B
+
+%Round: 2
+    42 (31)<(33)   2838  B
+  3062 (31)<(33)   8022  B
+ 40052 (19)<(45)   2840  B
+ 40097 (14)<(50)   2884  B
+
+%Round: 3
+  2838 (41)>(23)   8022  B
+  2840 (32)=(32)     42  B
+  2884 (39)>(25)   3062  B
+ 40052 (52)>(12)  40097  B
+
+%Round: 4
+  2838 (51)>(13)   2884  B
+  8022 (25)<(39)   2840  B
+    42 (33)>(31)  40052  B
+  3062 (46)>(18)  40097  B
+

@@ -1,0 +1,81 @@
+%%Tournament: Pakistan Championship  
+%%Country: Pakistan 
+%%Date: 28/07/2013
+%%Sender: Muhammad Ishfaq
+
+%Round 1:
+380000 (50)>(14) 380001  
+380002 (31)<(33) 380003  
+380004 (36)>(28) 380005  
+380006 (42)>(22) 380007  
+380008 (45)>(19) 380009 
+380010 (30)<(34) 380011  
+380012 (20)<(44) 380013  
+380014 (50)>(14) 380015 
+380016 (19)<(45) 380017 
+380018 (42)>(22) 380019 
+380020 (15)<(49) 380021 
+380022 (10)<(54) 380023 
+380024 (47)>(17) 380025 
+380026 (21)<(43) 380027 
+380028 (31)<(33) 380029 
+380030 (17)<(47) 380031 
+
+
+%Round 2: 
+380000 (39)>(25) 380003 
+380005 (17)<(47) 380006 
+380008 (15)<(49) 380011 
+380013 (01)<(63) 380027 
+380029 (21)<(43) 380031 
+
+%Round 3:
+380000 (52)>(12) 380006 
+380011 (40)>(24) 380013 
+380017 (49)>(15) 380013 
+380027 (44)>(20) 380031 
+
+%Round 4:
+380000 (57)>(07) 380011 
+380017 (45)>(19) 380027  
+
+%Final
+380000 (48)>(16) 380027 
+
+%% Pakistani Players  
+
+%01 MUHAMMAD Ishfaq [id: 380000]
+%02 SALEEM ali  [id:380001]
+%03 NADEEM khalid  [id: 380002]
+%04 CHAND massi [id: 380003]
+%05 KASHI ilahi [id: 380004]
+
+%06 VISHAL john [id: 380005]
+%07 IMARAN khan[id: 380006]
+%08 KHALIL randawa[id: 380007] 
+%09 DANISH naveed [id: 380008]
+%10 ZAIN   ali [id: 380009]
+%11 IMRAN javed [id: 380010]
+%12 RAIZ akhtar [id: 380011]
+%13 ADNAN tahseen[id: 380012]
+%14 SHAN chodhary[id: 380013]
+%15 SHAN yousaf [id: 380014]
+%16 NAWAZ pervaiz[id: 380015]
+%17 WASIM akram[id: 380016]
+%18 KAMRAN zafar[id: 380017]
+%19 AZMAT joiya[id: 380018]
+%20 AMJAD shahid[id: 380019]
+%21 KHURAM iqbal[id: 380020]
+%22 MUSHTAQ naeem[id: 380021]
+%23 TANVEER khan[id: 380022]
+%24 SAJAD anwar[id: 380023]
+%25 VIKIEY pitras [id: 380024]
+%26 SALMAN saeed[id: 380025]
+%27 SHAHZAD abbasi [id: 380026]
+%28 ASLAM virg[id: 380027]
+%29 NAVEED burhan[id: 380028]
+%30 MAQSOOD umar[id: 380029]
+%31 VIBAL jamshaid[id: 380030]
+%32 JAVED iqbal [id: 380031]
+
+

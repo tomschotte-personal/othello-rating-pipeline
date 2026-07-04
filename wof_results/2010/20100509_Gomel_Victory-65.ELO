@@ -1,0 +1,29 @@
+%%Tournament: Gomel_Victory-65
+%%Country: Belarus
+%%Date: 09/05/2010
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     4,     176
+%_%  360001, KRYVASHEYEU, Andrei,     BLR,     2,     107
+%_%  360002, KRYVASHEYEU, Pavel,      BLR,     0,     49
+%_% +360003, LAMAZKI,     Andrei,     BLR,     2,     180
+
+
+%Round 1
+360003 (57)>(07) 360002 B
+360000 (43)>(21) 360001 B
+
+%Round 2
+360001 (33)>(31) 360003 W
+360000 (49)>(15) 360002 W
+
+%Round 3
+360001 (37)>(27) 360002 W
+360000 (40)>(24) 360003 B
+
+%Semi-final
+360003 (48)>(16) 360001 W
+
+%Final
+360000 (44)>(20) 360003 W

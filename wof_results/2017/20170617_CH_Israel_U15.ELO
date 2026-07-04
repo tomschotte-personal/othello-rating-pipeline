@@ -1,0 +1,45 @@
+%%Tournament: The first Israel Othello children's championship (U15)
+%%Country: Israel
+%%Date: 17/06/2017
+%%Sender: Leonid Shifman
+
+% ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    200010, SHIFMAN, Michael, IL, 5, 192
+%_%    200018, YOSIFOVICH, Danielle, IL, 4, 221
+%_%    200015, PRESENTE, Nimrod, IL, 3, 190
+%_%    200011, SHRIEBMAN, Or, IL, 2, 158
+%_%    200034, CHERESHNYA, Yaron, IL, 2, 155
+%_%    200040, LAUFER, Shahar, IL, 2, 140
+%_%    200012, FABIAN, Asaf, IL, 1, 102
+%_%    200009, SHIFMAN, Shani, IL, 1, 122
+ 
+
+%Round 1
+200012 (15)<(49) 200040  B
+200009 (23)<(41) 200034  B
+200011 (26)<(38) 200018  B
+200015 (19)<(45) 200010  B
+
+%Round 2
+200040 (24)<(40) 200010  B
+200034 (22)<(42) 200018  B
+200012 (37)>(27) 200009  B
+200015 (27)<(37) 200011  B
+
+%Round 3
+200018 (29)<(35) 200010  B
+200034 (39)>(25) 200012  B
+200011 (23)<(41) 200040  B
+200009 (14)<(50) 200015  B
+
+%Round 4
+200034 (28)<(36) 200010  B
+200040 (00)<(64) 200018  B
+200015 (55)>(09) 200012  B
+200009 (20)<(44) 200011  B
+
+%Round 5
+200010 (36)>(28) 200011  B
+200018 (48)>(16) 200012  B
+200034 (25)<(39) 200015  B
+200040 (26)<(38) 200009  B

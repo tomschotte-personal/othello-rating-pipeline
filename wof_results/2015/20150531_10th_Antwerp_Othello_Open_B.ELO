@@ -1,0 +1,50 @@
+%%Tournament: 10th Antwerpen Othello Open B
+%%Country: Belgium
+%%Date: 31/05/2015
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/05/31 22:05
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  120052, DORBECK, Anne, NLD,  5, 202, 1047
+%_%  120048, DE VRIES, Anouk, NLD,  4, 220, 1027
+%_%  270012, VAN DAMME, Frank Ivo, BEL,  3, 171, 239
+%_%  270013, VAN DEN BRANDT, Joke, BEL,  2, 160, 431
+%_%  120069, BLANKENDAAL, Judith, NLD,  1, 116, 420
+%_%  120043, DE VRIES, Jiske, NLD,  0, 91, 227
+
+
+
+%Round: 1
+
+120043 (17)<(47) 120048  B
+120052 (38)>(26) 270012  B
+270013 (50)>(14) 120069  B
+
+%Round: 2
+
+270012 (51)>(13) 120043  B
+120048 (49)>(15) 270013  B
+120069 (27)<(37) 120052  B
+
+%Round: 3
+
+120043 (29)<(35) 270013  B
+270012 (46)>(18) 120069  B
+120052 (45)>(19) 120048  B
+
+%Round: 4
+
+120069 (47)>(17) 120043  B
+270013 (31)<(33) 120052  B
+120048 (51)>(13) 270012  B
+
+%Round: 5
+
+120043 (15)<(49) 120052  B
+120069 (10)<(54) 120048  B
+270012 (35)>(29) 270013  B
+
+
+%%Added results

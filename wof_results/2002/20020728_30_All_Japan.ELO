@@ -1,0 +1,221 @@
+%%Tournament: 30th All Japan
+%%Country: Japan
+%%Date: 28/07/2002
+%%Sender: Tom Schotte
+
+%group A
+11430 > 6870
+11430 > 5513
+11430 > 10122
+6870 > 10122
+10122 > 5513
+5513 > 6870
+
+%group B
+578 > 6952
+578 > 11105
+6952 > 5559
+5559 > 578
+5559 > 11105
+6952 > 11105
+
+%group C
+10671 > 4014
+4014 > 7081
+4014 > 6970
+7081 > 10671
+6970 > 7081
+6970 > 10671
+
+%group D
+11467 > 5502
+5502 > 7077
+5502 > 6803
+7077 > 11467
+7077 > 6803
+6803 > 11467
+
+%group E
+5522 > 11128
+6801 > 11128
+10070 > 11128
+5522 > 10070
+10070 > 6801
+6801 > 5522
+
+%group F
+698 > 6951
+698 > 11327
+698 > 11799
+11327 > 6951
+11327 > 11799
+6951 > 11799
+
+%group G
+6868 > 7034
+6868 > 11407
+6868 > 7009
+7034 > 11407
+11407 > 7009
+7009 > 7034
+
+%group H
+5560 > 7002
+5560 > 11284
+5560 > 7044
+7044 > 7002
+7044 > 11284
+7002 > 11284
+
+%group I
+6822 > 5524
+6822 > 6937
+6822 > 11057
+5524 > 6937
+5524 > 11057
+6937 > 11057
+
+%group J
+488 > 11276
+488 > 7055
+488 > 10275
+11276 > 10275
+10275 > 7055
+7055 > 11276
+
+%group K
+5503 > 5680
+5680 > 10997
+10997 > 5503
+5503 > 11798
+5680 > 11798
+10997 > 11798
+
+%group L
+4011 > 5530
+4011 > 7051
+4011 > 10958
+5530 > 7051
+5530 > 10958
+7051 > 10958
+
+%group M
+603 > 10952
+603 > 6972
+603 > 10290
+10952 > 10290
+10290 > 6972
+6972 > 10952
+
+%group N
+10985 > 7048
+10985 > 10351
+10985 > 10331
+10351 > 7048
+10351 > 10331
+7048 > 10331
+
+%group O
+299 > 11088
+299 > 300
+299 > 10289
+10289 > 11088
+10289 > 300
+300 > 11088
+
+%group P
+11127 > 651
+11127 > 5509
+11127 > 10585
+651 > 10585
+10585 > 5509
+5509 > 651
+
+
+%finals
+11127 > 11430
+6970 > 5560
+5559 > 7077
+5503 > 6868
+488 > 4011
+299 > 698
+6822 > 5522
+10985 > 603
+11127 > 6970
+5503 > 5559
+488 > 299
+6822 > 10985
+5503 > 11127
+488 > 6822
+5503 > 488
+6822 > 11127
+5559 > 6970
+299 > 10985
+299 > 5559
+6970 > 10985
+
+%not per result
+%1 6870	kiyoyuki	kenji
+%2 11430	shiseido	hiroyuki
+%3 5513	tanida	kunihiko
+%4 10122	tanino	takumi
+%5 11105	kiyoyuki	keisuke
+%6 578	sakaguchi	kazuhiro
+%7 6952	sano	hirotaka
+%8 5559	kawarada	yuichi
+%9 10671	kamide	keiichi
+%10 4014	tominaga	kenta
+%11 7081	kado	naoki
+%12 6970	sugase	takahiro
+%13 11467	tanino	takahashi
+%14 5502	goto	hiroshi
+%15 7077	ishizaki	hikaru
+%16 6803	haga	kazutoshi
+%17 11128	kume	tomofumi
+%18 5522	tsuchida	eiji
+%19 6801	koukawa	satoshi
+%20 10070	kamemoto	osamu
+%21 6951	fujita	takeshi
+%22 698	suekuni	makoto
+%23 11327	takeuchi	masahiro
+%24 11799	hashimoto	yoshiaki
+%25 7034	yoshida	taisaku
+%26 6868	sasaki	sohei
+%27 11407	yasutake	nobumasa
+%28 7009	taniguti	eizi
+%29 7002	kagawa	youichi
+%30 11284	sawada	takehiko
+%31 7044	hoshi	ryuichi
+%32 5560	tsuji	shinji
+%33 5524	nagao	hiroto
+%34 6822	yamada	yuichi
+%35 6937	yamada	minoru
+%36 11057	iwasaki	kazuo
+%37 11276	sato	shinji
+%38 488	takizawa	masaki
+%39 7055	terada	ziyunya
+%40 10275	baba	toshihiro
+%41 5503	komano	tatsuya
+%42 5680	watanabe	hajime
+%43 10997	hida	takeshi
+%44 11798	masuda	kenji
+%45 4011	miyaoka	tamaki
+%46 5530	noda	bintatsu
+%47 7051	okuno	tomoji
+%48 10958	fujisawa	yosuke
+%49 603	kaneda	shigeru
+%50 10952	easka	akira
+%51 6972	miyazaki	toru
+%52 10290	fujiwara	toyoshima
+%53 10985	harikawa	yuki
+%54 7048	kanda	yoshihiro
+%55 10351	tokumaru	kikuchi
+%56 10331	matsui	takashi
+%57 299	murakami	takeshi
+%58 11088	kawate	masayuki
+%59 300	tamenori	hideshi
+%60 10289	kawakami	yoshitai
+%61 651	kitajima	hideki
+%62 5509	imaoka	tsukasa
+%63 10585	matuzawa	takashi
+%64 11127	kudomi	daisuke

@@ -1,0 +1,48 @@
+%%Tournament: Czech GPO 5/2013
+%%Country: Czech Republic
+%%Date: 22/06/2013
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZE, 5, 216
+%_% 210104, BILY, Petr, CZE, 2, 142
+%_% 210126, BILY, Adam, CZE, 0, 53
+%_% 210127, NEUZIL, Miroslav, CZE, 4, 248
+%_% 210128, NEUZILOVA, Jana, CZE, 3, 168
+%_% 210129, VEITH, Pavel, CZE, 1, 133
+
+
+%Round 1
+
+210127 (31)<(33)   4509  B
+210128 (48)>(16) 210104  B
+210129 (64)>(00) 210126  B
+
+
+%Round 2
+
+  4509 (50)>(14) 210126  B
+210104 (42)>(22) 210129  B
+210127 (58)>(06) 210128  B
+
+
+%Round 3
+
+210128 (22)<(42)   4509  B
+210129 (07)<(57) 210127  B
+210126 (00)<(64) 210104  B
+
+
+%Round 4
+
+  4509 (44)>(20) 210104  B
+210127 (38)>(26) 210126  B
+210128 (41)>(23) 210129  B
+
+
+%Round 5
+
+210129 (17)<(47)   4509  B
+210126 (13)<(51) 210128  B
+210104 (00)<(64) 210127  B
+

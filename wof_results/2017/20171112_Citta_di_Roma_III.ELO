@@ -1,0 +1,52 @@
+%%Tournament: Citta' di Roma 2017 - Tappa III
+%%Country: Italy
+%%Date: 12/11/2017
+%%Sender: Chiara Gigliucci 
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2844, SPERANDIO, Roberto, I, 4, 166
+%_%  3037, DI MATTEI, Alessandro, I, 3, 161
+%_%  3062, CAVIOLA, Leonardo, I, 3, 131
+%_%  2818, DI COLA, Severino, I, 3, 150
+%_%  3111, SCOGNAMIGLIO, Paolo, I, 2, 157
+%_% 40114, ARCARA, Paolo, I, 2, 144
+%_%  3023, LAI, Fabrizio, I, 2, 158
+%_%    42, PRIVITERA, Biagio, I, 2, 112
+%_%  2884, VECCHI, Maria Serena, I, 1, 102
+%_% 40052, GIGLIUCCI, Chiara, I, 1, 108
+%_% 40047, PANTANI, Antonio, I, 1, 89
+%_% 40048, PANTANI, Ennio, I, 0, 58
+
+
+%Round 1 
+  2884 (22)<(42)   3037  B
+  2844 (36)>(28)   3023  B
+ 40052 (18)<(46)   3111  B
+  3062 (50)>(14)   2818  B
+ 40047 (14)<(50)  40114  B
+    42 (46)>(18)  40048  B
+
+%Round 2 
+  3037 (50)>(14)   3062  B
+ 40114 (10)<(54)   2844  B
+  3111 (53)>(11)     42  B
+  2818 (40)>(24)   2884  B
+  3023 (44)>(20)  40047  B
+ 40048 (09)<(55)  40052  B
+
+%Round 3 
+  2844 (39)>(25)   3037  B
+  3062 (33)>(31)   3111  B
+ 40052 (10)<(54)  40114  B
+    42 (35)>(29)   3023  B
+ 40047 (07)<(57)   2818  B
+  2884 (49)>(15)  40048  B
+
+%Round 4 
+  3111 (27)<(37)   2844  B
+  3037 (44)>(20)     42  B
+ 40114 (30)<(34)   3062  B
+  2818 (39)>(25)  40052  B
+  3023 (57)>(07)   2884  B
+ 40048 (16)<(48)  40047  B
+ 

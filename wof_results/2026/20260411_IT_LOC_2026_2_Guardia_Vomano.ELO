@@ -1,0 +1,88 @@
+%%Tournament: IT LOC 2026 2nd tournament Guardia Vomano (TE)
+%%Country: Italy
+%%Date: 11/04/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40445, RELLA, Tommaso, ITA, 4, 196, 843
+%_%   40433, BUFALARI, Ida, ITA, 4, 138, -
+%_%   40425, FAGA, Valentina, ITA, 3, 155, -
+%_%   40429, BELLINI, Stefano, ITA, 3, 164, -
+%_%   40427, BELLINI, Serena, ITA, 3, 123, -
+%_%  +40492, Colleluori, Genino, ITA, 3, 145, -
+%_%   40432, NARCISI, Rosanna, ITA, 2.5, 123, -
+%_%   40415, CANTORO, Andrea, ITA, 2, 128, -
+%_%   40428, BELLINI, Noemi, ITA, 2, 123, -
+%_%   40414, MILANO, Matilde, ITA, 2, 127, -
+%_%   40419, DI PANFILO, Lorenzo, ITA, 2, 96, -
+%_%  +40493, Di Marco, Lavinia, ITA, 2, 129, -
+%_%  +40494, Manizzi, Amelie, ITA, 2, 126, -
+%_%   40416, CANTORO, Leonardo, ITA, 1.5, 137, -
+%_%   40426, GENTILE, Stefania, ITA, 1.5, 108, -
+%_%  +40495, De Patre, Clarissa, ITA, 1.5, 115, -
+%_%   40418, DI PANFILO, Gabriele, ITA, 1, 111, -
+%_%   40422, FAGA, Ilaria, ITA, 1, 102, -
+%_%  +40496, Di Marco, Marco, ITA, 1, 119, -
+%_%  +40497, Manizzi, Fiammetta, ITA, 0, 95, -
+%_%   40421, FIDANZA, Azzurra, ITA, 0, 46, -
+%_%  +40498, Di Marco, Costanza, ITA, 0, 36, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/507
+
+%Round: 1
+
+ 40498 (14)<(50)  40445  B
+ 40432 (32)=(32)  40495  B
+ 40419 (36)>(28)  40497  B
+ 40494 (25)<(39)  40418  B
+ 40492 (40)>(24)  40414  B
+ 40426 (32)=(32)  40416  B
+ 40421 (25)<(39)  40415  B
+ 40433 (34)>(30)  40425  B
+ 40429 (38)>(26)  40422  B
+ 40496 (23)<(41)  40427  B
+ 40493 (21)<(43)  40428  B
+
+%Round: 2
+
+ 40425 (43)>(21)  40421  B
+ 40497 (21)<(43)  40494  B
+ 40422 (37)>(27)  40496  B
+ 40414 (42)>(22)  40498  B
+ 40495 (15)<(49)  40493  B
+ 40416 (30)<(34)  40432  B
+ 40427 (47)>(17)  40426  B
+ 40418 (29)<(35)  40433  B
+ 40415 (38)>(26)  40492  B
+ 40428 (04)<(60)  40429  B
+ 40445 (51)>(13)  40419  B
+
+%Round: 3
+
+ 40419 (34)>(30)  40414  B
+ 40493 (18)<(46)  40416  B
+ 40426 (37)>(27)  40495  B
+ 40496 (41)>(23)  40497  B
+ 40494 (22)<(42)  40425  B
+ 40422 (16)<(48)  40428  B
+ 40492 (44)>(20)  40418  B
+ 40432 (15)<(49)  40445  B
+ 40433 (33)>(31)  40415  B
+ 40429 (29)<(35)  40427  B
+
+%Round: 4
+
+ 40496 (28)<(36)  40494  B
+ 40418 (23)<(41)  40493  B
+ 40414 (41)>(23)  40422  B
+ 40426 (22)<(42)  40432  B
+ 40416 (29)<(35)  40492  B
+ 40425 (51)>(13)  40419  B
+ 40415 (27)<(37)  40429  B
+ 40428 (28)<(36)  40433  B
+ 40445 (64)>(00)  40427  B
+ 40495 (41)>(23)  40497  B

@@ -1,0 +1,55 @@
+%%Tournament: Trondheim Open
+%%Country: Norway
+%%Date: 13/10/2013
+%%Sender: Martin Odegard
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/10/13 22:41
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2560, ODEGARD, Martin, NOR,  5, 272, 2214
+%_%    1953, KJELLSTADLI, Jonas, NOR,  4, 199, 1700
+%_%  140017, LOFTHAUG, Kristoffer, NOR,  3, 175, 1146
+%_%  140045, MATHISEN, Ingeborg, NOR,  3, 129, 1071
+%_%  140018, HALSET, Jorgen, NOR,  2, 170, 1489
+%_%  140042, JORGENSEN, Hanne, NOR,  2, 124, 997
+%_% +140052, MOGSTAD Hanne, H, N,  1, 91, 0
+
+
+
+%Round: 1
+
+140052 (08)<(56) 140017  B
+140042 (14)<(50)   1953  B
+140045 (12)<(52) 140018  B
+
+%Round: 2
+
+140017 (13)<(51)   1953  B
+140018 (07)<(57)   2560  B
+140045 (44)>(20) 140052  B
+
+%Round: 3
+
+140017 (31)<(33) 140045  B
+140018 (52)>(12) 140042  B
+  1953 (08)<(56)   2560  B
+
+%Round: 4
+
+  1953 (34)>(30) 140018  B
+  2560 (64)>(00) 140045  B
+140042 (49)>(15) 140052  B
+
+%Round: 5
+
+  2560 (55)>(09) 140042  B
+140018 (29)<(35) 140017  B
+140052 (08)<(56)   1953  B
+
+
+%%Added results
+140045 (04)<(60)   2560  B
+  1953 (37)>(27) 140017  B
+  2560 (59)>(05)   1953  B
+140045 (04)<(60) 140017  B

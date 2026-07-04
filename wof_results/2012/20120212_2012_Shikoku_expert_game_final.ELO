@@ -1,0 +1,32 @@
+%%Tournament: 2012_Shikoku_expert_game_final
+%%Country: Japan
+%%Date: 12/02/2012
+%%Sender: Hiroyuki Iwata
+
+%_%   5597, SAWADA, tomohiro, J, 3.0, 106
+%_%  11561, OKADA, hiroyuki, J, 2.0, 107
+%_%  10289, KAWAKAMI, yoshihiro, J, 2.0, 100
+%_%  10070, KAMEMOTO, osamu, J, 2.0, 99
+%_%  11357, TOYOTA, hiroshi, J, 1.0, 99
+%_%  12459, IMAJO, kodai, J, 1.0, 93
+%_%   6977, OKAMURA, hiroaki, J, 1.0, 85
+%_%  10438, NAGI, michiko, J, 0.0, 78
+
+%Round 1
+  5597 (40)>(24)  10438 
+ 10070 (32)>(31)  11357 
+ 10289 (34)>(30)  11561 
+ 12459 (36)>(28)   6977 
+
+%Round 2
+  5597 (34)>(30)  10289 
+ 10070 (35)>(29)  12459 
+ 11561 (34)>(30)  10438 
+  6977 (36)>(28)  11357 
+
+%Round 3
+  5597 (32)>(31)  10070 
+ 10289 (36)>(28)  12459 
+ 11561 (43)>(21)   6977 
+ 11357 (40)>(24)  10438 
+

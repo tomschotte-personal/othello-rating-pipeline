@@ -1,0 +1,62 @@
+%%Tournament: Greve Cup (playoff 5-10 and finals)
+%%Country: Denmark
+%%Date: 18/06/2011
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/06/22 23:28
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1045, NIELSEN, Kim J., DK,  5, 256
+%_%    1358, RIGNELL, Daniel, S,  4, 208
+%_%    1048, JENSEN, Kim Dennis, DK,  2.5, 125
+%_%    1019, AAGAARD-HANSEN, Jens, DK,  2, 137
+%_%    1981, STOKKE, Solrun, DK,  1, 130
+%_%    1017, MAARTENSSON, Mikael, DK,  0.5, 104
+%_%      92, FELDBORG, Karsten, DK,  0, 00
+%_%     804, HUBBARD, Geoff, AUS,  0, 00
+%_%    1059, STOEVRING, Pia, DK,  0, 00
+%_%      96, VALLUND, Henrik, DK,  0, 00
+
+
+
+%Round: 1
+
+  1017 (32)=(32)   1048  B
+  1019 (13)<(51)   1045  B
+  1981 (22)<(42)   1358  B
+
+%Round: 2
+
+  1045 (52)>(12)   1017  B
+  1048 (34)>(30)   1981  B
+  1358 (52)>(12)   1019  B
+
+%Round: 3
+
+  1017 (19)<(45)   1981  B
+  1045 (43)>(21)   1358  B
+  1019 (29)<(35)   1048  B
+
+%Round: 4
+
+  1358 (45)>(19)   1017  B
+  1981 (23)<(41)   1019  B
+  1048 (08)<(56)   1045  B
+
+%Round: 5
+
+  1017 (22)<(42)   1019  B
+  1358 (48)>(16)   1048  B
+  1045 (54)>(10)   1981  B
+
+
+%%Added results
+    92 (51)>(13)   1059  B
+  1059 (22)<(42)     92  B
+    96 (24)<(40)    804  B
+   804 (24)<(40)     96  B
+    96 (40)>(24)    804  B
+    96 (00)<(64)     92  B
+    92 (48)>(16)     96  B
+   804 (44)>(20)   1059  B

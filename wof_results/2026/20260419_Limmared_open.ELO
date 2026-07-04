@@ -1,0 +1,39 @@
+%%Tournament: Limmared Open
+%%Country: Sweden
+%%Date: 19/04/2026
+%%Sender: STEENTOFT Benkt
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  150016, EKLUND, Oskar, SWE, 6, 177, 2289
+%_%    1379, MAGNUSSON, Johan, SWE, 3, 118, 1528
+%_%  150058, RONN, Tommy, SWE, 3, 89, 1138
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/466
+
+%Round: 1
+
+150058 (52)>(12)   1379  B
+
+%Round: 2
+
+150016 (52)>(12) 150058  B
+
+%Round: 3
+
+  1379 (25)<(39) 150016  B
+
+%Round: 4
+
+  1379 (57)>(07) 150058  B
+
+%Round: 5
+
+150058 (18)<(46) 150016  B
+
+%Round: 6
+
+150016 (40)>(24)   1379  B

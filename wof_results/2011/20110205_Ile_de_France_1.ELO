@@ -1,0 +1,65 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 05/02/2011
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/02/05 19:12
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       2, TASTET, Marc, F,  5, 203
+%_%   50030, JUIGNER, Arthur, F,  4, 219
+%_%    3384, AUZENDE, Frederic, F,  4, 190
+%_% + 50036, CLINTON, Samuel, F,  3, 173
+%_%    3828, MEYER, Frederic, F,  2, 180
+%_%   50034, KLEINER, Alexis, F,  2, 176
+%_%     419, BETIN, Dominique, F,  2, 155
+%_%    3600, BENOIT, Serge, F,  2, 135
+%_%    3778, SAGONA, Eric, F,  1, 104
+%_% + 50035, GAVAUD, Daniel, F,  0, 52
+%_%     275, OVION, Jacques, F,  0, 13
+
+
+
+%Round: 1
+
+     2 (41)>(23)   3828 B
+ 50035 (16)<(48)  50036 B
+   419 (27)<(37)   3384 B
+   275 (13)<(51)  50030 B
+  3600 (36)>(28)  50034 B
+
+%Round: 2
+
+ 50036 (52)>(12)   3778 B
+  3828 (64)>(00)  50035 B
+  3384 (41)>(23)   3600 B
+ 50030 (29)<(35)      2 B
+ 50034 (53)>(11)    419 B
+
+%Round: 3
+
+     2 (48)>(16)  50036 B
+  3828 (24)<(40)   3384 B
+  3600 (06)<(58)  50030 B
+  3778 (22)<(42)    419 B
+ 50035 (13)<(51)  50034 B
+
+%Round: 4
+
+ 50036 (40)>(24)   3600 B
+  3384 (25)<(39)      2 B
+  3778 (52)>(12)  50035 B
+ 50030 (44)>(20)  50034 B
+   419 (22)<(42)   3828 B
+
+%Round: 5
+
+  3384 (47)>(17)  50036 B
+  3600 (46)>(18)   3778 B
+ 50034 (24)<(40)      2 B
+ 50035 (11)<(53)    419 B
+  3828 (27)<(37)  50030 B
+
+
+%%Added results

@@ -1,0 +1,51 @@
+%%Tournament: 5th ReuzespelPlezier Othello Open
+%%Country: Belgium
+%%Date: 14/10/2022
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/10/15 12:43
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    5900, REUNES, Nick, BEL,  5, 229, 1805
+%_%    2795, SCHOTTE, Tom, BEL,  4, 209, 2006
+%_%    5085, REIJNDERS, Ralph, NLD,  3, 180, 1730
+%_%  270069, DE MOOR, Nadja, BEL,  3, 174, 1279
+%_%  270041, SOETENS, Ruben, BEL,  3, 151, 1022
+%_%  270052, PORREZ, Silke, BEL,  1, 89, -243
+%_% +270078, STAELENS, Kurt, BEL,  1, 93, 0
+
+
+
+%Round: 1
+
+270052 (14)<(50) 270069  B
+270078 (18)<(46) 270041  B
+  5085 (10)<(54)   5900  B
+
+%Round: 2
+
+  5900 (41)>(23)   2795  B
+270069 (51)>(13) 270041  B
+270078 (07)<(57)   5085  B
+
+%Round: 3
+
+270069 (42)>(22) 270078  B
+270052 (16)<(48) 270041  B
+  2795 (49)>(15)   5085  B
+
+%Round: 4
+
+  5900 (57)>(07) 270069  B
+270041 (11)<(53)   2795  B
+  5085 (58)>(06) 270052  B
+
+%Round: 5
+
+  2795 (51)>(13) 270078  B
+270069 (24)<(40)   5085  B
+270052 (20)<(44)   5900  B
+
+
+%%Added results

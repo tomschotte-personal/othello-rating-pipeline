@@ -1,0 +1,44 @@
+%%Tournament: Abierto de Buenos Aires 2013
+%%Country: Argentina
+%%Date: 19/05/2013
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  280033, PELLIZZARI, Maximiliano, ARG, 5, 228
+%_%     650, OLIVARES, Daniel, ARG, 4, 198
+%_%  280034, SEIFERT, Max, ARG, 3, 164
+%_%  280035, NAKASONE, David, ARG, 2, 162
+%_%    4168, LISNOVSKY, Marcelo, ARG, 2, 156   
+%_%    4167, COELLO, Alejandro, ARG, 4, 139   
+%_%  280031, THIERER, Sebastián, ARG, 1, 121   
+%_%  280038, COHEN, Mercedes, ARG, 1, 48
+
+%Round 1
+   650 (59)>(05) 280038  B
+280031 (28)<(36)   4167  B
+280035 (37)>(27)   4168  B
+280033 (47)>(17) 280034  B
+
+%Round 2
+  4167 (19)<(45)    650  B
+280035 (18)<(46) 280033  B
+  4168 (44)>(20) 280031  B
+280034 (43)>(21) 280038  B
+
+%Round 3
+   650 (22)<(42) 280033  B
+  4167 (37)>(27) 280035  B
+280034 (15)<(49)   4168  B
+280038 (12)<(52) 280031  B
+
+%Round 4
+280033 (35)>(29)   4167  B
+  4168 (30)<(34)    650  B
+280038 (10)<(54) 280035  B
+280031 (21)<(43) 280034  B
+
+%Round 5
+  4168 (06)<(58) 280033  B
+280035 (26)<(38)    650  B
+  4167 (18)<(46) 280034  B
+

@@ -1,0 +1,55 @@
+%%Tournament: Citta' di Roma 2021 - Tappa 2
+%%Country: Italy
+%%Date: 17/10/2021
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2844, SPERANDIO, Roberto, ITA, 4, 171-085
+%_% 40083, PACE, Alessandro, ITA, 4, 176-080
+%_%  3037, DI MATTEI, Alessandro, ITA, 3, 182-074
+%_%   306, PEROTTI, Mauro, ITA, 2, 149-107
+%_%  3019, DIODATI, Michele, ITA, 2, 136-120
+%_%  2818, DI COLA, Severino, ITA, 2, 124-132
+%_%  3023, LAI, Fabrizio, ITA, 2, 148-108
+%_% 40074, CENCI, Alessio, ITA, 2, 121-135
+%_%  2884, VECCHI, Maria Serena, ITA, 2, 115-141
+%_%  2816, FROSONI, Claudio, ITA, 1, 086-170
+%_%  2964, PEROTTI, Barbara, ITA, 1, 100-156
+%_% 40119, ALESSI, Andrea, ITA, 1, 092-164
+%_% 40147, ZEPPIERI, Eleonora, ITA, 0.5, 074-118
+%_% 40121, RIDOLFI, Raffaele, ITA, 0.5, 069-123
+
+%Round 1
+  2844 (37)>(27)   3023  B
+  2816 (05)<(59)   3037  B
+   306 (57)>(07)   2884  B
+ 40074 (33)>(31)   3019  B
+  2818 (48)>(16)  40119  B
+  2964 (20)<(44)  40083  B
+
+%Round 2
+  2818 (15)<(49)   2844  B
+  3037 (50)>(14)  40074  B
+ 40083 (36)>(28)    306  B
+  3019 (51)>(13)   2964  B
+  3023 (53)>(11)  40121  B
+ 40119 (19)<(45)   2816  B
+  2884 (51)>(13)  40147   B
+
+%Round 3
+  2844 (41)>(23)   3037  B
+   306 (31)<(33)   3019  B
+  2816 (16)<(48)   2818  B
+  2884 (12)<(52)  40083  B
+ 40074 (27)<(37)   3023  B
+ 40121 (26)<(38)  40119  B
+ 40147 (29)<(35)   2964  B
+
+%Round 4
+  3019 (21)<(43)   2844  B
+  3037 (50)>(14)   2818  B
+  3023 (31)<(33)    306  B
+ 40083 (44)>(20)   2816  B
+ 40119 (18)<(46)   2884  B
+  2964 (17)<(47)  40074  B
+ 40147 (32)=(32)  40121  B

@@ -1,0 +1,71 @@
+%%Tournament: Tournoi de Noel
+%%Country: France
+%%Date: 13/12/2014
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/12/14 21:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      11, LAZARD, Emmanuel, FRA,  4, 209, 1981
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 198, 1994
+%_%    3518, DELAUNAY, Arnaud, FRA,  4, 193, 2160
+%_%       2, TASTET, Marc, FRA,  3, 211, 2110
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 191, 1852
+%_% + 50075, BERTRANDIAS, Marc, FRA,  3, 160, 0
+%_%    3600, BENOIT, Serge, FRA,  2, 148, 1402
+%_%   50071, CORBINEAU, Georges, FRA,  2, 136, 1310
+%_% +  9025, TOUCHENE, Foued, DZA,  2, 124, 0
+%_%    3734, CLUZON, Gilles, FRA,  1.5, 137, 1350
+%_%     228, BUSUTTIL, Michel, FRA,  1, 141, 1350
+%_%   50072, YONNET-LONDONO BAENA, Ruben, FRA,  0.5, 72, 0
+
+
+
+%Round: 1
+
+ 50072 (01)<(63)  50071  B
+  3518 (49)>(15)  50075  B
+  3600 (28)<(36)     45  B
+     2 (53)>(11)    228  B
+  3598 (46)>(18)   3734  B
+    11 (63)>(01)   9025  B
+
+%Round: 2
+
+   228 (64)>(00)  50072  B
+  3598 (40)>(24)     11  B
+ 50071 (07)<(57)      2  B
+    45 (28)<(36)   3518  B
+  3734 (32)=(32)   3600  B
+ 50075 (50)>(14)   9025  B
+
+%Round: 3
+
+     2 (55)>(09)  50075  B
+   228 (27)<(37)  50071  B
+  3518 (43)>(21)   3598  B
+    11 (42)>(22)     45  B
+  9025 (26)<(38)   3600  B
+ 50072 (18)<(46)   3734  B
+
+%Round: 4
+
+  3734 (14)<(50)     45  B
+  3600 (18)<(46)     11  B
+  9025 (43)>(21)  50072  B
+ 50075 (49)>(15)    228  B
+ 50071 (20)<(44)   3598  B
+  3518 (35)>(29)      2  B
+
+%Round: 5
+
+ 50072 (32)=(32)   3600  B
+  3598 (47)>(17)      2  B
+    11 (34)>(30)   3518  B
+ 50075 (37)>(27)   3734  B
+    45 (55)>(09)  50071  B
+   228 (24)<(40)   9025  B
+
+
+%%Added results

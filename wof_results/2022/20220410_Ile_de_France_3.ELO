@@ -1,0 +1,44 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 10/04/2022
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/04/11 00:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      11, LAZARD, Emmanuel, FRA,  4, 196, 2010
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3.5, 178, 1949
+%_%   50096, LEVY, Marc, FRA,  3, 149, 1800
+%_%       2, TASTET, Marc, FRA,  2.5, 159, 2079
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 158, 1779
+
+
+
+%Round: 1
+
+ 50096 (45)>(19)     45  B
+  3598 (31)<(33)     11  B
+
+%Round: 2
+
+     2 (32)=(32)   3598  B
+    11 (58)>(06)  50096  B
+
+%Round: 3
+
+    45 (48)>(16)     11  B
+ 50096 (34)>(30)      2  B
+
+%Round: 4
+
+  3598 (40)>(24)  50096  B
+     2 (42)>(22)     45  B
+
+%Round: 5
+
+    11 (49)>(15)      2  B
+    45 (29)<(35)   3598  B
+
+
+%%Added results

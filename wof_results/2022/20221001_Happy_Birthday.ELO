@@ -1,0 +1,57 @@
+%%Tournament: Happy Birthday
+%%Country: Israel
+%%Date: 01/10/2022
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/10/01 16:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     885, SHIFMAN, Ilya, ISR,  4, 206, 1797
+%_%  200404, KURILENKOV, Konstantin, ISR,  3, 168, 1134
+%_%  200040, LAUFER, Shachar, ISR,  3, 199, 1352
+%_%    4038, GELTZER, Valery, ISR,  3, 200, 1651
+%_%  200010, SHIFMAN, Micky, ISR,  3, 139, 1789
+%_%     880, SHIFMAN, Leonid, ISR,  3, 177, 1599
+%_%  200009, SHIFMAN, Shani, ISR,  1, 106, 1109
+%_%  200402, GURIEVA, Lia, ISR,  0, 85, 807
+
+
+
+%Round: 1
+
+   885 (47)>(17) 200402  B
+200009 (12)<(52) 200040  B
+   880 (23)<(41) 200404  B
+200010 (33)>(31)   4038  B
+
+%Round: 2
+
+200040 (48)>(16) 200010  B
+200404 (33)>(31)    885  B
+  4038 (31)<(33)    880  B
+200402 (31)<(33) 200009  B
+
+%Round: 3
+
+   880 (29)<(35)    885  B
+200404 (38)>(26) 200040  B
+200010 (46)>(18) 200009  B
+200402 (06)<(58)   4038  B
+
+%Round: 4
+
+   880 (49)>(15) 200402  B
+   885 (39)>(25) 200040  B
+200010 (34)>(30) 200404  B
+200009 (22)<(42)   4038  B
+
+%Round: 5
+
+  4038 (38)>(26) 200404  B
+200040 (48)>(16) 200402  B
+   885 (54)>(10) 200010  B
+200009 (21)<(43)    880  B
+
+
+%%Added results

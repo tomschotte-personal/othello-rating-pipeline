@@ -1,0 +1,37 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 12/06/2016
+%%Sender: Daniel Olivares
+
+%         ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       650, OLIVARES, Daniel, ARG, 4.5, 212
+%_%      4167, COELLO, Alejandro, ARG, 4, 220
+%_%      4168, LISNOVSKY, Marcelo, ARG, 2.5, 149
+%_%    280042, VAZQUEZ, German, ARG, 2, 124
+%_%    280034, SEIFERT, Max, ARG, 1, 136
+%_%      4157, ITURBIDE, Paula, ARG, 1, 119
+
+%Round 1
+280034 (46)>(18)   4157  B
+  4167 (21)<(43)    650  B
+  4168 (21)<(43) 280042  B
+
+%Round 2
+  4168 (41)>(23) 280034  B
+  4157 (14)<(50)   4167  B
+280042 (16)<(48)    650  B
+
+%Round 3
+   650 (40)>(24)   4157  B
+  4167 (53)>(11)   4168  B
+280034 (27)<(37) 280042  B
+
+%Round 4
+  4168 (32)=(32)    650  B
+280034 (25)<(39)   4167  B
+280042 (21)<(43)   4157  B
+
+%Round 5
+   650 (49)>(15) 280034  B
+  4167 (57)>(07) 280042  B
+  4157 (20)<(44)   4168  B

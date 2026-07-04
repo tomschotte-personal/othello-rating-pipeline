@@ -1,0 +1,58 @@
+%%Tournament: Ile de France 6
+%%Country: France
+%%Date: 23/11/2019
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/11/23 22:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4, 222, 2079
+%_%    9025, TOUCHENE, Fouad, DZA,  4, 188, 1567
+%_%      11, LAZARD, Emmanuel, FRA,  4, 187, 2010
+%_%    3518, DELAUNAY, Arnaud, FRA,  3, 208, 2089
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 194, 1779
+%_%   50096, LEVY, Marc, FRA,  2.5, 156, 1800
+%_%     275, OVION, Jacques, FRA,  2, 153, 1138
+%_%     228, BUSUTTIL, Michel, FRA,  1.5, 118, 1551
+%_%   50097, OVION, Alix-Anne, FRA,  1, 54, 994
+
+
+
+%Round: 1
+
+ 50097 (01)<(63)    275  B
+    45 (11)<(53)      2  B
+    11 (35)>(29)  50096  B
+   228 (07)<(57)   3518  B
+
+%Round: 2
+
+     2 (46)>(18)     11  B
+  3518 (55)>(09)  50097  B
+ 50096 (36)>(28)     45  B
+   275 (21)<(43)   9025  B
+
+%Round: 3
+
+  9025 (45)>(19)  50096  B
+    11 (49)>(15)    228  B
+    45 (51)>(13)    275  B
+  3518 (38)>(26)      2  B
+
+%Round: 4
+
+  9025 (33)>(31)   3518  B
+   275 (16)<(48)     11  B
+     2 (60)>(04)  50097  B
+   228 (24)<(40)     45  B
+
+%Round: 5
+
+     2 (37)>(27)   9025  B
+ 50096 (32)=(32)    228  B
+ 50097 (00)<(64)     45  B
+    11 (37)>(27)   3518  B
+
+
+%%Added results

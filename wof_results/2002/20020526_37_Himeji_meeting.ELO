@@ -1,0 +1,56 @@
+%%Tournament: 37th Himeji Meeting
+%%Country: Japan
+%%Date: 26/05/2002
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka37.html
+
+%Round1
+ 11753 >   7081  
+ 10025 >  12051  
+  6825 >  10227  
+ 11979 >  11969  
+ 12050 >  11041  
+
+%Round2
+ 11753 >  11979  
+ 10025 >  12057  
+  6825 >  12050  
+ 11041 >  12051  
+ 10227 >  11969  
+
+%Round3
+ 11753 >  10025  
+ 11041 >   6825  
+ 11979 >  10227  
+ 12050 >   7081  
+ 12057 >  12051  
+
+%Round4
+ 11753 >  12057  
+ 10025 >  11041  
+  6825 >  11979  
+  7081 >  11969  
+ 10227 >  12050  
+
+%Round5
+ 10025 >  10227  
+  6825 >  11753  
+ 11041 >  12057  
+  7081 >  12051  
+ 11969 >  12050  
+
+
+%players
+%1 11753	yokoyama	chiaki
+%2 10025	nobuhito	yoichi
+%3 6825	shinkawa	hiroki
+%4 11041	iseda	katsuya
+%5 7081	kado	naoki
+%6 11979	okikawa	tauru
+%7 12050	miwa	yako
+%8 11969	iwasaki	mikio
+%9 12057	yamada	fuji
+%10 10227	yokoyama	takako
+%11 12051	miwa	kinoshita
+

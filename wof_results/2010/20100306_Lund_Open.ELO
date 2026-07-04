@@ -1,0 +1,63 @@
+%%Tournament: Lund Open
+%%Country: Sweden
+%%Date: 06/03/2010
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 20:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1513, ASPENRYD, Henry, S,  7, 336
+%_%    1358, RIGNELL, Daniel, S,  5.5, 284
+%_%     804, HUBBARD, Geoff, AUS,  5.5, 271
+%_%    1596, RAGNARSSON, Robin, S,  4, 242
+%_%    1375, STENBERG, Veronica, S,  3, 219
+%_%    1564, AKERLIND, Josefin, S,  2, 164
+%_% +150008, ISBERG, Mattias, S,  1, 108
+
+
+
+%Round: 1
+
+  1358 (22)<(42)   1513 B
+   804 (57)>(07)   1564 B
+  1596 (47)>(17) 150008 B
+
+%Round: 2
+
+  1375 (22)<(42)   1596 B
+150008 (23)<(41)    804 B
+  1564 (24)<(40)   1358 B
+
+%Round: 3
+
+   804 (42)>(22)   1375 B
+  1358 (50)>(14) 150008 B
+  1513 (53)>(11)   1564 B
+
+%Round: 4
+
+  1375 (14)<(50)   1358 B
+150008 (01)<(63)   1513 B
+  1596 (28)<(36)    804 B
+
+%Round: 5
+
+  1513 (55)>(09)   1375 B
+  1358 (50)>(14)   1596 B
+  1564 (58)>(06) 150008 B
+
+%Round: 6
+
+  1375 (55)>(09)   1564 B
+  1596 (22)<(42)   1513 B
+   804 (32)=(32)   1358 B
+
+%Round: 7
+
+150008 (07)<(57)   1375 B
+  1564 (15)<(49)   1596 B
+  1513 (41)>(23)    804 B
+
+
+%%Added results

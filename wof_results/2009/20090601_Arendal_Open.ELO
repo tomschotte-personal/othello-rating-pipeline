@@ -1,0 +1,33 @@
+%%Tournament: Arendal Open 2009
+%%Country: Norway
+%%Date: 01/06/2009
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/02/14 17:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1801, SCHEVING, Gudny Osk, N,  3, 166
+%_% +140022, NILSEN, Odd, N,  2, 94
+%_% +140023, JACOBSEN, Stian, n,  1, 61
+%_%    2536, BIE, Karl Richard, N,  0, 63
+
+
+
+%Round: 1
+
+  2536 (23)<(41) 140023 B
+  1801 (55)>(09) 140022 B
+
+%Round: 2
+
+  2536 (10)<(54)   1801 B
+140023 (13)<(51) 140022 B
+
+%Round: 3
+
+140023 (07)<(57)   1801 B
+140022 (34)>(30)   2536 B
+
+
+%%Added results

@@ -1,0 +1,51 @@
+%%Tournament: Goteborg Open 2023
+%%Country: Sweden
+%%Date: 04/02/2023
+%%Sender: Kim Freiburghaus
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/02/04 17:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  5, 231, 2134
+%_%    1511, LJUNGQVIST, Daniel, SWE,  4, 208, 2019
+%_%  150060, FREIBURGHAUS, Kim, SWE,  3, 166, 1829
+%_%    1454, FRONMARK, Marcus, SWE,  2, 169, 2053
+%_%    1596, RAGNARSSON, Robin, SWE,  1, 124, 1733
+%_%  150058, RONN, Tommy, SWE,  0, 62, 1263
+
+
+
+%Round: 1
+
+  1454 (22)<(42) 150016  B
+  1511 (41)>(23) 150060  B
+  1596 (36)>(28) 150058  B
+
+%Round: 2
+
+150060 (43)>(21)   1454  B
+150016 (52)>(12)   1596  B
+150058 (00)<(64)   1511  B
+
+%Round: 3
+
+  1454 (44)>(20)   1596  B
+150060 (56)>(08) 150058  B
+  1511 (26)<(38) 150016  B
+
+%Round: 4
+
+150058 (06)<(58)   1454  B
+  1596 (27)<(37)   1511  B
+150016 (55)>(09) 150060  B
+
+%Round: 5
+
+  1454 (24)<(40)   1511  B
+150058 (20)<(44) 150016  B
+150060 (35)>(29)   1596  B
+
+
+%%Added results
+150016 (19)<(45)   1511  B

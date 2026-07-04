@@ -1,0 +1,123 @@
+%%Tournament: 2012 Clarence Hewlett Memorial
+%%Country: USA
+%%Date: 26/08/2012
+%%Sender: David Parsons
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_%   6438, CAI, Jian, USA, 8.0, 421
+%_% +20022, HAI, Jerry, USA, 7.5, 447
+%_%   4004, SANO, Yoko, Japan, 7.0, 468
+%_%  20009, RUHMKORFF, Ben, USA, 7.0, 387
+%_%   6403, KATZMAN, Sharon, USA, 2.5, 162
+%_% +20023, ROSE, Joseph, USA, 2.0, 168
+%_%  20000, PETRIC, Vlad, USA, 2.0, 154
+%_% +20024, ROSE, Julia, USA, 0.0, 97
+
+%Round 1
+%Cai 55 Katzman 9 B
+%Hai 49 Ruhmkorff 15 B
+%Sano 22 RoseJoseph 42 B
+%RoseJulia 28 Petric 36 B
+
+  6438 (55)>(09)   6403  B
+ 20022 (49)>(15)  20009  B
+  4004 (22)<(42)  20023  B
+ 20024 (28)<(36)  20000  B
+
+%Round 2
+%RoseJoseph 19 Cai 45 B
+%Petric 25 Hai 39 B
+%Ruhmkorff 50 RoseJulia 14 B
+%Katzman 10 Sano 54 B
+
+ 20023 (19)<(45)   6438  B
+ 20000 (25)<(39)  20022  B
+ 20009 (50)>(14)  20024  B
+  6403 (10)<(54)   4004  B
+
+%Round 3
+%Cai 36 Hai 28 B
+%RoseJoseph 24 Ruhmkorff 40 B
+%Sano 53 Petric 11 B
+%RoseJulia 14 Katzman 50
+
+  6438 (36)>(28)  20022  B
+ 20023 (24)<(40)  20009  B
+  4004 (53)>(11)  20000  B
+ 20024 (14)<(50)   6403  B
+
+%Round 4
+%Petric 14 Cai 50 B
+%Ruhmkorff 22 Sano 42 B
+%Hai 48 RoseJulia 16 B
+%Katzman 50 RoseJoseph 14 B
+
+ 20000 (14)<(50)   6438  B
+ 20009 (22)<(42)   4004  B
+ 20022 (48)>(16)  20024  B
+  6403 (50)>(14)  20023  B
+
+%Round 5
+%Cai 11 Sano 53 B
+%Hai 32 Katzman 32 B
+%Petric 15 Ruhmkorff 49 B
+%RoseJulia 15 RoseJoseph 49 B
+
+  6438 (11)<(53)   4004  B
+ 20022 (32)=(32)   6403  B
+ 20000 (15)<(49)  20009  B
+ 20024 (15)<(49)  20023  B
+
+%Round 6
+%Ruhmkorff 47 Cai 17 B
+%Sano 54 RoseJulia 10 B
+%RoseJoseph 20 Hai 44 B
+%Katzman 11 Petric 53 B
+
+ 20009 (47)>(17)   6438  B
+  4004 (54)>(10)  20024  B
+ 20023 (20)<(44)  20022  B
+  6403 (11)<(53)  20000  B
+
+%Round 7
+%Sano 28 Ruhmkorff 36 B
+%Cai 33 Hai 31 B
+
+  4004 (28)<(36)  20009  B
+  6438 (33)>(31)  20022  B
+
+%Round 8
+%Hai 12 Sano 52 B
+%Ruhmkorff 21 Cai 43 B
+
+ 20022 (12)<(52)   4004  B
+ 20009 (21)<(43)   6438  B
+
+%Round 9
+%Sano 19 Cai 45 B
+%Hai 45 Ruhmkorff 19 B
+
+  4004 (19)<(45)   6438  B
+ 20022 (45)>(19)  20009  B
+
+%Round 10
+%Ruhmkorff 35 Sano 29 B
+%Hai 51 Cai 13 B 
+
+ 20009 (35)>(29)   4004  B
+ 20022 (51)>(13)   6438  B
+
+%Round 11
+%Sano 24 Hai 40 B
+%Cai 38 Ruhmkorff 26 B
+
+  4004 (24)<(40)  20022  B
+  6438 (38)>(26)  20009  B
+
+%Round 12
+%Cai 26 Sano 38 B
+%Ruhmkorff 36 Hai 28 B
+
+  6438 (26)<(38)   4004  B 
+ 20009 (36)>(28)  20022  B

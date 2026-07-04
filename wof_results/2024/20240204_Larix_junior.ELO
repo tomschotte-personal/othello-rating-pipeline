@@ -1,0 +1,45 @@
+%%Tournament: Larix junior 
+%%Country: Russia
+%%Date: 04/02/2024
+%%Sender: ATAMANOV Dmitriy
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +320501, Havrov, Alexander, RUS, 5, 213, -
+%_%  +320502, Abduljalilova, karina, RUS, 4, 197, -
+%_%  +320503, Kondrashin, Kirill, RUS, 2, 162, -
+%_%  +320504, Kunschikov, mikhail, RUS, 2, 119, -
+%_%  +320505, Kupriyanova, viktoria, RUS, 1, 148, -
+%_%  +320506, Fairuziv, Anton, RUS, 1, 121, -
+
+%Round: 1
+
+320505 (22)<(42) 320503  B
+320506 (26)<(38) 320501  B
+320502 (56)>(08) 320504  B
+
+%Round: 2
+
+320503 (26)<(38) 320502  B
+320501 (42)>(22) 320505  B
+320504 (44)>(20) 320506  B
+
+%Round: 3
+
+320506 (00)<(64) 320505  B
+320504 (19)<(45) 320503  B
+320502 (19)<(45) 320501  B
+
+%Round: 4
+
+320501 (34)>(30) 320503  B
+320506 (30)<(34) 320502  B
+320505 (26)<(38) 320504  B
+
+%Round: 5
+
+320504 (10)<(54) 320501  B
+320502 (50)>(14) 320505  B
+320503 (19)<(45) 320506  B

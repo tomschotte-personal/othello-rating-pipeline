@@ -1,0 +1,38 @@
+%%Tournament: Citta di Roma 2010
+%%Country: Italy
+%%Date: 28/03/2010
+%%Sender: Donato Barnaba
+
+
+%_% 3037, DI MATTEI, Alessandro
+%_% 3111, SCOGNAMIGLIO, Paolo
+%_% 3019, DIODATI, Michele
+%_% 40005, FERRARI, Tommaso
+%_% 3062, CAVIOLA, Leonardo
+
+
+
+%Round: 1
+
+  3111 (40)>(24)   3062 B
+  3019 (28)<(36)  40005 B
+
+%Round: 2
+
+  3062 (45)>(19)   3019 B
+  3037 (33)>(31)   3111 B
+
+%Round: 3
+
+  3019 (14)<(50)   3037 B
+ 40005 (53)>(11)   3062 B
+
+%Round: 4
+
+  3037 (50)>(14)  40005 B
+  3111 (35)>(29)   3019 B
+
+%Round: 5
+
+ 40005 (09)<(55)   3111 B
+  3062 (14)<(50)   3037 B

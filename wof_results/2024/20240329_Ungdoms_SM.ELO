@@ -1,0 +1,50 @@
+%%Tournament: Ungdoms SM
+%%Country: Sweden
+%%Date: 29/03/2024
+%%Sender: kneBt
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/04/01 10:45
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150088, RYLENIUS, Elsa, SWE,  5, 247, 0
+%_%  150089, LONNGREN, Astor, SWE,  3, 178, 0
+%_% +150091, Andrist, Clarence, SWE,  3, 154, 0
+%_%  150086, ODMARK, Elvira, SWE,  2, 148, 0
+%_% +150094, Odmark, Ossian, SWE,  1, 125, 0
+%_%  150087, ODMARK, Valter, SWE,  1, 108, 0
+
+
+
+%Round: 1
+
+150089 (43)>(21) 150086  B
+150091 (15)<(49) 150088  B
+150087 (35)>(29) 150094  B
+
+%Round: 2
+
+150088 (46)>(18) 150089  B
+150086 (48)>(16) 150087  B
+150094 (23)<(41) 150091  B
+
+%Round: 3
+
+150089 (39)>(25) 150087  B
+150088 (49)>(15) 150094  B
+150091 (39)>(25) 150086  B
+
+%Round: 4
+
+150094 (34)>(30) 150089  B
+150087 (21)<(43) 150091  B
+150086 (14)<(50) 150088  B
+
+%Round: 5
+
+150089 (48)>(16) 150091  B
+150094 (24)<(40) 150086  B
+150088 (53)>(11) 150087  B
+
+
+%%Added results

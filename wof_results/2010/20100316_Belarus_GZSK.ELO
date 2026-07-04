@@ -1,0 +1,19 @@
+%%Tournament: GZSK_tournament
+%%Country: Belarus
+%%Date: 16/03/2010 - 18/03/2010
+%%Sender: Uladzimir Khlebnikau
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% +360000, KHLEBNIKAU,  Uladzimir, BLR, 2, 85
+%_% +360001, KRYVASHEYEU, Andrei,    BLR, 0, 49
+%_% +360002, KRYVASHEYEU, Pavel,     BLR, 1, 58
+
+
+%Round 1
+360000 (44)>(20) 360002 B
+
+%Round 2
+360000 (41)>(23) 360001 W
+
+%Round 3
+360001 (26)<(38) 360002 W

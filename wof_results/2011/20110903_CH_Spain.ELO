@@ -1,0 +1,46 @@
+%%Tournament: Spanish championship
+%%Country: Spain
+%%Date: 03/09/2011
+%%Sender: BMF via Marc Tastet
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/09/17 22:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4876, MORENO, Borja, E,  5, 257
+%_%    4875, MARTIN, Javier, E,  4, 215
+%_%    4854, SAIZ, Ruben, E,  2.5, 216
+%_%    4852, BUDINO, Ricardo, E,  0.5, 80
+
+
+
+%Round: 1
+
+  4876 (27)<(37)   4875  B
+  4854 (64)>(00)   4852  B
+
+%Round: 2
+
+  4852 (14)<(50)   4875  B
+  4854 (18)<(46)   4876  B
+
+%Round: 3
+
+  4876 (64)>(00)   4852  B
+  4875 (34)>(30)   4854  B
+
+%Round: 4
+
+  4875 (18)<(46)   4876  B
+  4852 (32)=(32)   4854  B
+
+%Round: 5
+
+  4876 (35)>(29)   4854  B
+  4875 (53)>(11)   4852  B
+
+%Round: 6
+
+  4852 (23)<(41)   4876  B
+  4854 (40)>(24)   4875  B
+

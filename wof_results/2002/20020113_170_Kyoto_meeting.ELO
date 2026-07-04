@@ -1,0 +1,49 @@
+%%Tournament: 170th Kyoto Meeting
+%%Country: Japan
+%%Date: 13/01/2002
+%%Sender: Tom Schotte
+
+%Round1
+5507 > 10008
+6970 > 11245
+11799 > 6929
+10009 > 6930
+
+%Round2
+5507 > 11799
+6970 > 10009
+11855 > 6930
+6929 > 11245
+
+%Round3
+6970 > 5507
+11799 > 11855
+10008 > 6930
+6929 > 10009
+
+%Round4
+5507 > 6929
+11799 > 6970
+11245 > 10009
+11855 > 10008
+6930 > 10351
+
+%Round5
+5507 > 11855
+6970 > 6929
+11245 > 6930
+10008 > 11799
+10351 > 10009
+
+
+%players
+%1 TSUCHIDA Daisuke (Japan)[id: 5507]
+%2 KUDASHOU Takahiro (Japan)[id: 6970]
+%3 HASHIMOTO Yoshiaki (Japan)[id: 11799
+%4 OSADA Koji (Japan)[id: 11245]
+%5 OKUDA Masashi (Japan)[id: 10008]
+%6 KIKUCHI Ryuichi (Japan)[id: 11855
+%7 IO Hideo (Japan)[id: 6929]
+%8 TOKUMARU Kikuchi (Japan)[id: 10351]
+%9 NISHIMINE Satoru (Japan)[id: 6930]
+%10 TARU Eiichi (Japan)[id: 10009]

@@ -1,0 +1,65 @@
+%%Tournament: Finnish championhsip 2016
+%%Country: Finland
+%%Date: 23/01/2016
+%%Sender: Olli Makkonen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/01/24 00:51
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1623, MAKKONEN, Olli, FIN,  6, 277, 2163
+%_%    1645, PEIPONEN, Janne, FIN,  5, 273, 1781
+%_%    1625, PIHLAJAPURO, Lari, FIN,  5, 255, 1974
+%_%    1627, KOPPINEN, Jussi, FIN,  5, 236, 1799
+%_%    4065, WU, Shuk Man Katie, HKG,  4, 236, 2094
+%_%    1603, POYSTI, Markku, FIN,  2, 172, 1771
+%_%    1622, LEVANEN, Harri, FIN,  1, 175, 1711
+
+
+
+%Round: 1
+
+  4065 (23)<(41)   1627  B
+  1623 (37)>(27)   1625  B
+  1622 (24)<(40)   1603  B
+
+%Round: 2
+
+  1603 (18)<(46)   1645  B
+  1625 (23)<(41)   4065  B
+  1627 (34)>(30)   1623  B
+
+%Round: 3
+
+  4065 (48)>(16)   1622  B
+  1645 (49)>(15)   1627  B
+  1623 (54)>(10)   1603  B
+
+%Round: 4
+
+  1645 (44)>(20)   4065  B
+  1627 (17)<(47)   1625  B
+  1622 (29)<(35)   1623  B
+
+%Round: 5
+
+  1603 (15)<(49)   1627  B
+  1625 (38)>(26)   1622  B
+  1623 (38)>(26)   1645  B
+
+%Round: 6
+
+  1625 (36)>(28)   1603  B
+  4065 (21)<(43)   1623  B
+  1622 (16)<(48)   1645  B
+
+%Round: 7
+
+  1627 (40)>(24)   1622  B
+  1645 (20)<(44)   1625  B
+  1603 (21)<(43)   4065  B
+
+
+%%Added results
+  1623 (36)>(28)   1645  B
+  1627 (17)<(47)   1625  B

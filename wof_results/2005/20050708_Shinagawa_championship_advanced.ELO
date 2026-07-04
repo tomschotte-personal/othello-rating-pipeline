@@ -1,0 +1,51 @@
+%%Tournament: Shinagawa championship advanced
+%%Country: Japan
+%%Date: 08/07/2005
+%%Sender: Tom Schotte
+
+%round1
+882 > 5560
+6868 > 6801
+5589 > 7092
+5511 > 11030
+
+%round2
+6860 > 882
+11030 > 5589
+6868 > 5511
+6801 > 7092
+
+%round3
+11030 > 882
+6868 > 6860
+5589 > 5560
+6801 > 5511
+
+%round4
+6860 > 6801
+882 > 5589
+11030 > 6868
+5560 > 7092
+
+%round5
+6860 > 11030
+882 > 6801
+5560 > 6868
+7092 > 5511
+
+%round6
+6860 > 5589
+882 > 6868
+11030 > 7092
+5511 > 5560
+
+
+%1. 6860	miyazaki	yuji
+%2. 882	ibata	kensuke
+%3. 11030	imai	takatoshi
+%4. 6868	sasaki	sohei
+%5. 5560	tsuji	shinji
+%6. 5589	nagasaki	hidekazu
+%7. 6801	koukawa	satoshi
+%8. 5511	tsuji	toshimi
+%9. 7092	kasiwagi	mitsuyoshi

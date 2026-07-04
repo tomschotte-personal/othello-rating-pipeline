@@ -1,0 +1,59 @@
+%%Tournament: 36th Himeji Meeting
+%%Country: Japan
+%%Date: 28/04/2002
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka36.html
+
+%Round1
+6825 > 11975
+11882 > 10227
+11753 > 10025
+11979 > 11981
+11041 > 11978
+
+%Round2
+6825 > 11979
+11882 > 11041
+11753 > 11978
+10025 > 10227
+11975 > 11981
+
+%Round3
+11882 > 6825
+11978 > 11980
+11979 > 11753
+6824 > 11975
+11041 > 10025
+11981 > 10227
+
+%Round4
+6825 > 11041
+11753 > 11882
+11978 > 10025
+11979 > 6824
+11975 > 10227
+11980 > 11981
+
+%Round5
+6825 > 11753
+11882 > 11979
+11978 > 11975
+6824 > 11041
+10025 > 11981
+10227 > 11980
+
+
+%players
+%1 6825	shinkawa	hiroki
+%2 11882	takamura	kandai
+%3 11753	yokoyama	chiaki
+%4 11978	hirao	atsushi
+%5 11979	okikawa	tauru
+%6 6824	kuroda	takuji
+%7 10025	nobuhito	yoichi
+%8 11975	sugai	katsumi
+%9 11041	iseda	katsuya
+%10 10227	yokoyama	takako
+%11 11980	kinugawa	kotaro
+%12 11981	sakamoto	ayumi

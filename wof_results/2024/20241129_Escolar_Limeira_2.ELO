@@ -1,0 +1,43 @@
+%%Tournament: Escolar Limeira 2
+%%Country: Brazil
+%%Date: 29/11/2024
+%%Sender: CORREIA JR. Moises
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% +290422, Santos, Davi, BRA, 3, 118, -
+%_% +290423, Alves, Esau, BRA, 3, 116, -
+%_% +290424, Novais, Henrique, BRA, 2, 101, -
+%_% +290425, Souza, Davi, BRA, 2, 113, -
+%_% +290545, Silva, Gisele Sophia, BRA, 1, 102, -
+%_% +290546, Mota, Henry, BRA, 1, 82, -
+%_% +290547, Borges, Gabriel, BRA, 1, 82, -
+%_% +290548, Oliveira, Isabelly, BRA, 1, 97, -
+%_% +290549, Almeida, Arthur Lucas, BRA, 1, 90, -
+%_% +290550, Teixeira, Sarai, BRA, 0, 59, -
+
+%Round: 1
+
+290545 (50)>(14) 290549  B
+290546 (23)<(41) 290423  B
+290547 (35)>(29) 290548  B
+290422 (47)>(17) 290424  B
+290550 (23)<(41) 290425  B
+
+%Round: 2
+
+290549 (51)>(13) 290550  B
+290424 (44)>(20) 290546  B
+290548 (27)<(37) 290422  B
+290425 (42)>(22) 290547  B
+290423 (36)>(28) 290545  B
+
+%Round: 3
+
+290422 (34)>(30) 290425  B
+290547 (25)<(39) 290423  B
+290545 (24)<(40) 290424  B
+290546 (39)>(25) 290549  B
+290550 (23)<(41) 290548  B

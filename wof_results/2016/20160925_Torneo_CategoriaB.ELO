@@ -1,0 +1,29 @@
+%%Tournament: Torneo Categoria B
+%%Country: Italy
+%%Date: 25/09/2016
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci ( 09/10/2016 22:00 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 40052, GIGLIUCCI, Chiara, I, 3, 153
+%_% 40047, PANTANI, Antonio, I, 1, 101
+%_% 40033, CARPIGO, Stefano, I, 1, 69
+%_% 40048, PANTANI, Ennio, I, 1, 61
+
+
+%Round 1 
+ 40052 (60)>(04)  40048  B
+ 40033 (35)>(29)  40047  B
+ 
+%Round 2 
+ 40033 (11)<(53)  40052  B
+ 40047 (48)>(16)  40048  B
+
+%Round 3 
+ 40052 (40)>(24)  40047  B
+ 40048 (41)>(23)  40033  B
+
+
+
+

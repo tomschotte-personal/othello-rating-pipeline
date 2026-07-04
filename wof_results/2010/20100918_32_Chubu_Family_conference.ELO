@@ -1,0 +1,68 @@
+%%Tournament: 32nd Chubu Family conference
+%%Country: Japan
+%%Date: 18/09/2010
+%%Sender: Tom Schotte
+
+%round1
+6805 > 11645
+5575 > 6917
+10040 > 5676
+6803 > 5677
+5699 > 11832
+6806 > 10200
+
+%round2
+6805 > 6803
+5575 > 10040
+6917 > 5676
+5699 > 6806
+11645 > 5677
+10200 > 11832
+
+%round3
+5575 > 6803
+10040 > 10200
+5699 > 6805
+11645 > 5676
+6806 > 6917
+5677 > 11832
+
+%round4
+6805 > 10040
+5575 > 5699
+6803 > 6917
+6806 > 11645
+5677 > 10200
+5676 > 11832
+
+%round5
+6805 > 5575
+10040 > 6806
+6803 > 5699
+6917 > 11832
+11645 > 10200
+5677 > 5676
+
+%round6
+6805 > 5677
+5575 > 11645
+10040 > 5699
+6803 > 11832
+6917 > 10200
+5676 > 6806
+
+
+
+%players
+%1 6805	saka	hiroshi
+%2 5575	esaki	yuta
+%3 10040	ishibashi	takuya
+%4 6803	haga	kazutoshi
+%5 6917	okamoto	harumi
+%6 5699	yoshiyuki	suganuma
+%7 11645	maeda	yuichi
+%8 6806	toshio	sugiyama
+%9 5677	shiyoko	miyasato
+%10 5676	tsukamoto	hiroaki
+%11 10200	kasiwagi	tomohiro
+%12 11832	shibuya	yoshinori

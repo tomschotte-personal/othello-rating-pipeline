@@ -1,0 +1,65 @@
+%%Tournament: German Championship 2023
+%%Country: Germany
+%%Date: 05/08/2023
+%%Sender: Henrik Vallund
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/08/06 10:45
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   70002, ROSSLER, Daniel, DEU,  6, 284, 1800
+%_%      96, VALLUND, Henrik, DEU,  6, 277, 1828
+%_%    5336, SCHMIDT, Sebastian, DEU,  6, 271, 2003
+%_%   70003, BEYER, Guenther, DEU,  3, 223, 1447
+%_%   70017, CZYMARA, Andreas, LKA,  3, 185, 1443
+%_%   70010, NEUHAUS, Sven, DEU,  2, 196, 1370
+%_%    5324, MURAWSKI, Stefan, DEU,  2, 188, 1467
+
+
+
+%Round: 1
+
+    96 (45)>(19)  70003  B
+ 70002 (38)>(26)   5324  B
+  5336 (41)>(23)  70017  B
+
+%Round: 2
+
+ 70010 (18)<(46)  70002  B
+ 70017 (13)<(51)     96  B
+  5324 (11)<(53)   5336  B
+
+%Round: 3
+
+ 70003 (52)>(12)  70017  B
+  5336 (38)>(26)  70010  B
+    96 (41)>(23)   5324  B
+
+%Round: 4
+
+ 70002 (50)>(14)   5336  B
+  5324 (31)<(33)  70003  B
+ 70010 (25)<(39)     96  B
+
+%Round: 5
+
+ 70017 (40)>(24)   5324  B
+    96 (43)>(21)  70002  B
+ 70003 (30)<(34)  70010  B
+
+%Round: 6
+
+  5336 (46)>(18)     96  B
+ 70010 (22)<(42)  70017  B
+ 70002 (40)>(24)  70003  B
+
+%Round: 7
+
+  5324 (33)>(31)  70010  B
+ 70003 (25)<(39)   5336  B
+ 70017 (15)<(49)  70002  B
+
+
+%%Added results
+    96 (15)<(49)  70002  B
+ 70002 (42)>(22)     96  B

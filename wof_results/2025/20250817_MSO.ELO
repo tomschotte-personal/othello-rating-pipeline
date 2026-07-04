@@ -1,0 +1,50 @@
+%%Tournament: Othello MSO
+%%Country: Great-Britain
+%%Date: 17/08/2025
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2025/08/17 23:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 269, 2043
+%_%   90010, HERNANDEZ, Mario, ESP,  4, 207, 1094
+%_% +100071, HEPPELL, James, GBR,  3, 182, 0
+%_% +170059, WONG Yam, Lee, HKG,  1, 131, 0
+%_%    2358, WOOLFSON, Jon, GBR,  1, 100, 707
+%_% + 90013, PEREZ, Fabian, ESP,  1, 71, 0
+
+
+
+%Round: 1
+
+     2 (54)>(10)  90010  B
+170059 (52)>(12)   2358  B
+100071 (64)>(00)  90013  B
+
+%Round: 2
+
+  2358 (05)<(59)      2  B
+ 90010 (52)>(12) 100071  B
+ 90013 (43)>(21) 170059  B
+
+%Round: 3
+
+     2 (43)>(21) 100071  B
+  2358 (52)>(12)  90013  B
+170059 (20)<(44)  90010  B
+
+%Round: 4
+
+ 90013 (06)<(58)      2  B
+100071 (35)>(29) 170059  B
+ 90010 (47)>(17)   2358  B
+
+%Round: 5
+
+     2 (55)>(09) 170059  B
+ 90013 (10)<(54)  90010  B
+  2358 (14)<(50) 100071  B
+
+
+%%Added results

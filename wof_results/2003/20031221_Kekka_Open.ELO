@@ -1,0 +1,101 @@
+%%Tournament: Kekka Open
+%%Country: Japan
+%%Date: 21/12/2003
+%%Sender: Tom Schotte
+
+%Round1
+882 > 6965
+5681 > 889
+5523 > 6959
+11177 > 6952
+6801 > 10088
+6954 > 6914
+10398 > 6961
+10085 > 6967
+888 > 6955
+10733 > 11897
+10806 > 6963
+10928 > 6968
+
+%Round2
+882 > 10806
+6952 > 6961
+5681 > 10733
+5523 > 10085
+11177 > 10398
+6801 > 6954
+889 > 11897
+888 > 10928
+6955 > 6968
+6959 > 6967
+6914 > 10088
+6965 > 6963
+
+%Round3
+882 > 6801
+6952 > 5523
+5681 > 6955
+11177 > 888
+889 > 6954
+10398 > 10928
+10085 > 10733
+6959 > 10806
+6961 > 6968
+6914 > 6965
+11897 > 10088
+6963 > 6967
+
+%Round4
+882 > 5681
+6952 > 10398
+5523 > 888
+11177 > 889
+6801 > 6959
+6954 > 11897
+10085 > 6914
+10733 > 10928
+6955 > 10806
+6965 > 6961
+6967 > 10088
+6968 > 6963
+
+%Round5
+882 > 11177
+6952 > 6801
+5681 > 10085
+5523 > 6955
+889 > 6959
+6954 > 10928
+10398 > 11897
+888 > 6965
+10733 > 6914
+10806 > 6968
+6961 > 6967
+10088 > 6963
+
+
+%Players
+%1 882	ibata	kensuke
+%2 6952	sano	hirotaka
+%3 5681	sato	tomoyuki
+%4 5523	araki	yasuyuki
+%5 11177	muramatsu	daishi
+%6 6801	koukawa	satoshi
+%7 889	sugiyama	akemi
+%8 6954	oguri	kenji
+%9 10398	ota	koko
+%10 10085	iwamoto	yoshimi
+%11 888	sugiyama	mitsuaki
+%12 10733	matsumoto	shigeyuki
+%13 10806	nagai	makoto
+%14 6955	iwasaki	masaaki
+%15 6959	suzuki	takahiro
+%16 6961	hasegawa	toshi
+%17 6914	nakayama	takahiro
+%18 6965	suzuki	toyoharu
+%19 10088	sato	alex
+%20 6967	kobayashi	tome
+%21 6968	kobayashi	tamami
+%22 11897	wada	emiko
+%23 10928	abe	yuji
+%24 6963	okabe	michiaki

@@ -1,0 +1,53 @@
+%%Tournament: 3rd King State Cup B
+%%Country: Japan
+%%Date: 29/07/2006
+%%Sender: Tom Schotte
+
+%round1
+11096 > 10131
+5555 > 5696
+5697 > 5659
+5537 > 11802
+
+%round2
+11096 > 5555
+5596 > 5697
+10131 > 5537
+11802 > 5696
+
+%round3
+11096 > 5596
+5555 > 11802
+5697 > 10131
+5537 > 5659
+
+%round4
+11096 > 5537
+5555 > 5596
+5697 > 11802
+5659 > 5696
+
+%round5
+5697 > 11096
+5596 > 5659
+10131 > 5555
+5537 > 5696
+
+%round6
+5555 > 5697
+5596 > 5696
+10131 > 5659
+11802 > 11096
+
+
+%elite
+%1 11096	kikukawa	takamichi
+%2 5555	sato	tetsuya
+%3 5697	saito	tauru
+%4 5596	okamoto	akihiko
+%5 10131	nogami	yoshiyuki
+%6 5537	takanashi	yusuke
+%7 11802	okamoto	jun
+%8 5659	hamada	atushi
+%9 5696	shigeru	hayakawa
+

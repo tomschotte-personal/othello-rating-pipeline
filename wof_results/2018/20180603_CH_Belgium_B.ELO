@@ -1,0 +1,45 @@
+%%Tournament: 35th Belgian Othello Championship B
+%%Country: Belgium
+%%Date: 03/06/2018
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/06/03 20:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  270030, VERSTUYFT, Eline, BEL,  4.5, 194, 232
+%_%  270029, VERSTUYFT, Jana, BEL,  4, 191, 397
+%_%  270038, D'HAEYER, Sofie, BEL,  3, 174, 0
+%_%  270033, SCHOTTE, Wout, BEL,  2.5, 136, 0
+%_%  270032, SCHOTTE, Sander, BEL,  1, 110, 312
+
+
+
+%Round: 1
+
+270033 (32)=(32) 270030  B
+270029 (53)>(11) 270038  B
+
+%Round: 2
+
+270032 (24)<(40) 270029  B
+270038 (50)>(14) 270033  B
+
+%Round: 3
+
+270030 (38)>(26) 270038  B
+270033 (38)>(26) 270032  B
+
+%Round: 4
+
+270029 (45)>(19) 270033  B
+270032 (17)<(47) 270030  B
+
+%Round: 5
+
+270038 (54)>(10) 270032  B
+270030 (44)>(20) 270029  B
+
+
+%%Added results
+270029 (29)<(35) 270030  B

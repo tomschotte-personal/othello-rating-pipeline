@@ -1,0 +1,45 @@
+%%Tournament: Purim
+%%Country: Israel
+%%Date: 10/03/2020
+%%Sender: Leonid Shifman
+
+%%Creator: PAPP 1.36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  200010, SHIFMAN, Michael,  ISR,  5, 233
+%_%  200040, LAUFER, Shahar,  ISR,  4, 201
+%_%     885, SHIFMAN, Ilya, ISR,  3, 184
+%_%     880, SHIFMAN, Leonid, ISR,  2, 155
+%_%  200060, SHPERBER, Mendel,  ISR,  1, 113
+%_%  200009, SHIFMAN, Shani,  ISR,  0, 74
+
+
+
+%Round: 1
+
+   880 (49)>(15) 200009  B
+200040 (40)>(24)    885  B
+
+%Round: 2
+
+200040 (42)>(22)    880  B
+200009 (17)<(47) 200010  B
+
+%Round: 3
+
+   880 (17)<(47)    885  B
+200010 (35)>(29) 200040  B
+
+%Round: 4
+
+   885 (57)>(07) 200009  B
+   880 (14)<(50) 200010  B
+
+%Round: 5
+
+200010 (50)>(14)    885  B
+200009 (09)<(55) 200040  B
+
+
+%%Added results
+

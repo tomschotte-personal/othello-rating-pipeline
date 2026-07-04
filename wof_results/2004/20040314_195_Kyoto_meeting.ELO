@@ -1,0 +1,76 @@
+%%Tournament: 195th Kyoto Meeting
+%%Country: Japan
+%%Date: 14/03/2004
+%%Sender: Tom Schotte
+
+%Round1
+5507 > 6923
+10038 > 10119
+5506 > 10129
+6919 > 10009
+6995 > 12029
+10123 > 11881
+6929 > 12028
+
+%Round2
+6970 > 10123
+10119 > 11881
+5506 > 6929
+6919 > 5507
+6995 > 10038
+6923 > 10129
+12029 > 10009
+
+%Round3
+6970 > 5506
+5507 > 6929
+10038 > 12029
+10119 > 6923
+6919 > 6995
+11881 > 10129
+10123 > 12028
+
+%Round4
+6970 > 6919
+10038 > 6929
+10119 > 6923
+5506 > 10123
+11881 > 6923
+6995 > 5507
+12028 > 10009
+
+%Round5
+6970 > 6995
+5507 > 11881
+10038 > 6919
+5506 > 10119
+10123 > 6929
+6923 > 12029
+10129 > 10009
+
+%Round6
+6970 > 10038
+5507 > 5506
+10119 > 6995
+6919 > 10123
+11881 > 12029
+10129 > 6929
+
+%two players quit
+
+%players
+%1 6970	kudashou	takahiro
+%2 5507	tsuchida	daisuke
+%3 10038	wazuki	hiroyuki
+%4 10119	sentoku	hidefumi
+%5 5506	tamaki	suguru
+%6 6919	fukunaga	kohachi
+%7 11881	asano	minoru
+%8 6995	funakoshi	shogo
+%9 10123	nakamura	shuhei
+%10 6923	kimura	keigo
+%11 10129	eikichi	masanobu
+%12 12028	suzuki	takahiro
+%13 6929	io	hideo
+%14 12029	asano	yuka
+%15 10009	taru	eiichi

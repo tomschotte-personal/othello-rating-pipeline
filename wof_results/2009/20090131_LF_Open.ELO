@@ -1,0 +1,63 @@
+%%Tournament: LF Open
+%%Country: Denmark
+%%Date: 31/01/2009
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/02/17 14:31
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      92, FELDBORG, Karsten, DK,  7, 328
+%_%    1045, NIELSEN, Kim J., DK,  5, 271
+%_%    1019, AAGAARD-HANSEN, Jens, DK,  5, 258
+%_%    1059, STOEVRING, Pia, DK,  4, 249
+%_%    1981, STOKKE, Solrun, DK,  4, 233
+%_%    1075, PEDERSEN, Mads, DK,  2, 189
+%_% +220000, Mathiesen, Birthe, dk,  1, 96
+
+
+
+%Round: 1
+
+  1075 (26)<(38)     92 B
+  1059 (64)>(00) 220000 B
+  1045 (36)>(28)   1019 B
+
+%Round: 2
+
+  1981 (37)>(27)   1059 B
+  1019 (42)>(22)   1075 B
+220000 (07)<(57)   1045 B
+
+%Round: 3
+
+    92 (53)>(11)   1019 B
+  1045 (44)>(20)   1981 B
+  1075 (48)>(16) 220000 B
+
+%Round: 4
+
+  1059 (43)>(21)   1045 B
+220000 (14)<(50)     92 B
+  1981 (48)>(16)   1075 B
+
+%Round: 5
+
+  1019 (57)>(07) 220000 B
+  1075 (25)<(39)   1059 B
+    92 (51)>(13)   1981 B
+
+%Round: 6
+
+  1045 (52)>(12)   1075 B
+  1981 (23)<(41)   1019 B
+  1059 (11)<(53)     92 B
+
+%Round: 7
+
+220000 (12)<(52)   1981 B
+    92 (43)>(21)   1045 B
+  1019 (39)>(25)   1059 B
+
+
+%%Added results

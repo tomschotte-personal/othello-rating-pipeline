@@ -1,0 +1,76 @@
+%%Tournament: Chubu Trio Open
+%%Country: Japan
+%%Date: 22/05/2005
+%%Sender: Tom Schotte
+
+%%http://www.geocities.jp/mikawa_op/kekka3.html
+
+%%PLAYERS
+%01 10597	nakajima	norio
+%02 5507	tsuchida	daisuke
+%03 10354	maki		shin'ichiro
+%04 5511	tsuji		toshimi
+%01 5571	matsumoto	hiroyuki
+%02 5559	kawarada	yuichi
+%03 5560	tsuji		shinji
+%04 6801	koukawa		satoshi
+%05 6803	haga		kazutoshi
+%06 11620	sugihara	yuki
+%07 5676	tsukamoto	hiroaki
+%08 6914	nakayama	takahiro
+%09 11621	suzuki		mikio
+
+
+%round 1
+ 10597 >   5511
+  5507 >  10354
+  5571 >   5560
+  5559 >   5676
+  6801 >  11620
+  6914 >  11621
+
+%round 2
+ 10597 >  10354
+  5507 >   5511
+  5571 >  11621
+  5559 >  11620
+  5560 >   5676
+  6801 <   6803
+
+%round 3
+ 10597 >   5507
+ 10354 <   5511
+  5559 >   6803
+  5560 >  11620
+  6801 >   6914
+  5676 >  11621
+
+%round 4
+ 10597 =   5511
+  5507 <  10354
+  5571 >   5559
+  5560 >   6914
+  6801 >   5676
+  6803 >  11621
+
+%round 5
+ 10597 >  10354
+  5507 >   5511
+  5571 >   6801
+  5559 >   5560
+  6803 >   6914
+ 11620 >   5676
+
+%round 6
+ 10597 >   5507
+ 10354 >   5511
+  5571 >   6803
+  5559 >   6801
+  5560 >  11621
+ 11620 >   6914
+
+%round 7
+  5571 >  11620
+  5559 >  11621
+  5560 >   6803
+  5676 >   6914

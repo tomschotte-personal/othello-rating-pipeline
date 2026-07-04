@@ -1,0 +1,61 @@
+%%Tournament: 16th KoA Championships 2010
+%%Country: ROK
+%%Date: 30/05/2010
+%%Sender: Kyong-Joong Kim
+
+
+%Ranking of the 4 players after round 6:
+
+%_% ID,  NAME, Firstname, COUNTRY, score, disc-coun
+
+%_% 4074,  OH, Joung-mok, ROK, 6, 392
+%_% 7573,  HA, Seungseop,  ROK, 3, 387
+%_% 7577,  KIM, Dongsu,   ROK, 2 , 353
+%_% 7566,  KIM, Kyungjoong, ROK, 1 , 356
+
+   
+   
+%Round: 1
+
+7573 (20)<(44) 7577 W
+7566 (16)<(48) 4074 W
+
+
+%Round: 2
+
+7577 (16)<(48) 7566 W
+4074 (41)>(23) 7573 W
+
+
+%Round: 3
+
+4074 (40)>(24) 7577 W
+7573 (52)>(12) 7566 W
+
+
+%Round: 4
+
+4074 (48)>(16) 7566 W
+7577 (22)<(42) 7573 W
+
+
+%Round: 5
+
+7573 (21)<(43) 4074 W
+7566 (29)<(35) 7577 W
+
+
+%Round: 6
+
+7577 (12)<(52) 4074 W
+7566 (15)<(49) 7573 W
+
+
+%Finals: 1
+
+7573 (19)<(45) 4074 W
+
+
+%Finals: 2
+
+4074 (42)>(22) 7573 W

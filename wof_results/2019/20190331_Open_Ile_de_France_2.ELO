@@ -1,0 +1,58 @@
+%%Tournament: Open Ile de France 2
+%%Country: France
+%%Date: 31/03/2019
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/04/04 22:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 199, 2096
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 185, 1658
+%_%   50096, LEVY, Marc, FRA,  3, 182, 1649
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 177, 1789
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 177, 1926
+%_%    3600, BENOIT, Serge, FRA,  3, 164, 1316
+%_%     228, BUSUTTIL, Michel, FRA,  2, 165, 1452
+%_%    3734, CLUZON, Gilles, FRA,  2, 146, 1327
+%_%   50097, OVION, Alix-Anne, FRA,  1, 85, 519
+
+
+
+%Round: 1
+
+  3598 (24)<(40)     45  B
+     2 (36)>(28)   3734  B
+   228 (28)<(36)   3600  B
+ 50096 (22)<(42)   9025  B
+
+%Round: 2
+
+  3734 (24)<(40)    228  B
+  3600 (15)<(49)   3598  B
+    45 (09)<(55)      2  B
+  9025 (64)>(00)  50097  B
+
+%Round: 3
+
+ 50097 (22)<(42)   3600  B
+     2 (40)>(24)   9025  B
+   228 (35)>(29)     45  B
+  3598 (33)>(31)  50096  B
+
+%Round: 4
+
+  9025 (22)<(42)   3598  B
+  3734 (49)>(15)  50097  B
+  3600 (31)<(33)      2  B
+ 50096 (33)>(31)    228  B
+
+%Round: 5
+
+    45 (59)>(05)   3734  B
+ 50097 (08)<(56)  50096  B
+     2 (35)>(29)   3598  B
+   228 (31)<(33)   9025  B
+
+
+%%Added results

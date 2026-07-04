@@ -1,0 +1,26 @@
+%%Tournament: Kfar-Saba Chanukah
+%%Country: Israel
+%%Date: 09/12/2018
+%%Sender: Leonid Shifman
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    880, SHIFMAN, Leonid, ISR,  4, 228
+%_% 200059, FRID, Dror, ISR,  2, 106
+%_% 200040, LAUFER, Shachar, ISR,  2, 149
+%_% 200048, BASE, Olga, ISR,  0, 29
+
+
+%Round: 1
+   880 (41)>(23) 200059  B
+
+%Round: 2
+200059 (34)>(30) 200040  B
+
+%Round: 3
+200040 (12)<(52)    880  B
+
+%Round: 4
+   880 (47)>(17) 200040  B
+
+%Round: 5
+200040 (39)>(25)    880  B

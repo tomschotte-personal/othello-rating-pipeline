@@ -1,0 +1,23 @@
+%%Tournament: Ramat-Gan Open
+%%Country: Israel
+%%Date: 17/04/2010
+%%Sender: Tom Schotte
+
+%Rounds
+4085 > 200006
+880 > 200006
+200003 > 200006
+4028 > 200006
+4085 > 4028
+880 > 4085
+4085 > 200003
+880 < 4028
+200003 > 4028
+880 > 200003
+
+
+%MALNEV Andrey (Israel)[id: 4085] 
+%SHIFMAN Leonid (Israel)[id: 880]
+%MARGALIOT Michael (Israel)[id: 200003]
+%RADZIVILOVSKY Pavel (Israel)[id: 4028]
+%MARGALIOT Eti (Israel)[id: 200006]

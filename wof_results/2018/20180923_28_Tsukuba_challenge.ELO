@@ -1,0 +1,29 @@
+%%Tournament: 28_Tsukuba_challenge
+%%Country: Japan
+%%Date: 23/09/2018
+%%Sender: Hiroyuki Iwata
+
+%_%  13992, TAKAHASHI, akinari, JPN, 4.0, 232
+%_%  14699, TORIU, yuuki, JPN, 2.5, 127
+%_%  13131, TSUKAMOTO, takashi, JPN, 0.5, 89
+%_%  13596, UI, naomichi, JPN, 0.0, 0
+
+%Round 1
+ 13992 (64)>(00)  13596 
+ 14699 (32)=(32)  13131 
+
+%Round 2
+ 13992 (52)>(12)  13131 
+
+%Round 3
+ 13992 (53)>(11)  14699 
+
+%Round 4
+ 14699 (50)>(14)  13131 
+
+%Round 5
+ 13992 (63)>(01)  14699 
+
+%Round 6
+ 14699 (33)>(31)  13131 
+

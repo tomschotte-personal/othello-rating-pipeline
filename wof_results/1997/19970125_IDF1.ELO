@@ -1,0 +1,34 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 25/01/1997
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 433 >   46
+ 781 <   48
+ 478 <  355
+
+%%Round: 2
+
+  48 <  478
+ 355 >  433
+  46 <  781
+
+%%Round: 3
+
+ 478 >  433
+  48 >   46
+ 781 <  355
+
+%%Round: 4
+
+  46 <  478
+ 433 >  781
+ 355 >   48
+
+%%Round: 5
+
+ 478 <  781
+  46 <  355
+  48 <  433

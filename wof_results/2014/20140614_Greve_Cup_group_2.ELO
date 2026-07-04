@@ -1,0 +1,33 @@
+%%Tournament: Greve Cup 2014 Group 2
+%%Country: Denmark
+%%Date: 14/06/2014
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/06/14 20:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  3, 146, 2103
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  2, 99, 1527
+%_%    1025, BADSTED, Palle, DNK,  1, 105, 1755
+%_%    1075, PEDERSEN, Mads, DNK,  0, 34, 853
+
+
+
+%Round: 1
+
+    92 (47)>(17)   1025  B
+  1019 (46)>(18)   1075  B
+
+%Round: 2
+
+  1075 (11)<(53)     92  B
+  1025 (29)<(35)   1019  B
+
+%Round: 3
+
+    92 (46)>(18)   1019  B
+  1075 (05)<(59)   1025  B
+
+
+%%Added results

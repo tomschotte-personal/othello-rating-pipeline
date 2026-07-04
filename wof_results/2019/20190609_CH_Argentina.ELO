@@ -1,0 +1,39 @@
+%%Tournament: Campeonato Argentino 2019
+%%Country: Argentina
+%%Date: 09/06/2019
+%%Sender: Daniel Olivares
+
+%  ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_% 280033, PELLIZZARI, Maximiliano, ARG, 5, 224
+%_%   4168, LISNOVSKY, Marcelo, ARG, 4, 223
+%_%    650, OLIVARES Daniel, ARG, 3, 164
+%_% 280031, THIERER, Sebastián, ARG, 1, 128
+%_%   4157, ITURBIDE, Paula, ARG, 1,113
+%_% 280035, NAKASONE, David, ARG, 1, 108
+   
+
+%Round 1
+280035 (34)>(30)   4157  B
+280031 (27)<(37)    650  B
+  4168 (31)<(33) 280033  B
+
+%Round 2
+   650 (20)<(44)   4168  B
+  4157 (09)<(55) 280033  B
+280035 (29)<(35) 280031  B
+
+%Round 3
+  4168 (53)>(11) 280035  B
+280033 (43)>(21)    650  B
+280031 (24)<(40)   4157  B
+
+%Round 4
+280035 (19)<(45) 280033  B 
+  4157 (27)<(37)    650  B
+280031 (26)<(38)   4168  B
+
+%Round 5
+280033 (48)>(16) 280031  B
+   650 (49)>(15) 280035  B
+  4168 (57)>(07)   4157  B

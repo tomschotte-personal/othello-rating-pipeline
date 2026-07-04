@@ -1,0 +1,45 @@
+%%Tournament: Citta' di Roma 2018 - Tappa I
+%%Country: Italy
+%%Date: 11/02/2018
+%%Sender: Chiara Gigliucci
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2844, SPERANDIO, Roberto, I, 4, 183
+%_%  3111, SCOGNAMIGLIO, Paolo, I, 3, 144
+%_%  3037, DI MATTEI, Alessandro, I, 3, 210
+%_%  2818, DI COLA, Severino, I, 3, 138
+%_%  3062, CAVIOLA, Leonardo, I, 2, 117
+%_% 40047, PANTANI, Antonio, I, 2, 100
+%_% 40052, GIGLIUCCI, Chiara, I, 1, 121
+%_% 40097, CACCIATORE, Alessandro, I, 1, 87
+%_% 40048, PANTANI, Ennio, I, 1, 105
+%_% 40129, LUZI, Luca, I, 0, 75
+
+
+%Round 1 
+ 40052 (23)<(41)   2844  B
+  3037 (61)>(03)  40047  B
+ 40097 (15)<(49)   3111  B
+  3062 (38)>(26)  40048  B
+ 40129 (17)<(47)   2818  B
+
+%Round 2 
+  2844 (47)>(17)   3062  B
+  3111 (33)>(31)   3037  B
+  2818 (41)>(23)  40052  B
+ 40047 (40)>(24)  40129  B
+ 40048 (22)<(42)  40097  B
+
+%Round 3 
+  2818 (09)<(55)   2844  B
+  3062 (26)<(38)   3111  B
+ 40097 (30)<(34)  40047  B
+  3037 (54)>(10)  40048  B
+ 40052 (47)>(17)  40129  B
+
+%Round 4 
+  2844 (40)>(24)   3111  B
+ 40047 (23)<(41)   2818  B
+ 40097 (00)<(64)   3037  B
+ 40052 (28)<(36)   3062  B
+ 40129 (17)<(47)  40048  B

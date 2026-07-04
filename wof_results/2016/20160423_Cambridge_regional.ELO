@@ -1,0 +1,33 @@
+%%Tournament: Cambridge regional
+%%Country: Great-Britain
+%%Date: 23/04/2016
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader
+%%CreationDate: 2016/04/24 7.55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+
+%_%    79, LEADER, Imre, GBR, 4, 188, 
+%_%    2047, BARRASS, Iain, GBR,  2, 149, 
+%_%    2006, ARNOLD, Roy, GBR,  0, 47, 
+
+%Round: 1
+    79 (58)>(06)   2006   b
+  
+%Round: 2
+  2047 (31)<(33)     79   b 
+  
+%Round: 3
+  2006 (10)<(54)   2047   b 
+  
+%Round: 4
+  2006 (10)<(54)     79   b   
+  
+%Round: 5
+    79 (51)>(13)   2047   b
+  
+%Round: 6
+  2047 (51)>(13)   2006   b   
+
+%%Added results

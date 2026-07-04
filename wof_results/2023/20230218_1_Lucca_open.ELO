@@ -1,0 +1,29 @@
+%%Tournament: 1st Lucca Open
+%%Country: Italy
+%%Date: 18/02/2023
+%%Sender: FNGO
+
+%%Creator: www.fngo.it
+%%CreationDate: 2023/02/24
+
+%       ID, NAME, Firstname
+%_%  40151, BARSOTTI, Paolo, ITA
+%_%  +40158, LANDINI, Carlo, ITA
+%_%  +40160, LUZI, Ilaria, ITA
+%_%  +40159, BANDIERA, Marco, ITA
+
+
+%Round:1
+
+ 40151 (51)>(13)  40158 
+ 40160 (13)<(51)  40159 
+
+%Round:2
+
+ 40159 (12)<(52)  40151 
+ 40158 (38)>(26)  40160 
+
+%Round:3
+
+ 40151 (55)>(09)  40160 
+ 40158 (44)>(20)  40159 

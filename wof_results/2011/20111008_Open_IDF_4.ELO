@@ -1,0 +1,50 @@
+%%Tournament: open Ile de France 4
+%%Country: France
+%%Date: 08/10/2011
+%%Sender: Gilles Cluzon
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/10/08 18:25
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   50030, JUIGNER, Arthur, F,  4, 227
+%_%       2, TASTET, Marc, F,  4, 222
+%_%    3518, DELAUNAY, Arnaud, F,  4, 219
+%_%     419, BETIN, Dominique, F,  2, 135
+%_%    3828, MEYER, Frederic, F,  1, 83
+%_%    3734, CLUZON, Gilles, F,  0, 74
+
+
+
+%Round: 1
+
+   419 (06)<(58)      2  B
+  3734 (09)<(55)  50030  B
+  3828 (15)<(49)   3518  B
+
+%Round: 2
+
+ 50030 (51)>(13)    419  B
+     2 (51)>(13)   3828  B
+  3518 (59)>(05)   3734  B
+
+%Round: 3
+
+   419 (48)>(16)   3828  B
+ 50030 (37)>(27)   3518  B
+  3734 (21)<(43)      2  B
+
+%Round: 4
+
+  3518 (46)>(18)    419  B
+  3828 (39)>(25)   3734  B
+     2 (44)>(20)  50030  B
+
+%Round: 5
+
+   419 (50)>(14)   3734  B
+  3518 (38)>(26)      2  B
+ 50030 (64)>(00)   3828  B
+
+
+%%Added results

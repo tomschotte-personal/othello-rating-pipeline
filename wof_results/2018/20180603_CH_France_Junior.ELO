@@ -1,0 +1,69 @@
+%%Tournament: Championnat de France Junior 2018
+%%Country: France
+%%Date: 03/06/2018
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/06/10 21:52
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50053, TASTET, Remi, FRA,  4, 189, 1350
+%_%   50067, JUIGNER, Felix, CHE,  3, 198, 1615
+%_%   50098, BENOIT, Mathis, FRA,  3, 176, 1094
+%_%   50081, TASTET, Sophie, FRA,  3, 158, 773
+%_%   50101, KEUMAYOU, Esther, FRA,  3, 143, 717
+%_% + 50109, DEGORGUE, Margaux, FRA,  2, 131, 0
+%_% + 50121, GOBRON, Mathilde, FRA,  2, 121, 0
+%_% + 50111, PECHER, Morgane, FRA,  2, 114, 0
+%_% + 50119, ILIJASIC, Baptiste, FRA,  2, 97, 0
+%_% + 50113, MERVILON, Olivier, FRA,  2, 94, 0
+%_% + 50120, DEMEAUX, Maxence, FRA,  1.5, 118, 0
+%_% + 50117, DUHAUT, Clara, FRA,  1.5, 93, 0
+%_% + 50122, AZZOUZ, Damien, FRA,  1, 117, 0
+%_% + 50114, DE SOUSA, Luana, FRA,  1, 102, 0
+%_% + 50112, COSQUER, Maelle, FRA,  1, 101, 0
+
+
+
+%Round: 1
+
+ 50114 (15)<(49)  50101  B
+ 50067 (59)>(05)  50113  B
+ 50119 (35)>(29)  50121  B
+ 50122 (27)<(37)  50112  B
+ 50120 (32)=(32)  50117  B
+ 50098 (22)<(42)  50081  B
+ 50109 (47)>(17)  50111  B
+
+%Round: 2
+
+ 50112 (11)<(53)  50053  B
+ 50117 (00)<(64)  50067  B
+ 50101 (37)>(27)  50109  B
+ 50081 (54)>(10)  50119  B
+ 50111 (10)<(54)  50098  B
+ 50113 (33)>(31)  50120  B
+ 50121 (34)>(30)  50122  B
+
+%Round: 3
+
+ 50122 (20)<(44)  50117  B
+ 50119 (41)>(23)  50112  B
+ 50098 (51)>(13)  50113  B
+ 50109 (38)>(26)  50114  B
+ 50067 (47)>(17)  50081  B
+ 50120 (21)<(43)  50121  B
+ 50053 (60)>(04)  50101  B
+
+%Round: 4
+
+ 50101 (53)>(11)  50119  B
+ 50081 (45)>(19)  50109  B
+ 50113 (43)>(21)  50114  B
+ 50112 (30)<(34)  50120  B
+ 50053 (36)>(28)  50067  B
+ 50121 (15)<(49)  50098  B
+ 50117 (17)<(47)  50111  B
+
+
+%%Added results

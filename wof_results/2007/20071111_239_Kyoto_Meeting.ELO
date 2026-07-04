@@ -1,0 +1,76 @@
+%%Tournament: 239th Kyoto Meeting
+%%Country: Japan
+%%Date: 11/11/2007
+%%Sender: Tom Schotte
+
+%round1
+5655 > 6931
+7054 > 11815
+5526 > 10022
+6937 > 11814
+6929 > 10018
+5669 > 11813
+10547 > 6935
+
+%round2
+5655 > 6929
+7054 > 5669
+5526 > 10547
+6937 > 11813
+6935 > 10022
+6931 > 10018
+11814 > 11815
+
+%round3
+5655 > 6937
+7054 > 5526
+11813 > 11815
+6929 > 10547
+5669 > 6931
+11814 > 6935
+10018 > 10022
+
+%round4
+5655 > 7054
+5526 > 6929
+6937 > 10547
+6935 > 11813
+5669 > 11814
+6931 > 10022
+10018 > 11815
+
+%round5
+5655 > 5669
+7054 > 6937
+5526 > 6931
+11813 > 10547
+6929 > 6935
+11814 > 10018
+11815 > 10022
+
+%round6
+5655 > 5526
+7054 > 6929
+6937 > 5669
+11813 > 11814
+6935 > 10018
+6931 > 11815
+10547 > 10022
+
+
+
+%players
+%1 5655	satani	tetsu
+%2 7054	nakamori	hiroki
+%3 5526	uno	toshihiro
+%4 6937	yamada	minoru
+%5 11813	kawamura	daiji
+%6 6935	hosoi	shinsuke
+%7 6929	io	hideo
+%8 5669	nakano	shunsuke
+%9 6931	obama	satomi
+%10 11814	wakabayashi	shinya
+%11 10547	hukuhara	siho
+%12 10018	morimoto	hideki
+%13 11815	yoshimoto	nobuhide
+%14 10022	takahashi	hiroki

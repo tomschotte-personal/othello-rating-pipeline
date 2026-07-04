@@ -1,0 +1,218 @@
+%%Tournament: 27th All Japan
+%%Country: Japan
+%%Date: 25/07/1999
+%%Sender: Tom Schotte
+
+%group A
+4014 > 655
+4014 > 11789
+4014 > 64
+655 > 11789
+655 > 64
+11789 > 64
+4014 > 7002
+4014 > 578
+4014 > 698
+4014 > 488
+
+%group B
+488 > 10984
+488 > 10753
+488 > 6824
+10984 > 10753 
+10984 > 6824
+10753 > 6824
+488 > 11464
+488 > 299
+488 > 5530
+
+%group C
+698 > 11786
+698 > 11284
+698 > 5571
+11786 > 11284
+11786 > 5571
+11284 > 5571
+698 > 7048
+698 > 11161
+698 > 5530
+
+%group D
+5530 > 5597
+5530 > 11468
+5530 > 5523
+5597 > 11468
+5597 > 5523
+11468 > 5523
+5530 > 11348
+5530 > 5522
+
+%group E
+11161 > 10443
+11161 > 10936
+11161 > 11764
+10443 > 10936
+10443 > 11764
+10936 > 11764
+11161 > 6970
+11161 > 578
+11161 > 5522
+
+%group F
+5522 > 5524
+5522 > 11403
+5522 > 11797
+5524 > 11403
+5524 > 11797
+11403 > 11797
+5522 > 5502
+5522 > 299
+
+%group G
+299 > 10198
+299 > 10331
+299 > 5543
+10198 > 10331
+10198 > 5543
+10331 > 5543
+299 > 10971
+299 > 578
+
+%group H
+578 > 6954
+578 > 6843
+5526 > 578
+5526 > 6954
+6954 > 6843
+6843 > 5526
+578 > 6813
+
+%group I
+11348 > 11276
+11348 > 7047
+11348 > 11470
+11276 > 7047
+11276 > 11470
+7047 > 11470
+
+%group J
+7002 > 651
+7002 > 6959
+7002 > 11127
+651 > 6959
+651 > 11127
+6959 > 11127
+
+%group K
+5502 > 11785
+5502 > 11796
+5502 > 6914
+11785 > 6914
+11796 > 11785
+6914 > 11796
+
+%group L
+10971 > 11030
+10971 > 11469
+10971 > 10164
+11030 > 11469 
+11030 > 10164
+11469 > 10164
+
+%group M
+11464 > 700
+11464 > 7018
+11464 > 11227
+700 > 7018
+700 > 11227
+7018 > 11227
+
+%group N
+6813 > 10140
+6813 > 11158
+6813 > 6868
+10140 > 11158
+10140 > 6868
+11158 > 6868
+
+%group O
+7048 > 7055
+7048 > 11009
+7077 > 7048
+7077 > 7055
+11009 > 7077
+7055 > 11009
+
+%group P
+6970 > 11223
+6970 > 10070
+10275 > 6970
+11223 > 10070
+11223 > 10275
+10070 > 10275
+
+
+%1. 4014 Kenta Tominaga  7/7  
+%2. 488 Masaki Takizawa  6/7  
+%3. 698 Makoto Suekuni  6/7  
+%4. 5530 Bintatsu Noda  5/7  
+%5. 11161 Jun Miyazaki  6/7  
+%6. 5522 Eiji Tsuchida  5/7  
+%7. 299 Takeshi Murakami  5/7  
+%8. 578 Kazuhiro Sakaguchi  3/7  
+%9. 11348 Hirohisa Tezuka  3/4  
+%10. 7002 Yoichi Kagawa  3/4  
+%11. 5502 Hiroshi Goto  3/4  
+%12. 10971 Akihiko Goto  3/4  
+%13. 11464 Takayuki Masuda  3/4  
+%14. 6813 Nobuyuki Yamazaki  3/4  
+%15. 7048 Yoshiniro Kanda  2/4  
+%16. 6970 Takahiro Kudashou  2/4  
+%17. 655 Nobuyuki Takizawa  2/3  
+%18. 10984 Shuichi Hara  2/3  
+%19. 5524 Hiroto Nagao  2/3  
+%20. 10140 Toshiya Yamaguchi  2/3  
+%21. 700 Tetsuya Nakajima  2/3  
+%22. 11276 Shinji Sato  2/3  
+%23. 11030 Takatoshi Imai  2/3  
+%24. 10443 Kazuki Funabashi  2/3  
+%25. 651 Hideki Kitajima  2/3  
+%26. 11223 Hisaichi Nomura  2/3  
+%27. 11786 Norihiro Tanaka  2/3  
+%28. 10198 Toshimi Kunii  2/3  
+%29. 7077 Hikaru Ishizaki  2/3  
+%30. 5597 Tomohiro Sawada  2/3  
+%31. 5526 Toshihiro Uno  2/3  
+%32. 7055 Junya Terada  1/3  
+%33. 11785 Seiji Tanizawa  1/3  
+%34. 10070 Osamu Kamemoto  1/3  
+%35. 11468 Hirotaka Tamagawa  1/3  
+%36. 6954 Takeshi Fujita  1/3  
+%37. 6843 Ken'Ichi Itagaki  1/3  
+%38. 10936 Yuji Asai  1/3  
+%39. 10331 Takashi Matsui  1/3  
+%40. 10753 Hiroto Kagotani  1/3  
+%41. 11403 Tadahiro Yasuda  1/3  
+%42. 6959 Takahiro Suzuki  1/3  
+%43. 7018 Noguchi Okabayashi  1/3  
+%44. 10275 Toshihiro Baba  1/3  
+%45. 11796 Yoshimasa Wada  1/3  
+%46. 7047 Yoshinori Umezawa  1/3  
+%47. 6914 Takahiro Nakayama  1/3  
+%48. 11158 Shinya Mikamo  1/3  
+%49. 11009 Masaki Hirata  1/3  
+%50. 11789 Hideaki Takahashi  1/3  
+%51. 11284 Takehiko Sawada  1/3  
+%52. 11469 Shuji Onishi  1/3  
+%53. 5571 Hiroyuki Matsumoto  0/3  
+%54. 10164 Katsutoshi Ogura  0/3  
+%55. 6868 Sohei Sasaki  0/3  
+%56. 11764 Hirofumi Nakazawa  0/3  
+%57. 5523 Yasuyuki Araki  0/3  
+%58. 11127 Daisuke Kudomi  0/3  
+%59. 11227 Hidenori Ogiwara  0/3  
+%60. 5543 Keiichi Watanabe  0/3  
+%61. 11470 Naoki Hara  0/3  
+%62. 6824 Takuji Kuroda  0/3  
+%63. 11797 Isao Takahashi  0/3  
+%64. 10955 Yoshihisa Fujii  0/3  

@@ -1,0 +1,53 @@
+%%Tournament: Cambridge Regional Tournament 2019
+%%Country: Great-Britain
+%%Date: 09/02/2019
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader.
+%%CreationDate: 2019/02/10 16:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       79, LEADER, Imre, GBR, 6, ,
+%_%     2047, BARRASS, Iain, GBR, 5, ,
+%_%  +100049, THOMAS, Gareth, GBR, 4, ,
+%_%  +100050, CHAPPELL, Graham, GBR, 3, ,
+%_%  +100051, BARLOW, Tim, GBR, 2, ,
+%_%  +100052, CHAPPELL, Digby, GBR, 1, ,
+%_%  +100053, BYGATE, Elizabeth, GBR, 0, ,
+
+%Round: 1
+100049 > 100053   
+  2047 > 100052 
+    79 > 100051   
+  
+%Round: 2
+100052 < 100050   
+100051 < 100049   
+    79 >   2047   
+    
+%Round: 3
+100053 < 100051   
+100050 <     79   
+100049 <   2047    
+ 
+%Round: 4
+    79 > 100052 
+  2047 > 100053 
+100049 > 100050   
+     
+%Round: 5
+100051 <   2047   
+100052 < 100049   
+100053 < 100050   
+    
+%Round: 6
+100049 <     79   
+100050 > 100051   
+100053 < 100052   
+
+%Round: 7
+  2047 > 100050   
+    79 > 100053 
+100051 > 100052   
+
+%%Added results

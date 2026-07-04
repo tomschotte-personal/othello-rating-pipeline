@@ -1,0 +1,48 @@
+%%Tournament: Randers open
+%%Country: Denmark
+%%Date: 26/04/2010
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 20:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% +220003, LINDE, Mathias, DK,  5, 271
+%_%    1047, STORM, Henning, DK,  3, 194
+%_%    1981, STOKKE, Solrun, DK,  2, 162
+%_%    1000, MICHAELSEN, Peter, DK,  2, 141
+
+
+
+%Round: 1
+
+220003 (55)>(09)   1000 B
+  1981 (28)<(36)   1047 B
+
+%Round: 2
+
+220003 (51)>(13)   1981 B
+  1000 (38)>(26)   1047 B
+
+%Round: 3
+
+220003 (30)<(34)   1047 B
+  1000 (23)<(41)   1981 B
+
+%Round: 4
+
+  1047 (48)>(16)   1981 B
+  1000 (26)<(38) 220003 B
+
+%Round: 5
+
+  1981 (11)<(53) 220003 B
+  1047 (30)<(34)   1000 B
+
+%Round: 6
+
+  1000 (11)<(53)   1981 B
+  1047 (20)<(44) 220003 B
+
+
+%%Added results

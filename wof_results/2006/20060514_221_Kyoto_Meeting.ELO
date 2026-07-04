@@ -1,0 +1,50 @@
+%%Tournament: 221st Kyoto Open
+%%Country: Japan
+%%Date: 14/05/2006
+%%Sender: Tom Schotte
+
+%Round1
+7054 > 5568
+6860 > 6931
+5526 > 6997
+6995 > 6929
+
+%Round2
+7054 > 5526
+6860 > 6995
+5568 > 6997
+6929 > 6931
+
+%Round3
+7054 > 6860
+5526 > 6929
+5568 > 6995
+6997 > 6931
+
+%Round4
+7054 > 6995
+6860 > 5568
+5526 > 6931
+6929 > 6997
+
+%Round5
+7054 > 6929
+6860 > 5526
+5568 > 6931
+6997 > 6995
+
+%Round6
+7054 > 6997
+6860 > 6929
+5526 > 5568
+6931 > 6995
+
+%Players
+%1 7054	nakamori	hiroki
+%2 6860	miyazaki	yuji
+%3 5526	uno	toshihiro
+%4 5568	okamoto	kazuki
+%5 6997	yamazoe	keiji
+%6 6929	io	hideo
+%7 6995	funakoshi	shogo
+%8 6931	obama	satomi

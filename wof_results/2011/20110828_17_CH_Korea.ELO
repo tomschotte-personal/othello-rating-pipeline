@@ -1,0 +1,65 @@
+%%Tournament: 17th Korean Championships
+%%Country: Korea
+%%Date: 28/08/2011
+%%Sender: Kyung-Joong Kim
+
+%%Creator: PAPP 1.32
+%%CreationDate: 2011/08/29 23:55
+
+
+%Ranking of the 6 players after round 5:
+
+%_% ID,  NAME, Firstname, COUNTRY, score, disc-coun
+
+%_% 4074,  OH, Joung-mok, KOR,  5, 242
+%_% 7573,  HA, Seungseop, KOR,  4, 192
+%_% 7566,  KIM, Kyungjoong, KOR, 3, 184
+%_% 7574,  KIM, Hyosuk, KOR,   2, 143
+%_% 30000, LEE, Geuncheol, KOR,  1, 101
+%_% 30005, KIM, Wang-nyeon, KOR, 0, 98
+
+
+
+%Round: 1
+
+  4074 (46)>(18)  30005  W
+  7566 (54)>(10)  30000  W
+  7573 (39)>(25)   7574  W
+
+%Round: 2
+
+  7574 (22)<(42)   7566  W
+ 30000 (11)<(53)   4074  W
+ 30005 (18)<(46)   7573  W
+
+%Round: 3
+
+  4074 (45)>(19)   7573  W
+  7566 (41)>(23)  30005  W
+ 30000 (20)<(44)   7574  W
+
+
+%Round: 4
+
+  7573 (34)>(30)   7566  W
+  7574 (13)<(51)   4074  W
+ 30005 (14)<(50)  30000  W
+
+
+%Round: 5
+
+  4074 (47)>(17)   7566  W
+ 30000 (10)<(54)   7573  W
+  7574 (39)>(25)  30005  W
+
+
+
+%Finals: 1
+
+  7573 (15)<(49)   4074  W
+
+
+%Finals: 2
+
+  4074 (39)>(25)   7573  W
+

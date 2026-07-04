@@ -1,0 +1,27 @@
+%%Tournament: Kyushu Block conference B
+%%Country: Japan
+%%Date: 18/06/2006
+%%Sender: Tom Schotte
+
+%round1:
+10298 > 10287
+10299 > 10300
+
+%round2:
+10298 < 7007
+10287 > 10299
+
+%round3:
+10298 > 10299
+10287 = 10300
+
+%round4:
+10298 > 10300
+10287 < 7007
+
+%round5:
+10298 > 10287
+7007 > 10299
+
+%round6:
+7007 > 10300

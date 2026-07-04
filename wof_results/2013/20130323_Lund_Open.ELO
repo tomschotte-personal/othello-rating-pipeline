@@ -1,0 +1,48 @@
+%%Tournament: Lund Open
+%%Country: Sweden
+%%Date: 23/03/2013
+%%Sender: Mateusz Sosnowski
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/04/28 11:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  5, 239, 1971
+%_%    1596, RAGNARSSON, Robin, SWE,  3, 194, 1710
+%_%    1358, RIGNELL, Daniel, SWE,  3, 176, 1964
+%_%    1301, STEENTOFT, Benkt, SWE,  1, 159, 1706
+
+
+
+%Round: 1
+
+  1301 (28)<(36)   1596  B
+150016 (40)>(24)   1358  B
+
+%Round: 2
+
+  1358 (41)>(23)   1596  B
+150016 (49)>(15)   1301  B
+
+%Round: 3
+
+  1358 (24)<(40)   1301  B
+  1596 (26)<(38) 150016  B
+
+%Round: 4
+
+  1596 (29)<(35)   1358  B
+  1301 (27)<(37) 150016  B
+
+%Round: 5
+
+  1596 (46)>(18)   1301  B
+  1358 (19)<(45) 150016  B
+
+%Round: 6
+
+  1301 (31)<(33)   1358  B
+150016 (30)<(34)   1596  B
+
+
+%%Added results

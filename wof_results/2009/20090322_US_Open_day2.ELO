@@ -1,0 +1,48 @@
+%%Tournament: 2009 US Open Day 2
+%%Country: USA
+%%Date: 22/03/2009
+%%Sender: Randy Fang
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/03/22 18:20
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4089, CHITRA, Yohanes, USA,  4, 179
+%_%    4088, FANG, Randy, USA,  3, 195
+%_%    6444, BARRICELLI, Giovanni, USA,  3, 173
+%_%    6407, LINDSTROM, Eric, USA,  0, 93
+
+
+
+%Round: 1
+
+  4088 (52)>(12)   4089 B
+  6444 (46)>(17)   6407 B
+
+%Round: 2
+
+  6407 (24)<(40)   4089 B
+  4088 (34)>(30)   6444 B
+
+%Round: 3
+
+  6407 (11)<(53)   4088 B
+  4089 (55)>(09)   6444 B
+
+%Finals 1
+
+  4088 (31)<(33)   4089 B
+
+% 3rd-4th 1
+
+  6444 (38)>(26)   6407 B
+
+%Finals 2
+
+  4089 (39)>(25)   4088 B
+
+%3rd-4th 2
+  6407 (15)<(49)   6444 B
+
+
+%%Added results

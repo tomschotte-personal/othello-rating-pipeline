@@ -1,0 +1,50 @@
+%%Tournament: 8th Antwerpen Othello Open B
+%%Country: Belgium
+%%Date: 19/05/2013
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/05/19 21:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  270004, VAN DAMME, Jan, BEL,  5, 252, 1265
+%_%  270012, VAN DAMME, Frank Ivo, BEL,  4, 214, 816
+%_%  270013, VAN DEN BRANDT, Joke, BEL,  3, 174, 897
+%_% +270021, VAN DER VEKEN, LIEVE, B,  2, 132, 0
+%_% +270020, VAN PEER, VINCENT, B,  1, 113, 0
+%_% +270019, DONCKERS, STEPHANIE, B,  0, 75, 0
+
+
+
+%Round: 1
+
+270019 (22)<(42) 270012  B
+270004 (52)>(12) 270020  B
+270021 (15)<(49) 270013  B
+
+%Round: 2
+
+270020 (53)>(11) 270019  B
+270012 (51)>(13) 270021  B
+270013 (12)<(52) 270004  B
+
+%Round: 3
+
+270019 (26)<(38) 270021  B
+270020 (30)<(34) 270013  B
+270004 (52)>(12) 270012  B
+
+%Round: 4
+
+270013 (60)>(04) 270019  B
+270021 (20)<(44) 270004  B
+270012 (64)>(00) 270020  B
+
+%Round: 5
+
+270019 (12)<(52) 270004  B
+270013 (19)<(45) 270012  B
+270020 (18)<(46) 270021  B
+
+
+%%Added results

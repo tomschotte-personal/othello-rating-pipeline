@@ -1,0 +1,77 @@
+%%Tournament: 32nd Himeji Meeting
+%%Country: Japan
+%%Date: 23/12/2001
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka32.html
+
+%Round1
+  6825 >  11799  
+  6930 >  11979  
+  6973 >  12056  
+ 11041 >  10227  
+ 11983 >  12055  
+ 11975 >  10025  
+ 12049 >  11978  
+  6824 >  10024  
+
+%Round2
+  6825 >  11983  
+  6930 >  11975  
+ 11041 >   6973  
+ 10024 >  11978  
+ 12056 >  10227  
+ 11799 >  12055  
+ 12049 >   6824  
+ 10025 >  11979  
+
+%Round3
+  6825 >  11041  
+  6930 >  12049  
+  6970 >  11979  
+  6973 >  10025  
+ 11983 >  11975  
+ 12056 >   6824  
+ 11799 >  10024  
+ 11978 >  12055  
+
+%Round4
+  6825 >   6930  
+  6970 >  10025  
+  6973 >  12056  
+ 11041 >  11983  
+ 10024 >  10227  
+ 11975 >  11978  
+ 11799 >  12049  
+ 11979 >  12055  
+
+%Round5
+  6825 >   6973  
+  6930 >  11041  
+  6970 >  11799  
+ 11983 >  11978  
+ 10024 >  10025  
+ 11975 >  11979  
+ 12056 >  12049  
+ 12055 >  10227  
+
+
+
+%players
+%1 6825	shinkawa	hiroki
+%2 6930	nishimine	satoru
+%3 6970	kudashou	takahiro
+%4 6973	kitagawa	kanya
+%5 11041	iseda	katsuya
+%6 11983	konami	takimoto
+%7 10024	konami	hiroshi
+%8 11975	sugai	katsumi
+%9 12056	konami	shuji
+%10 11799	hashimoto	yoshiaki
+%11 12049	miki	toshikazu
+%12 6824	kuroda	takuji
+%13 10025	nobuhito	yoichi
+%14 11979	okikawa	tauru
+%15 12055	nakajima	yoko
+%16 11978	hirao	atsushi
+%17 10227	yokoyama	takako

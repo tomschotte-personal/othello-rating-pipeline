@@ -1,0 +1,34 @@
+%%Tournament: Campeonato Argentino Junior
+%%Country: Argentina
+%%Date: 19/08/2023
+%%Sender: Daniel Olivares
+
+%          ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    280076, VILLAMAYOR, LAUTARO, ARG, 3, 189
+%_%    280057, OLIVARES, Abril, ARG, 3, 129
+%_%    280082, THIERER, Laila, ARG, 2, 119
+%_%    280081, GATTI GARCILASO, Ariana, ARG, 1, 111
+%_%    280083, VELTRI, Juana, ARG, 1, 92
+
+
+
+%Round 1
+280076 (62)>(02) 280057  B
+280081 (30)<(34) 280082  B
+
+%Round 2
+280057 (47)>(17) 280081  B
+280083 (15)<(49) 280076  B
+
+%Round 3
+280081 (47)>(17) 280083  B
+280082 (30)<(34) 280057  B
+
+%Round 4
+280083 (42)>(22) 280082  B
+280076 (47)>(17) 280081  B
+
+%Round 5
+280057 (46)>(18) 280083  B
+280082 (33)>(31) 280076  B
+      

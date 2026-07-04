@@ -1,0 +1,31 @@
+%%Tournament: 19_period_Mito_Jishi_games
+%%Country: Japan
+%%Date: 01/12/2012
+%%Sender: Hiroyuki Iwata
+
+%_%   5527, GOTO, masahiro, JPN, 4.0, 170
+%_%  10870, NAKAMURA, keiko, JPN, 3.0, 148
+%_%  11041, ISEDA, katsuya, JPN, 2.0, 123
+%_%   6986, IZUMI, takashi, JPN, 1.0, 124
+%_%  10109, EBIHARA, yusuke, JPN, 0.0, 75
+
+%Round 1
+  5527 (40)>(24)  10109 
+ 10870 (43)>(21)  11041 
+
+%Round 2
+  5527 (42)>(22)  10870 
+  6986 (48)>(16)  10109 
+
+%Round 3
+ 10870 (49)>(15)  10109 
+ 11041 (46)>(18)   6986 
+
+%Round 4
+  5527 (36)>(28)   6986 
+ 11041 (44)>(20)  10109 
+
+%Round 5
+  5527 (52)>(12)  11041 
+ 10870 (34)>(30)   6986 
+

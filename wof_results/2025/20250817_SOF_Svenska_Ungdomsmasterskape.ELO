@@ -1,0 +1,39 @@
+%%Tournament: SOF Svenska Ungdomsmasterskapet
+%%Country: Sweden
+%%Date: 17/08/2025
+%%Sender: STEENTOFT Benkt
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  150064, LOFROTH, Emma, SWE, 3, 157, 1209
+%_%  150089, LONNGREN, Astor, SWE, 2, 120, 778
+%_%  150094, ODMARK, Ossian, SWE, 1, 55, 399
+%_%  150087, ODMARK, Valter, SWE, 0, 52, 467
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/321
+
+%Round: 1
+
+150064 (45)>(19) 150089  B
+150094 (39)>(25) 150087  B
+
+%Round: 2
+
+150094 (00)<(64) 150064  B
+150089 (53)>(11) 150087  B
+
+%Round: 3
+
+150087 (16)<(48) 150064  B
+150089 (48)>(16) 150094  B
+
+%%Added results
+
+150089 (43)>(21) 150094  B
+150087 (17)<(47) 150064  B
+150087 (32)=(32) 150064  B
+150094 (21)<(43) 150087  B
+150089 (11)<(53) 150064  B

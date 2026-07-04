@@ -1,0 +1,50 @@
+%%Tournament: Selection du Mans
+%%Country: France
+%%Date: 25/07/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/08/23 17:39
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3519, DAUBA, Cedric, F,  5, 264
+%_%    2788, LECAT, Monique, B,  3, 207
+%_%    5908, DARCK, Nancy, B,  3, 190
+%_%    5904, LECAT, Maxime, B,  3, 169
+%_% +  5922, LECAT, Vincent, B,  1, 95
+%_% +  3858, FURET, Arlette, F,  0, 35
+
+
+
+%Round: 1
+
+  2788 (57)>(07)   3858 B
+  5904 (37)>(27)   5908 B
+  5922 (04)<(60)   3519 B
+
+%Round: 2
+
+  5908 (41)>(23)   2788 B
+  3858 (13)<(51)   5922 B
+  3519 (52)>(12)   5904 B
+
+%Round: 3
+
+  2788 (57)>(07)   5922 B
+  5908 (20)<(44)   3519 B
+  5904 (64)>(00)   3858 B
+
+%Round: 4
+
+  3519 (47)>(17)   2788 B
+  5922 (19)<(45)   5904 B
+  3858 (12)<(52)   5908 B
+
+%Round: 5
+
+  2788 (53)>(11)   5904 B
+  3519 (61)>(03)   3858 B
+  5908 (50)>(14)   5922 B
+
+
+%%Added results

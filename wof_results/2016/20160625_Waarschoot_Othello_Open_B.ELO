@@ -1,0 +1,57 @@
+%%Tournament: Waarschoot Othello Open B
+%%Country: Belgium
+%%Date: 25/06/2016
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/06/26 13:21
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    5919, FLOCKMAN, Annie, BEL,  7, 264, 233
+%_%  270015, VAN DAELE, Kris, BEL,  5, 272, 625
+%_% +270026, VERSTUYFT, Bart, BEL,  3, 203, 0
+%_% +270025, HOENS, Lieselotte, BEL,  2, 130, 0
+%_% +130042, GOZDZIK, Agata, POL,  1, 159, 0
+%_%  1599, Kjellberg, Arvid
+
+
+%Round: 1
+
+270026 (46)>(18) 130042  B
+270015 (29)<(35)   5919  B
+
+%Round: 2
+
+  5919 (35)>(29) 270026  B
+130042 (16)<(48) 270015  B
+
+%Round: 3
+
+270026 (17)<(47) 270015  B
+  5919 (44)>(20) 130042  B
+
+%Round: 4
+
+  5919 (35)>(29) 270015  B
+270025 (47)>(17) 270026  B
+
+%Round: 5
+
+270026 (25)<(39)   5919  B
+130042 (21)<(43) 270025  B
+
+%Round: 6
+
+270025 (21)<(43)   5919  B
+270015 (41)>(23) 130042  B
+
+%Round: 7
+
+270015 (45)>(19) 270025  B
+130042 (28)<(36) 270026  B
+
+
+%%Added results
+% Final between first of B open against last of A open.
+%Annie Flockman 12 - 52 Arvid Kjellberg
+  5919 (12)<(52)   1599 

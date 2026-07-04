@@ -1,0 +1,34 @@
+%%Tournament: Tournoi B de Rennes
+%%Country: France
+%%Date: 26/09/1998
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 895 <  894
+ 940 >  947
+ 145 >  946
+
+%%Round: 2
+
+ 946 >  948
+ 894 <  940
+ 947 <  145
+
+%%Round: 3
+
+ 948 <  894
+ 946 >  895
+ 145 >  940
+
+%%Round: 4
+
+ 894 <  145
+ 895 >  948
+ 947 <  946
+
+%%Round: 5
+
+ 145 >  895
+ 948 <  947
+ 940 <  946

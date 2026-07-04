@@ -1,0 +1,63 @@
+%%Tournament: Genova regionale Liguria
+%%Country: Italy
+%%Date: 09/11/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3062, CAVIOLA, Leonardo, ITA, 5, 233, 1462
+%_%    2855, BIANCHI, Paolo, ITA, 4, 232, 1464
+%_%   40186, RIBALDONE, Marco, ITA, 3, 177, 1438
+%_%    2834, FASCE, Paolo, ITA, 3, 180, 1658
+%_%   40346, SALVO, Michele, ITA, 3, 175, 1680
+%_%    2863, CORRADI, Federica, ITA, 3, 157, 1546
+%_%   40102, OTTONELLO, Piera, ITA, 2, 146, 707
+%_%   40108, STORTI, Fabio, ITA, 2, 133, 568
+%_%   40347, SALVO, Alberto, ITA, 2, 139, -
+%_%   40251, FRANCHINO, Teresa, ITA, 2, 107, -
+%_%   40252, DESTEFANI, Radames, ITA, 1, 81, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/401
+
+%Round: 1
+
+ 40186 (37)>(27)  40346  B
+ 40102 (17)<(47)   2834  B
+  2863 (41)>(23)  40108  B
+ 40252 (00)<(64)   2855  B
+  3062 (51)>(13)  40251  B
+
+%Round: 2
+
+ 40251 (41)>(23)  40252  B
+ 40108 (38)>(26)  40102  B
+ 40347 (15)<(49)  40186  B
+  2855 (64)>(00)   2863  B
+  2834 (11)<(53)   3062  B
+
+%Round: 3
+
+ 40102 (44)>(20)  40347  B
+  2863 (57)>(07)  40251  B
+ 40346 (45)>(19)  40108  B
+ 40186 (38)>(26)   2834  B
+  3062 (50)>(14)   2855  B
+
+%Round: 4
+
+ 40251 (14)<(50)  40102  B
+ 40108 (53)>(11)  40252  B
+ 40347 (23)<(41)   2863  B
+  2855 (48)>(16)  40346  B
+  3062 (33)>(31)  40186  B
+
+%Round: 5
+
+  2863 (18)<(46)   3062  B
+ 40186 (22)<(42)   2855  B
+  2834 (64)>(00)  40108  B
+ 40346 (55)>(09)  40102  B
+ 40252 (15)<(49)  40347  B

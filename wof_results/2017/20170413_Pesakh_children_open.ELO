@@ -1,0 +1,40 @@
+%%Tournament: Pesakh children's open
+%%Country: Israel
+%%Date: 13/04/2017
+%%Sender: Leonid Shifman
+
+% ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    200010, SHIFMAN, Michael, IL, 5, 240
+%_%    210180, VUONG, Hana, CZE, 3, 186
+%_%    200037, MONASTYRSKI,Shay, IL, 3, 151
+%_%    200018, YOSIFOVICH, Danielle, IL, 2, 188
+%_%    200009, SHIFMAN, Shani, IL, 2, 102
+%_%    200042, SHILOH, Ofir, IL, 0, 93
+ 
+ 
+%Round 1
+
+200018 (61)>(03) 200009  B
+200042 (09)<(55) 200010  B
+
+%Round 2
+
+200037 (33)>(31) 200018  B
+200009 (39)>(25) 200042  B
+
+%Round 3
+
+200042 (24)<(40) 200037  B
+200010 (46)>(18) 200009  B
+
+%Round 4
+
+200037 (06)<(58) 200010  B
+200018 (42)>(22) 200042  B
+
+%Round 5
+
+200009 (06)<(58) 200037  B
+200010 (38)>(26) 200018  B
+
+%%Added results

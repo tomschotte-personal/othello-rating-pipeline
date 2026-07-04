@@ -1,0 +1,30 @@
+%%Tournament: 36_Nagareyama_B
+%%Country: Japan
+%%Date: 10/10/2015
+%%Sender: Hiroyuki Iwata
+
+%_%  12280, MORIKAWA, yoshihito, JPN, 4.0, 206
+%_%  12281, MORIKAWA, haruhito, JPN, 3.0, 182
+%_%  13221, NAKAJIMA, hajime, JPN, 3.0, 174
+%_%  13266, NAKAMURA, kazuhiro, JPN, 0.0, 78
+
+%Round 1
+ 12280 (35)>(29)  13266 
+ 12281 (46)>(18)  13221 
+
+%Round 2
+ 12280 (54)>(10)  12281 
+ 13221 (43)>(21)  13266 
+
+%Round 3
+ 12280 (36)>(28)  13221 
+ 12281 (54)>(10)  13266 
+
+%Round 4
+ 12280 (52)>(12)  12281 
+ 13221 (50)>(14)  13266 
+
+%Round 5
+ 12281 (60)>(04)  13266 
+ 13221 (35)>(29)  12280 
+

@@ -1,0 +1,31 @@
+%%Tournament: 35_Northeast_expert_games
+%%Country: Japan
+%%Date: 09/02/2014
+%%Sender: Hiroyuki Iwata
+
+%_%  10613, SAITO, kenta, JPN, 3.0, 153
+%_%   5584, OSHIMIZU, takanori, JPN, 3.0, 137
+%_%  12984, SUGUWARA, misa, JPN, 2.0, 130
+%_%  10616, SATOHISA, kazu, JPN, 2.0, 126
+%_%   7034, YOSHIDA, taisaku, JPN, 0.0, 93
+
+%Round 1
+ 10613 (41)>(22)   7034 
+  5584 (34)>(30)  12984 
+
+%Round 2
+ 10613 (45)>(19)   5584 
+ 12984 (35)>(29)  10616 
+
+%Round 3
+  5584 (44)>(20)   7034 
+ 10616 (37)>(27)  10613 
+
+%Round 4
+  5584 (40)>(24)  10616 
+ 12984 (41)>(23)   7034 
+
+%Round 5
+ 10613 (40)>(24)  12984 
+ 10616 (36)>(28)   7034 
+

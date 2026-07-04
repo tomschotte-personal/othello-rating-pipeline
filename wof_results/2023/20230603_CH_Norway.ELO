@@ -1,0 +1,51 @@
+%%Tournament: Norwegian Championship 2023
+%%Country: Norway
+%%Date: 03/06/2023
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2023/06/18 21:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1802, SKOGEN, Tor Birger, NOR,  5, 224, 1590
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3, 198, 1802
+%_% +140064, HAGESTANDE, Anders, NOR,  3, 153, 0
+%_%  140031, TVEDT, Sverre, NOR,  2.5, 170, 1652
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  1.5, 145, 1198
+%_% +140065, HAUGEN, Leo, NOR,  0, 70, 0
+
+
+
+%Round: 1
+
+140031 (33)>(31)   2511  B
+140065 (18)<(46) 140048  B
+140064 (09)<(55)   1802  B
+
+%Round: 2
+
+140048 (32)=(32) 140031  B
+  2511 (39)>(25) 140064  B
+  1802 (59)>(05) 140065  B
+
+%Round: 3
+
+140031 (30)<(34) 140064  B
+140048 (23)<(41)   1802  B
+140065 (15)<(49)   2511  B
+
+%Round: 4
+
+  1802 (36)>(28) 140031  B
+140064 (49)>(15) 140065  B
+  2511 (48)>(16) 140048  B
+
+%Round: 5
+
+140031 (47)>(17) 140065  B
+  1802 (33)>(31)   2511  B
+140048 (28)<(36) 140064  B
+
+
+%%Added results
+  2511 (44)>(20)   1802  B

@@ -1,0 +1,57 @@
+%%Tournament: Selection junior 2009 Le Rheu
+%%Country: France
+%%Date: 27/06/2009
+%%Sender: Serge Poirier
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/07/23 17:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3794, GAUDAIRE, Arthur, F,  4.5, 183
+%_%    3524, POIRIER, Thibault, F,  4, 226
+%_%    3793, ROUSSET, Gabriel, F,  3, 172
+%_%    3728, POIRIER, Antoine, F,  2.5, 162
+%_% + 50012, RAGUET, Salome, F,  2, 152
+%_% + 50011, RAGUET, Timothee, F,  2, 129
+%_% + 50010, MANGELINCK, Elie, F,  1.5, 142
+%_% + 50009, LAHAYE, Thomas, F,  0.5, 114
+
+
+
+%Round: 1
+
+  3794 (37)>(27)  50012 B
+ 50009 (17)<(47)   3728 B
+ 50010 (24)<(40)   3793 B
+  3524 (56)>(08)  50011 B
+
+%Round: 2
+
+ 50011 (41)>(23)  50009 B
+  3728 (32)=(32)   3794 B
+  3793 (12)<(52)   3524 B
+ 50012 (21)<(43)  50010 B
+
+%Round: 3
+
+ 50010 (20)<(44)  50011 B
+  3794 (33)>(31)   3793 B
+ 50009 (19)<(45)  50012 B
+  3524 (46)>(18)   3728 B
+
+%Round: 4
+
+  3524 (31)<(33)   3794 B
+  3793 (48)>(16)  50012 B
+ 50009 (32)=(32)  50010 B
+  3728 (44)>(20)  50011 B
+
+%Round: 5
+
+ 50011 (16)<(48)   3794 B
+ 50010 (23)<(41)   3524 B
+  3793 (41)>(23)  50009 B
+ 50012 (43)>(21)   3728 B
+
+
+%%Added results

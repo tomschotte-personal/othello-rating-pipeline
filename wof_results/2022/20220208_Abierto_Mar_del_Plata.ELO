@@ -1,0 +1,39 @@
+%%Tournament: I Torneo Abierto de Mar del Plata
+%%Country: Argentina
+%%Date: 08/02/2022
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       650, OLIVARES, Daniel, ARG, 5, 268
+%_% 280065, FURNO, Ricardo, ,ARG, 3.5, 182
+%_%     4157, ITURBIDE, Paula, ARG, 3, 185
+%_% 281000, DOTTORE, Matías, ARG, 2.5, 166
+%_% 280057, OLIVARES, Abril, ARG, 1, 69
+%_% 280006, OLIVARES, Diego, ARG, 0, 90
+
+
+%Round 1
+   650 (52)>(12) 280006  B
+280065 (52)>(12) 280057  B
+281000 (30)<(34)   4157  B
+
+%Round 2
+280006 (17)<(47)   4157  B
+   650 (61)>(03) 280065  B
+280057 (10)<(54) 281000  B
+
+%Round 3
+281000 (05)<(59)    650  B
+  4157 (64)>(00) 280057  B
+280065 (51)>(13) 280006  B
+
+%Round 4
+   650 (44)>(20)   4157  B
+280065 (32)=(32) 281000  B
+280006 (29)<(35) 280057  B
+
+%Round 5
+280057 (12)<(52)    650  B
+  4157 (20)<(44) 280065  B
+281000 (45)>(19) 280006  B
+ 

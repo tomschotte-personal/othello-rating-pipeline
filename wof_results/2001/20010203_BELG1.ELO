@@ -1,0 +1,31 @@
+%%Tournament: Bruxelles
+%%Country: Belgium
+%%Date: 03/02/2001
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+4005 > 2756
+2781 < 5012
+
+%%Round: 2
+
+482 > 4005
+2756 < 2781
+
+%%Round: 3
+
+5012 > 2756
+2781 >  482
+
+%%Round: 4
+
+4005 < 2781
+482 < 5012
+
+%%Round: 5
+
+2756 <  482
+5012 > 4005
+
+

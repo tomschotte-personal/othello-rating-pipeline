@@ -1,0 +1,72 @@
+%%Tournament: 24th Shizuoka Expert Game
+%%Country: Japan
+%%Date: 09/03/2003
+%%Sender: Tom Schotte
+
+%Round1
+5523 > 11134
+6954 > 6955
+6959 > 10088
+11177 > 6961
+11179 > 10086
+11836 > 10085
+
+%Round2
+5523 > 10088
+6959 > 6957
+11177 > 11407
+11836 > 6961
+6955 > 11179
+10086 > 10823
+
+%Round3
+5523 > 6957
+6954 > 11179
+11836 > 11407
+6955 > 10823
+10085 > 6961
+10088 > 11134
+
+%Round4
+5523 > 6959
+11177 > 11836
+10823 > 6954
+10086 > 6955
+10085 > 11407
+11134 > 6957
+
+%Round5
+6954 > 10086
+6959 > 11134
+11177 > 10085
+10823 > 11179
+11407 > 6961
+6957 > 10088
+
+%Round6
+5523 > 6959
+6954 > 11177
+11836 > 10823
+6955 > 11179
+11407 > 10086
+
+%Round7
+5523 > 6954
+6959 > 11177
+
+%players
+%1 5523	araki	yasuyuki
+%2 6954	oguri	kenji
+%3 6959	suzuki	takahiro
+%4 11177	muramatsu	daishi
+%5 11836	kitamura	kenichi
+%6 6955	iwasaki	masaaki
+%7 10823	date	yuji
+%8 10086	yoshikawa	chiaki
+%9 11407	yasutake	nobumasa
+%10 10085	iwamoto	yoshimi
+%11 11179	muraoka	toshio
+%12 10088	sato	alex
+%13 6957	maeshima	tomiko
+%14 11134	maeshima	aya
+%15 6961	hasegawa	toshi

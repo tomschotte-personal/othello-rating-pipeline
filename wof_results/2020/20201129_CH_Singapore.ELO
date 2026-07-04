@@ -1,0 +1,125 @@
+%%Tournament: Singapore National Othello Championship 2020
+%%Country: Singapore
+%%Date: 29/11/2020
+%%Sender: Alex Koh
+
+% Tournament Results
+%        ID, Family_Name, Firstname, COUNTRY, Rank
+%_%  250001, Koh, Bo Xiang, SGP, 1
+%_%  250003, Koh, Bo Chao Alex, SGP, 2
+%_%  250006, Leong, Chee Kit, SGP, 3
+%_%  250169, Kwek, Jin Xiang, SGP, 4
+%_%  250174, Samuel, Henry Kurniawan, SGP, 5-8
+%_%  4138, Lee, Choon Foong, SGP
+%_%  250191, Lim, Chan Way, SGP
+%_%  250177, Goh, Li Fan Shawn, SGP
+%_%  250008, Lin, Wei Hao Roy, SGP, 9-18
+%_%  250190, Ong, Leonardo Ding Chao, SGP
+%_%  250279, Goh, Chong Wei Keith, SGP
+%_%  250005, Goh, Jun Jie Anthony, SGP
+%_%  250203, Ho, Randall, SGP
+%_%  250173, Low, Kang Sheng, SGP
+%_%  250280, Muhammad, Abduh, SGP,
+%_%  250147, Sia, Cheng Yong, SGP
+%_%  250187, Tan, Meng Lin, SGP
+%_%  250283, Tay, Yi An, SGP,
+
+%Group A Round 1
+%B               %W
+250006 (54)>(10) 250190  B
+250280 (39)>(25) 250283  B
+
+%Group A Round 2 B
+%B               %W
+250006 (53)>(11) 250280  B
+250190 (45)>(19) 250283  B
+
+%Group A Round 3 B
+%B               %W
+250283 (14)<(50) 250006  B
+250190 (44)>(20) 250280  B
+
+%Group B Round 1 B
+%B               %W
+250177 (35)>(29) 250173  B
+250008 (44)>(20) 250187  B
+
+%Group B Round 2 B
+%B               %W
+250177 (49)>(15) 250008  B
+250173 (40)>(24) 250187  B
+
+%Group B Round 3 B
+%B               %W
+250187 (30)<(34) 250177  B
+250173 (15)<(49) 250008  B
+
+%Group C Round 1 B
+%B               %W
+250147 (24)<(40) 250174  B
+
+%Group C Round 2 B
+%B               %W
+250174 (50)>(14) 250279  B
+
+%Group C Round 3 B
+%B               %W
+250279 (24)<(40) 250147  B
+
+%Group D Round 1 B
+%B               %W
+250191 (44)>(20) 250005  B
+
+%Group D Round 2 B
+%B               %W
+250005 (42)>(22) 250203  B
+
+%Group D Round 3 B
+%B               %W
+250203 (16)<(48) 250191  B
+
+%Quarter Finals A Round 1 B
+%B               %W
+250169 (30)<(34)   4138  B
+250006 (39)>(25) 250191  B
+
+%Quarter Finals A Round 2 B
+%B               %W
+250169 (30)<(34) 250006  B
+  4138 (31)<(33) 250191  B
+
+%Quarter Finals A Round 3 B
+%B               %W
+250191 (27)<(37) 250169  B
+  4138 (21)<(43) 250006  B
+
+%Quarter Finals B Round 1 B
+%B               %W
+250001 (33)>(31) 250003  B
+250177 (23)<(41) 250174  B
+
+%Quarter Finals B Round 2 B
+%B               %W
+250001 (42)>(22) 250177  B
+250003 (41)>(23) 250174  B
+
+%Quarter Finals B Round 3 B
+%B               %W
+250174 (23)<(41) 250001  B
+250003 (52)>(12) 250177  B
+
+%Semi Finals Round 1 (250169 withdrew from Semi Finals)
+%B               %W
+250006 (28)<(36) 250003  B
+
+%Semi Finals Round 2 (250169 withdrew from Semi Finals)
+%B               %W
+250003 (44)>(20) 250006  B
+
+%Finals Round 1 B
+%B               %W
+250003 (31)<(33) 250001  B
+
+%Finals Round 2 B
+%B               %W
+250001 (33)>(31) 250003 

@@ -1,0 +1,57 @@
+%%Tournament: 2002 Niigata Expert Game
+%%Country: Japan
+%%Date: 24/02/2002
+%%Sender: Tom Schotte
+
+%http://www4.plala.or.jp/sko/suiyoubi_no_kai/s/result/ngmei2002.html
+
+%Round1
+   488 >  12011  
+ 10585 >  12008  
+  7048 >   7051  
+ 11996 >   7046  
+  7096 >   7034  
+
+%Round2
+   488 >  11996  
+ 10585 >   7096  
+  7046 >   7048  
+  7034 >  12008  
+  7051 >  12011  
+
+%Round3
+   488 >  10585  
+  7048 >  11996  
+  7046 >   7034  
+  7051 >   7096  
+ 12011 >  12008  
+
+%Round4
+   488 >   7051  
+ 10585 >   7046  
+  7048 >   7096  
+  7034 >  12011  
+ 12008 >  11996  
+
+%Round5
+   488 >   7048  
+  7046 >   7051  
+  7034 >  10585  
+ 11996 >  12011  
+  7096 >  12008  
+
+
+
+%players
+%1 488	takizawa	masaki
+%2 10585	matuzawa	takashi
+%3 7048	kanda	yoshihiro
+%4 7046	sasaki	sadayuki
+%5 7034	yoshida	taisaku
+%6 7051	okuno	tomoji
+%7 11996	watanabe	teruko
+%8 7096	suzuki	nobuyuki
+%9 12011	nakamura	motohiro
+%10 12008	akahara	kenta
+
+

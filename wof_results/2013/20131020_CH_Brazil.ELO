@@ -1,0 +1,57 @@
+%%Tournament: Campeonato Brasileiro de Othello
+%%Country: Brazil
+%%Date: 20/10/2013
+%%Sender: Daniel Dantas
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4071, DANTAS, Daniel, BRA, ,
+%_%    4083, DE CAMARGO R., Lucas C., BRA, ,
+%_%  290000, SILVA, Fabricio, BRA, ,
+%_%    4159, IGLESIAS, Roberto, BRA, ,
+%_%    4176, ARTONI, Rose, BRA, ,
+%_% +290010, SANTANA, Adriana, BRA, ,
+%_% +290011, TEIXEIRA, Rafael, BRA, ,
+%_% +290012, BRITO, Fernanda, BRA, ,
+
+%Group A - Fabricio Silva; Roberto Iglesias; Rafael Teixeira, Rose Artoni
+%Group B - Lucas Cherem; Daniel Dantas; Fernanda Brito; Adriana Iglesias
+
+%Round 1
+290000 (43)>(21)   4083     B
+  4159 (16)<(48)   4071     B
+  4176 (52)>(12) 290010     B
+290011 (54)>(10) 290012     B
+
+%Round 2
+  4071 (24)<(40) 290000     B
+  4083 (30)<(34)   4159     B
+290012 (19)<(45)   4176     B
+290010 (21)<(43) 290011     B
+
+%Round 3
+290000 (58)>(06) 290012     B
+290011 (21)<(43)   4083     B
+  4176 (10)<(54)   4071     B
+  4159 (48)>(16) 290010     B
+
+%Round 4
+290010 (07)<(57) 290000     B
+290012 (00)<(64)   4159     B
+  4083 (53)>(11)   4176     B
+  4071 (37)>(27) 290011     B
+
+%Semifinal
+290000 (56)>(08)   4159     B
+  4159 (10)<(54) 290000     B
+
+  4071 (23)<(41)   4083     B
+  4083 (28)<(36)   4071     B
+  4083 (34)>(30)   4071     B
+
+%3rd place
+  4159 (19)<(45)   4071     B
+  4071 (50)>(14)   4159     B
+
+%Final 
+290000 (31)<(33)   4083     B
+  4083 (33)>(31) 290000     B

@@ -1,0 +1,41 @@
+%%Tournament: Ekero 2
+%%Country: Sweden
+%%Date: 02/04/2023
+%%Sender: Benkt
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/05/03 21:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150404, SJOBERG, Tomas, SWE,  6, 287, 0
+%_% +150085, Dawidiak, Dagmara, SWE,  3, 178, 0
+%_% +150084, Dawidiak, Laura, SWE,  3, 159, 0
+
+
+
+%Round: 1
+
+150404 (49)>(15) 150085 B
+
+%Round: 2
+
+150084 (11)<(53) 150404 B
+
+%Round: 3
+
+150085 (36)>(28) 150084 B
+
+%Round: 4
+
+150085 (20)<(44) 150404 B
+
+%Round: 5
+
+150404 (61)>(03) 150084 B
+
+%Round: 6
+
+150084 (37)>(27) 150085 B
+
+
+%%Added results

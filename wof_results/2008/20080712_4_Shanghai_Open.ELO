@@ -1,0 +1,73 @@
+%%Tournament: 4th Shanghai Open
+%%Country: China
+%%Date: 12/07/2008
+%%Sender: Tom Schotte
+
+%round 1
+4097 > 7115
+4160 > 7154
+6423 > 7153
+7138 > 7118
+7127 < 7147
+
+%round 2
+4097 > 7147
+4101 < 6423
+4160 > 7138
+7118 > 7154
+7115 > 7127
+
+%round 3
+4097 < 4101
+4160 > 6423
+7138 > 7154
+7118 > 7147
+7115 > 7153
+
+%round 4
+4097 > 7118
+4101 > 7138
+4160 > 7115
+6423 > 7147
+7127 > 7153
+
+%round 5
+4097 > 6423
+4101 > 4160
+7138 > 7127
+7118 > 7115
+7153 < 7154
+
+%round 6
+4097 > 4160
+4101 > 7118
+6423 < 7138
+7127 > 7154
+7147 < 7153
+
+%round 7
+4097 > 7138
+4101 > 7127
+4160 > 7153
+6423 > 7154
+7115 > 7147
+
+%semi-final
+4160 > 4101
+4097 > 6423
+
+%final
+4160 > 4097
+
+%%PLAYERS
+%1 Asura(SONG Yan) [4097]
+%2 Siriuz(SHUI Yibin) [4101]
+%3 Berner_x(ZHOU Jian) [4160]
+%4 Stan Shen(SHEN Wenjie) [6423]
+%5 Ace(XU Min) [7138]
+%6 Bat(KANG Le) [7118]
+%7 AP(HUANG Helou) [7115]
+%8 Snooker(WANG Guan) [7127]
+%9 Hachen(ZHU Linyun) [7147]
+%10 Yangtso(ZHANG Lantian) [7153]
+%11 Lanjie(HONG Yulan) [7154]

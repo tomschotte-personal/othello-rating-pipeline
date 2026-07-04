@@ -1,0 +1,42 @@
+%%Tournament: Torneo Pomezia
+%%Country: Italy
+%%Date: 02/09/2018
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3062, CAVIOLA, Leonardo, ITA, 4, 163
+%_%  2884, VECCHI, Maria Serena, ITA, 3, 162
+%_%  3019, DIODATI, Michele, ITA, 3, 146
+%_% 40132, DE LISA, Carmine, ITA, 3, 145
+%_% 40131, ANDREINI, Alberto, ITA, 2, 153
+%_% 40137, PICCININI, Linda, ITA, 2, 127
+%_% 40134, MARSICO, Andrea, ITA, 1, 105
+%_% 40133, MALZONE, Fabrizio, ITA, 1, 104
+%_% 40139, PORTA, Sonia, ITA, 1, 82
+%_% 40138, POMPA, Alessandro, ITA, 0, 0
+
+%Round 1 
+  3019 (45)>(19)  40133  B
+ 40134 (21)<(43)   3062  B
+  2884 (44)>(20)  40137  B
+ 40138 (00)<(64)  40131  B
+ 40132 (55)>(09)  40139  B
+
+%Round 2 
+ 40131 (30)<(34)   3019  B
+  3062 (37)>(27)   2884  B
+ 40133 (31)<(33)  40132  B
+ 40137 (36)>(28)  40134  B
+
+%Round 3 
+ 40132 (16)<(48)   3062  B
+  3019 (38)>(26)  40137  B
+ 40139 (21)<(43)  40131  B
+  2884 (43)>(21)  40133  B
+
+%Round 4 
+  3062 (35)>(29)   3019  B
+ 40131 (16)<(48)   2884  B
+ 40134 (23)<(41)  40132  B
+ 40137 (45)>(19)  40139  B
+ 

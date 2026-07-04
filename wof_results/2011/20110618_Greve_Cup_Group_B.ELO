@@ -1,0 +1,44 @@
+%%Tournament: Greve Cup (Group B)
+%%Country: Denmark
+%%Date: 18/06/2011
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/06/22 23:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      92, FELDBORG, Karsten, DK,  5, 232
+%_%      96, VALLUND, Henrik, DK,  3, 191
+%_%    1045, NIELSEN, Kim J., DK,  3, 170
+%_%    1017, MAARTENSSON, Mikael, DK,  2, 125
+%_%    1981, STOKKE, Solrun, DK,  2, 122
+
+
+
+%Round: 1
+
+    96 (27)<(37)   1017  B
+  1045 (52)>(12)   1981  B
+
+%Round: 2
+
+    92 (46)>(18)   1045  B
+  1981 (17)<(47)     96  B
+
+%Round: 3
+
+  1017 (21)<(43)   1981  B
+    96 (29)<(35)     92  B
+
+%Round: 4
+
+  1045 (16)<(48)     96  B
+    92 (57)>(07)   1017  B
+
+%Round: 5
+
+  1981 (10)<(54)     92  B
+  1017 (20)<(44)   1045  B
+
+
+%%Added results

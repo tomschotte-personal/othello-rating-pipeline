@@ -1,0 +1,37 @@
+%%Tournament: 21st Kanagawa Expert Game
+%%Country: Japan
+%%Date: 03/12/2000
+%%Sender: Tom Schotte
+
+%round1
+4014 > 600
+6843 > 175
+10952 > 6813
+
+%round2
+4014 > 6843
+10952 > 600
+6813 > 175
+
+%round3
+4014 > 6813
+6843 > 600
+10952 > 175
+
+%round4
+4014 > 10952
+6843 > 6813
+175 > 600
+
+%round5
+4014 > 175
+6843 > 10952
+6813 > 600
+
+
+%1. 4014	tominaga	kenta
+%2. 6843	itagaki	kenichi
+%3. 10952	easka	akira
+%4. 6813	yamazaki	nobuyuki
+%5. 175	yasojima	keiji
+%6. 600	takeda	kyoko

@@ -1,0 +1,44 @@
+%%Tournament: Israeli Championship
+%%Country: Israel
+%%Date: 11/09/2009
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    200002, DRUK, Erez, IL, 5, 242
+%_%    4085, MALNEV, Andrey, IL, 4, 190
+%_%    885, SHIFMAN, Ilya, IL, 3, 156
+%_%    4151, MILLER, Alexey, IL, 2.5, 148
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 2, 151
+%_%    4038, GELTSER, Valery, IL, 2, 136
+%_%    880, SHIFMAN, Leonid, IL, 1.5, 154
+%_%    4039, RADZIVILOVSKY, Lev, IL, 0, 103
+
+%Round 1
+  4039 (30)<(34)   4151 B
+   880 (25)<(39)   4038 B
+  4028 (24)<(40) 200002 B
+   885 (14)<(50)   4085 B
+
+%Round 2
+  4085 (40)>(24)   4038 B
+200002 (56)>(08)   4151 B
+  4028 (50)>(14)   4039 B
+   885 (34)>(30)    880 B
+
+%Round 3
+  4085 (15)<(49) 200002 B
+  4151 (44)>(20)   4028 B
+  4038 (12)<(52)    885 B
+   880 (47)>(17)   4039 B
+
+%Round 4
+200002 (51)>(13)    885 B
+  4151 (30)<(34)   4085 B
+  4028 (44)>(20)    880 B
+  4039 (21)<(43)   4038 B
+
+%Round 5
+  4038 (18)<(46) 200002 B
+  4085 (51)>(13)   4028 B
+   885 (43)>(21)   4039 B
+   880 (32)=(32)   4151 B

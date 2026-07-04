@@ -1,0 +1,50 @@
+%%Tournament: Ludus di Natale 2017
+%%Country: Brazil
+%%Date: 17/12/2017
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/21 00:15
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4083, DE CAMARGO, Lucas, BRA,  5, 228, 1637
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  4, 204, 1075
+%_%  290272, KITADA, Paulo Cesar, BRA,  3, 177, 0
+%_%  290025, CORREIA JR., Moises, BRA,  2, 171, 0
+%_%  290042, CORREIA, Lucas Augusto P., BRA,  1, 81, 0
+%_%  290043, TUBERO, Jesualdo, BRA,  0, 99, 0
+
+
+
+%Round: 1
+
+290174 (38)>(26) 290025  B
+  4083 (51)>(13) 290042  B
+290043 (19)<(45) 290272  B
+
+%Round: 2
+
+290042 (05)<(59) 290174  B
+290025 (53)>(11) 290043  B
+290272 (21)<(43)   4083  B
+
+%Round: 3
+
+290174 (40)>(24) 290043  B
+290042 (08)<(56) 290272  B
+  4083 (38)>(26) 290025  B
+
+%Round: 4
+
+290272 (13)<(51) 290174  B
+290043 (16)<(48)   4083  B
+290025 (44)>(20) 290042  B
+
+%Round: 5
+
+290174 (16)<(48)   4083  B
+290272 (42)>(22) 290025  B
+290042 (35)>(29) 290043  B
+
+
+%%Added results

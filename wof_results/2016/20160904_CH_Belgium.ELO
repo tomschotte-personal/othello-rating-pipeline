@@ -1,0 +1,48 @@
+%%Tournament: 33rd Belgian Othello Championship
+%%Country: Belgium
+%%Date: 04/09/2016
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/09/04 18:51
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  6, 243, 2027
+%_%    5900, REUNES, Nick, BEL,  4, 193, 1784
+%_%  270024, NICHOLLS, Frederic, BEL,  2, 185, 1425
+%_%    2785, VAES, Dimitri, BEL,  0, 147, 1752
+
+
+
+%Round: 1
+
+  2795 (36)>(28) 270024  B
+  5900 (35)>(29)   2785  B
+
+%Round: 2
+
+  2785 (21)<(43)   2795  B
+270024 (29)<(35)   5900  B
+
+%Round: 3
+
+  2795 (34)>(30)   5900  B
+  2785 (30)<(34) 270024  B
+
+%Round: 4
+
+270024 (22)<(42)   2795  B
+  2785 (31)<(33)   5900  B
+
+%Round: 5
+
+  2795 (46)>(18)   2785  B
+  5900 (38)>(26) 270024  B
+
+%Round: 6
+
+  5900 (22)<(42)   2795  B
+270024 (46)>(18)   2785  B
+
+
+%%Added results

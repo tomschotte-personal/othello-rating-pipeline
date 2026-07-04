@@ -1,0 +1,216 @@
+%%Tournament: 29th All Japan
+%%Country: Japan
+%%Date: 05/08/2001
+%%Sender: Tom Schotte
+
+%group A
+578 > 11223
+578 > 10289
+578 > 10777
+11223 > 10289
+11223 > 10777
+10289 > 10777
+578 > 11353
+578 > 698
+578 > 603
+578 > 700
+
+%group B
+700 > 5523
+700 > 10122
+700 > 5543
+5523 > 10122
+5523 > 5543
+10122 > 5543
+700 > 11117
+700 > 10997
+700 > 4014
+
+%group C
+4014 > 7077
+4014 > 7025
+4014 > 10392
+7077 > 7025
+7077 > 10392
+7025 > 10392
+4014 > 5560
+4014 > 11276
+4014 > 603
+
+%group D
+603 > 10999
+603 > 11284
+603 > 6914
+10999 > 11284
+10999 > 6914
+11284 > 6914
+603 > 5509
+603 > 4022
+
+%group E
+4022 > 655
+4022 > 10164
+4022 > 7055
+655 > 10164
+655 > 7055
+10164 > 7055
+4022 > 6972
+4022 > 698
+4022 > 11276
+
+%group F
+%one player short
+11276 > 10443
+11276 > 5530
+10443 > 5530
+11276 > 6813
+11276 > 10997
+
+%group G
+698 > 488
+698 > 6951
+698 > 11105
+488 > 6951
+11105 > 488
+6951 > 11105
+698 > 11088
+698 > 10997
+
+%group H
+10997 > 5524
+10997 > 5526
+4011 > 10997
+5524 > 5526
+5526 > 4011
+5524 > 4011
+10997 > 5502
+
+%group I
+11353 > 11127
+11353 > 5571
+11353 > 11422
+11127 > 5571
+11127 > 11422
+5571 > 11422
+
+%group J
+11088 > 6822
+11088 > 11190
+11088 > 10331
+6822 > 11190
+6822 > 10331
+11190 > 10331
+
+%group K
+11117 > 602
+11117 > 11057
+11117 > 10275
+602 > 11057
+602 > 10275
+11057 > 10275
+
+%group L
+5502 > 11245
+5502 > 945
+11227 > 5502
+11245 > 945
+11245 > 11227
+11227 > 945
+
+%group M
+5509 > 7063
+5509 > 11081
+5506 > 5509
+7063 > 5506
+7063 > 11081
+11081 > 5506
+
+%group N
+5560 > 6970
+5560 > 6870
+6868 > 5560
+6970 > 6868
+6970 > 6870
+6870 > 6868
+
+%group O
+6972 > 10983
+6972 > 11450
+7047 > 6972
+10983 > 11450
+10983 > 7047
+11450 > 7047
+
+%group P
+6813 > 10971
+6813 > 11451
+10070 > 6813
+10070 > 11451
+10971 > 10070 
+10971 > 11451
+
+
+
+%1. 578 Kazuhiro Sakaguchi  7/7  
+%2. 700 Tetsuya Nakajima  6/7  
+%3. 4014 Kenta Tominaga  6/7  
+%4. 603 Shigeru Kaneda  5/7  
+%5. 4022 Kazune Aoki  6/7  
+%6. 11276 Shinji Sato  4/7  
+%7. 698 Makoto Suekuni  5/7  
+%8. 10997 Takeshi Hida  3/7  
+%9. 11353 Junichi Tominaga  3/4  
+%10. 11088 Masayuki Kawate  3/4  
+%11. 11117 Naoto Komatsu  3/4  
+%12. 5502 Hiroshi Goto  2/4  
+%13. 5509 Tsukasa Imaoka  2/4  
+%14. 5560 Shinji Tsuji  2/4  
+%15. 6972 Toru Miyazaki  2/4  
+%16. 6813 Nobuyuki Yamazaki  2/4  
+%17. 655 Nobuyuki Takizawa  2/3  
+%18. 11223 Hisaichi Nomura  2/3  
+%19. 11245 Koji Osada  2/3  
+%20. 602 Takashi Otani  2/3  
+%21. 5523 Yasuyuki Araki  2/3  
+%22. 7077 Hikaru Ishizaki  2/3  
+%23. 10999 Seizi Hidesato  2/3  
+%24. 10070 Osamu Kamemoto  2/3  
+%25. 6822 Yuichi Yamada  2/3  
+%26. 10983 Masaki Haneda  2/3  
+%27. 11127 Daisuke Kudomi  2/3  
+%28. 5524 Hiroto Nagao  2/3  
+%29. 7063 Akira Hasegawa  2/3  
+%30. 10971 Akihiko Goto  2/3  
+%31. 11227 Hidenori Ogiwara  2/3  
+%32. 6970 Takahiro Kudashou  2/3  
+%33. 10443 Kazuki Funabashi  1/2  
+%34. 6870 Kenji Kiyoyuki  1/3  
+%35. 11057 Kazuo Iwasaki  1/3  
+%36. 488 Masaki Takizawa  1/3  
+%37. 10122 Takumi Tanino  1/3  
+%38. 11081 Kuniharu Kawagashira  1/3  
+%39. 10289 Naohiro Kawakami  1/3  
+%40. 6868 Sohei Sasaki  1/3  
+%41. 11450 Hiroki Fukuyama  1/3  
+%42. 11190 Yoshihito Naito  1/3  
+%43. 6951 Takeshi Fujita  1/3  
+%44. 5526 Toshihiro Uno  1/3  
+%45. 5571 Hiroyuki Matsumoto  1/3  
+%46. 7025 Hidekazu Takahashi  1/3  
+%47. 4011 Tamaki Miyaoka  1/3  
+%48. 11284 Takehiko Sawada  1/3  
+%49. 5506 Suguru Tamaki  1/3  
+%50. 11105 Keisuke Kiyoyuki  1/3  
+%51. 7047 Yoshinori Umezawa  1/3  
+%52. 10164 Katsutoshi Ogura  1/3  
+%53. 11422 Shingo Yoshiyuki  0/3  
+%54. 7055 Junya Terada  0/3  
+%55. 5530 Bintatsu Noda  0/2  
+%56. 10392 Yukinori Ichikawa  0/3  
+%57. 10331 Takashi Matsui  0/3  
+%58. 11451 Junya Yuze  0/3  
+%59. 10275 Toshihiro Baba  0/3  
+%60. 945 Mineho Ozaki  0/3  
+%61. 6914 Takahiro Nakayama  0/3  
+%62. 5543 Keiichi Watanabe  0/3  
+%63. 10777 Hideo Takagi  0/3  

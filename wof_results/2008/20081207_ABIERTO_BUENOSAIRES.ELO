@@ -1,0 +1,32 @@
+%%Tournament: Torneo Abierto de Buenos Aires
+%%Country: Argentina
+%%Date: 07/12/2008
+%%Sender: Daniel Olivares
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4166, LUCIOLI, Juan Pablo, ARG, 4, 205
+%_%     650, OLIVARES, Daniel, ARG, 3, 138
+%_%  280008, RODRIGUEZ, Ismael, URU, 1.5, 87    
+%_%    4167, COELLO, Alejandro, ARG, 1, 116
+%_%    4157, ITURBIDE, Paula, ARG, 0.5, 95
+
+%Round 1
+  4157 (32)=(32) 280008 B
+   650 (11)<(53)   4166 B
+
+%Round 2
+  4167 (45)>(19)   4157 B
+280008 (08)<(56)   4166 B
+
+%Round 3
+  4166 (48)>(16)   4167 B
+   650 (51)>(13) 280008 B
+
+%Round 4
+  4157 (16)<(48)   4166 B
+  4167 (24)<(40)    650 B
+
+%Round 5
+   650 (36)>(28)   4157 B
+280008 (33)>(31)   4167 B
+

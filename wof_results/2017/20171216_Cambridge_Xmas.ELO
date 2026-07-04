@@ -1,0 +1,50 @@
+%%Tournament: Cambridge Christmas/friendly
+%%Country: Great-Britain
+%%Date: 16/12/2017
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/19 13:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     320, PLOWMAN, Guy, GBR,  5, 288, 1967
+%_%    2093, CAMPBELL, Yvette, GBR,  4, 177, 1218
+%_%    2069, PLOWMAN, Luke, GBR,  3, 172, 1008
+%_%  100027, PLOWMAN, Mark, GBR,  2, 159, 641
+%_%  100037, PLOWMAN, Anya, GBR,  1, 87, -349
+%_% +100040, JORDAN, David, GBR,  0, 77, 0
+
+
+
+%Round: 1
+
+   320 (60)>(04)   2069  B
+100027 (48)>(16) 100040  B
+100037 (12)<(52)   2093  B
+
+%Round: 2
+
+100040 (00)<(64)    320  B
+  2093 (40)>(24)   2069  B
+100037 (11)<(53) 100027  B
+
+%Round: 3
+
+   320 (64)>(00)   2093  B
+100040 (15)<(49) 100037  B
+  2069 (49)>(15) 100027  B
+
+%Round: 4
+
+100037 (00)<(64)    320  B
+100027 (15)<(49)   2093  B
+  2069 (46)>(18) 100040  B
+
+%Round: 5
+
+   320 (36)>(28) 100027  B
+100037 (15)<(49)   2069  B
+  2093 (36)>(28) 100040  B
+
+
+%%Added results

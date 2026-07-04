@@ -1,0 +1,48 @@
+%%Tournament: RomaEST in gioco (Cat. BIE)
+%%Country: Italy
+%%Date: 12/10/2014
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 16:20
+
+%      ID, NAME, Firstname, score, disc-count
+%_% 40022, IACAZ, Sara,  4, 254
+%_% 40046, PUZZIELLO, Sergio,  3, 253
+%_% 40048, PANTANI, Ennio,  2, 222
+%_% 40064, VIOLANTE, Valentina,  2, 234
+%_% 40047, PANTANI, Antonio,  2, 172
+%_% 40074, CENCI, Alessio,  2, 220
+%_% 40097, CACCIATORE, Alessandro,  1, 134
+%_% 40082, MALATESTA, Ginevra,  0, 170
+
+
+
+%Round: 1
+
+ 40046 (24)<(40)  40048   B
+ 40064 (43)>(21)  40074   B
+ 40047 (37)>(27)  40082   B
+ 40097 (26)<(38)  40022   B
+
+%Round: 2
+
+ 40048 (27)<(37)  40047   B
+ 40022 (42)>(22)  40064   B
+ 40082 (31)<(33)  40046   B
+ 40074 (49)>(15)  40097   B
+
+%Round: 3
+
+ 40047 (25)<(39)  40022   B
+ 40046 (53)>(11)  40074   B
+ 40064 (19)<(45)  40048   B
+ 40097 (46)>(18)  40082   B
+
+%Round: 4
+
+ 40022 (36)>(28)  40048   B
+ 40047 (23)<(41)  40046   B
+ 40097 (21)<(43)  40064   B
+ 40074 (40)>(24)  40082   B
+ 

@@ -1,0 +1,44 @@
+%%Tournament: Selection CDF 2008 Bayonne
+%%Country: France
+%%Date: 03/08/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/08/23 17:58
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3504, FURET, Thomas, F,  5, 237
+%_% +  3862, SEMPE, Emilie, F,  4, 213
+%_% +  3859, BOURRIEAU, Julien, F,  2.5, 126
+%_% +  3860, PORTES, Jessica, F,  2, 141
+%_% +  3861, LEMARCHAND, Pierre-Emmanuel, F,  1.5, 123
+
+
+
+%Round: 1
+
+  3860 (29)<(35)   3859 B
+  3504 (36)>(28)   3862 B
+
+%Round: 2
+
+  3861 (18)<(46)   3504 B
+  3862 (33)>(31)   3860 B
+
+%Round: 3
+
+  3859 (10)<(54)   3862 B
+  3860 (37)>(27)   3861 B
+
+%Round: 4
+
+  3504 (60)>(04)   3860 B
+  3861 (32)=(32)   3859 B
+
+%Round: 5
+
+  3862 (58)>(06)   3861 B
+  3859 (09)<(55)   3504 B
+
+
+%%Added results

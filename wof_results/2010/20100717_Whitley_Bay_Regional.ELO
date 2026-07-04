@@ -1,0 +1,57 @@
+%%Tournament: 2010 Whitley Bay Regional
+%%Country: Great-Britain
+%%Date: 17/07/2010
+%%Sender: Geoff Hubbard
+
+%%Creator: Geoff's Perl Tools
+%%CreationDate: Wed Oct  6 14:08:46 2010
+
+%_%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2006, ARNOLD, Roy,  GB, 7, 342
+%_%     189, HAIGH, David,  GB, 4, 244
+%_%  100004, LIGHTMAN, Marie,  GB, 4, 255
+%_%  100002, STARKEY, Helen,  GB, 4, 258
+%_% +100012, BOWERS, Emma,  GB, 2, 139
+%_% +100009, BELDON, Gerry,  GB, 1, 110
+%_% +100010, LANCASTER, Steve,  GB, 1, 61
+%_% +100011, LIGHTMAN, Freddy,  GB, 0, 63
+
+%Warning: Contains no game colour data
+
+%Round 1
+100009 (00)<(64)   2006 
+   189 (43)>(21) 100004 
+100002 (53)>(11) 100012 
+
+%Round 2
+100009 (15)<(49) 100002 
+  2006 (53)>(11)    189 
+100004 (55)>(09) 100012 
+
+%Round 3
+100009 (14)<(50) 100012 
+  2006 (41)>(23) 100004 
+   189 (11)<(53) 100002 
+
+%Round 4
+100009 (20)<(44)    189 
+  2006 (48)>(16) 100012 
+100004 (04)<(60) 100002 
+
+%Round 5
+100009 (13)<(51) 100010 
+100011 (16)<(48) 100004 
+  2006 (41)>(23) 100002 
+   189 (56)>(08) 100012 
+
+%Round 6
+100009 (12)<(52) 100004 
+100011 (19)<(45) 100012 
+  2006 (56)>(08) 100002 
+   189 (54)>(10) 100010 
+
+%Round 7
+100009 (36)>(28) 100011 
+  2006 (39)>(25)    189 
+100004 (52)>(12) 100002 
+

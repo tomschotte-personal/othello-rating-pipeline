@@ -1,0 +1,34 @@
+%%Tournament: Championnat Australie 2007
+%%Country: Australia
+%%Date: 18/08/2007
+%%Sender: Emmanuel.Lazard
+
+
+%ROUND 1
+4107 > 4145
+4146 < 4147
+4148 < 4113
+
+%ROUND 2
+4147 > 4149
+4113 > 4107
+4145 > 4148
+
+%ROUND 3
+4113 > 4147
+4149 < 4145
+4107 > 4146
+
+%ROUND 4
+4149 < 4113
+4145 > 4146
+4148 > 4107
+
+%ROUND 5
+4113 > 4145
+4148 > 4147
+4146 < 4149
+
+
+%FINAL :
+4107 < 4113

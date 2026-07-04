@@ -1,0 +1,23 @@
+%%Tournament: Campionato Ligure 2016 - 5a Tappa
+%%Country: Italy
+%%Date: 12/04/2016
+%%Sender: Chiara Gigliucci 
+%%Creator: Chiara Gigliucci ( 05/09/2016 22:00 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2855, BIANCHI, Paolo, I, 3, 127
+%_% 40109, LORENZONI, Marco, I, 2, 108
+%_% 40098, BREGANTE, Alessio, I, 1, 82   
+%_% 40096, TOMASI, Fabio, I, 0, 67   
+
+%Round 1 
+  2855 (40)>(24) 40098 B
+ 40096 (19)<(45) 40109 B
+
+%Round 2 
+ 40109 (24)<(40)  2855 B
+ 40098 (33)>(31) 40096 B
+
+%Round 3 
+  2855 (47)>(17) 40096 B
+ 40098 (25)<(39) 40109 B

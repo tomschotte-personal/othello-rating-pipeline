@@ -1,0 +1,22 @@
+%%Tournament: Campionato Ligure 2016-2017 - 4a Tappa
+%%Country: Italy
+%%Date: 15/02/2017
+%%Sender: Chiara Gigliucci 
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2855, BIANCHI, Paolo, I, 3, 153
+%_% 40098, BREGANTE, Alessio, I, 2, 98
+%_% 40117, CASTORE, Maurizio, I, 1, 73
+%_% 40096, TOMASI, Fabio, I, 0, 60
+
+%Round 1 
+ 40096 (27)<(37)  40098  B
+  2855 (47)>(17)  40117  B
+
+%Round 2 
+ 40117 (41)>(23)  40096  B
+ 40098 (12)<(52)   2855  B
+
+%Round 3 
+ 40098 (49)>(15)  40117  B
+  2855 (54)>(10)  40096  B

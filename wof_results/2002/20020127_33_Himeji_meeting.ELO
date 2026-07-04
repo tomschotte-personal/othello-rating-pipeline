@@ -1,0 +1,88 @@
+%%Tournament: 33rd Himeji Meeting
+%%Country: Japan
+%%Date: 27/01/2002
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka33.html
+
+%Round1
+  6825 >  11978  
+ 11983 >  12053  
+ 11753 >  10227  
+ 10025 >  10024  
+ 11985 >  12050  
+ 11882 >  12054  
+ 12049 >  12052  
+  6824 >  11041  
+ 11980 >  11987  
+ 12051 >  12055  
+
+%Round2
+  6825 >  11985  
+ 11041 >  10227  
+ 10025 >  11882  
+ 12049 >  11983  
+  6824 >  11753  
+ 11980 >  12051  
+ 10024 >  12054  
+ 11987 >  12055  
+ 12050 >  11978  
+ 12053 >  12052  
+
+%Round3
+  6825 >  10025  
+ 11041 >  12053  
+ 11983 >  12055  
+ 11753 >  12049  
+ 11985 >  11987  
+ 11882 >  12051  
+ 11978 >  10227  
+  6824 >  11980  
+ 10024 >  12050  
+ 12052 >  12054  
+
+%Round4
+  6825 >   6824  
+ 11041 >  10025  
+ 11983 >  11980  
+ 11753 >  11985  
+ 11882 >  10024  
+ 11978 >  12052  
+ 12049 >  11987  
+ 12050 >  12054  
+ 12051 >  12053  
+ 10227 >  12055  
+
+%Round5
+  6825 >  11753  
+ 11041 >  12049  
+ 11983 >  11882  
+ 10025 >  12050  
+ 11985 >   6824  
+ 11978 >  12051  
+ 11980 >  12052  
+ 11987 >  12053  
+ 12054 >  10227  
+ 12055 >  10024  
+
+%players
+%1 6825	shinkawa	hiroki
+%2 11041	iseda	katsuya
+%3 11983	konami	takimoto
+%4 11753	yokoyama	chiaki
+%5 10025	nobuhito	yoichi
+%6 11985	kubo	sadahiko
+%7 11882	takamura	kandai
+%8 11978	hirao	atsushi
+%9 12049	miki	toshikazu
+%10 6824	kuroda	takuji
+%11 11980	kinugawa	kotaro
+%12 10024	konami	hiroshi
+%13 11987	mimura	yukiko
+%14 12050	miwa	yako
+%15 12051	miwa	kinoshita
+%16 12052	konishi	yutaka
+%17 12053	shiraishi	yutaro
+%18 12054	sano	ryoko
+%19 12055	nakajima	yoko
+%20 10227	yokoyama	takako

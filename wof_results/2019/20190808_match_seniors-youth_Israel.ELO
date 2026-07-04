@@ -1,0 +1,37 @@
+%%Tournament: friendly match Israel(seniors) - Israel(youth) 
+%%Country: Israel
+%%Date: 08/08/2019
+%%Sender: Leonid Shifman
+
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 200003, MARGALIOT, Michael, ISR,  2.5, 129
+%_%    880, SHIFMAN, Leonid, ISR,  2, 155
+%_% 200040, LAUFER, Shachar, ISR,  2, 112
+%_% 200010, SHIFMAN, Michael, ISR,  1.5, 116
+
+
+%Round: 1
+
+   880 (54)>(10) 200040  B
+200003 (32)=(32) 200010  B
+
+
+%Round: 2
+
+200040 (33)>(31)    880  B
+200010 (26)<(38) 200003  B
+
+
+
+%Round: 3
+
+   880 (25)<(39) 200010  B
+200003 (11)<(53) 200040  B
+
+
+%Round: 4
+
+200010 (19)<(45)    880  B
+200040 (16)<(48) 200003  B
+

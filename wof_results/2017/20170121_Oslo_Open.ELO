@@ -1,0 +1,63 @@
+%%Tournament: Oslo Open 2017
+%%Country: Norway
+%%Date: 21/01/2017
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/01/29 22:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2583, DANIELSEN, Jostein, NOR,  5, 286, 2091
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  5, 272, 1953
+%_%    1868, HAUGLAND, Jan Kristian, NOR,  5, 253, 2010
+%_%    2511, OLSEN, Pal Tore, NOR,  4.5, 244, 1727
+%_%  140031, TVEDT, Sverre, NOR,  4.5, 220, 1735
+%_%    1802, SKOGEN, Tor Birger, NOR,  3, 196, 1699
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  1, 153, 1208
+
+
+
+%Round: 1
+
+140031 (15)<(49)   2583  B
+  2570 (55)>(09)   1802  B
+140048 (21)<(43)   2511  B
+
+%Round: 2
+
+  1868 (22)<(42)   2570  B
+  2511 (32)=(32) 140031  B
+  1802 (39)>(25) 140048  B
+
+%Round: 3
+
+  2583 (44)>(20)   2511  B
+140048 (23)<(41)   1868  B
+140031 (26)<(38)   1802  B
+
+%Round: 4
+
+  2570 (45)>(19) 140048  B
+  1802 (17)<(47)   2583  B
+  1868 (30)<(34) 140031  B
+
+%Round: 5
+
+  2511 (40)>(24)   1802  B
+140031 (34)>(30)   2570  B
+  2583 (12)<(52)   1868  B
+
+%Round: 6
+
+140048 (25)<(39) 140031  B
+  1868 (33)>(31)   2511  B
+  2570 (34)>(30)   2583  B
+
+%Round: 7
+
+  1802 (29)<(35)   1868  B
+  2583 (64)>(00) 140048  B
+  2511 (38)>(26)   2570  B
+
+
+%%Added results

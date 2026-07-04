@@ -1,0 +1,28 @@
+%%Tournament: ARCON Open
+%%Country: Norway
+%%Date: 24/06/2006
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+2554 > 2555
+
+%%Round: 2
+
+1800 > 2554
+
+%%Round: 3
+
+1800 > 2555
+
+%%Round: 4
+
+2555 > 2554
+
+%%Round: 5
+
+2554 < 1800
+
+%%Round: 6
+
+2555 < 1800

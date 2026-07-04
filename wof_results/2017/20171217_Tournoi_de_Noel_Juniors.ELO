@@ -1,0 +1,50 @@
+%%Tournament: Tournoi de Noel Juniors
+%%Country: France
+%%Date: 17/12/2017
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/17 20:03
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50053, TASTET, Remi, FRA,  5, 269, 1119
+%_%   50098, BENOIT, Mathis, FRA,  4, 208, 0
+%_%   50081, TASTET, Sophie, FRA,  2, 151, 758
+%_%   50101, KEUMAYOU, Esther, FRA,  2, 107, 0
+%_%   50093, COLLAY, Arthur, FRA,  1, 139, 0
+%_%   50100, ROQUES, Raphael, FRA,  1, 86, 0
+
+
+
+%Round: 1
+
+ 50098 (33)>(31)  50093  B
+ 50101 (05)<(59)  50053  B
+ 50081 (53)>(11)  50100  B
+
+%Round: 2
+
+ 50053 (41)>(23)  50098  B
+ 50093 (46)>(18)  50081  B
+ 50100 (28)<(36)  50101  B
+
+%Round: 3
+
+ 50098 (35)>(29)  50081  B
+ 50053 (60)>(04)  50100  B
+ 50101 (38)>(26)  50093  B
+
+%Round: 4
+
+ 50100 (01)<(63)  50098  B
+ 50081 (46)>(18)  50101  B
+ 50093 (14)<(50)  50053  B
+
+%Round: 5
+
+ 50098 (54)>(10)  50101  B
+ 50100 (42)>(22)  50093  B
+ 50053 (59)>(05)  50081  B
+
+
+%%Added results

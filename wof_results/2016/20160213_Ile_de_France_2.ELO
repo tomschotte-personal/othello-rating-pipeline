@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 13/02/2016
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/03/26 13:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 244, 2098
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 206, 1903
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 177, 1808
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 162, 1593
+%_%     228, BUSUTTIL, Michel, FRA,  2, 156, 1388
+%_%    3600, BENOIT, Serge, FRA,  2, 119, 1444
+%_%    3734, CLUZON, Gilles, FRA,  1, 125, 1352
+%_%    2788, LECAT, Monique, BEL,  0, 91, 1631
+
+
+
+%Round: 1
+
+  3734 (26)<(38)   3600  B
+   228 (27)<(37)   9025  B
+    45 (25)<(39)   3598  B
+  2788 (08)<(56)      2  B
+
+%Round: 2
+
+  3598 (31)<(33)      2  B
+  3600 (06)<(58)   9025  B
+   228 (39)>(25)   2788  B
+  3734 (23)<(41)     45  B
+
+%Round: 3
+
+  2788 (29)<(35)   3734  B
+     2 (53)>(11)   9025  B
+  3598 (39)>(25)    228  B
+    45 (49)>(15)   3600  B
+
+%Round: 4
+
+  9025 (23)<(41)   3598  B
+   228 (54)>(10)   3734  B
+     2 (49)>(15)     45  B
+  3600 (52)>(12)   2788  B
+
+%Round: 5
+
+  9025 (33)>(31)   3734  B
+    45 (47)>(17)   2788  B
+  3598 (56)>(08)   3600  B
+     2 (53)>(11)    228  B
+
+
+%%Added results

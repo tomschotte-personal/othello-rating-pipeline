@@ -1,0 +1,35 @@
+%%Tournament: Belarus championship
+%%Country: Belarus
+%%Date: 18/06/2011
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360003, LAMAZKI,     Andrei,     BLR,     5,     240
+%_%  360001, KRYVASHEYEU, Andrei,     BLR,     2,     158
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     2,     137
+%_% +360007, AFONICHAU,   Aliaksei,   BLR,     2,     123
+%_% +360006, BADYTCHYK,   Dzmitry,    BLR,     0,     34
+
+
+%Round 1
+360001 (58)>(06) 360006  B
+360007 (26)<(38) 360003  B
+
+%Round 2
+360000 (22)<(42) 360001  B
+360006 (06)<(58) 360007  B
+
+%Round 3
+360007 (05)<(59) 360000  B
+360003 (58)>(06) 360006  B
+
+%Round 4
+360000 (08)<(56) 360003  B
+360001 (30)<(34) 360007  B
+
+%Round 5
+360006 (16)<(48) 360000  B
+360003 (36)>(28) 360001  B
+
+%Final
+360001 (12)<(52) 360003  B

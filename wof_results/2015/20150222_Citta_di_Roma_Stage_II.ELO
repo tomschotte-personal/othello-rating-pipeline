@@ -1,0 +1,61 @@
+%%Tournament: Citta di Roma - Stage II
+%%Country: Italy
+%%Date: 22/02/2015
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 17:30
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  3037, DI MATTEI, Alessandro,  4, 236
+%_%  2884, VECCHI, Maria Serena,  3.5, 235
+%_%    43, PUZZO, Luigi,  3, 221
+%_%    36, MARCONI, Francesco,  3, 235
+%_% 40032, DI NARDO, Roberto,  3, 189
+%_%  3062, CAVIOLA, Leonardo,  2.5, 162
+%_% 40040, ZHUK, Katia,  2, 171
+%_% 40048, PANTANI, Ennio,  2, 152
+%_% 40099, LEOFRIGIO, Marco,  1, 130
+%_% 40047, PANTANI, Antonio,  1, 149
+
+
+
+
+%Round: 1
+
+ 40048 (47)>(17)  40047   B
+    36 (55)>(09)  40032   B
+ 40099 (09)<(55)   2884   B
+  3037 (48)>(16)  40040   B
+  3062 (22)<(42)     43   B
+
+%Round: 2
+
+    43 (26)<(38)     36   B
+  2884 (10)<(54)   3037   B
+ 40032 (38)>(26)  40048   B
+ 40047 (05)<(59)   3062   B
+ 40040 (45)>(19)  40099   B
+
+%Round: 3
+
+    36 (38)>(26)   3037   B
+  3062 (32)=(32)   2884   B
+ 40032 (30)<(34)     43   B
+ 40048 (12)<(52)  40040   B
+ 40099 (20)<(44)  40047   B
+
+%Round: 4
+
+  3037 (45)>(19)     43   B
+ 40040 (13)<(51)   3062   B
+  2884 (48)>(16)  40048   B
+ 40047 (24)<(40)  40032   B
+
+%Round: 5
+
+  3062 (10)<(54)   3037   B
+ 40040 (17)<(47)   2884   B
+    43 (53)>(11)  40047   B
+ 40032 (46)>(18)  40099   B
+ 

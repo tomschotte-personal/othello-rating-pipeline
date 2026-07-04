@@ -1,0 +1,48 @@
+%%Tournament: Skovde Open
+%%Country: Sweden
+%%Date: 02/05/2009
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/05/04 13:11
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1497, ANDERSSON, Mattias, S,  4, 227
+%_%    1301, STEENTOFT, Benkt, S,  4, 210
+%_%    1495, INGELMAN-SUNDBERG, Simon, S,  3.5, 233
+%_%    6553, ALIN, Cecilia, S,  0.5, 98
+
+
+
+%Round: 1
+
+  1495 (33)>(31)   1497 B
+  6553 (15)<(49)   1301 B
+
+%Round: 2
+
+  1497 (35)>(29)   1495 B
+  1301 (32)=(32)   6553 B
+
+%Round: 3
+
+  1301 (36)>(28)   1495 B
+  1497 (52)>(12)   6553 B
+
+%Round: 4
+
+  1495 (32)=(32)   1301 B
+  6553 (22)<(42)   1497 B
+
+%Round: 5
+
+  1301 (17)<(47)   1497 B
+  1495 (56)>(08)   6553 B
+
+%Round: 6
+
+  1497 (20)<(44)   1301 B
+  6553 (09)<(55)   1495 B
+
+
+%%Added results

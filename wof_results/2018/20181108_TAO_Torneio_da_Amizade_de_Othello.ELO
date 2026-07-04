@@ -1,0 +1,72 @@
+%%Tournament: TAO - Torneio da Amizade de Othello
+%%Country: Brazil
+%%Date: 08/11/2018
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/11/22 07:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  +290426, SOUZA, Pedro Henrique Bueno, BRA,  4, 225, 0
+%_%  +290427, PERES, Eloa Helena Santos, BRA,  4, 191, 0
+%_%  +290340, SOARES, Victoria Lemes, BRA,  4, 186, 0
+%_%  +290428, BARROS, Maria Isabela Lima, BRA,  3, 222, 0
+%_%  +290429, CAMARGO, Lara Cesar, BRA,  3, 205, 0
+%_%  +290430, RIBEIRO, Giovana Gabriela, BRA,  3, 188, 0
+%_%  +290431, SILVA, Yasmim Gabriely Ferreira, BRA,  3, 174, 0
+%_%  +290432, SANTOS, Beatriz Ferreira, BRA,  2, 166, 0
+%_%  +290433, PICHINELI, Luiz Felipe Giacomazi, BRA,  2, 147, 0
+%_%  +290434, CARVALHO, Joao Lima, BRA,  2, 147, 0
+%_%  +290435, TEIXEIRA, Adson Henrique Ramos, BRA,  2, 138, 0
+%_%  +290436, DELFINO, Camily Victoria Donadon, BRA,  1, 118, 0
+%_%  +290437, FERRAZ, Agatha Lara Delfino, BRA,  1, 133, 0
+
+
+
+%Round: 1
+
+290436 (35)>(29) 290434  B 
+290340 (17)<(47) 290427  B
+290431 (48)>(16) 290430  B
+290433 (08)<(56) 290426  B
+290435 (49)>(15) 290432  B
+290428 (22)<(42) 290437  B
+
+
+%Round: 2
+
+290426 (46)>(18) 290436  B
+290427 (54)>(10) 290435  B
+290429 (41)>(23) 290431  B
+290437 (28)<(36) 290434  B
+290432 (22)<(42) 290340  B
+290430 (59)>(05) 290433  B
+
+%Round: 3
+
+290427 (33)>(31) 290429  B
+290431 (18)<(46) 290426  B
+290436 (14)<(50) 290430  B
+290435 (36)>(28) 290428  B
+290340 (52)>(12) 290437  B
+290434 (03)<(61) 290433  B
+
+%Round: 4
+
+290426 (46)>(18) 290427  B
+290430 (38)>(26) 290435  B
+290429 (22)<(42) 290340  B
+290428 (53)>(11) 290436  B
+290434 (15)<(49) 290431  B
+290437 (27)<(37) 290432  B
+
+%Round: 5
+
+290340 (33)>(31) 290426  B
+290427 (39)>(25) 290430  B
+290432 (28)<(36) 290431  B
+290435 (17)<(47) 290429  B
+290433 (09)<(55) 290428  B
+290436 (40)>(24) 290437  B
+
+%%Added results

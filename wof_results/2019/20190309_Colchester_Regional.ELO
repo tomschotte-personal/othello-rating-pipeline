@@ -1,0 +1,48 @@
+%%Tournament: Colchester Regional 2019
+%%Country: Great-Britain
+%%Date: 09/03/2019
+%%Sender: Stephen Rowe
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2005/02/21 14:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  5, 243, 2174
+%_%    6437, BECK, David, GBR,  5, 242, 2074
+%_%    2091, ROWE, Stephen, GBR,  2, 149, 1476
+%_%  250067, HENG, Clara, SGP,  0, 134, 0
+
+
+
+%Round: 1
+
+  6437 (54)>(10)   2091  B
+    79 (40)>(24) 250067  B
+
+%Round: 2
+
+  2091 (33)>(31) 250067  B
+  6437 (37)>(27)     79  B
+
+%Round: 3
+
+  2091 (25)<(39)     79  B
+250067 (29)<(35)   6437  B
+
+%Round: 4
+
+  2091 (17)<(47)   6437  B
+250067 (19)<(45)     79  B
+
+%Round: 5
+
+250067 (13)<(51)   2091  B
+  6437 (23)<(41)     79  B
+
+%Round: 6
+
+  2091 (13)<(51)     79  B
+  6437 (46)>(18) 250067  B
+
+
+%%Added results

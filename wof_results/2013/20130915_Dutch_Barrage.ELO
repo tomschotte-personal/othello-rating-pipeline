@@ -1,0 +1,41 @@
+%%Tournament: Dutch Barrage 2013
+%%Country: Netherlands
+%%Date: 15/09/2013
+%%Sender: Marcel Sneek
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    5198, van den Berg, Erwin,  NED, 4,   223
+%_%    5181, Helmes,       Sido,   NED, 4,   202
+%_%    4012, De Graaf,     Jan,    NED, 2.5, 199
+%_%    5239, Fransen,      Martin, NED, 1.5, 144
+
+
+% Round 1
+
+  5198 (44)>(20)   5239 
+  4012 (35)>(29)   5181 
+
+% Round 2
+
+  5181 (40)>(24)   5198 
+  5239 (35)>(29)   4012 
+
+% Round 3
+
+  5239 (17)<(47)   5181 
+  5198 (18)<(46)   4012 
+
+% Round 4
+
+  5181 (38)>(26)   5239 
+  4012 (30)<(34)   5198 
+
+% Round 5
+
+  5198 (53)>(11) 5181
+  4012 (32)=(32) 5239
+ 
+% Round 6
+
+  5239 (14)<(50)   5198 
+  5181 (37)>(27)   4012 

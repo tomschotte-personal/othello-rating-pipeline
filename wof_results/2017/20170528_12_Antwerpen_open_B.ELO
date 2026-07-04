@@ -1,0 +1,49 @@
+%%Tournament: 12th Antwerpen Othello Open B
+%%Country: Belgium
+%%Date: 28/05/2017
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/05/28 18:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  270013, VAN DEN BRANDT, Joke, BEL,  5, 234, 392
+%_%  270012, VAN DAMME, Frank Ivo, BEL,  4, 230, 573
+%_% +400000, KRASTEV, Dimitar, BGR,  4, 186, 0
+%_% +270034, VECHTER, Ivan, BEL,  3, 160, 0
+%_% +270035, VECHTER, Gerben, BEL,  2, 156, 0
+
+
+
+%Round: 1
+
+270013 (41)>(23) 270035  B
+270012 (30)<(34) 400000  B
+
+%Round: 2
+
+270034 (17)<(47) 270013  B
+270035 (13)<(51) 270012  B
+
+%Round: 3
+
+270012 (54)>(10) 270034  B
+400000 (39)>(25) 270035  B
+
+%Round: 4
+
+270013 (25)<(39) 270012  B
+400000 (19)<(45) 270034  B
+
+%Round: 5
+
+400000 (17)<(47) 270013  B
+270035 (29)<(35) 270034  B
+
+%Round: 6
+
+270012 (23)<(41) 270013  B
+400000 (44)>(20) 270034  B
+
+
+%%Added results

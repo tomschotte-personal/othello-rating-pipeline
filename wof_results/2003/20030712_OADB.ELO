@@ -1,0 +1,29 @@
+%%Tournament: OADBY regionals
+%%Country: Great-Britain
+%%Date: 12/07/2003
+%%Sender: Emmanuel.Lazard
+
+%Round 1
+2006 = 2063
+ 804 >   74
+
+%Round 2
+ 324 > 2006
+  74 > 2063
+ 804 > 2091
+
+%Round 3
+  74 > 2006
+2091 > 2063
+ 324 >  804
+
+%Round 4
+2006 > 2091
+ 804 > 2063
+ 324 >   74
+
+%Round 5
+ 804 > 2006
+ 324 > 2063
+2091 >   74
+

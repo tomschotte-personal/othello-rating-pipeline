@@ -1,0 +1,59 @@
+%%Tournament: 189th Kyoto Meeting
+%%Country: Japan
+%%Date: 14/09/2003
+%%Sender: Tom Schotte
+
+%round1
+5559 > 5506
+6970 > 7081
+5526 > 6929
+5686 > 10038
+6936 > 10009
+
+%round2
+5559 > 5526
+6970 > 6929
+7081 > 5506
+5686 > 6936
+10038 > 10009
+
+%round3
+5559 > 6936
+6970 > 5686
+5526 > 10038
+5506 > 6929
+7081 > 10009
+
+%round4
+6970 > 5559
+5526 > 7081
+5506 > 5686
+10038 > 6936
+10009 > 6929
+
+%round5
+5559 > 7081
+6970 > 5526
+5506 > 10038
+5686 > 10009
+6929 > 6936
+
+%round6
+5559 > 5686
+5526 > 10009
+5506 > 6970
+7081 > 6936
+10038 > 6929
+
+
+%players
+%1 5559	kawarada	yuichi
+%2 6970	kudashou	takahiro
+%3 5526	uno	toshihiro
+%4 5506	tamaki	suguru
+%5 7081	kado	naoki
+%6 5686	iwata	hiroyuki
+%7 10038	wazuki	hiroyuki
+%8 6929	io	hideo
+%9 6936	tsubouchi	masao
+%10 10009	taru	eiichi

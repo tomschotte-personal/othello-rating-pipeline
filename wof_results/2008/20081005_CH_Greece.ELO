@@ -1,0 +1,50 @@
+%%Tournament: Greek Championship 2008
+%%Country: Greece
+%%Date: 05/10/2008
+%%Sender: Pandelis Theodosiou
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/10/16 22:54
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% +  300000, MITSI, Christina, GR,  5, 246
+%_% +  300001, MITSIS, Georgios, GR,  4, 208
+%_%      4164, THEODOSIOU, Pandelis, GR,  3, 166
+%_%      4165, SCHIZAS, George, GR,  2, 130
+%_% +  300002, TENNE, Katerina, GR,  1, 132
+%_% +  300003, PAPADOPOULOU, Aggeliki, GR,  0, 78
+
+
+
+%Round: 1
+
+  300000 (52)>(12)   300002 B
+  300001 (52)>(12)     4165 B
+  300003 (17)<(47)     4164 B
+
+%Round: 2
+
+  300002 (15)<(49)   300001 B
+    4165 (37)>(27)   300003 B
+    4164 (25)<(39)   300000 B
+
+%Round: 3
+
+  300000 (51)>(13)   300003 B
+  300001 (48)>(16)     4164 B
+  300002 (27)<(37)     4165 B
+
+%Round: 4
+
+  300001 (10)<(54)   300000 B
+  300003 (06)<(58)   300002 B
+    4165 (30)<(34)     4164 B
+
+%Round: 5
+
+  300000 (50)>(14)     4165 B
+  300003 (15)<(49)   300001 B
+    4164 (44)>(20)   300002 B
+
+
+%%Added results

@@ -1,0 +1,29 @@
+%%Tournament: Campionato Regionale della Liguria
+%%Country: Italy
+%%Date: 28/12/2005
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+2857 > 2855
+3093 < 2908
+2834 > 3094
+
+%%Round: 2
+
+2834 < 2857
+2908 > 2855
+3094 < 3093
+
+%%Round: 3
+
+2857 > 2908
+3093 < 2834
+2855 < 3094
+
+%%Round: 4
+
+3094 < 2857
+2908 > 2834
+2855 > 3093

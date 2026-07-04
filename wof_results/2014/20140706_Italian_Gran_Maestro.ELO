@@ -1,0 +1,68 @@
+%%Tournament: Italian Gran Maestro
+%%Country: Italy
+%%Date: 06/07/2014
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2014/07/24 23:50
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2844, SPERANDIO, Roberto,  5, 224
+%_%  3037, DI MATTEI, Alessandro,  5, 257
+%_%    36, MARCONI, Francesco,  5, 271
+%_%  3024, BORASSI, Michele,  4, 246
+%_%   407, BARNABA, Donato,  3, 232
+%_% 40002, ILACQUA, Gianluca,  3, 206
+%_%  3005, PALLADINO, Domenico,  2, 173
+%_%  2857, MENOZZI, Giuseppe,  1, 183
+
+
+%Round: 1
+
+    36 (35)>(29)    407   B
+  2857 (27)<(37)   2844   B
+  3037 (54)>(10)   3005   B
+  3024 (41)>(23)  40002   B
+
+%Round: 2
+
+  2844 (34)>(30)     36   B
+   407 (26)<(38)   3037   B
+ 40002 (41)>(23)   2857   B
+  3005 (21)<(43)   3024   B
+
+%Round: 3
+
+  3037 (31)<(33)   2844   B
+    36 (47)>(17)  40002   B
+  3005 (31)<(33)    407   B
+  3024 (46)>(18)   2857   B
+
+%Round: 4
+
+ 40002 (39)>(25)   3037   B
+  2844 (50)>(14)   3005   B
+  2857 (27)<(37)     36   B
+   407 (33)>(31)   3024   B
+
+%Round: 5
+
+  3005 (40)>(24)  40002   B
+  3037 (40)>(24)   2857   B
+   407 (54)>(10)   2844   B
+  3024 (15)<(49)     36   B
+ 
+%Round: 6
+
+  2857 (28)<(36)   3005   B
+ 40002 (35)>(29)    407   B
+    36 (30)<(34)   3037   B
+  2844 (23)<(41)   3024   B
+
+%Round: 7
+
+   407 (28)<(36)   2857   B
+  3005 (21)<(43)     36   B
+  2844 (37)>(27)  40002   B
+  3024 (29)<(35)   3037   B
+  

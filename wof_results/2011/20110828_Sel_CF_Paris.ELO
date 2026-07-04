@@ -1,0 +1,69 @@
+%%Tournament: Selection CdF Paris
+%%Country: France
+%%Date: 28/08/2011
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/09/09 23:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     299, MURAKAMI, Takeshi, J,  5, 221
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  4, 168
+%_%    3841, LEBLANC, Aurelien, F,  3, 188
+%_%      46, ANDRIANI, Sandry, F,  3, 181
+%_%     652, HORIUCHI, Keiko, J,  3, 176
+%_%     419, BETIN, Dominique, F,  2, 178
+%_%    3519, DAUBA, Cedric, F,  2, 164
+%_%    5071, HOBO, Roel, NL,  2, 98
+%_%    3734, CLUZON, Gilles, F,  1, 115
+%_%    3600, BENOIT, Serge, F,  1, 111
+%_%    2788, LECAT, Monique, B,  1, 101
+%_%    5239, FRANSEN, Martin, NL,  1, 91
+
+
+
+%Round: 1
+
+  3734 (12)<(52)   3519  B
+   652 (49)>(15)   3600  B
+  3841 (23)<(41)    299  B
+   419 (25)<(39)   5071  B
+  2788 (19)<(45)   3598  B
+  5239 (38)>(26)     46  B
+
+%Round: 2
+
+  2788 (34)>(30)    419  B
+  3598 (40)>(24)    652  B
+  5071 (40)>(24)   5239  B
+    46 (53)>(11)   3734  B
+  3519 (26)<(38)    299  B
+  3600 (16)<(48)   3841  B
+
+%Round: 3
+
+  5239 (29)<(35)   3598  B
+  3734 (49)>(15)   3600  B
+   652 (31)<(33)     46  B
+   299 (45)>(19)   5071  B
+  3841 (43)>(21)   2788  B
+   419 (26)<(38)   3519  B
+
+%Round: 4
+
+  3600 (16)<(48)    419  B
+   652 (36)>(28)   3734  B
+  3598 (14)<(50)    299  B
+  3519 (20)<(44)   3841  B
+    46 (52)>(12)   2788  B
+
+%Round: 5
+
+  3519 (28)<(36)    652  B
+  2788 (15)<(49)   3600  B
+  3841 (30)<(34)   3598  B
+  3734 (15)<(49)    419  B
+   299 (47)>(17)     46  B
+
+
+%%Added results

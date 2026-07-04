@@ -1,0 +1,33 @@
+%%Tournament: Israeli Liga 1 - 1.1 
+%%Country: Israel
+%%Date: 15/09/2018
+%%Sender: Leonid Shifman
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  200025, ASULIN, Noam, ISR,  4, 220
+%_%  200048, BASE, Olga, ISR,  3, 173
+%_%  200009, SHIFMAN, Shani, ISR,  3, 172
+%_% +200056, RAISFELD, Ori, ISR,  2, 173
+%_%  200026, ASULIN, Avner, ISR,  2, 134
+%_% +200057, RAISFELD, Dani, ISR,  1, 88
+
+
+%Round: 1
+200026 (17)<(47) 200025  B
+200056 (64)>(00) 200057  B
+
+%Round: 2
+200009 (47)>(17) 200026  B
+200025 (48)>(16) 200056  B
+
+%Round: 3
+200056 (38)>(26) 200009  B
+200057 (16)<(48) 200025  B
+
+%Round: 4
+200009 (42)>(22) 200057  B
+200026 (38)>(26) 200056  B
+
+%Round: 5
+200025 (30)<(34) 200009  B
+200057 (36)>(28) 200026  B

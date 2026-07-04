@@ -1,0 +1,49 @@
+%%Tournament: 11th Antwerp Othello Open B
+%%Country: Belgium
+%%Date: 15/05/2016
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/05/25 20:11
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  270012, VAN DAMME, Frank Ivo, BEL,  7.5, 300, 639
+%_%  270013, VAN DEN BRANDT, Joke, BEL,  5, 281, 631
+%_%  120116, KLATTEN, Linda, NLD,  3.5, 195, 1
+
+
+
+%Round: 1
+
+270013 (29)<(35) 120116  B
+
+%Round: 2
+
+270012 (43)>(21) 270013  B
+
+%Round: 3
+
+120116 (17)<(47) 270012  B
+
+%Round: 4
+
+120116 (13)<(51) 270013  B
+
+%Round: 5
+
+270013 (20)<(44) 270012  B
+
+%Round: 6
+
+270012 (35)>(29) 120116  B
+
+%Round: 7
+
+120116 (32)=(32) 270012  B
+
+%Round: 8
+
+270013 (61)>(03) 120116  B
+
+
+%%Added results

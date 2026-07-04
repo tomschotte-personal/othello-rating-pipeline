@@ -1,0 +1,33 @@
+%%Tournament: Greek Championship 2007
+%%Country: Greece
+%%Date: 26/11/2007
+%%Sender: Theodosiou Pantelis
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/09/10 19:41
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4617, DOUDA, Tomas, CZE,  3, 99, 1897
+%_%    1301, STEENTOFT, Benkt, SWE,  2, 97, 1661
+%_%    4164, THEODOSIOU, Pandelis, GRC,  1, 95, 1472
+%_%    4165, SCHIZAS, George, GRC,  0, 93, 1157
+
+
+
+%Round: 1
+
+  4617 >   4165  B
+  4164 <   1301  B
+
+%Round: 2
+
+  1301 <   4617  B
+  4165 <   4164  B
+
+%Round: 3
+
+  4617 >   4164  B
+  1301 >   4165  B
+
+
+%%Added results

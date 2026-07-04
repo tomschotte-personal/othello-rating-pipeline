@@ -1,0 +1,33 @@
+%%Tournament: Tournoi B de Rennes
+%%Country: France
+%%Date: 09/10/1999
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 894 < 3389
+ 946 <  145
+
+%%Round: 2
+
+ 891 >  894
+3389 <  946
+ 145 >  947
+
+%%Round: 3
+
+ 947 < 3389
+ 946 <  894
+ 145 >  891
+
+%%Round: 4
+
+ 891 >  946
+3389 <  145
+ 894 >  947
+
+%%Round: 5
+
+3389 <  891
+ 145 >  894
+ 947 <  946

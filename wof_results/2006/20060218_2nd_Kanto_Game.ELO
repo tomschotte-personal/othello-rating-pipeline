@@ -1,0 +1,81 @@
+%%Tournament: 2nd Kanto Game
+%%Country: Japan
+%%Date: 18/02/2006
+%%Sender: Tom Schotte
+
+%Round1
+   299 >   5533  
+   700 >  10678  
+  5520 >  10985  
+  5524 >   5545  
+ 11025 >   5539  
+ 10888 >  11044  
+  5654 >   5597  
+
+%Round2
+   299 >   5524  
+ 10985 >   5597  
+   700 >  10888  
+  5533 >   5545  
+  6822 >  11025  
+  5520 >   5654  
+ 11044 >  10678  
+
+%Round3
+   299 >    700  
+ 10985 >  11044  
+  5533 >  10888  
+  6822 >   5520  
+ 11025 >   5524  
+  5597 >  10678  
+  5654 >   5539  
+
+%Round4
+   299 >   6822  
+ 10985 >   5654  
+   700 >  11025  
+  5545 >   5539  
+  5520 >   5533  
+  5524 >  10888  
+  5597 >  11044  
+
+%Round5
+   299 >   5520  
+ 10985 >   5524  
+  5533 >   5597  
+  6822 >    700  
+  5545 >  11044  
+ 11025 >   5654  
+ 10678 >   5539  
+
+
+%Round6
+ 10985 >    299  
+   700 >   5520  
+  5533 >   6822  
+  5545 >  11025  
+  5524 >   5654  
+ 10888 >  10678  
+  5539 >   5597  
+
+
+%players
+%1 299	murakami	takeshi
+%2 10985	harikawa	yuki
+%3 700	nakajima	tetsuya
+%4 5533	sato	kouichiro
+%5 6822	yamada	yuichi
+%6 5545	kobayashi	manabu
+%7 5520	okuda	tsuyoshi
+%8 5524	nagao	hiroto
+%9 11025	iida	hiroshi
+%10 10888	shimizu	koichi
+%11 5597	sawada	tomohiro
+%12 11044	ishii	yasuhiro
+%13 5654	kanou	eisuke
+%14 5539	yamakawa	takashi
+%15 10678	nakano	maseru
+
+
+
+

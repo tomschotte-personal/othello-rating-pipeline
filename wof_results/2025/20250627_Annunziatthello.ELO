@@ -1,0 +1,62 @@
+%%Tournament: Annunziatthello
+%%Country: Brazil
+%%Date: 27/06/2025
+%%Sender: CORREIA JR. Moises
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  290013, FRITSCH, Evans, BRA, 5, 278, 1551
+%_%  +290553, DA SILVA, Karen Melissa Alves, BRA, 4, 185, -
+%_%  +290554, DA SILVA, Maria Esther B Panta, BRA, 3, 188, -
+%_%  +290555, DE OLIVEIRA, Luiz Fernando P, BRA, 3, 130, -
+%_%  +290556, VIANA, Beatriz Emanuelly Bonifacil, BRA, 3, 174, -
+%_%  +290557, DE SA, Livia, BRA, 3, 177, -
+%_%  +290558, PEREIRA, Heloisa de Sa, BRA, 2, 113, -
+%_%  +290559, ALEXANDRE, Ryan Cardoso, BRA, 1, 115, -
+%_%  +290560, MARQUES, Laura Rodrigues, BRA, 1, 135, -
+%_%  +290613, DE OLIVEIRA, Heloisa Isabelly Souza, BRA, 0, 105, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/329
+
+%Round: 1
+
+290559 (21)<(43) 290554  B
+290556 (20)<(44) 290553  B
+290613 (12)<(52) 290557  B
+290555 (37)>(27) 290560  B
+290558 (00)<(64) 290013  B
+
+%Round: 2
+
+290556 (43)>(21) 290613  B
+290560 (22)<(42) 290559  B
+290554 (64)>(00) 290558  B
+290553 (28)<(36) 290555  B
+290013 (42)>(22) 290557  B
+
+%Round: 3
+
+290558 (44)>(20) 290560  B
+290613 (21)<(43) 290553  B
+290557 (22)<(42) 290556  B
+290559 (12)<(52) 290013  B
+290555 (10)<(54) 290554  B
+
+%Round: 4
+
+290560 (39)>(25) 290613  B
+290557 (44)>(20) 290559  B
+290553 (33)>(31) 290558  B
+290556 (25)<(39) 290555  B
+290013 (64)>(00) 290554  B
+
+%Round: 5
+
+290555 (08)<(56) 290013  B
+290554 (27)<(37) 290553  B
+290559 (20)<(44) 290556  B
+290560 (27)<(37) 290557  B
+290613 (26)<(38) 290558  B

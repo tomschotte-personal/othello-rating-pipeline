@@ -1,0 +1,33 @@
+%%Tournament: Greve Cup 2014 Group 1
+%%Country: Denmark
+%%Date: 14/06/2014
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/06/14 20:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      93, LUND JENSEN, Erik, DNK,  3, 123, 1719
+%_%    1596, RAGNARSSON, Robin, SWE,  2, 115, 1695
+%_%      96, VALLUND, Henrik, DNK,  1, 71, 1869
+%_%    1000, MICHAELSEN, Peter, DNK,  0, 75, 958
+
+
+
+%Round: 1
+
+  1000 (29)<(35)     96  B
+  1596 (27)<(37)     93  B
+
+%Round: 2
+
+    93 (42)>(22)   1000  B
+    96 (16)<(48)   1596  B
+
+%Round: 3
+
+  1000 (24)<(40)   1596  B
+    93 (44)>(20)     96  B
+
+
+%%Added results

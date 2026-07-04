@@ -1,0 +1,54 @@
+%%Tournament: IT_LOC_2025_4th_tournament_Nocera_Inferiore
+%%Country: Italy
+%%Date: 14/12/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3062, CAVIOLA, Leonardo, ITA, 4, 173, 1474
+%_%    2839, LAMBERTI, Luigi, ITA, 3, 202, 1502
+%_%   40241, SAVARESE, Michele, ITA, 3, 147, 894
+%_%   40286, GRIMALDI, Lino, ITA, 2, 120, 157
+%_%   40148, MARALDI, Simone, ITA, 2, 102, 1037
+%_%   40242, HORUPASHENKO, Vadym, ITA, 2, 114, 1183
+%_%   40244, ALATI, Anna, ITA, 1, 115, 649
+%_%   40248, LAMBIASE, Giuseppe, ITA, 1, 121, 426
+%_%   40245, IOVANE, Diego, ITA, 1, 100, 838
+%_%  +40443, Tartaglia, Diego, ITA, 1, 86, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/420
+
+%Round: 1
+
+ 40245 (06)<(58)   2839  B
+  3062 (40)>(24)  40244  B
+ 40242 (33)>(31)  40248  B
+ 40148 (36)>(28)  40286  B
+ 40443 (12)<(52)  40241  B
+
+%Round: 2
+
+ 40244 (49)>(15)  40443  B
+ 40248 (39)>(25)  40245  B
+ 40286 (17)<(47)   3062  B
+ 40241 (40)>(24)  40148  B
+  2839 (52)>(12)  40242  B
+
+%Round: 3
+
+ 40443 (24)<(40)  40286  B
+ 40245 (40)>(24)  40244  B
+ 40148 (42)>(22)  40248  B
+ 40242 (23)<(41)  40241  B
+  3062 (36)>(28)   2839  B
+
+%Round: 4
+
+ 40241 (14)<(50)   3062  B
+  2839 (64)>(00)  40148  B
+ 40244 (18)<(46)  40242  B
+ 40286 (35)>(29)  40245  B
+ 40248 (29)<(35)  40443  B

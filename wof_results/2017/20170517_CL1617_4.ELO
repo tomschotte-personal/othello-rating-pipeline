@@ -1,0 +1,20 @@
+%%Tournament: Campionato Ligure 2016-2017 - 5a Tappa
+%%Country: Italy
+%%Date: 17/05/2017
+%%Sender: Chiara Gigliucci 
+
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2855, BIANCHI, Paolo, I, 3, 93
+%_% 40098, BREGANTE, Alessio, I, 2, 55
+%_% 40096, TOMASI, Fabio, I, 1, 44
+
+%Round 1 
+  2855 (47)>(17)  40098  B
+
+%Round 2 
+ 40098 (38)>(26)  40096  B
+
+%Round 3 
+ 40096 (18)<(46)   2855  B
+

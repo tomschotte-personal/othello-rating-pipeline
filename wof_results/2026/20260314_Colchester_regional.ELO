@@ -1,0 +1,48 @@
+%%Tournament: Colchester Regional 2026
+%%Country: Great-Britain
+%%Date: 14/03/2026
+%%Sender: Stephen Rowe
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2005/02/17 08:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  6, 295, 2170
+%_%    6437, BECK, David, GBR,  4, 232, 2123
+%_%    2091, ROWE, Stephen, GBR,  2, 185, 1497
+%_% +100074, Coe, Robert, GB,  0, 56, 0
+
+
+
+%Round: 1
+
+    79 (62)>(02) 100074  B
+  2091 (29)<(35)   6437  B
+
+%Round: 2
+
+  6437 (48)>(16) 100074  B
+    79 (44)>(20)   2091  B
+
+%Round: 3
+
+100074 (06)<(58)   2091  B
+    79 (42)>(22)   6437  B
+
+%Round: 4
+
+100074 (02)<(62)     79  B
+  6437 (40)>(24)   2091  B
+
+%Round: 5
+
+100074 (06)<(58)   6437  B
+  2091 (14)<(50)     79  B
+
+%Round: 6
+
+100074 (24)<(40)   2091  B
+  6437 (29)<(35)     79  B
+
+
+%%Added results

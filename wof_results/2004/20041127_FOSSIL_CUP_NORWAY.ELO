@@ -1,0 +1,33 @@
+%%Tournament: Fossil Cup, Norway
+%%Country: Norway
+%%Date: 27/11/2004
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+1999 > 1947
+1988 < 1953
+
+%%Round: 2
+
+1947 > 1953
+1800 > 1988
+
+%%Round: 3
+
+1999 < 1800
+1988 > 1947
+
+%%Round: 4
+
+1800 > 1953
+1999 > 1988
+
+%%Round: 5
+
+1947 < 1800
+1953 < 1999
+
+%%Final
+1988 < 1800
+1953 < 1999

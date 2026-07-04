@@ -1,0 +1,31 @@
+%%Tournament: 2013_Hyogo_expert_game
+%%Country: Japan
+%%Date: 23/02/2013
+%%Sender: Hiroyuki Iwata
+
+%_%   6970, SUGASE, takahiro, JPN, 4.0, 156
+%_%  10225, IMAMURA, yuuki, JPN, 3.0, 144
+%_%  12466, YOSHINO, toru, JPN, 1.0, 120
+%_%   6824, KURODA, takuji, JPN, 1.0, 117
+%_%   6974, HIRABAYASHI, eiji, JPN, 1.0, 103
+
+%Round 1
+ 10225 (36)>(28)  12466 
+  6824 (37)>(27)   6974 
+
+%Round 2
+  6970 (45)>(19)   6974 
+ 12466 (34)>(30)   6824 
+
+%Round 3
+  6970 (42)>(22)   6824 
+ 10225 (43)>(21)   6974 
+
+%Round 4
+  6970 (34)>(30)  12466 
+ 10225 (36)>(28)   6824 
+
+%Round 5
+  6970 (35)>(29)  10225 
+  6974 (36)>(28)  12466 
+

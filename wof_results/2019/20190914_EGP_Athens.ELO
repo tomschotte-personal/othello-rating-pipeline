@@ -1,0 +1,46 @@
+%%Tournament: EGP Athens
+%%Country: Greece
+%%Date: 14/09/2019
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/09/16 19:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  300018, LITSAS, Andreas, GRC,  5, 231, 1779
+%_%       2, TASTET, Marc, FRA,  4, 258, 2079
+%_% +300035, KOTSANI, Natalia, GRC,  3, 139, 0
+%_% +300036, PLEVRAKIS, Yiannis, GRC,  2, 111, 0
+%_% +300037, NIKOLAOU, Georgios, GRC,  1, 101, 0
+
+
+
+%Round: 1
+
+     2 (64)>(00) 300035  B
+300037 (09)<(55) 300018  B
+
+%Round: 2
+
+300036 (33)>(31) 300037  B
+300018 (38)>(26)      2  B
+
+%Round: 3
+
+300035 (21)<(43) 300018  B
+     2 (64)>(00) 300036  B
+
+%Round: 4
+
+300037 (00)<(64)      2  B
+300036 (29)<(35) 300035  B
+
+%Round: 5
+
+300018 (55)>(09) 300036  B
+300035 (43)>(21) 300037  B
+
+
+%%Added results
+300018 (33)>(31)      2  B
+     2 (31)<(33) 300018  B

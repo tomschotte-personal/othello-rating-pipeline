@@ -1,0 +1,58 @@
+%%Tournament: OPEN DE CANNES
+%%Country: France
+%%Date: 03/03/2013
+%%Sender: David Sahli
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/04/18 21:39
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     544, SAHLI, David, FRA,  5, 243, 1970
+%_%   50061, BELAVAL, Maxime, FRA,  3.5, 175, -112
+%_%    3436, DUSOIR, Corentin, FRA,  3, 169, -148
+%_%   50019, JONQUIERES, Philippe, FRA,  3, 167, 1042
+%_%   50014, GOUYSSE, Henry, FRA,  3, 150, -625
+%_%   50052, LE MORVAN, Eric, FRA,  2, 169, -138
+%_%  210119, SHEVCHUK, Viktor, UKR,  2, 139, 1140
+%_%   50066, LALLIS, Alexandre, F,  2, 109, 0
+%_%    3783, CATALANOTTI, Alain, FRA,  1.5, 159, -479
+
+
+
+%Round: 1
+
+  3436 (36)>(28)   3783  B
+ 50019 (46)>(18)  50052  B
+   544 (63)>(01)  50061  B
+ 50014 (17)<(47)  50066  B
+
+%Round: 2
+
+ 50052 (19)<(45)    544  B
+  3783 (31)<(33)  50014  B
+ 50066 (01)<(63)   3436  B
+210119 (29)<(35)  50019  B
+
+%Round: 3
+
+  3436 (07)<(57)    544  B
+ 50019 (44)>(20)  50066  B
+ 50061 (32)=(32)   3783  B
+ 50014 (37)>(27) 210119  B
+
+%Round: 4
+
+   544 (41)>(23)  50019  B
+210119 (07)<(57)  50061  B
+ 50066 (01)<(63)  50052  B
+ 50014 (36)>(28)   3436  B
+
+%Round: 5
+
+   544 (37)>(27)  50014  B
+  3783 (28)<(36) 210119  B
+ 50052 (29)<(35)   3436  B
+ 50061 (45)>(19)  50019  B
+
+
+%%Added results

@@ -1,0 +1,50 @@
+%%Tournament: Cambridge Regional 2013
+%%Country: Great-Britain
+%%Date: 04/05/2013
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2013/05/04 14:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2047, BARRASS, Iain, GB,  4, 199
+%_%      79, LEADER, Imre, GB,  4, 190
+%_%    6437, BECK, David, GB,  3, 216
+%_%    4019, PRIDMORE, Ben, GB,  3, 152
+%_%  100004, LIGHTMAN, Marie, GB,  1, 86
+%_%    2006, ARNOLD, Roy, GB,  0, 117
+
+
+
+%Round: 1
+
+  2047 (26)<(38)     79  B
+  4019 (14)<(50)   6437  B
+100004 (33)>(31)   2006  B
+
+%Round: 2
+
+  6437 (28)<(36)   2047  B
+    79 (46)>(18) 100004  B
+  2006 (31)<(33)   4019  B
+
+%Round: 3
+
+  2047 (55)>(09) 100004  B
+  6437 (51)>(13)   2006  B
+  4019 (46)>(18)     79  B
+
+%Round: 4
+
+  2006 (27)<(37)   2047  B
+100004 (24)<(40)   4019  B
+    79 (39)>(25)   6437  B
+
+%Round: 5
+
+  2047 (45)>(19)   4019  B
+  2006 (15)<(49)     79  B
+  6437 (62)>(02) 100004  B
+
+
+%%Added results

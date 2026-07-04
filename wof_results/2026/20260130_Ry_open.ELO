@@ -1,0 +1,69 @@
+%%Tournament: Ry Open 2026 v2
+%%Country: Denmark
+%%Date: 30/01/2026
+%%Sender: FELDBORG Karsten
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%      95, QVIST JESSEN, Claus, DNK, 7, 352, 1839
+%_%    1047, STORM, Henning, DNK, 5, 262, 1281
+%_%    1000, MICHAELSEN, Peter, DNK, 5, 306, 1378
+%_%  220073, WEIRUM, Emilia Marie, DNK, 4, 265, 1127
+%_%  220050, SNEDE, Viktor Emil, DNK, 4, 220, 1117
+%_%  220043, ANDERSEN, Jens Moeller, DNK, 2, 186, 1471
+%_%  +220075, Laerke, Moeller Andersen, DNK, 1, 123, -
+%_%  +220076, Gustav, Larsson Eg, DNK, 0, 78, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/470
+
+%Round: 1
+
+220043 (16)<(48)   1000  B
+    95 (64)>(00) 220075  B
+220076 (10)<(54)   1047  B
+220073 (44)>(20) 220050  B
+
+%Round: 2
+
+  1000 (14)<(50)     95  B
+220075 (38)>(26) 220076  B
+  1047 (48)>(16) 220073  B
+220050 (44)>(20) 220043  B
+
+%Round: 3
+
+220043 (17)<(47)     95  B
+220076 (00)<(64)   1000  B
+220073 (44)>(20) 220075  B
+220050 (24)<(40)   1047  B
+
+%Round: 4
+
+    95 (54)>(10) 220076  B
+  1000 (45)>(19) 220073  B
+220075 (17)<(47) 220050  B
+  1047 (43)>(21) 220043  B
+
+%Round: 5
+
+220043 (53)>(11) 220076  B
+220073 (24)<(40)     95  B
+220050 (33)>(31)   1000  B
+  1047 (40)>(24) 220075  B
+
+%Round: 6
+
+220076 (00)<(64) 220073  B
+    95 (55)>(09) 220050  B
+  1000 (49)>(15)   1047  B
+220075 (15)<(49) 220043  B
+
+%Round: 7
+
+220043 (10)<(54) 220073  B
+220050 (43)>(21) 220076  B
+  1047 (22)<(42)     95  B
+220075 (09)<(55)   1000  B

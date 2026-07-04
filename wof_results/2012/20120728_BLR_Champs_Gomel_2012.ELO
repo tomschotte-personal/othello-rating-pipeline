@@ -1,0 +1,41 @@
+%%Tournament: BLR_Champs_Gomel_2012
+%%Country: Belarus
+%%Date: 28/07/2012
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     6,     291
+%_%  360001, KRYVASHEYEU, Andrei,     BLR,     3,     185
+%_%  360002, KRYVASHEYEU, Pavel,      BLR,     2,     137
+%_%  360003, LAMAZKI,     Andrei,     BLR,     4,     230
+%_% +360008, LAPKO,       Mikalai,    BLR,     1,     81
+%_% +360009, KULAHIN,     Ryhor,      BLR,     0,     100
+
+
+%Round 1
+360009 (29)<(35) 360002  B
+360000 (43)>(21) 360001  B
+360003 (55)>(09) 360008  B
+
+%Round 2
+360002 (51)>(13) 360008  B
+360001 (28)<(36) 360003  B
+360009 (05)<(59) 360000  B
+
+%Round 3
+360000 (48)>(16) 360002  B
+360003 (42)>(22) 360009  B
+360008 (15)<(49) 360001  B
+
+%Round 4
+360002 (28)<(36) 360001  B
+360009 (31)<(33) 360008  B
+360000 (52)>(12) 360003  B
+
+%Round 5
+360003 (57)>(07) 360002  B
+360008 (11)<(53) 360000  B
+360001 (51)>(13) 360009  B
+
+%Final
+360003 (28)<(36) 360000  B

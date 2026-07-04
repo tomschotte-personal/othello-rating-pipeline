@@ -1,0 +1,30 @@
+%%Tournament: Ramat-Gan Open
+%%Country: Israel
+%%Date: 01/04/2006
+%%Sender: Tom Schotte
+
+%Round1
+4085 > 880
+4151 < 200002
+
+%Round2
+4039 > 4085
+880 < 4151
+
+%Round3
+200002 > 880
+4151 < 4039
+
+%Round4
+4085 > 880
+4039 < 200002
+
+%Round5
+200002 > 4085
+880 > 4039
+
+%DRUK Erez (Israel)[id: 200002] 4 (189)
+%MALNEV Andrey (Israel)[id: 4085] 2 (138)
+%SHIFMAN Leonid (Israel)[id: 880] 1 (93)
+%RADZIVILOVSKY Lev (Israel)[id: 4039] 2 (109)
+%GLADKIKH Alexey (Israel)[id: 4151] 1 (109)

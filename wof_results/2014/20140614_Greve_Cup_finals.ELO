@@ -1,0 +1,46 @@
+%%Tournament: Greve Cup 2014 playoff 5-8
+%%Country: Denmark
+%%Date: 14/06/2014
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/06/14 20:30
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      96, VALLUND, Henrik, DNK,  3, 177, 1869
+%_%    1025, BADSTED, Palle, DNK,  2, 118, 1755
+%_%    1000, MICHAELSEN, Peter, DNK,  1, 60, 958
+%_%    1075, PEDERSEN, Mads, DNK,  0, 29, 853
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  0, 00, 1527
+%_%      92, FELDBORG, Karsten, DNK,  0, 00, 2103
+%_%      93, LUND JENSEN, Erik, DNK,  0, 00, 1719
+%_%    1596, RAGNARSSON, Robin, SWE,  0, 00, 1695
+
+
+
+%Round: 1
+
+  1025 (54)>(10)   1000  B
+  1075 (00)<(64)     96  B
+
+%Round: 2
+
+    96 (50)>(14)   1025  B
+  1000 (49)>(15)   1075  B
+
+%Round: 3
+
+  1025 (50)>(14)   1075  B
+    96 (63)>(01)   1000  B
+
+
+%%Added results
+  1019 (00)<(64)     93  B
+    93 (49)>(15)   1019  B
+    92 (45)>(19)   1596  B
+    92 (45)>(19)   1596  B
+    92 (24)<(40)     93  B
+    93 (11)<(53)     92  B
+    93 (20)<(44)     92  B
+  1596 (46)>(18)   1019  B
+  1019 (19)<(45)   1596  B

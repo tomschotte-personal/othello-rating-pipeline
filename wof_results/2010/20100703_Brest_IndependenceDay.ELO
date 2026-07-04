@@ -1,0 +1,38 @@
+%%Tournament: Brest_IndependenceDay_2010
+%%Country: Belarus
+%%Date: 03/07/2010
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     4.5,   236
+%_%  360003, LAMAZKI,     Andrei,     BLR,     2,     171
+%_% +360004, TSISHCHENKA, Aliaksei,   BLR,     3.5,   229
+%_% +360005, PANASIUK,    Aliaksandr, BLR,     3,     196
+
+
+%Round 1
+360003 (40)>(24) 360005 B
+360000 (34)>(30) 360004 B
+
+%Round 2
+360005 (34)>(30) 360004 B
+360003 (19)<(45) 360000 B
+
+%Round 3
+360000 (37)>(27) 360005 B
+360004 (37)>(27) 360003 B
+
+%Round 4
+360003 (21)<(43) 360005 W
+360000 (32)=(32) 360004 W
+
+%Round 5
+360005 (25)<(39) 360004 W
+360003 (36)>(28) 360000 W
+
+%Round 6
+360000 (21)<(43) 360005 W
+360004 (36)>(28) 360003 W
+
+%Final
+360004 (25)<(39) 360000 W

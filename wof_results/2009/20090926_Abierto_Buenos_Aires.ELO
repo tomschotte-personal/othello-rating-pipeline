@@ -1,0 +1,49 @@
+%%Tournament: Abierto de Buenos Aires
+%%Country: Argentina
+%%Date: 26/09/2009
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  280008, RODRUIGUEZ, Ismael, URU, 5, 252
+%_%    4157, ITURBIDE,   Paula, ARG, 4, 233
+%_%     650, OLIVARES,   Daniel, ARG, 4, 226    
+%_%    4168, LISNOVSKY,  Marcelo, ARG, 4, 200
+%_%    4167, COELLO,     Alejandro, ARG, 3, 228
+%_% +280031, THIERER,    Sebastian, ARG, 1, 136    
+%_%  280006, OLIVARES,   Diego, ARG, 0, 69
+
+%Round 1
+280008 (37)>(27) 280031 B
+  4167 (58)>(06) 280006 B
+  4168 (18)<(46)   4157 B
+
+%Round 2
+280031 (01)<(63)   4167 B
+280006 (11)<(53)   4168 B
+   650 (15)<(49) 280008 B
+
+%Round 3
+  4157 (50)>(14) 280006 B
+  4167 (18)<(46)    650 B
+  4168 (39)>(25) 280031 B
+
+%Round 4
+280031 (15)<(49)   4157 B
+   650 (41)>(23)   4168 B
+280008 (48)>(16)   4167 B
+
+%Round 5
+280006 (17)<(47) 280031 B
+  4157 (39)>(25)    650 B
+  4168 (33)>(31) 280008 B
+
+%Round 6
+   650 (56)>(08) 280006 B
+280008 (36)>(28)   4157 B
+  4167 (30)<(34)   4168 B
+
+%Round 7
+280031 (21)<(43)    650 B
+280006 (13)<(51) 280008 B
+  4157 (21)<(43)   4167 B
+

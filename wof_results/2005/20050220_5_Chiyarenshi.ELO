@@ -1,0 +1,83 @@
+%%Tournament: 5th Chiyarenshi Open
+%%Country: Japan
+%%Date: 20/02/2005
+%%Sender: Tom Schotte
+
+%Round1
+7083 > 5603
+10776 > 7092
+10363 > 10131
+11724 > 5519
+5697 > 5617
+5628 > 5555
+10893 > 5520
+5593 > 11145
+
+%Round2
+7083 > 10776
+5520 > 5593
+11895 > 11724
+7092 > 5555
+5519 > 5617
+5628 > 5697
+10893 > 10363
+11145 > 10131
+
+%Round3
+7083 > 5628
+5520 > 5697
+10776 > 11724
+10363 > 5593
+11895 > 10893
+7092 > 5603
+11145 > 5519
+10131 > 5555
+
+%Round4
+7083 > 11895
+5520 > 11145
+10776 > 10893
+10363 > 5628
+7092 > 5697
+5617 > 5603
+11724 > 10131
+5519 > 5593
+
+%Round5
+5520 > 7083
+10363 > 10776
+11895 > 7092
+5617 > 11145
+11724 > 5628
+5697 > 10131
+5519 > 10893
+5603 > 5555
+
+%Round6
+7083 > 10363
+5520 > 11895
+10776 > 5519
+7092 > 11724
+5617 > 5628
+5697 > 10893
+5603 > 5593
+5555 > 11145
+
+%players
+%1 7083	yamamura	yuuki
+%2 5520	okuda	tsuyoshi
+%3 10776	takasaki	shohei
+%4 10363	koike	hiroto
+%5 11895	ijichi	tamotsu
+%6 7092	kasiwagi	mitsuyoshi
+%7 5617	ikeda	atsuhiko
+%8 11724	kodoma	wataru
+%9 5697	saito	tauru
+%10 5519	koshino	kazuhiko
+%11 5603	sawaki	yusuke
+%12 5628	ohuchi	yasuhiro
+%13 10893	takagi	kazutaka
+%14 11145	matsumoto	masaru
+%15 5593	yamamoto	kunisuke
+%16 10131	nogami	yoshiyuki
+%17 5555	sato	tetsuya

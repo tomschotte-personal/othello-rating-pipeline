@@ -1,0 +1,31 @@
+%%Tournament: 42_All_Japan_Tokyo_prelim_women
+%%Country: Japan
+%%Date: 08/06/2014
+%%Sender: Hiroyuki Iwata
+
+%_%  12921, TODOKORO, tae, JPN, 3.0, 140
+%_%   5508, TATSUMI-IIJIMA, yukiko, JPN, 2.0, 139
+%_%   5656, NISHIYAMA, momoko, JPN, 2.0, 124
+%_%  10608, OKAMA, ayumi, JPN, 2.0, 124
+%_%   5547, OHNO, atsuko, JPN, 1.0, 113
+
+%Round 1
+ 12921 (35)>(29)  10608 
+  5656 (32)>(32)   5508 
+
+%Round 2
+ 12921 (38)>(26)   5508 
+  5547 (37)>(27)   5656 
+
+%Round 3
+  5508 (38)>(26)   5547 
+ 10608 (37)>(27)   5656 
+
+%Round 4
+ 12921 (41)>(23)   5547 
+  5508 (43)>(21)  10608 
+
+%Round 5
+ 10608 (37)>(27)   5547 
+  5656 (38)>(26)  12921 
+

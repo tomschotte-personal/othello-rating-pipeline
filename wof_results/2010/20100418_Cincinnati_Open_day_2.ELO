@@ -1,0 +1,48 @@
+%%Tournament: Cincinnati Open 2010 (day 2)
+%%Country: USA
+%%Date: 18/04/2010
+%%Sender: RUHMKORFF BEN
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/04/28 12:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4061, WILLIAMS, Eddie, USA,  6, 241
+%_%   20001, GILMORE, Steve, USA,  3, 207
+%_%   20009, RUHMKORFF, Ben, USA,  2, 160
+%_%    6412, ROCKWELL, David, USA,  1, 160
+
+
+
+%Round: 1
+
+ 20009 (19)<(45)   4061 B
+  6412 (25)<(39)  20001 B
+
+%Round: 2
+
+  4061 (40)>(24)  20001 B
+ 20009 (50)>(14)   6412 B
+
+%Round: 3
+
+  6412 (30)<(34)   4061 B
+ 20001 (31)<(33)  20009 B
+
+%Round: 4
+
+  4061 (50)>(14)  20009 B
+ 20001 (41)>(23)   6412 B
+
+%Round: 5
+
+ 20001 (28)<(36)   4061 B
+  6412 (40)>(24)  20009 B
+
+%Round: 6
+
+  4061 (36)>(28)   6412 B
+ 20009 (20)<(44)  20001 B
+
+
+%%Added results

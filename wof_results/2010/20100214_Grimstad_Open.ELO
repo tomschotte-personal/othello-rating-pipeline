@@ -1,0 +1,63 @@
+%%Tournament: Grimstad Open 2010
+%%Country: Norway
+%%Date: 14/02/2010
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/02/14 17:51
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1953, KJELLSTADLI, Jonas, N,  6, 249
+%_%    1878, BOE, Alexander, N,  4, 263
+%_%    1800, AAS, Vidar, N,  4, 218
+%_%    2521, LYNGROTH, Johnny, N,  3, 224
+%_%  140008, KULLANDAIRAJ, George-Paul, N,  3, 179
+%_%    2546, LYNGROTH, Cedrik Andersen, N,  2, 139
+%_% +140020, GLIMSDAL, Sondre, N,  2, 122
+%_%    2543, KJELLSTADLI, Ingvild, N,  2, 119
+%_% +140021, ALI, Hassaan, N,  1, 95
+
+
+
+%Round: 1
+
+  1800 (57)>(07) 140008 B
+  2546 (22)<(42)   1953 B
+140021 (07)<(57)   2521 B
+  1878 (53)>(11)   2543 B
+
+%Round: 2
+
+  1953 (35)>(29)   1878 B
+  2521 (62)>(02) 140020 B
+  2543 (09)<(55)   1800 B
+140008 (40)>(24)   2546 B
+
+%Round: 3
+
+  1800 (10)<(54)   1953 B
+  2521 (06)<(58) 140008 B
+140020 (47)>(17) 140021 B
+  1878 (55)>(09)   2546 B
+
+%Round: 4
+
+  1953 (35)>(29)   2521 B
+140020 (19)<(45)   1800 B
+140008 (16)<(48)   1878 B
+140021 (11)<(53)   2543 B
+
+%Round: 5
+
+  1953 (50)>(14) 140020 B
+  1878 (47)>(17)   1800 B
+  2543 (06)<(58) 140008 B
+  2546 (44)>(20) 140021 B
+
+%Round: 6
+
+  1953 (33)>(31)   1878 B
+  2521 (30)<(34)   1800 B
+
+
+%%Added results

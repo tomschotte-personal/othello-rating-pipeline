@@ -1,0 +1,34 @@
+%%Tournament: Selection de Rennes
+%%Country: France
+%%Date: 04/11/1995
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 137 >  795
+ 794 >  796
+ 610 >  611
+
+%%Round: 2
+
+ 796 <  610
+ 611 >  137
+ 795 <  794
+
+%%Round: 3
+
+ 610 >  137
+ 796 >  795
+ 794 <  611
+
+%%Round: 4
+
+ 795 <  610
+ 137 >  794
+ 611 >  796
+
+%%Round: 5
+
+ 610 >  794
+ 795 <  611
+ 796 >  137

@@ -1,0 +1,29 @@
+%%Tournament: Campeonato Brasileiro de Othello
+%%Country: Brazil
+%%Date: 18/10/2015
+%%Sender: Daniel Dantas
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4071, DANTAS, Daniel, BRA, ,
+%_%    4083, DE CAMARGO R., Lucas C., BRA, ,
+%_%    4172, OLIVEIRA, Henrique, BRA, ,  
+%_%    4159, IGLESIAS, Roberto, BRA, ,
+
+% Round 1
+
+  4159 (15)<(49)   4083     B
+  4172 (27)<(37)   4071     B
+
+  4083 (60)>(04)   4172     B
+  4071 (30)<(34)   4159     B
+ 
+  4083 (16)<(48)   4071     B
+  4172 (47)>(17)   4159     B
+
+% Third place
+  4159 (19)<(45)   4172     B
+
+% Final 
+
+  4083 (26)<(38)   4071     B
+  4071 (38)>(26)   4083     B

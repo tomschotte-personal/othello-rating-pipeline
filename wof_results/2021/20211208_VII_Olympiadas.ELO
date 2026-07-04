@@ -1,0 +1,48 @@
+%%Tournament: VII Olimpiadas de los Deportes de la Mente
+%%Country: Argentina
+%%Date: 08/12/2021
+%%Sender: Daniel Olivares
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    650, OLIVARES, Daniel, ARG, 5, 222
+%_%   4168, LISNOVSKY, Marcelo, ARG, 5, 228
+%_% 280034, SEIFERT, Max, ,ARG, 3, 178
+%_% 280052, ROLDAN, Matias, ARG, 3, 140
+%_% 280038, COHEN, Mercedes, ARG, 2, 138
+%_% 280049, SALGADO, Silvia, ARG, 2, 98
+%_% 280071, RIVAS, Graciela, ARG, 2, 91  
+%_% 280006, OLIVARES, Diego, ARG, 2, 86
+%_% 280047, CHAUFAN, Leonardo, ARG, 2, 99
+
+
+%Round 1
+280052 (25)<(39)   4168  B
+   650 (52)>(12) 280049  B
+280006 (08)<(56) 280034  B
+280038 (19)<(45) 280071  B
+
+%Round 2
+  4168 (51)>(13) 280034  B
+280071 (20)<(44)    650  B
+280049 (25)<(39) 280038  B
+280047 (29)<(35) 280052  B
+
+%Round 3
+   650 (33)>(31)   4168  B
+280034 (47)>(17) 280047  B
+280038 (45)>(19) 280006  B
+280052 (54)>(10) 280071  B
+
+
+%Round 4
+280034 (14)<(50)    650  B
+  4168 (50)>(14) 280038  B
+280006 (38)>(26) 280052  B
+280047 (10)<(54) 280049  B
+
+%Round 5
+   650 (43)>(21) 280006  B
+280049 (07)<(57)   4168  B
+280071 (16)<(48) 280034  B
+280038 (21)<(43) 280047  B
+ 

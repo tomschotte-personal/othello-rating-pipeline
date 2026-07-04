@@ -1,0 +1,44 @@
+%%Tournament: Ile de France 6
+%%Country: France
+%%Date: 20/11/2022
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/11/21 00:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 226, 2105
+%_%     228, BUSUTTIL, Michel, FRA,  3, 185, 1517
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 175, 1825
+%_%     419, BETIN, Dominique, FRA,  2, 136, 1506
+%_% + 50118, TROCHARD, Leo, FRA,  2, 118, 0
+
+
+
+%Round: 1
+
+   419 (10)<(54)      2  B
+ 50118 (41)>(23)    228  B
+
+%Round: 2
+
+    45 (52)>(12)  50118  B
+   228 (53)>(11)    419  B
+
+%Round: 3
+
+     2 (39)>(25)    228  B
+   419 (30)<(34)     45  B
+
+%Round: 4
+
+ 50118 (19)<(45)    419  B
+    45 (29)<(35)      2  B
+
+%Round: 5
+
+   228 (44)>(20)     45  B
+     2 (58)>(06)  50118  B
+
+
+%%Added results

@@ -1,0 +1,52 @@
+%%Tournament: Norway XOT
+%%Country: Norway
+%%Date: 02/11/2024
+%%Sender: SKOGEN Tor Birger
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    1868, HAUGLAND, Jan Kristian, NOR, 4, 202, 2019
+%_%  140059, HAUS, Knut Bjarte, NOR, 3.5, 176, 1985
+%_%    2570, ALBRIGTSEN, Vidar, NOR, 3, 171, 2005
+%_%    1802, SKOGEN, Tor Birger, NOR, 3, 192, 1805
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR, 3, 163, 1891
+%_%    1878, BOE, Alexander, NOR, 2, 148, 1817
+%_%  140031, TVEDT, Sverre, NOR, 1.5, 128, 1670
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR, 0, 100, 1488
+
+%Round: 1
+
+140048 (24)<(40)   2511  B
+  1868 (55)>(09) 140031  B
+140059 (42)>(22)   2570  B
+  1878 (36)>(28)   1802  B
+
+%Round: 2
+
+140031 (38)>(26) 140048  B
+  2570 (35)>(29)   1802  B
+  2511 (48)>(16)   1878  B
+140059 (29)<(35)   1868  B
+
+%Round: 3
+
+  1802 (51)>(13) 140048  B
+  1878 (26)<(38)   2570  B
+140031 (32)=(32) 140059  B
+  1868 (53)>(11)   2511  B
+
+%Round: 4
+
+140048 (21)<(43)   1878  B
+  1802 (43)>(21) 140031  B
+  2511 (28)<(36) 140059  B
+  2570 (28)<(36)   1868  B
+
+%Round: 5
+
+  1868 (23)<(41)   1802  B
+140059 (37)>(27)   1878  B
+140031 (28)<(36)   2511  B
+140048 (16)<(48)   2570  B

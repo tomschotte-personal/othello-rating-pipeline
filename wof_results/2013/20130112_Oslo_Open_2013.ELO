@@ -1,0 +1,53 @@
+%%Tournament: Oslo Open 2013
+%%Country: Norway
+%%Date: 12/01/2013
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/02/16 17:15
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2560, ODEGARD, Martin, NOR,  5, 242, 2185
+%_%    2583, DANIELSEN, Jostein, NOR,  3, 186, 1976
+%_%    1993, BERG, Robert, NOR,  3, 147, 1764
+%_%    1878, BOE, Alexander, NOR,  2, 146, 1758
+%_%  140031, TVEDT, Sverre, NOR,  1, 131, 1805
+%_%    1802, SKOGEN, Tor Birger, NOR,  1, 108, 1628
+
+
+
+%Round: 1
+
+140031 (30)<(34)   1993  B
+  2583 (17)<(47)   1878  B
+  2560 (56)>(08)   1802  B
+
+%Round: 2
+
+  1993 (11)<(53)   2560  B
+  1878 (47)>(17) 140031  B
+  1802 (21)<(43)   2583  B
+
+%Round: 3
+
+  1878 (27)<(37)   1802  B
+140031 (12)<(52)   2560  B
+  2583 (52)>(12)   1993  B
+
+%Round: 4
+
+  2560 (33)>(31)   2583  B
+  1993 (55)>(09)   1878  B
+  1802 (13)<(51) 140031  B
+
+%Round: 5
+
+  1878 (16)<(48)   2560  B
+140031 (21)<(43)   2583  B
+  1802 (29)<(35)   1993  B
+
+
+%%Added results
+  2583 (31)<(33)   2560  B
+  1878 (31)<(33)   1993  B
+  1802 (25)<(39) 140031  B

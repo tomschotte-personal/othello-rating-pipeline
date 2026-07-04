@@ -1,0 +1,34 @@
+%%Tournament: CL - Campionato Ligure Stage I
+%%Country: Italy
+%%Date: 13/10/2015
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci
+%%CreationDate: 2016/06/16 13:30
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2855, BIANCHI, Paolo,  4, 215
+%_% 40096, TOMASI, Fabio,  3, 96
+%_% 40098, BREGANTE, Alessio,  2, 96
+%_% 40102, OTTONELLO, Piera,  2, 51
+%_% 40107, TAMAGNONE, Francesco,  1, 53
+
+%Round: 1
+
+  2855 (63)>(01)  40102  B
+ 40098 (23)<(41)  40096  B
+
+%Round: 2
+
+ 40096 (06)<(58)   2855  B
+ 40102 (33)>(31)  40107  B
+
+%Round: 3
+
+  2855 (38)>(26)  40098  B
+ 40107 (15)<(49)  40096  B
+
+%Round: 4
+
+ 40107 (07)<(57)   2855  B
+ 40098 (47)>(17)  40102  B

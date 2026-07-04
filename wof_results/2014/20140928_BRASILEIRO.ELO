@@ -1,0 +1,48 @@
+%%Tournament: Campeonato Brasileiro de Othello
+%%Country: Brazil
+%%Date: 28/09/2014
+%%Sender: Daniel Dantas (dantasu@gmail.com)
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4071, DANTAS, Daniel, BRA, ,
+%_%    4083, DE CAMARGO R., Lucas C., BRA, ,
+%_%  290000, SILVA, Fabricio, BRA, ,
+%_%    4155, BRIANTE PIRES, Marcos Paulo, BRA, ,
+
+% Round 1
+
+  4083 (40)>(24) 290000 
+  4155 (45)>(19)   4071 
+
+290000 (52)>(12)   4071 
+  4155 (45)>(19)   4083 
+ 
+  4155 (04)<(60) 290000 
+  4083 (45)>(19)   4071 
+
+% Round 2
+
+290000 (56)>(08)   4083 
+  4071 (22)<(42)   4155 
+
+  4071 (06)<(58) 290000 
+  4083 (31)<(33)   4155 
+
+  4071 (43)>(21)   4083 
+290000 (39)>(25)   4155 
+
+% Third place
+  4071 (13)<(51)   4083 
+  4083 (28)<(36)   4071 
+  4071 (32)=(32)   4083 
+
+% Final 
+
+  4155 (04)<(60) 290000 
+290000 (29)<(35)   4155 
+  4155 (05)<(59) 290000  
+
+
+
+
+

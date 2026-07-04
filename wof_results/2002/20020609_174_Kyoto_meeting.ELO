@@ -1,0 +1,46 @@
+%%Tournament: 174th Kyoto Meeting
+%%Country: Japan
+%%Date: 09/06/2002
+%%Sender: Tom Schotte
+
+%Round1
+5526 > 10008
+10351 > 5506
+6929 > 5507
+11875 > 10009
+
+%Round2
+5526 > 6929
+10351 > 11875
+5506 > 10009
+5507 > 10008
+
+%Round3
+5526 > 10351
+6929 > 5506
+11875 > 5507
+10009 > 10008
+
+%Round4
+5526 > 11875
+10351 > 6929
+5507 > 10009
+5506 > 10008
+
+%Round5
+5526 > 5507
+10351 > 10009
+5506 > 11875
+10008 > 6929
+
+
+%players
+%1 UNO Toshihiro (Japan)[id: 5526]
+%2 TOKUMARU Kikuchi (Japan)[id: 10351]
+%3 TAMAKI Suguru (Japan)[id: 5506]
+%4 TSUCHIDA Daisuke (Japan)[id: 5507]
+%5 IO Hideo (Japan)[id: 6929]
+%6 11875	eto	tetsuharu
+%7 10008	okuda	masashi
+%8 TARU Eiichi (Japan)[id: 10009]
+

@@ -1,0 +1,48 @@
+%%Tournament: National Open 2016 Day 2
+%%Country: USA
+%%Date: 10/07/2016
+%%Sender: David Rockwell
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/07/12 08:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4001, FU, Jacky, CAN,  3.5, 217, 2185
+%_%   20022, HAI, Jerry, USA,  3, 212, 1871
+%_%    4089, CHITRA, Yohanes, USA,  3, 177, 2081
+%_%   20029, YU, Dal, USA,  2.5, 162, 0
+
+
+
+%Round: 1
+
+  4089 (36)>(28)  20022  B
+  4001 (44)>(20)  20029  B
+
+%Round: 2
+
+ 20029 (33)>(31)   4089  B
+ 20022 (27)<(37)   4001  B
+
+%Round: 3
+
+  4089 (13)<(51)   4001  B
+ 20029 (37)>(27)  20022  B
+
+%Round: 4
+
+ 20022 (39)>(25)   4089  B
+ 20029 (32)=(32)   4001  B
+
+%Round: 5
+
+  4089 (38)>(26)  20029  B
+  4001 (23)<(41)  20022  B
+
+%Round: 6
+
+  4001 (30)<(34)   4089  B
+ 20022 (50)>(14)  20029  B
+
+
+%%Added results

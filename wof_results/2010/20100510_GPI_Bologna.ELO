@@ -1,0 +1,60 @@
+%%Tournament: Open di Bologna
+%%Country: Italy
+%%Date: 10/05/2010
+%%Sender: Donato Barnaba
+
+
+%_% 36, MARCONI, Francesco
+%_% 3037, DI MATTEI, Alessandro
+%_% 2805, ALAMI, Carlo
+%_% 3062, CAVIOLA, Leonardo
+%_% 40002, ILACQUA, Gianluca
+%_% 40010, ANGELONI, Giancarlo
+%_% 3045, ACCIARO, Giuseppe
+%_% 3005, PALLADINO, Domenico
+%_% 40006, CHIARULLI, Giuseppe
+%_% 3111, SCOGNAMIGLIO, Paolo
+
+
+
+%Round: 1
+
+  2805 (48)>(16)   3062 B
+ 40002 (11)<(53)   3037 B
+    36 (43)>(21)  40010 B
+
+%Round: 2
+
+  3037 (26)<(38)   2805 B
+  3062 (17)<(47)     36 B
+  3045 (05)<(59)  40002 B
+
+%Round: 3
+
+    36 (45)>(19)   3037 B
+  2805 (49)>(15)   3045 B
+ 40010 (01)<(63)   3062 B
+
+%Round: 4
+
+  3045 (10)<(54)     36 B
+  3037 (54)>(10)  40010 B
+ 40002 (16)<(48)   2805 B
+
+%Round: 5
+
+ 40010 (17)<(47)   3045 B
+    36 (48)>(16)  40002 B
+  3062 (05)<(59)   3037 B
+
+%Round: 6
+
+ 40002 (64)>(00)  40010 B
+  3045 (24)<(38)   3062 B
+  2805 (25)<(39)     36 B
+
+%Round: 7
+
+  3062 (31)<(33)  40002 B
+ 40010 (14)<(50)   2805 B
+  3037 (59)>(05)   3045 B

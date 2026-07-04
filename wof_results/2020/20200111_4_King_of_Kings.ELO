@@ -1,0 +1,48 @@
+%%Tournament: 4 King of Kings
+%%Country: Korea
+%%Date: 11/01/2020
+%%Sender: Taeyeon KIM
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/01/11 15:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4074, OH, Joung-Mok, KOR,  4, 230, 2248
+%_%   30501, AHN, Taeyoung, KOR,  3.5, 195, 1820
+%_%   30037, KIM, Jungsoo, KOR,  2.5, 178, 1802
+%_%   30406, KIM, Dongkwon, KOR,  2, 165, 1899
+
+
+
+%Round: 1
+
+ 30037 (32)=(32)  30501  B
+ 30406 (31)<(33)   4074  B
+
+%Round: 2
+
+  4074 (38)>(26)  30037  B
+ 30501 (31)<(33)  30406  B
+
+%Round: 3
+
+ 30037 (46)>(18)  30406  B
+  4074 (29)<(35)  30501  B
+
+%Round: 4
+
+ 30501 (26)<(38)  30037  B
+  4074 (55)>(09)  30406  B
+
+%Round: 5
+
+ 30037 (16)<(48)   4074  B
+ 30406 (30)<(34)  30501  B
+
+%Round: 6
+
+ 30406 (44)>(20)  30037  B
+ 30501 (37)>(27)   4074  B
+
+
+%%Added results

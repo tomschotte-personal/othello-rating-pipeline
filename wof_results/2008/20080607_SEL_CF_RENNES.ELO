@@ -1,0 +1,41 @@
+%%Tournament: Selection Rennes 2008
+%%Country: France
+%%Date: 07/06/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/07/19 18:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3519, DAUBA, Cedric, F,  5, 223
+%_%     145, POIRIER, Serge, F,  4, 225
+%_%    3524, POIRIER, Thibault, F,  3, 173
+%_%     894, HERVE, Jacqueline, F,  2, 135
+%_%    3728, POIRIER, Antoine, F,  1, 84
+
+
+
+%Round: 1
+
+   145 (59)>(05)    894 B
+  3524 (25)<(39)   3519 B
+
+%Round: 2
+
+  3728 (02)<(62)   3524 B
+  3519 (41)>(23)    145 B
+
+%Round: 3
+
+   894 (16)<(48)   3519 B
+   145 (51)>(13)   3728 B
+
+%Round: 4
+
+  3524 (12)<(52)    145 B
+  3728 (20)<(44)    894 B
+
+%Round: 5
+
+  3519 (55)>(09)   3728 B
+   894 (30)<(34)   3524 B

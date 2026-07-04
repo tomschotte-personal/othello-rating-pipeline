@@ -1,0 +1,57 @@
+%%Tournament: 21st Q League
+%%Country: Japan
+%%Date: 26/02/2006
+%%Sender: Tom Schotte
+
+%round1
+7003 > 10314
+10192 = 11255
+5615 > 7010
+10274 > 5565
+
+%round2
+7003 > 11255
+10192 > 7010
+5615 > 10274
+5565 > 10314
+
+%round3
+7003 > 7010
+10192 > 10274
+5615 > 5565
+11255 > 10314
+
+%round4
+7003 > 10274
+10192 > 5565
+5615 > 10314
+11255 > 7010
+
+%round5
+7003 > 5565
+10192 > 5615
+11255 > 10274
+10314 > 7010
+
+%round6
+7003 > 5615
+10192 > 10314
+11255 > 5565
+10274 > 7010
+
+%round7
+7003 > 10192
+5615 > 11255
+5565 > 7010
+10274 > 10314
+
+
+%players
+%1 7003	nakano	takanao
+%2 10192	hamada	naoki
+%3 5615	ohhashi	tomoshige
+%4 5565	ohnaka	kenichiro
+%5 11255	saijo	asuka
+%6 10274	sato	junichi
+%7 10314	otsuka	souhei
+%8 7010	ueno	hideki

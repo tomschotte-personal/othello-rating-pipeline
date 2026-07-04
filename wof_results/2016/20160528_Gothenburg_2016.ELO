@@ -1,0 +1,45 @@
+%%Tournament: Gothenburg 2016
+%%Country: Sweden
+%%Date: 28/05/2016
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/05/28 14:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  4.5, 205, 2032
+%_%    1511, LJUNGQVIST, Daniel, SWE,  4, 184, 1883
+%_%    1492, ENG, Tintin, SWE,  3.5, 211, 2009
+%_%    1301, STEENTOFT, Benkt, SWE,  2, 123, 1772
+%_%    1379, MAGNUSSON, Johan, SWE,  1, 117, 1805
+
+
+
+%Round: 1
+
+  1379 (16)<(48) 150016  B
+  1511 (33)>(31)   1492  B
+
+%Round: 2
+
+  1301 (18)<(46)   1511  B
+  1492 (59)>(05)   1379  B
+
+%Round: 3
+
+150016 (32)=(32)   1492  B
+  1379 (28)<(36)   1301  B
+
+%Round: 4
+
+  1511 (36)>(28)   1379  B
+  1301 (14)<(50) 150016  B
+
+%Round: 5
+
+  1492 (49)>(15)   1301  B
+150016 (35)>(29)   1511  B
+
+
+%%Added results
+150016 (49)>(15)   1511  B

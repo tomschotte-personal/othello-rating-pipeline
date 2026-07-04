@@ -1,0 +1,28 @@
+%%Tournament: Fossil Cup 2010
+%%Country: Norway
+%%Date: 05/03/2010
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/09/04 13:54
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1800, AAS, Vidar, N,  2, 112
+%_%    1953, KJELLSTADLI, Jonas, N,  1, 80
+
+
+
+%Round: 1
+
+  1800 (40)>(24)   1953 B
+
+%Round: 2
+
+  1953 (37)>(27)   1800 B
+
+%Round: 3
+
+  1800 (45)>(19)   1953 B
+
+
+%%Added results

@@ -1,0 +1,85 @@
+%%Tournament: DUND NAS, ZEREG Akhuilah
+%%Country: Mongolia
+%%Date: 10/05/2024
+%%Sender: buyanzaya
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2024/05/26 17:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  440251, BATSAIKHAN, Khash-Erdene, UBOthello,  5, 246, 0
+%_%  440410, OTGONBAYAR, Erdenebayar, GerelGegee,  4, 207, 0
+%_%  440107, LKHAGVA, Erdenetsogt, MNG,  3, 196, 0
+%_%  440733, GANTULGA, Erdemtugs, MNG,  3, 194, 0
+%_%  440045, ERDENEBAATAR, Munkh-Undral, SetgehuinChadvar,  3, 174, 0
+%_%  440473, ALTANSHAGAI, Misheel, MNG,  3, 172, 0
+%_%  440478, MEND-AMAR, Badmaarag, SuperMind,  3, 147, 0
+%_%  440046, ERDENEBAT, Batbaatar, SetgehuinChadvar,  3, 145, 0
+%_%  441008, TERGEL, Anudari, MNG,  2, 166, 0
+%_%  440563, DAVAAJAV, Namuun, MNG,  2, 158, 0
+%_%  440105, BYMBATSOGT, Enkh-Od, MNG,  2, 154, 0
+%_%  440543, ULZIIDELGER, Delger-Uils, MNG,  2, 147, 0
+%_%  440504, ODKHUU, Enkh-Erdene, ErdenetOthello,  2, 135, 0
+%_%  440574, BOKHBAT, Munkhbat, MNG,  2, 133, 0
+%_%  440176, CHINZORIG, Undrakh, MNG,  1, 119, 0
+%_%  440668, NARANBAYAR, Anudari, MNG,  0, 67, 0
+
+
+
+%Round: 1
+
+440473 (42)>(22) 440733  B
+440668 (12)<(52) 440045  B
+440410 (41)>(23) 440176  B
+440105 (30)<(34) 440251  B
+440574 (34)>(30) 440504  B
+440478 (39)>(25) 440107  B
+441008 (21)<(43) 440046  B
+440563 (31)<(33) 440543  B
+
+%Round: 2
+
+440046 (23)<(41) 440473  B
+440543 (24)<(40) 440478  B
+440176 (16)<(48) 440105  B
+440251 (62)>(02) 440574  B
+440504 (26)<(38) 440563  B
+440107 (43)>(21) 441008  B
+440733 (52)>(12) 440668  B
+440045 (31)<(33) 440410  B
+
+%Round: 3
+
+440410 (26)<(38) 440478  B
+440473 (30)<(34) 440251  B
+440563 (30)<(34) 440046  B
+441008 (31)<(33) 440504  B
+440105 (24)<(40) 440045  B
+440574 (18)<(46) 440543  B
+440107 (38)>(26) 440733  B
+440668 (19)<(45) 440176  B
+
+%Round: 4
+
+440045 (45)>(19) 440473  B
+440543 (14)<(50) 440410  B
+440504 (46)>(18) 440105  B
+440668 (13)<(51) 441008  B
+440478 (06)<(58) 440251  B
+440733 (58)>(06) 440563  B
+440176 (13)<(51) 440574  B
+440046 (38)>(26) 440107  B
+
+%Round: 5
+
+441008 (42)>(22) 440176  B
+440105 (34)>(30) 440543  B
+440251 (58)>(06) 440045  B
+440574 (28)<(36) 440733  B
+440410 (57)>(07) 440046  B
+440473 (40)>(24) 440478  B
+440107 (64)>(00) 440504  B
+440563 (53)>(11) 440668  B
+
+
+%%Added results

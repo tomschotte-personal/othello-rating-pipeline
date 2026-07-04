@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 05/04/2014
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/05/06 18:44
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      11, LAZARD, Emmanuel, FRA,  5, 223, 1990
+%_%    3518, DELAUNAY, Arnaud, FRA,  4, 212, 2153
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 213, 1836
+%_%       2, TASTET, Marc, FRA,  3, 212, 2124
+%_%     228, BUSUTTIL, Michel, FRA,  2, 152, 1313
+%_%    3600, BENOIT, Serge, FRA,  1, 107, 1393
+%_% + 50068, OROZCO, Ana, FRA,  1, 86, 0
+%_% + 50069, PRIETO, Jean-Raphael, FRA,  1, 75, 0
+
+
+
+%Round: 1
+
+    11 (37)>(27)   3518  B
+ 50068 (04)<(60)      2  B
+  3600 (40)>(24)    228  B
+ 50069 (00)<(64)     45  B
+
+%Round: 2
+
+    45 (52)>(12)   3600  B
+   228 (42)>(22)  50068  B
+  3518 (51)>(13)  50069  B
+     2 (23)<(41)     11  B
+
+%Round: 3
+
+   228 (19)<(45)      2  B
+    11 (34)>(30)     45  B
+ 50068 (44)>(20)  50069  B
+  3600 (17)<(47)   3518  B
+
+%Round: 4
+
+    45 (53)>(11)  50068  B
+    11 (52)>(12)    228  B
+ 50069 (33)>(31)   3600  B
+     2 (27)<(37)   3518  B
+
+%Round: 5
+
+ 50068 (05)<(59)     11  B
+   228 (55)>(09)  50069  B
+  3518 (50)>(14)     45  B
+  3600 (07)<(57)      2  B
+
+
+%%Added results

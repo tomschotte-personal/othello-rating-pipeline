@@ -1,0 +1,38 @@
+%%Tournament: Antwerpen Othello Open B
+%%Country: Belgium
+%%Date: 17/04/2011
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/04/17 20:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    5062, DE GRAAF, Corrie, NL,  4, 180
+%_% +270013, VAN DEN BRANDT, Joke, B,  2, 138
+%_% +270012, VAN DAMME Frank, Ivo, B,  2, 133
+%_%    5919, FLOCKMAN, Annie, B,  0, 61
+
+
+
+%Round: 1
+
+  5919 (15)<(49)   5062 B
+270012 (48)>(16) 270013 B
+
+%Round: 2
+
+270013 (51)>(13)   5919 B
+  5062 (42)>(22) 270012 B
+
+%Round: 3
+
+  5919 (23)<(41) 270012 B
+270013 (17)<(47)   5062 B
+
+%Round: 4
+
+270012 (22)<(42)   5062 B
+  5919 (10)<(54) 270013 B
+
+
+%%Added results

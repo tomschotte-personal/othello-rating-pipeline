@@ -1,0 +1,45 @@
+%%Tournament: Campeonato Brasileiro
+%%Country: Brazil
+%%Date: 07/12/2024
+%%Sender: CORREIA JR. Moises
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    4155, BRIANTE PIRES, Marcos Paulo, BRA, 4, 245, 1959
+%_%    4083, DE CAMARGO, Lucas, BRA, 4, 217, 1886
+%_%  290013, FRITSCH, Evans, BRA, 4, 216, 1448
+%_%  290025, CORREIA JR., Moises, BRA, 2, 140, 1467
+%_% +290551, Piva, Millene, BRA, 1, 71, -
+%_% +290552, Lima, Nathali, BRA, 0, 71, -
+
+%Round: 1
+
+290013 (58)>(06) 290551  B
+290025 (13)<(51)   4083  B
+  4155 (64)>(00) 290552  B
+
+%Round: 2
+
+290552 (12)<(52) 290013  B
+  4083 (33)>(31)   4155  B
+290551 (09)<(55) 290025  B
+
+%Round: 3
+
+290552 (10)<(54)   4083  B
+  4155 (51)>(13) 290551  B
+290013 (46)>(18) 290025  B
+
+%Round: 4
+
+  4083 (22)<(42) 290013  B
+290551 (36)>(28) 290552  B
+290025 (11)<(53)   4155  B
+
+%Round: 5
+
+290013 (18)<(46)   4155  B
+290552 (21)<(43) 290025  B
+  4083 (57)>(07) 290551  B

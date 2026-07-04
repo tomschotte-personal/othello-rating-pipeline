@@ -1,0 +1,34 @@
+%%Tournament: Selection de Paris 97
+%%Country: France
+%%Date: 01/11/1997
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+  45 >   13
+ 849 <  897
+  46 <  823
+
+%%Round: 2
+
+ 897 <   46
+ 823 <   45
+  13 >  849
+
+%%Round: 3
+
+  46 >   45
+ 897 <   13
+ 849 <  823
+
+%%Round: 4
+
+  13 <   46
+  45 >  849
+ 823 >  897
+
+%%Round: 5
+
+  46 >  849
+  13 <  823
+ 897 <   45

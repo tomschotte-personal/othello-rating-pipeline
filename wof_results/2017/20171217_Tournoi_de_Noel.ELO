@@ -1,0 +1,58 @@
+%%Tournament: Tournoi de Noel
+%%Country: France
+%%Date: 17/12/2017
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/18 09:33
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      11, LAZARD, Emmanuel, FRA,  4, 209, 2015
+%_%     478, COLLAY, Frederic, FRA,  4, 178, 1785
+%_%       2, TASTET, Marc, FRA,  4, 178, 2083
+%_%     228, BUSUTTIL, Michel, FRA,  3, 178, 1572
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 162, 1795
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 161, 1967
+%_%    9025, TOUCHENE, Fouad, DZA,  2, 177, 1593
+%_%   50096, LEVY, Marc, FRA,  1, 127, 1825
+%_%    3600, BENOIT, Serge, FRA,  1, 110, 1392
+
+
+
+%Round: 1
+
+   228 (38)>(26)  50096  B
+    45 (21)<(43)   3598  B
+    11 (49)>(15)   3600  B
+     2 (33)>(31)   9025  B
+
+%Round: 2
+
+  9025 (26)<(38)     11  B
+  3600 (28)<(36)     45  B
+  3598 (35)>(29)    228  B
+   478 (40)>(24)      2  B
+
+%Round: 3
+
+    11 (53)>(11)   3598  B
+   228 (49)>(15)   3600  B
+ 50096 (19)<(45)      2  B
+    45 (27)<(37)    478  B
+
+%Round: 4
+
+   478 (25)<(39)     11  B
+     2 (42)>(22)    228  B
+  3598 (44)>(20)  50096  B
+  9025 (28)<(36)     45  B
+
+%Round: 5
+
+  3600 (12)<(52)   9025  B
+  3598 (28)<(36)    478  B
+    11 (30)<(34)      2  B
+ 50096 (22)<(42)     45  B
+
+
+%%Added results

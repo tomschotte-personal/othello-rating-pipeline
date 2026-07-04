@@ -1,0 +1,48 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 26/04/2025
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2025/04/26 18:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50053, TASTET, Remi, FRA,  4, 243, 1805
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 196, 1642
+%_%       2, TASTET, Marc, FRA,  3, 193, 1972
+%_%     228, BUSUTTIL, Michel, FRA,  2, 136, 1369
+
+
+
+%Round: 1
+
+    45 (34)>(30)      2  B
+   228 (23)<(41)  50053  B
+
+%Round: 2
+
+ 50053 (26)<(38)     45  B
+     2 (30)<(34)    228  B
+
+%Round: 3
+
+    45 (46)>(18)    228  B
+ 50053 (29)<(35)      2  B
+
+%Round: 4
+
+     2 (36)>(28)     45  B
+ 50053 (64)>(00)    228  B
+
+%Round: 5
+
+    45 (19)<(45)  50053  B
+   228 (28)<(36)      2  B
+
+%Round: 6
+
+   228 (33)>(31)     45  B
+     2 (26)<(38)  50053  B
+
+
+%%Added results

@@ -1,0 +1,58 @@
+%%Tournament: Ramat Gan International
+%%Country: Israel
+%%Date: 03/11/2018
+%%Sender: Leonid Shifman
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/11/03 16:38
+
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, ISR,  5, 226
+%_%    1045, NIELSEN, Kim J., DNK,  4, 201
+%_%     885, SHIFMAN, Ilya, ISR,  3, 179
+%_%    4039, RADZIVILOVSKY, Lev, ISR,  3, 166
+%_%     880, SHIFMAN, Leonid, ISR,  3, 167
+%_%  200010, SHIFMAN, Michael, ISR,  2, 141
+%_%    4028, RADZIVILOVSKY, Pavel, ISR,  2, 142
+%_%  200040, LAUFER, Shachar, ISR,  2, 165
+%_%    1981, STOKKE, Solrun, DNK,  1, 151
+%_% +200059, FRID, Dror, ISR,  0, 62
+
+
+%Round: 1
+   880 (37)>(27)   1981  B
+200040 (27)<(37)   4028  B
+200059 (17)<(47)   1045  B
+  4085 (51)>(13)    885  B
+200010 (21)<(43)   4039  B
+
+%Round: 2
+   885 (43)>(21) 200010  B
+  1045 (37)>(27)    880  B
+  4039 (22)<(42)   4085  B
+  4028 (45)>(19) 200059  B
+  1981 (10)<(54) 200040  B
+
+%Round: 3
+200010 (34)>(30)   1981  B
+   880 (20)<(44)   4039  B
+200059 (13)<(51)    885  B
+  4085 (45)>(19)   4028  B
+200040 (15)<(49)   1045  B
+
+%Round: 4
+  4028 (12)<(52) 200010  B
+  1981 (62)>(02) 200059  B
+   885 (49)>(15)   4039  B
+  1045 (27)<(37)   4085  B
+200040 (16)<(48)    880  B
+
+%Round: 5
+  1045 (41)>(23)    885  B
+200059 (11)<(53) 200040  B
+  4085 (51)>(13) 200010  B
+   880 (35)>(29)   4028  B
+  4039 (42)>(22)   1981  B
+
+%%Added results

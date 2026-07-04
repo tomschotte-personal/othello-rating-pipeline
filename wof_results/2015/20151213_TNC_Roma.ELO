@@ -1,0 +1,43 @@
+%%Tournament: Torneo di Natale Categoria
+%%Country: Italy
+%%Date: 13/12/2015
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci
+%%CreationDate: 2016/06/19 23:30
+
+
+%      ID, NAME, Firstname, score, disc-count
+%_% 40040, ZHUK, Katia, 4, 184
+%_%  2838, COLANGIUOLO, Enrico, 3, 183
+%_% 40075, CESTRA, Carla, 3, 121
+%_% 40052, GIGLIUCCI, Chiara, 2, 150
+%_% 40084, GIANNINI, Valentino, 2, 126
+%_% 40099, LEOFRIGIO, Marco, 1, 79
+%_% 40097, CACCIATORE, Alessandro, 1, 111
+%_% 40113, MACERA, Marco, 0, 70
+
+
+%Round 1 
+  2838 (59)>(05)  40099  B
+ 40097 (16)<(48)  40052  B
+ 40040 (52)>(12)  40075  B
+ 40113 (16)<(48)  40084  B
+
+%Round 2 
+ 40084 (06)<(58)   2838  B
+ 40052 (25)<(39)  40040  B
+ 40099 (54)>(10)  40113  B
+ 40075 (42)>(22)  40097  B
+
+%Round 3 
+  2838 (24)<(40)  40040  B
+ 40099 (09)<(55)  40052  B
+ 40075 (34)>(30)  40084  B
+ 40097 (51)>(13)  40113  B
+
+%Round 4 
+ 40040 (53)>(11)  40099  B
+ 40052 (22)<(42)   2838  B
+ 40113 (31)<(33)  40075  B
+ 40084 (42)>(22)  40097  B

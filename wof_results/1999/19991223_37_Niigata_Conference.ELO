@@ -1,0 +1,85 @@
+%%Tournament: 37th Niigata Othello Conference
+%%Country: Japan
+%%Date: 23/12/1999
+%%Sender: Tom Schotte
+
+%round1
+7047 > 10610
+488 > 12006
+7046 > 7034
+10585 > 7048
+7096 > 11996
+12003 > 12004
+11998 > 10381
+10379 > 12005
+
+%round2
+7047 > 12003
+488 > 7046
+10585 > 11998
+10610 > 12004
+7034 > 12005
+7096 > 10379
+7048 > 10381
+12006 > 11996
+
+%round3
+7047 > 10585
+488 > 7096
+7046 > 12006
+7034 > 12003
+7048 > 10610
+12004 > 10381
+11998 > 10379
+12005 > 11996
+
+%round4
+7047 > 488
+7046 > 10585
+10610 > 12003
+7034 > 11998
+7096 > 7048
+12004 > 10379
+12005 > 12006
+10381 > 11996
+
+%round5
+7047 > 7096
+488 > 7034
+7046 > 12005
+10585 > 10610
+7048 > 12004
+12003 > 11998
+10381 > 12006
+11996 > 10379
+
+%round6
+488 > 7048
+7046 > 7047
+10585 > 7096
+10610 > 7034
+12003 > 10381
+12004 > 12005
+11998 > 11996
+10379 > 12006
+
+
+
+%players
+%1 7047	umezawa	yoshinori
+%2 488	takizawa	masaki
+%3 7046	sasaki	sadayuki
+%4 10585	matuzawa	takashi
+%5 10610	ota	masahumi
+%6 7034	yoshida	taisaku
+%7 7096	suzuki	nobuyuki
+%8 7048	kanda	yoshihiro
+%9 12003	ishizuka	hisako
+%10 12004	watanabe	suigetsu
+%11 11998	yokoi	taiki
+%12 12005	watanabe	akio
+%13 10381	iwasaka	nishimura
+%14 10379	nochi	hinobota
+%15 12006	tsuboya	satoshi
+%16 11996	watanabe	teruko
+

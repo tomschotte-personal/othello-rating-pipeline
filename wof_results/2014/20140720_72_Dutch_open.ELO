@@ -1,0 +1,40 @@
+%%Tournament: 72th Dutch Othello Open
+%%Country: Netherlands
+%%Date: 20/07/2014
+%%Sender: Marcel Sneek
+
+% Round 1
+
+  5071 >   5083 
+  4012 >   4068 
+
+% Round 2
+
+  5239 <   4012 
+  4068 <   5071 
+
+% Round 3
+
+  4012 =   5071 
+  5083 <   5239 
+
+% Round 4
+
+  5071 >   5239 
+  4068 <   5083 
+
+% Round 5
+
+  5083 <   4012 
+  5239 >   4068 
+
+% Round 6
+
+  5071 <   4012 
+  5239 >   5083 
+
+% Round 7
+
+  4012 >   5239 
+  5083 >   4068 
+

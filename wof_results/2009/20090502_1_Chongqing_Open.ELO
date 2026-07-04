@@ -1,0 +1,42 @@
+%%Tournament: 1st Chongqing Open
+%%Country: China
+%%Date: 02/05/2009
+%%Sender: Tom Schotte
+
+%round 1
+7148 > 7107
+4138 > 7149
+
+%round 2
+4138 = 7107
+7112 < 7149
+
+%round 3
+7148 > 4138
+7112 > 7107
+
+%round 4
+7148 < 7112
+7107 > 7149
+
+%round 5
+7148 = 7149
+4138 > 7112
+
+%semi-final
+7107 < 7148
+7112 > 4138
+
+%3/4 final
+7107 > 4138
+
+%final
+7148 > 7112
+7112 < 7148
+
+%%PLAYERS
+%1 255(HU Yingchong) [7148]
+%2 Feng211(LEE Chong Foong) [4138]
+%3 Ghostors(FENG Ling) [7112]
+%4 Mice(DONG Zhen) [7107]
+%5 Haha(ZHAO Jingtao) [7149]

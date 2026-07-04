@@ -1,0 +1,60 @@
+%%Tournament: 42nd Niigata Othello Conference
+%%Country: Japan
+%%Date: 07/04/2002
+%%Sender: Tom Schotte
+
+%round1
+488 > 7046
+7048 > 10381
+12010 > 11974
+7096 > 11024
+7051 > 12011
+11973 > 11996
+
+%round2
+488 > 11973
+7048 > 7051
+12010 > 7096
+7046 > 11996
+11024 > 10381
+12011 > 11974
+
+%round3
+488 > 12010
+7048 > 12011
+7046 > 7051
+7096 > 11973
+11024 > 11996
+10381 > 11974
+
+%round4
+488 > 7048
+12010 > 11024
+7096 > 7046
+7051 > 10381
+12011 > 11973
+11996 > 11974
+
+%round5
+488 > 7096
+7048 > 12010
+7046 > 12011
+11024 > 7051
+10381 > 11996
+11973 > 11974
+
+
+
+%players
+%1 488	takizawa	masaki	
+%2 7048	kanda	yoshihiro
+%3 12010	matsuda	kyoichi
+%4 7046	sasaki	sadayuki
+%5 7096	suzuki	nobuyuki
+%6 11024	igarashi	toshiyuki
+%7 7051	okuno	tomoji
+%8 12011	nakamura	motohiro
+%9 10381	iwasaka	nishimura
+%10 11973	oshimi	hiro
+%11 11996	watanabe	teruko
+%12 11974	miyamoto	satoru

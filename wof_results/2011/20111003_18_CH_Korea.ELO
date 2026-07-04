@@ -1,0 +1,68 @@
+%%Tournament: 18th Korean Championships
+%%Country: Korea
+%%Date: 03/10/2011
+%%Sender: Kyung-Joong Kim
+
+%%Creator: PAPP 1.32
+%%CreationDate: 2011/10/03 23:55
+
+
+%Ranking of the 4 players after round 6:
+
+%_% ID,  NAME, Firstname, COUNTRY, score, disc-coun
+
+%_% 7571,  HONG, Seonguk, KOR,  6, 242
+%_% 4074,  OH, Joung-mok, KOR,  4, 242
+%_% 7573,  HA, Seungseop, KOR,   1, 192
+%_% 7566,  KIM, Kyungjoong, KOR, 1, 184
+
+
+
+%Round: 1
+
+  7573 (20)<(44)   4074  W
+  7566 (12)<(52)   7571  W
+
+
+%Round: 2
+
+  7571 (42)>(22)   7573  W
+  4074 (44)>(20)   7566  W
+
+
+%Round: 3
+
+  7571 (35)>(29)   4074  W
+  7573 (27)<(37)   7566  W
+
+
+%Round: 4
+
+  7571 (40)>(24)   7566  W
+  4074 (40)>(24)   7573  W
+
+
+%Round: 5
+
+  7573 (14)<(50)   7571  W
+  7566 (03)<(61)   4074  W
+
+
+%Round: 6
+
+  4074 (30)<(34)   7571  W
+  7566 (28)<(36)   7573  W
+
+
+%Finals: 1
+
+  7571 (27)<(37)   4074  W
+
+%Finals: 2
+
+  4074 (19)<(45)   7571  W
+
+%Finals: 3
+
+  7571 (24)<(40)   4074  W
+

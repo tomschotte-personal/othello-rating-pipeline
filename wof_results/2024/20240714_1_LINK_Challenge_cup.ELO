@@ -1,0 +1,45 @@
+%%Tournament: 1st LINK Challenge Cup
+%%Country: Japan
+%%Date: 14/07/2024
+%%Sender: Takeshi Murakami
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%     299, MURAKAMI, Takeshi, JPN, 4, 224, 2327
+%_%   14236, TSUCHIGANE, TAISHI, JPN, 3, 185, 2201
+%_%   12221, ABE, Yura, JPN, 3, 163, 2255
+%_%    5633, HISHIYAMA, Yuichi, JPN, 2.5, 167, 2131
+%_%   11054, IWAKURA, Hiroaki, JPN, 1.5, 121, 2091
+%_%   14235, TSUCHIGANE, LINK, JPN, 1, 100, 1921
+
+%Round: 1
+
+   299 (56)>(08)  11054  B
+ 14235 (22)<(42)  12221  B
+ 14236 (19)<(45)   5633  B
+
+%Round: 2
+
+  5633 (22)<(42)    299  B
+ 12221 (35)>(29)  14236  B
+ 11054 (41)>(23)  14235  B
+
+%Round: 3
+
+  5633 (40)>(24)  12221  B
+ 14236 (41)>(23)  11054  B
+   299 (54)>(10)  14235  B
+
+%Round: 4
+
+ 12221 (15)<(49)    299  B
+ 11054 (32)=(32)   5633  B
+ 14235 (09)<(55)  14236  B
+
+%Round: 5
+
+   299 (23)<(41)  14236  B
+  5633 (28)<(36)  14235  B
+ 12221 (47)>(17)  11054  B

@@ -1,0 +1,46 @@
+%%Tournament: XXXVIII Gran Maestro
+%%Country: Italy
+%%Date: 21/04/2024
+%%Sender: FNGO
+
+%%Creator: www.fngo.it
+%%CreationDate: 2024/04/24
+
+%       ID, NAME, Firstname
+%_%    148, ORTIZ, George, ITA
+%_%   2844, SPERANDIO, Roberto, ITA
+%_%   2851, ROMANO, Benedetto, ITA
+%_%   3037, DI MATTEI, Alessandro, ITA
+%_%   3059, DI PIETRO, Massimo, ITA
+%_%   3111, SCOGNAMIGLIO, Paolo, ITA
+
+
+%Round:1
+
+  2851 (47)>(17)   3111 
+  2844 (48)>(16)   3059 
+  3037 (52)>(12)    148 
+
+%Round:2
+
+  3111 (29)<(35)   2844 
+   148 (27)<(37)   2851 
+  3059 (12)<(52)   3037 
+
+%Round:3
+
+  2844 (37)>(27)    148 
+  3059 (23)<(41)   3111 
+  3037 (35)>(29)   2851 
+
+%Round:4
+
+   148 (26)<(38)   3059 
+  2851 (14)<(50)   2844 
+  3111 (43)>(21)   3037 
+
+%Round:5
+
+  3059 (21)<(43)   2851 
+  3111 (33)>(31)    148 
+  3037 (44)>(20)   2844 

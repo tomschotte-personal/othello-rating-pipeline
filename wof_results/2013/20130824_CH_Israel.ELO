@@ -1,0 +1,31 @@
+%%Tournament: Israeli Championship
+%%Country: Israel
+%%Date: 24/08/2013
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, IL, 3, 154
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 3, 119
+%_%    4039, RADZIVILOVSKY, Lev, IL, 2, 151
+%_%    880, SHIFMAN, Leonid, IL, 2, 135
+%_%    200003, MARGALIOT, Michael, IL, 0, 81
+
+%Round 1
+200003 (30)<(34)   4028  B
+  4085 (48)>(16)    880  B
+
+%Round 2
+  4039 (44)>(20) 200003  B
+  4028 (38)>(26)   4085  B
+
+%Round 3
+   880 (31)<(33)   4028  B
+  4085 (35)>(29)   4039  B
+
+%Round 4
+  4039 (28)<(36)    880  B
+200003 (19)<(45)   4085  B
+
+%Round 5
+   880 (52)>(12) 200003  B
+  4028 (14)<(50)   4039  B

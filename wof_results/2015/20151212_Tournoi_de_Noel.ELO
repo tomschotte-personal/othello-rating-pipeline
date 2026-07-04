@@ -1,0 +1,58 @@
+%%Tournament: Tournoi de Noël 2015
+%%Country: France
+%%Date: 12/12/2015
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/12/13 12:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      45, ANDRIANI, Bintsa, FRA,  5, 228, 1785
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 221, 1920
+%_%     228, BUSUTTIL, Michel, FRA,  3, 200, 1370
+%_%    3600, BENOIT, Serge, FRA,  3, 179, 1430
+%_%    3734, CLUZON, Gilles, FRA,  3, 163, 1339
+%_%    2788, LECAT, Monique, BEL,  2, 158, 1694
+%_%   50092, RUSSKIKH, Svetlana, FRA,  2, 98, 0
+%_%     275, OVION, Jacques, FRA,  1, 81, 1372
+%_%   50091, ENGUEHARD, Guillaume, FRA,  0, 72, 0
+
+
+
+%Round: 1
+
+   275 (25)<(39)   3600  B
+  3598 (49)>(15)   3734  B
+ 50091 (21)<(43)    228  B
+    45 (46)>(18)   2788  B
+
+%Round: 2
+
+   228 (48)>(16)    275  B
+  2788 (52)>(12)  50091  B
+  3600 (09)<(55)     45  B
+ 50092 (11)<(53)   3598  B
+
+%Round: 3
+
+ 50091 (23)<(41)  50092  B
+    45 (34)>(30)    228  B
+  3734 (39)>(25)   3600  B
+  3598 (41)>(23)   2788  B
+
+%Round: 4
+
+   228 (64)>(00)  50092  B
+  2788 (47)>(17)   3734  B
+  3600 (60)>(04)  50091  B
+    45 (35)>(29)   3598  B
+
+%Round: 5
+
+  2788 (18)<(46)   3600  B
+ 50092 (06)<(58)     45  B
+  3734 (52)>(12)  50091  B
+  3598 (49)>(15)    228  B
+
+
+%%Added results

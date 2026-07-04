@@ -1,0 +1,26 @@
+%%Tournament: CG - Campionato Genovese Stage III
+%%Country: Italy
+%%Date: 09/12/2014
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 16:10
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  2855, BIANCHI, Paolo,  3, 129
+%_% 40095, LANZAVECCHIA, Pierdante,  2, 91
+%_% 40096, TOMASI, Fabio,  1, 80
+
+
+
+%Round: 1
+
+  2855 (51)>(13)  40095  B
+
+%Round: 2
+
+ 40096 (19)<(45)   2855  B
+
+%Round: 3
+ 
+ 40095 (36)>(28)  40096  B

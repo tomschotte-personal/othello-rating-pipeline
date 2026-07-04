@@ -1,0 +1,42 @@
+%%Tournament: 20051120_Rinkai_CC_Adv_A3
+%%Country: Japan
+%%Date: 20/11/2005
+%%Sender: WOF rating committee (JP Federation backfill)
+
+%_%  11158, MIGAMO, shinya, JPN, 4.0, 93
+%_%  11081, KAWAGASHIRA, kuniharu, JPN, 3.0, 84
+%_%   5515, KOMAGATA, masayuki, JPN, 3.0, 81
+%_%    700, NAKAJIMA, tetsuya, JPN, 3.0, 73
+%_%   5535, IIJIMA, takamune, JPN, 2.0, 84
+%_%   5589, NAGASAKI, hidekazu, JPN, 2.0, 73
+%_%   5603, SAWAKI, yusuke, JPN, 1.0, 92
+
+%Round 1
+  11158 (14)>(50)     700 
+   5603 (46)>(18)    5515 
+  11081 (16)>(48)    5589 
+
+%Round 2
+  11158 (15)>(49)    5535 
+    700 (16)>(48)    5589 
+  11081 (15)>(49)    5603 
+
+%Round 3
+  11158 (10)>(54)   11081 
+    700 (10)>(54)    5515 
+   5535 (12)>(52)    5603 
+
+%Round 4
+   5589 (44)>(20)   11158 
+   5535 (47)>(17)     700 
+   5515 (15)>(49)   11081 
+
+%Round 5
+  11158 (13)>(51)    5603 
+  11081 (14)>(50)    5535 
+   5515 (14)>(50)    5589 
+
+%Round 6
+   5515 (43)>(21)   11158 
+    700 (12)>(52)    5603 
+   5589 (10)>(54)    5535 

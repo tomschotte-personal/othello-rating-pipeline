@@ -1,0 +1,41 @@
+%%Tournament: Belarus championship 2013
+%%Country: Belarus
+%%Date: 10/08/2013
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,      NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000,  KHLEBNIKAU,  Uladzimir,  BLR,     2,     133
+%_%  360003,  LAMAZKI,     Andrei,     BLR,     4,     240
+%_%  360004,  TSISHCHENKA, Aliaksei,   BLR,     4,     171
+%_%  360005,  PANASIUK,    Aliaksandr, BLR,     5,     247
+%_% +360010, PANASIUK,    Sviatlana,  BLR,     1,     142
+%_% +360011, PANASIUK,    Tatsiana,   BLR,     0,      91
+
+
+%Round 1
+360011 (22)<(42) 360004  B
+360010 (24)<(40) 360000  B
+360003 (23)<(41) 360005  B
+
+%Round 2
+360004 (35)>(29) 360005  B
+360011 (16)<(48) 360010  B
+360000 (07)<(57) 360003  B
+
+%Round 3
+360010 (27)<(37) 360004  B
+360003 (52)>(12) 360011  B
+360005 (53)>(11) 360000  B
+
+%Round 4
+360004 (34)>(30) 360000  B
+360011 (22)<(42) 360005  B
+360010 (28)<(36) 360003  B
+
+%Round 5
+360003 (41)>(23) 360004  B
+360000 (45)>(19) 360011  B
+360005 (49)>(15) 360010  B
+
+%Final
+360005 (33)>(31) 360003  B

@@ -1,0 +1,42 @@
+%%Tournament: 169th Kyoto Meeting
+%%Country: Japan
+%%Date: 09/12/2001
+%%Sender: Tom Schotte
+
+%Round1
+11245 > 11856
+6929 > 10008
+6936 > 10009
+
+%Round2
+5507 > 11245
+6929 > 6936
+11856 > 10009
+
+%Round3
+5507 > 6929
+10008 > 11245
+6936 > 11856
+
+%Round4
+5507 > 6936
+11245 > 6929
+11856 > 10008
+6970 > 10009
+
+%Round5
+5507 > 11856
+11245 > 6936
+6929 > 6970
+10009 > 10008
+
+
+%players
+%1 TSUCHIDA Daisuke (Japan)[id: 5507]
+%2 OSADA Koji (Japan)[id: 11245]
+%3 IO Hideo (Japan)[id: 6929]
+%4 OKUDA Masashi (Japan)[id: 10008
+%5 TARU Eiichi (Japan)[id: 10009]
+%6 ISOBE Ayuko (Japan)[id: 11856]
+%7 TSUBOUCHI Masao (Japan)[id: 6936]
+%8 KUDASHOU Takahiro (Japan)[id: 6970]

@@ -1,0 +1,48 @@
+%%Tournament: Silvia Petric Memorial - US National Championship
+%%Country: USA
+%%Date: 13/02/2019
+%%Sender: Vlad Petric
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/03/31 19:57
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     177, ROSE, Brian, USA,  5, 223, 2129
+%_%    6422, PLATT, Jared, USA,  3, 177, 1955
+%_%   20023, ROSE, Joseph, USA,  2, 191, 1974
+%_%   14065, TAMAKI, Tomoyasu, JPN,  2, 177, 1951
+
+
+
+%Round: 1
+
+ 14065 (34)>(30)  20023  B
+   177 (37)>(27)   6422  B
+
+%Round: 2
+
+   177 (34)>(30)  14065  B
+  6422 (34)>(30)  20023  B
+
+%Round: 3
+
+ 14065 (26)<(38)   6422  B
+ 20023 (23)<(41)    177  B
+
+%Round: 4
+
+ 20023 (22)<(42)  14065  B
+  6422 (13)<(51)    177  B
+
+%Round: 5
+
+ 14065 (22)<(42)    177  B
+ 20023 (40)>(24)   6422  B
+
+%Round: 6
+
+  6422 (41)>(23)  14065  B
+   177 (18)<(46)  20023  B
+
+
+%%Added results

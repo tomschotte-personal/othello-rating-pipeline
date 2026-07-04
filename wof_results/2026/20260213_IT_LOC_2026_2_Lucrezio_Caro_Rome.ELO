@@ -1,0 +1,76 @@
+%%Tournament: IT LOC 2026 - 2nd Lucrezio Caro (Rome)
+%%Country: Italy
+%%Date: 13/02/2026 - 14/02/2026
+%%Sender: ATAMANOV Dmitry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40264, MAGGIORE, Giulia, ITA, 4, 154, -
+%_%   40263, MARINARO, Federico, ITA, 3.5, 142, -
+%_%   40275, ROSATI, Elena, ITA, 3, 164, -
+%_%   40261, COLLADELLO, Mattia, ITA, 3, 139, -
+%_%   40266, MOCCIA, Alessandro, ITA, 3, 139, -
+%_%  +40467, Ariola, Emanuele, ITA, 2.5, 118, -
+%_%  +40468, Casadei, Damiano, ITA, 2, 136, -
+%_%  +40469, Acocella, Sofia, ITA, 2, 115, -
+%_%  +40470, Mchugh, Iacopo Silvio John, ITA, 2, 94, -
+%_%  +40471, Aerboni, Patrizio, ITA, 2, 122, -
+%_%  +40472, Narte, Eisen, ITA, 2, 112, -
+%_%   40281, CANNOLETTA, Lara, ITA, 1, 118, -
+%_%  +40473, Matteucci, Tommaso, ITA, 1, 111, -
+%_%  +40474, Ancora, Maria, ITA, 1, 72, -
+%_%  +40475, Tufarelli, Stella, ITA, 1, 79, -
+%_%  +40476, Fastella, Lea, ITA, 1, 53, -
+%_%  +40477, Costantini, Sara, ITA, 1, 32, -
+%_%  +40478, Frare, Giulia, ITA, 0, 33, -
+%_%   40271, INTONTI, Margareta, ITA, 0, 31, -
+%_%  +40479, Diplas, Marco, ITA, 0, 29, -
+%_%  +40480, Di Majo, Vittorio, ITA, 0, 18, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/481
+
+%Round: 1
+
+ 40471 (28)<(36)  40469  B
+ 40470 (15)<(49)  40275  B
+ 40271 (31)<(33)  40266  B
+ 40473 (45)>(19)  40478  B
+ 40475 (35)>(29)  40479  B
+ 40264 (46)>(18)  40480  B
+ 40261 (33)>(31)  40468  B
+ 40281 (52)>(12)  40472  B
+ 40263 (32)=(32)  40467  B
+ 40476 (15)<(49)  40474  B
+
+%Round: 2
+
+ 40472 (26)<(38)  40476  B
+ 40468 (54)>(10)  40470  B
+ 40478 (14)<(50)  40263  B
+ 40467 (35)>(29)  40473  B
+ 40266 (23)<(41)  40261  B
+ 40469 (48)>(16)  40475  B
+ 40474 (09)<(55)  40264  B
+ 40275 (52)>(12)  40281  B
+
+%Round: 3
+
+ 40470 (37)>(27)  40471  B
+ 40281 (25)<(39)  40266  B
+ 40475 (31)<(33)  40468  B
+ 40473 (22)<(42)  40263  B
+ 40474 (31)<(33)  40467  B
+ 40261 (29)<(35)  40275  B
+ 40264 (45)>(19)  40469  B
+
+%Round: 4
+
+ 40467 (19)<(45)  40264  B
+ 40263 (36)>(28)  40275  B
+ 40469 (28)<(36)  40261  B
+ 40468 (19)<(45)  40266  B
+ 40471 (35)>(29)  40281  B
+ 40472 (36)>(28)  40473  B

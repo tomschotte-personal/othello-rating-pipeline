@@ -1,0 +1,34 @@
+%%Tournament: Citta di Roma 2016 - III Tappa
+%%Country: Italy
+%%Date: 29/05/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Giuseppe Chiarulli ( 20/06/2016 22:47 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 40052, GIGLIUCCI, Chiara, I, 3, 158
+%_%  3062, CAVIOLA, Leonardo, I, 3, 178
+%_% 40075, CESTRA, Carla, I, 3, 145
+%_% 40084, GIANNINI, Valentino, I, 2, 103
+%_% 40047, PANTANI, Antonio, I, 2, 108
+%_% 40048, PANTANI, Ennio, I, 2, 114
+%_% 40099, LEOFRIGIO, Marco, I, 1, 94
+
+%Round 1 
+ 40047 (11)<(53)   3062  B
+ 40052 (42)>(22)  40048  B
+ 40099 (17)<(47)  40075  B
+
+%Round 2 
+  3062 (30)<(34)  40084  B
+ 40075 (19)<(45)  40052  B
+ 40048 (22)<(42)  40047  B
+
+%Round 3 
+ 40084 (09)<(55)  40052  B
+  3062 (47)>(17)  40099  B
+ 40047 (22)<(42)  40075  B
+
+%Round 4 
+ 40052 (16)<(48)   3062  B
+ 40075 (37)>(27)  40084  B
+ 40099 (27)<(37)  40048  B

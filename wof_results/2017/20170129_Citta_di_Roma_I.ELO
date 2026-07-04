@@ -1,0 +1,52 @@
+%%Tournament: Citta' di Roma 2017 - Tappa I
+%%Country: Italy
+%%Date: 29/01/2017
+%%Sender: Chiara Gigliucci
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3037, DI MATTEI, Alessandro, I, 4, 211
+%_%  3019, DIODATI, Michele, I, 3, 153
+%_%  3062, CAVIOLA, Leonardo, I, 3, 159
+%_% 40114, ARCARA, Paolo, I, 3, 176
+%_% 40052, GIGLIUCCI, Chiara, I, 2, 116
+%_% 40084, GIANNINI, Valentino, I, 2, 135
+%_% 40047, PANTANI, Antonio, I, 2, 117
+%_% 40048, PANTANI, Ennio, I, 2, 100
+%_% 40075, CESTRA, Carla, I, 1, 99
+%_% 40050, TERRIBILI, Cristina, I, 1, 99
+%_% 40097, CACCIATORE, Alessandro, I, 1, 81
+%_% 40121, RIDOLFI, Raffaele, I, 0, 44
+%_% 40120, DELLA BELLA, Alessandro, I, 0, 13
+
+
+%Round 1 
+ 40075 (01)<(63)   3037  B
+  3019 (50)>(14)  40097  B
+ 40047 (14)<(50)   3062  B
+ 40052 (37)>(27)  40048  B
+ 40050 (19)<(45)  40114  B
+ 40084 (60)>(04)  40120  B
+
+%Round 2 
+  3037 (57)>(07)  40052  B
+ 40114 (29)<(35)   3019  B
+  3062 (48)>(16)  40084  B
+ 40048 (41)>(23)  40050  B
+ 40120 (09)<(55)  40075  B
+ 40097 (17)<(47)  40047  B
+
+%Round 3 
+  3019 (24)<(40)   3037  B
+ 40052 (16)<(48)   3062  B
+ 40075 (19)<(45)  40114  B
+ 40084 (39)>(25)  40048  B
+ 40047 (49)>(15)  40121  B
+ 40050 (49)>(15)  40097  B
+
+%Round 4 
+  3037 (51)>(13)   3062  B
+ 40084 (20)<(44)   3019  B
+ 40114 (57)>(07)  40047  B
+ 40050 (08)<(56)  40052  B
+ 40048 (40)>(24)  40075  B
+ 40121 (29)<(35)  40097  B

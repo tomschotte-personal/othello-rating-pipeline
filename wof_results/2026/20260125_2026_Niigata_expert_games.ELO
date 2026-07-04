@@ -1,0 +1,38 @@
+%%Tournament: 2026_Niigata_expert_games
+%%Country: Japan
+%%Date: 25/01/2026
+%%Sender: Hajime NAKAMURA
+
+%_%    488, TAKIZAWA, masaki, JPN, 4.0, 187
+%_%   5524, NAGAO, hiroto, JPN, 3.0, 175
+%_%   7048, KANDA, yoshihiro, JPN, 3.0, 137
+%_%  10032, KOBAYASHI, syunjiro, JPN, 2.0, 142
+%_%  10083, AIHARA, shigeaki, JPN, 2.0, 125
+%_%   7047, UMEZAWA, yoshinori, JPN, 1.0, 123
+%_%  15656, DESAKI, kenichi, JPN, 0.0, 71
+
+%Round 1
+  7048 (41)>(23)  15656 
+ 10083 (47)>(17)  10032 
+  5524 (44)>(20)   7047 
+
+%Round 2
+  7047 (50)>(14)  15656 
+   488 (64)>(00)   7048 
+ 10083 (35)>(29)   5524 
+
+%Round 3
+   488 (42)>(22)  10083 
+  7048 (36)>(28)   7047 
+  5524 (33)>(31)  10032 
+
+%Round 4
+ 10032 (47)>(17)  15656 
+   488 (42)>(22)   5524 
+  7048 (43)>(21)  10083 
+
+%Round 5
+ 10032 (47)>(17)   7048 
+   488 (39)>(25)   7047 
+  5524 (47)>(17)  15656 
+

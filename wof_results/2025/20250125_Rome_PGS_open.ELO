@@ -1,0 +1,45 @@
+%%Tournament: Rome PGS open
+%%Country: Italy
+%%Date: 25/01/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3111, SCOGNAMIGLIO, Paolo, ITA, 4, 156, 2081
+%_%     148, ORTIZ, George, AUS, 3, 144, 1814
+%_%    3019, DIODATI, Michele, ITA, 2, 144, 1659
+%_%    2841, VECCHI, Elisabetta, ITA, 2, 148, 1694
+%_%    3060, RUSSO, Luigi, ITA, 2, 128, 1495
+%_%    2818, DI COLA, Severino, ITA, 2, 135, 1618
+%_%    3023, LAI, Fabrizio, ITA, 0.5, 103, 1556
+%_%    2884, VECCHI, Maria Serena, ITA, 0.5, 66, 1329
+
+%Round: 1
+
+  3111 (39)>(25)   2818  B
+  3023 (26)<(38)    148  B
+  2841 (24)<(40)   3060  B
+  2884 (06)<(58)   3019  B
+
+%Round: 2
+
+  2884 (13)<(51)   2841  B
+  2818 (47)>(17)   3023  B
+  3060 (22)<(42)   3111  B
+   148 (39)>(25)   3019  B
+
+%Round: 3
+
+  3023 (32)=(32)   2884  B
+  2841 (50)>(14)   2818  B
+  3019 (34)>(30)   3060  B
+  3111 (38)>(26)    148  B
+
+%Round: 4
+
+  3019 (27)<(37)   3111  B
+   148 (41)>(23)   2841  B
+  3060 (36)>(28)   3023  B
+  2818 (49)>(15)   2884  B

@@ -1,0 +1,58 @@
+%%Tournament: 151st Kyoto Meeting
+%%Country: Japan
+%%Date: 14/05/2000
+%%Sender: Tom Schotte
+
+%round1
+882 > 6936
+10770 > 11158
+10753 > 10008
+10766 > 11911
+5526 > 11915
+
+%round2
+882 > 5526
+10753 > 11158
+10766 > 10770
+10008 > 11911
+6936 > 11915
+
+%round3
+882 > 10753
+10770 > 6936
+10008 > 10766
+5526 > 11911
+11158 > 11915
+
+%round4
+882 > 10008
+10770 > 10753
+10766 > 5526
+11158 > 6936
+11911 > 11915
+
+%round5
+882 > 10770
+10753 > 11915
+10766 > 11158
+5526 > 10008
+6936 > 11911
+
+%round6
+882 > 10766
+10770 > 5526
+10753 > 6936
+10008 > 11915
+11158 > 11911
+
+%players
+%1 882	ibata	kensuke
+%2 10770	suzuki	shinichi
+%3 10753	kagotani	hiroto
+%4 10766	nishimura	hidemi
+%5 10008	okuda	masashi
+%6 5526	uno	toshihiro
+%7 11158	migamo	shinya
+%8 6936	tsubouchi	masao
+%9 11911	yamada	hideyuki
+%10 11915	nitta	yoshihiro

@@ -1,0 +1,134 @@
+%%Tournament: 2015 Sylvia Petric Memorial
+%%Country: USA
+%%Date: 22/08/2015
+%%Sender: David Parsons
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   177, ROSE, Brian, USA, 10, 456
+%_%   657, PARSONS, David, USA, 5, 287
+%_%  4004, SANO, Yoko, J, 6, 400
+%_%  4089, CHITRA, Yohanes, USA, 3, 220
+%_%  6422, PLATT, Jared, USA, 2, 181
+%_%  6438, CAI, Jian, USA, 2, 174
+%_%  6453, PLUMMER, Eugene, 0, 141
+%_% 20022, HAI, Jerry, 10, 518
+%_% 20023, ROSE, Joseph, 6, 422
+%_% 20024, ROSE, Julia, 2, 143
+
+%Round 1
+%Rose Brian 42 Parsons 22 B
+%Hai 44 Rose Joseph 20 B
+%Chitra 14 Sano 50 B
+%Cai 38 Platt 26 B
+%Rose Julia 33 Plummer 31 B
+
+   177 (42)>(22)    657  B
+ 20022 (44)>(20)  20023  B
+  4089 (14)<(50)   4004  B
+  6438 (38)>(26)   6422  B
+ 20024 (33)>(31)   6453  B
+
+%Round 2
+%Rose Brian 29 Sano 35 B
+%Hai 37 Parsons 27 B
+%Cai 12 Rose Joseph 52 B
+%Rose Julia 8 Chitra 56 B
+%Plummer 19 Platt 45 B
+
+   177 (29)<(35)   4004  B
+ 20022 (37)>(27)    657  B
+  6438 (12)<(52)  20023  B
+ 20024 (08)<(56)   4089  B
+  6453 (19)<(45)   6422  B
+
+%Round 3
+%Sano 25 Hai 39 B
+%Platt 12 Rose Brian 52 B
+%Rose Joseph 39 Rose Julia 25 B
+%Chitra 40 Cai 24 B
+%Parsons 59 Plummer 5 B
+
+  4004 (25)<(39)  20022  B
+  6422 (12)<(52)    177  B
+ 20023 (39)>(25)  20024  B
+  4089 (40)>(24)   6438  B
+   657 (59)>(05)   6453  B
+
+%Round 5
+%Hai 51 Platt 13 B
+%Rose Joseph 37 Sano 27 B
+%Cai 5 Parsons 59 B
+%Rose Julia 12 Rose Brian 52 B
+%Chitra 38 Plummer 26 B
+
+ 20022 (51)>(13)   6422  B
+ 20023 (37)>(27)   4004  B
+  6438 (05)<(59)    657  B
+ 20024 (12)<(52)    177  B
+  4089 (38)>(26)   6453  B
+
+%Round 6
+%Plummer 23 Hai 41 B
+%Platt 18 Rose Joseph 46 B
+%Rose Brian 35 Chitra 29 B
+%Sano 42 Cai 22 B
+%Parsons 40 Rose Julia 24 B
+
+  6453 (23)<(41)  20022  B
+  6422 (18)<(46)  20023  B
+   177 (35)>(29)   4089  B
+  4004 (42)>(22)   6438  B
+   657 (40)>(24)  20024  B
+
+%Round 7
+%Hai 28 Rose Brian 36 B
+%Rose Joseph 25 Parsons 37 B
+%Plummer 15 Sano 49 B
+%Chitra 18 Platt 46 B
+%Cai 31 Rose Julia 33 B
+
+ 20022 (28)<(36)    177  B
+ 20023 (25)<(39)    657  B
+  6453 (15)<(49)   4004  B
+  4089 (18)<(46)   6422  B
+  6438 (31)<(33)  20024  B
+
+%Round 8
+%Hai 29 Rose Brian 35 B
+%Sano 34 Rose Joseph 30 B
+
+ 20022 (29)<(35)    177  B
+  4004 (34)>(30)  20023  B
+
+%Round 9
+%Sano 19 Hai 45 B
+%Rose Joseph 23 Rose Brian 41 B
+
+  4004 (19)<(45)  20022  B
+ 20023 (23)<(41)    177  B
+
+%Round 10
+%Hai 53 Rose Joseph 11 B
+%Rose Brian 43 Sano 21 B
+
+ 20022 (53)>(11)  20023  B
+   177 (43)>(21)   4004  B
+
+%Round 11
+%Hai 29 Rose Brian 35 B
+%Sano 20 Rose Joseph 44 B
+
+ 20022 (29)<(35)    177  B
+  4004 (20)<(44)  20023  B
+
+%Round 12
+%Sano 22 Hai 42 B
+%Rose Joseph 31 Rose Brian 33 B
+
+  4004 (22)<(42)  20022  B
+ 20023 (31)<(33)    177  B
+
+%Round 13
+%Hai 41 Rose Joseph 23 B
+
+ 20022 (41)>(23)  20023  B

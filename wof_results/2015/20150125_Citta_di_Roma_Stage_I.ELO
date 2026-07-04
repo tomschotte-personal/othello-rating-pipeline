@@ -1,0 +1,70 @@
+%%Tournament: Citta di Roma - Stage I
+%%Country: Italy
+%%Date: 25/01/2015
+%%Sender: Alessandro Di Mattei
+
+%%Creator: Alessandro Di Mattei
+%%CreationDate: 2015/03/11 16:50
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  3037, DI MATTEI, Alessandro,  5, 236
+%_%    36, MARCONI, Francesco,  4, 235
+%_%  3019, DIODATI, Michele,  4, 189
+%_% 40083, PACE, Alessandro,  3, 171
+%_%    43, PUZZO, Luigi,  3, 221
+%_%  3062, CAVIOLA, Leonardo,  3, 162
+%_% 40048, PANTANI, Ennio,  3, 152
+%_% 40052, GIGLIUCCI, Chiara,  2, 150
+%_% 40097, CACCIATORE, Alessandro,  2, 112
+%_% 40099, LEOFRIGIO, Marco,  2, 130
+%_% 40047, PANTANI, Antonio,  2, 149
+%_% 40101, BARANOSVKII, Dmitri,  1, 103
+%_% 40100, BOZZI, Lorenzo,  1, 76
+
+
+
+%Round: 1
+
+  3037 (54)>(10)  40047   B
+ 40048 (00)<(64)     36   B
+  3019 (40)>(24)  40097   B
+ 40100 (00)<(64)     43   B
+  3062 (38)>(26)  40099   B
+ 40101 (04)<(60)  40052   B
+
+%Round: 2
+
+    43 (15)<(49)   3037   B
+    36 (47)>(17)   3062   B
+ 40083 (19)<(45)   3019   B
+ 40052 (46)>(18)  40047   B
+ 40099 (19)<(45)  40048   B
+ 40097 (42)>(22)  40100   B
+
+%Round: 3
+
+  3037 (52)>(12)  40052   B
+  3019 (27)<(37)     36   B
+ 40097 (03)<(61)     43   B
+  3062 (48)>(16)  40101   B
+ 40048 (16)<(48)  40083   B
+ 40047 (60)>(04)  40100   B
+
+%Round: 4
+
+    36 (30)<(34)   3037   B
+ 40052 (25)<(39)   3019   B
+    43 (55)>(09)   3062   B
+ 40083 (54)>(10)  40097   B
+ 40047 (47)>(17)  40099   B
+ 40101 (20)<(44)  40048   B
+
+%Round: 5
+
+  3037 (47)>(17)  40083   B
+  3019 (38)>(26)     43   B
+ 40052 (07)<(57)     36   B
+  3062 (50)>(14)  40047   B
+ 40100 (17)<(47)  40048   B
+ 40099 (35)>(29)  40101   B
+ 

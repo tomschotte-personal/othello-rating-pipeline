@@ -1,0 +1,48 @@
+%%Tournament: Kanto Ladies Meijin-sen preliminary
+%%Country: Japan
+%%Date: 06/05/2019
+%%Sender: Takeshi Murakami
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/04/16 15:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_% +  9062, TOMIDA, Hikari, JPN,  6, 265, 0
+%_%     652, HORIUCHI, Keiko, JPN,  3, 186, 1510
+%_%   14631, HASHIMOTO, Meiko, JPN,  2, 150, 1390
+%_%   13826, TANAKA, Chikako, JPN,  1, 167, 1574
+
+
+
+%Round: 1
+
+  9062 (44)>(20)  13826  B
+   652 (54)>(10)  14631  B
+
+%Round: 2
+
+  9062 (33)>(31)  14631  B
+   652 (36)>(28)  13826  B
+
+%Round: 3
+
+  9062 (55)>(09)    652  B
+ 14631 (34)>(30)  13826  B
+
+%Round: 4
+
+  9062 (43)>(21)  13826  B
+   652 (40)>(24)  14631  B
+
+%Round: 5
+
+  9062 (47)>(17)  14631  B
+   652 (26)<(38)  13826  B
+
+%Round: 6
+
+  9062 (43)>(21)    652  B
+ 14631 (34)>(30)  13826  B
+
+
+%%Added results

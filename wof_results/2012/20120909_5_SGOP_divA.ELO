@@ -1,0 +1,24 @@
+%%Tournament: 5th Singapore Open 2012 (Division A)
+%%Country: Singapore
+%%Date: 09/09/2012
+%%Sender: Alex Koh
+
+% 3 rounds round-robin results
+% ID, FAMILY NAME, Firstname, COUNTRY, score, MBQ
+%_% 250003, KOH,  Bo Chao Alex, SGP, 2, 121
+%_%   4138, EE,   Choon Foong,  SGP, 2, 108
+%_% 250001, KOH,  Bo Xiang,     SGP, 1, 84
+%_%   4131, CHEW, Ching Wuen,   SGP, 1, 71
+
+% Round 1
+250003 (31)<(33)   4138  B
+250001 (43)>(21)   4131  B
+
+%Round 2
+  4131 (17)<(47) 250003  B
+  4138 (44)>(20) 250001  B
+
+%Round 3
+250003 (43)>(21) 250001  B
+  4138 (31)<(33)   4131  B
+

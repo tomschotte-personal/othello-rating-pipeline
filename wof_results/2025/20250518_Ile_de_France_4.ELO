@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 18/05/2025
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2025/05/18 18:41
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 249, 1972
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 198, 1907
+%_%   50052, LE MORVAN, Eric, FRA,  3, 192, 1629
+%_%     228, BUSUTTIL, Michel, FRA,  3, 181, 1369
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 171, 1642
+%_%   50126, MELCER, Stephane, FRA,  2, 95, 0
+%_%   50127, HUGOT, Nicolas, FRA,  1, 93, 0
+%_%     702, BERTRAM, Henry, FRA,  0, 101, 0
+
+
+
+%Round: 1
+
+    45 (42)>(22)    228  B
+ 50126 (10)<(54)  50052  B
+     2 (37)>(27)   3598  B
+   702 (31)<(33)  50127  B
+
+%Round: 2
+
+ 50127 (00)<(64)      2  B
+   228 (57)>(07)    702  B
+ 50052 (26)<(38)     45  B
+  3598 (58)>(06)  50126  B
+
+%Round: 3
+
+ 50052 (19)<(45)   3598  B
+   702 (24)<(40)  50126  B
+ 50127 (20)<(44)    228  B
+     2 (37)>(27)     45  B
+
+%Round: 4
+
+ 50126 (39)>(25)  50127  B
+   702 (20)<(44)  50052  B
+    45 (19)<(45)   3598  B
+   228 (17)<(47)      2  B
+
+%Round: 5
+
+    45 (45)>(19)    702  B
+  3598 (23)<(41)    228  B
+ 50052 (49)>(15)  50127  B
+     2 (64)>(00)  50126  B
+
+
+%%Added results

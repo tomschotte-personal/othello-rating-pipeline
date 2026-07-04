@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 08/04/2017
+%%Sender: Gilles Cluzon
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/04/08 18:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  5, 192, 1922
+%_% + 50096, LEVY, Marc, FRA,  4, 171, 0
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 137, 1800
+%_%    3734, CLUZON, Gilles, FRA,  2.5, 174, 1271
+%_%   50075, BERTRANDIAS, Marc, FRA,  2, 151, 1801
+%_%     228, BUSUTTIL, Michel, FRA,  1.5, 159, 1505
+%_%    9025, TOUCHENE, Fouad, DZA,  1, 136, 1570
+
+
+
+%Round: 1
+
+  3734 (32)=(32)    228  B
+ 50075 (40)>(24)   9025  B
+  3598 (35)>(29)  50096  B
+
+%Round: 2
+
+   228 (24)<(40)     45  B
+  3598 (50)>(14)  50075  B
+  9025 (20)<(44)   3734  B
+
+%Round: 3
+
+  3734 (28)<(36)   3598  B
+ 50096 (33)>(31)    228  B
+    45 (36)>(28)  50075  B
+
+%Round: 4
+
+ 50096 (34)>(30)   3734  B
+   228 (41)>(23)   9025  B
+    45 (26)<(38)   3598  B
+
+%Round: 5
+
+  3598 (33)>(31)    228  B
+  9025 (29)<(35)     45  B
+ 50075 (29)<(35)  50096  B
+
+
+%%Added results

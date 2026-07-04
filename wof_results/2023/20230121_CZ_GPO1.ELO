@@ -1,0 +1,28 @@
+%%Tournament: Czech GPO 1/2023
+%%Country: Czech Republic
+%%Date: 21/01/2023
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZE, 0, 43
+%_% 210101, RACEK, Matyas, CZE, 3, 156
+%_% 210173, CERNY, Filip, CZE, 1, 75
+%_% 210212, KALIL, Eda, CZE, 2, 110
+
+
+%Round 1
+
+210212 (16)<(48) 210101  B
+  4509 (19)<(45) 210173  B
+
+
+%Round 2
+
+210101 (55)>(09) 210173  B
+210212 (51)>(13)   4509  B
+
+
+%Round 3
+
+  4509 (11)<(53) 210101  B
+210173 (21)<(43) 210212  B

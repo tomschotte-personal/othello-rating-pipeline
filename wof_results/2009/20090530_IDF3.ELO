@@ -1,0 +1,57 @@
+%%Tournament: Ile de France 3 (2009)
+%%Country: France
+%%Date: 30/05/2009
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/05/30 19:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     355, CASPARD, Emmanuel, F,  5, 201
+%_%    3597, BARRE, Sebastien, F,  4, 234
+%_%     433, NICOLET, Stephane, F,  3, 186
+%_%    3515, BUTIN, Pierre, F,  3, 184
+%_%       2, TASTET, Marc, F,  2, 202
+%_%    3778, SAGONA, Eric, F,  2, 108
+%_% + 50004, MARTINE, Jean-Christophe, F,  1, 128
+%_% + 50005, MARTINE, Valentin, F,  0, 37
+
+
+
+%Round: 1
+
+50004 (18)<(46)   3515 B
+    2 (28)<(36)    433 B
+  355 (50)>(14)   3778 B
+ 3597 (64)>(00)  50005 B
+
+%Round: 2
+
+  433 (24)<(40)    355 B
+50005 (10)<(54)  50004 B
+ 3778 (04)<(60)      2 B
+ 3515 (17)<(47)   3597 B
+
+%Round: 3
+
+  355 (35)>(29)   3597 B
+50004 (17)<(47)    433 B
+    2 (31)<(33)   3515 B
+50005 (18)<(46)   3778 B
+
+%Round: 4
+
+ 3597 (39)>(25)    433 B
+ 3515 (24)<(40)    355 B
+    2 (55)>(09)  50005 B
+ 3778 (34)>(30)  50004 B
+
+%Round: 5
+
+  355 (36)>(28)      2 B
+  433 (54)>(10)   3778 B
+50005 (00)<(64)   3515 B
+50004 (09)<(55)   3597 B
+
+
+%%Added results

@@ -1,0 +1,57 @@
+%%Tournament: Tournoi Ile de France 2
+%%Country: France
+%%Date: 24/03/2013
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/03/24 19:28
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50030, JUIGNER, Arthur, FRA,  5, 206, 2016
+%_%    3384, AUZENDE, Frederic, FRA,  3, 181, 2116
+%_%    3501, MARGARIT, Eric, FRA,  3, 166, 1918
+%_%       2, TASTET, Marc, FRA,  3, 165, 2105
+%_%    1532, NORGREN, Cecilia, SWE,  2, 184, 1932
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  2, 157, 1998
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 155, 1901
+%_%    3600, BENOIT, Serge, FRA,  0, 66, 1371
+
+
+
+%Round: 1
+
+  3384 (24)<(40)     45  B
+  3501 (21)<(43)  50030  B
+  1532 (48)>(16)   3600  B
+  3598 (30)<(34)      2  B
+
+%Round: 2
+
+ 50030 (41)>(23)     45  B
+  3600 (10)<(54)   3384  B
+  3598 (29)<(35)   3501  B
+     2 (33)>(31)   1532  B
+
+%Round: 3
+
+  1532 (26)<(38)   3384  B
+    45 (24)<(40)   3501  B
+  3600 (09)<(55)   3598  B
+ 50030 (35)>(29)      2  B
+
+%Round: 4
+
+  3384 (31)<(33)  50030  B
+  3598 (33)>(31)   1532  B
+  3501 (25)<(39)      2  B
+    45 (52)>(12)   3600  B
+
+%Round: 5
+
+     2 (30)<(34)   3384  B
+  3600 (19)<(45)   3501  B
+ 50030 (54)>(10)   3598  B
+  1532 (48)>(16)     45  B
+
+
+%%Added results

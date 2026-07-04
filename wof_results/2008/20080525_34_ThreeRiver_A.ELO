@@ -1,0 +1,28 @@
+%%Tournament: 34th Three river Open A
+%%Country: Japan
+%%Date: 25/05/2008
+%%Sender: Tom Schotte
+
+%round1:
+5571 > 5507
+5575 > 5570
+
+%round2:
+5571 < 5575
+5570 > 5507
+
+%round3:
+5571 > 5570
+5575 > 5507
+ 
+%round4:
+5571 < 5507
+5575 < 5570
+
+%round5:
+5571 > 5575
+5570 < 5507
+
+%round6:
+5571 > 5570
+5575 > 5507

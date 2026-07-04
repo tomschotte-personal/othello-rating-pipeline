@@ -1,0 +1,50 @@
+%%Tournament: Oslo Open 2016
+%%Country: Norway
+%%Date: 23/01/2016
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/01/25 20:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2560, ODEGARD, Martin, NOR,  4.5, 199, 2101
+%_%    2583, DANIELSEN, Jostein, NOR,  4, 188, 2102
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  3, 181, 1964
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 153, 1652
+%_%  140031, TVEDT, Sverre, NOR,  1, 137, 1721
+%_%    2511, OLSEN, Pal Tore, NOR,  0.5, 102, 1781
+
+
+
+%Round: 1
+
+  2560 (43)>(21)   1802  B
+140031 (32)=(32)   2511  B
+  2570 (30)<(34)   2583  B
+
+%Round: 2
+
+  2511 (25)<(39)   2560  B
+  1802 (31)<(33)   2570  B
+  2583 (36)>(28) 140031  B
+
+%Round: 3
+
+  2560 (32)=(32)   2570  B
+  2511 (09)<(55)   2583  B
+140031 (23)<(41)   1802  B
+
+%Round: 4
+
+  2583 (21)<(43)   2560  B
+  2570 (32)=(32) 140031  B
+  1802 (38)>(26)   2511  B
+
+%Round: 5
+
+  2560 (42)>(22) 140031  B
+  2583 (42)>(22)   1802  B
+  2511 (10)<(54)   2570  B
+
+
+%%Added results

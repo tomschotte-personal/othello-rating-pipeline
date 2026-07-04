@@ -1,0 +1,35 @@
+%%Tournament: 9th Antwerp Othello Open B
+%%Country: Belgium
+%%Date: 18/05/2014
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/05/21 20:31
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  3, 147, 1493
+%_%    6166, FONSECA NEVES, Natascha, NLD,  2, 91, 700
+%_%  270013, VAN DEN BRANDT, Joke, BEL,  1, 83, 897
+%_%  270012, VAN DAMME, Frank Ivo, BEL,  0, 63, 816
+
+
+
+%Round: 1
+
+270013 (37)>(27) 270012  B
+  6166 (16)<(48)   4068  B
+
+%Round: 2
+
+  4068 (48)>(16) 270013  B
+270012 (23)<(41)   6166  B
+
+%Round: 3
+
+270013 (30)<(34)   6166  B
+  4068 (51)>(13) 270012  B
+
+
+%%Added results
+270013 (44)>(20) 270012  B
+  4068 (48)>(16)   6166  B

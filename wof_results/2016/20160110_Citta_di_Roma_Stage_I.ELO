@@ -1,0 +1,58 @@
+%%Tournament: Citta di Roma 2016 - I Tappa
+%%Country: Italy
+%%Date: 10/01/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Giuseppe Chiarulli ( 20/06/2016 22:47 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3037, DI MATTEI, Alessandro, I, 5, 251
+%_%  2844, SPERANDIO, Roberto, I, 4, 182
+%_%  3062, CAVIOLA, Leonardo, I, 3, 177
+%_%  3019, DIODATI, Michele, I, 3, 170
+%_%  2805, ALAMI, Carlo, I, 3, 188
+%_%   148, ORTIZ, George, AUS, 3, 174
+%_%  2884, VECCHI, Maria Serena, I, 3, 169
+%_% 40048, PANTANI, Ennio, I, 2, 80
+%_% 40052, GIGLIUCCI, Chiara, I, 2, 135
+%_% 40075, CESTRA, Carla, I, 2, 106
+%_%    43, PUZZO, Luigi, I, 2, 136
+%_% 40047, PANTANI, Antonio, I, 1, 114
+%_% 40040, ZHUK, Katia, I, 0, 75
+
+%Round 1 
+  3062 (03)<(61)   3037  B
+  2844 (42)>(22)   2884  B
+ 40052 (30)<(34)   2805  B
+   148 (51)>(13)  40040  B
+ 40047 (23)<(41)   3019  B
+    43 (53)>(11)  40048  B
+
+%Round 2 
+  3037 (49)>(15)    148  B
+  3019 (21)<(43)   2844  B
+  2805 (39)>(25)     43  B
+ 40075 (19)<(45)   3062  B
+  2884 (47)>(17)  40047  B
+ 40040 (31)<(33)  40052  B
+
+%Round 3 
+  2844 (21)<(43)   3037  B
+   148 (33)>(31)   2805  B
+ 40052 (26)<(38)   3019  B
+    43 (58)>(06)  40075  B
+  3062 (50)>(14)   2884  B
+ 40048 (33)>(31)  40040  B
+
+%Round 4 
+  3037 (64)>(00)  40048  B
+  2805 (23)<(41)   2844  B
+  3019 (40)>(24)    148  B
+ 40047 (14)<(50)   3062  B
+  2884 (53)>(11)  40075  B
+
+%Round 5 
+  3019 (30)<(34)   3037  B
+  2844 (35)>(29)   3062  B
+ 40048 (03)<(61)   2805  B
+   148 (51)>(13)  40052  B
+ 40075 (37)>(27)  40047  B

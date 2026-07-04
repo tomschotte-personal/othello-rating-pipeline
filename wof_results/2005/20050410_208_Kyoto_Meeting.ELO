@@ -1,0 +1,76 @@
+%%Tournament: 208th Kyoto Meeting
+%%Country: Japan
+%%Date: 10/04/2005
+%%Sender: Tom Schotte
+
+%round1
+7081 > 6930
+6860 > 11753
+6970 > 882
+5669 > 7054
+10123 > 10122
+10038 > 5506
+10118 > 6995
+
+%round2
+6860 > 10123
+6970 > 7081
+5506 > 10118
+5669 > 10038
+10122 > 11753
+882 > 6930
+7054 > 6995
+
+%round3
+7081 > 7054
+5506 > 6970
+5669 > 6860
+10122 > 10118
+10123 > 882
+11753 > 6930
+6995 > 10038
+
+%round4
+7081 > 6860
+6970 > 5669
+5506 > 10123
+10122 > 6995
+882 > 10118
+10038 > 6930
+11753 > 7054
+
+%round5
+7081 > 11753
+6860 > 882
+5506 > 5669
+10122 > 6970
+10123 > 10038
+7054 > 10118
+6995 > 6930
+
+%round6
+7081 > 5506
+6860 > 10122
+6970 > 10123
+5669 > 6995
+882 > 7054
+10038 > 11753
+10118 > 6930
+
+
+
+%players
+%1 7081	kado	naoki
+%2 6860	miyazaki	yuji
+%3 6970	kudashou	takahiro
+%4 5506	tamaki	suguru
+%5 5669	nakano	shunsuke
+%6 10122	tanino	takumi
+%7 10123	nakamura	shuhei
+%8 882	ibata	kensuke
+%9 10038	wazuki	hiroyuki
+%10 7054	nakamori	hiroki
+%11 10118	masuda	kazuhisa
+%12 11753	yokoyama	chiaki
+%13 6995	funakoshi	shogo
+%14 6930	nishimine	satoru

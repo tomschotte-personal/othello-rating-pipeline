@@ -1,0 +1,35 @@
+%%Tournament: Dutch championship (Ladies)
+%%Country: Netherlands
+%%Date: 03/10/2009
+%%Sender: Jan C. de Graaf
+
+% Round 1
+
+  5159 <   5255
+  5287 >   5152
+
+% Round 2
+
+  5159 <   5287
+  5255 >   5152
+
+% Round 3
+
+  5287 >   5255
+  5152 <   5159
+
+% Round 4
+
+  5152 <   5287
+  5255 <   5159
+
+% Round 5
+
+  5255 >   5287
+  5159 >   5152
+
+% Round 6
+
+  5287 <   5159
+  5152 >   5255
+

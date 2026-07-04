@@ -1,0 +1,58 @@
+%%Tournament: Selection CF 2009 - Montbard
+%%Country: France
+%%Date: 05/04/2009
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/04/26 12:25
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3791, AVY, Jean-Pierre, F,  5, 250
+%_%    3799, TREBUJAIS, Cecile, F,  3.5, 191
+%_%   50008, CASANO, Marie-Christine, F,  3.5, 177
+%_%   50002, LEFEBVRE, Cyril, F,  3, 182
+%_%   50003, HUMBEY, Mathilde, F,  3, 153
+%_%   50007, HUMBEY, Evelyne, F,  2, 148
+%_%   50001, CASANO, Elie, F,  2, 135
+%_%    3790, CAPLET, Alain, F,  2, 114
+%_%    3766, DELGADO, Marie-Louise, F,  1, 130
+
+
+
+%Round: 1
+
+ 50001 (39)>(25)   3766 B
+ 50002 (24)<(40)   3799 B
+  3791 (51)>(13)  50007 B
+  3790 (17)<(47)  50008 B
+
+%Round: 2
+
+  3766 (24)<(40)  50002 B
+ 50008 (19)<(45)   3791 B
+ 50007 (28)<(36)  50001 B
+  3799 (39)>(25)  50003 B
+
+%Round: 3
+
+  3791 (61)>(03)   3790 B
+ 50003 (42)>(22)   3766 B
+ 50001 (06)<(58)   3799 B
+ 50002 (27)<(37)  50008 B
+
+%Round: 4
+
+ 50003 (33)>(31)  50001 B
+  3790 (13)<(51)  50002 B
+ 50008 (42)>(22)  50007 B
+  3799 (22)<(42)   3791 B
+
+%Round: 5
+
+  3791 (51)>(13)  50003 B
+ 50007 (45)>(19)   3766 B
+ 50008 (32)=(32)   3799 B
+ 50001 (23)<(41)   3790 B
+
+
+%%Added results

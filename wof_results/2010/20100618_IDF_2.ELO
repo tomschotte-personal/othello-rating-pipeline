@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 2 2010
+%%Country: France
+%%Date: 18/06/2010
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/07/10 21:45
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3518, DELAUNAY, Arnaud, F,  4, 206
+%_%    3384, AUZENDE, Frederic, F,  4, 189
+%_%    3515, BUTIN, Pierre, F,  4, 183
+%_%       2, TASTET, Marc, F,  2.5, 153
+%_% + 50030, Juigner, Arthur, F,  2, 170
+%_%    3734, CLUZON, Gilles, F,  2, 130
+%_%    2788, LECAT, Monique, B,  1.5, 129
+
+
+
+%Round: 1
+
+     2 (21)<(43)   3518 B
+  3515 (39)>(25)   3734 B
+ 50030 (28)<(36)   3384 B
+
+%Round: 2
+
+  3518 (44)>(20)   2788 B
+  3384 (26)<(38)   3515 B
+  3734 (18)<(46)  50030 B
+
+%Round: 3
+
+ 50030 (28)<(36)      2 B
+  2788 (12)<(52)   3384 B
+  3515 (30)<(34)   3518 B
+
+%Round: 4
+
+     2 (24)<(40)   3515 B
+  3734 (39)>(25)   2788 B
+  3384 (35)>(29)   3518 B
+
+%Round: 5
+
+  2788 (32)=(32)      2 B
+  3515 (36)>(28)  50030 B
+  3518 (56)>(08)   3734 B
+
+
+%%Added results

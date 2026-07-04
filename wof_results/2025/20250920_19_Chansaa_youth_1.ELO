@@ -1,0 +1,84 @@
+%%Tournament: Chansaa 19, Youth 10-14 New
+%%Country: Mongolia
+%%Date: 20/09/2025
+%%Sender: KHUYAGBAATAR Buyanzaya
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +441207, Bat-Erdene, Nadnin-Erdene, MNG, 5, 204, -
+%_%  +441206, Tsedevdolgor, Bat-Amgalan, MNG, 4, 184, -
+%_%  +441214, Dugersuren, Enkhsaran, MNG, 4, 215, -
+%_%  440792, GANAAKHUU, Amarjargal, MNG, 3, 194, 724
+%_%  440869, GALBADRAKH, Enkhtuul, MNG, 3, 200, 880
+%_%  441113, BAT-ERDENE, Khatantulga, MNG, 3, 197, 561
+%_%  +441223, Azjargal, Munkh-Ujin, MNG, 3, 168, -
+%_%  440900, OCHGEREL, Arigun, MNG, 3, 155, -145
+%_%  +441236, Khurelsukh, Munkhzul, MNG, 2.5, 157, -
+%_%  +441235, Myagmarsuren, Aminkhuslen, MNG, 2.5, 114, -
+%_%  +441222, Tsogbadrakh, Munkh-Eruult, MNG, 2, 131, -
+%_%  +441234, Sukhbold, Davaajargal, MNG, 2, 134, -
+%_%  +441225, Baasandorj, Erdene, MNG, 2, 138, -
+%_%  +441233, Davaasuren, ariunsarnai, MNG, 2, 129, -
+%_%  +441232, Batkhuu, Amina, MNG, 1.5, 147, -
+%_%  +441230, Jambaldorj, Tamjid, MNG, 1.5, 131, -
+%_%  +441224, Burenbat, Khaliun, MNG, 1, 122, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/380
+
+%Round: 1
+
+441223 (36)>(28) 441236  B
+441235 (10)<(54) 440792  B
+440900 (39)>(25) 441233  B
+441224 (19)<(45) 441206  B
+441230 (32)=(32) 441232  B
+441214 (42)>(22) 441113  B
+441207 (43)>(21) 441234  B
+441225 (06)<(58) 440869  B
+
+%Round: 2
+
+441113 (57)>(07) 441235  B
+441236 (13)<(51) 441225  B
+441233 (40)>(24) 441224  B
+441232 (20)<(44) 440900  B
+440869 (52)>(12) 441230  B
+441222 (21)<(43) 441223  B
+441206 (35)>(29) 441214  B
+440792 (24)<(40) 441207  B
+
+%Round: 3
+
+441230 (24)<(40) 441236  B
+441224 (17)<(47) 441232  B
+441234 (21)<(43) 441233  B
+441225 (23)<(41) 441113  B
+441214 (57)>(07) 441222  B
+441223 (24)<(40) 440792  B
+441207 (33)>(31) 441206  B
+440900 (20)<(44) 440869  B
+
+%Round: 4
+
+441235 (33)>(31) 441230  B
+441236 (44)>(20) 441234  B
+441222 (40)>(24) 441225  B
+441232 (24)<(40) 441214  B
+441233 (10)<(54) 441223  B
+441206 (40)>(24) 441113  B
+440792 (45)>(19) 440900  B
+440869 (29)<(35) 441207  B
+
+%Round: 5
+
+441234 (40)>(24) 441232  B
+441236 (32)=(32) 441235  B
+440900 (33)>(31) 441222  B
+441113 (53)>(11) 441233  B
+441214 (47)>(17) 440869  B
+441206 (33)>(31) 440792  B
+441223 (11)<(53) 441207  B
+441225 (34)>(30) 441224  B

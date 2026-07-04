@@ -1,0 +1,49 @@
+%%Tournament: 2nd Oostende Family friendly
+%%Country: Belgium
+%%Date: 14/12/2025
+%%Sender: SCHOTTE Tom
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    2795, SCHOTTE, Tom, BEL, 4, 222, 1996
+%_%  270069, DE MOOR, Nadja, BEL, 3, 168, 1511
+%_%    4090, SCHOTTE, Bram, BEL, 3, 168, 1403
+%_%  270033, SCHOTTE, Wout, BEL, 2, 121, 1005
+%_%    5919, FLOCKMAN, Annie, BEL, 2, 100, 482
+%_%  270032, SCHOTTE, Sander, BEL, 2, 124, 635
+%_%  270092, SCHOTTE, Jean-Pierre, BEL, 2, 89, -
+%_%  270109, ROOS, Lars, BEL, 1, 75, -136
+%_%  270086, ROOS, Stan, BEL, 1, 85, 218
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/398
+
+%Round: 1
+
+270069 (57)>(07) 270032  B
+270109 (02)<(62)   2795  B
+270033 (51)>(13) 270086  B
+270092 (06)<(58)   4090  B
+
+%Round: 2
+
+270032 (52)>(12) 270092  B
+270086 (21)<(43)   5919  B
+  4090 (52)>(12) 270033  B
+  2795 (49)>(15) 270069  B
+
+%Round: 3
+
+270092 (39)>(25) 270109  B
+270033 (44)>(20) 270032  B
+270069 (48)>(16)   4090  B
+  5919 (03)<(61)   2795  B
+
+%Round: 4
+
+  2795 (50)>(14) 270033  B
+  4090 (42)>(22)   5919  B
+270109 (16)<(48) 270069  B
+270032 (45)>(19) 270086  B

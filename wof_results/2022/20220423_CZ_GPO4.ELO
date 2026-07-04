@@ -1,0 +1,47 @@
+%%Tournament: Czech GPO 4/2022
+%%Country: Czech Republic
+%%Date: 23/04/2022
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4509, RYBARIK, Jan, CZE, 3, 162
+%_%    4617, DOUDA, Tomas, CZE, 5, 310
+%_%  210176, SLADEK, Vitek, CZE, 4, 205
+%_% +210210, KALILOVA, Jana, CZE, 2, 109
+%_% +210211, KALILOVA, Sofie Viktorie, CZE, 1, 90
+%_% +210212, KALIL, Eda, CZE, 0, 84
+
+
+%Round 1
+
+  4509 (00)<(64)   4617  B
+210176 (57)>(07) 210211  B
+210210 (33)>(31) 210212  B
+
+
+%Round 2
+
+  4617 (64)>(00) 210212  B
+210211 (23)<(41) 210210  B
+  4509 (22)<(42) 210176  B
+
+
+%Round 3
+
+210176 (10)<(54)   4617  B
+210210 (24)<(40)   4509  B
+210212 (16)<(48) 210211  B
+
+
+%Round 4
+
+  4617 (64)>(00) 210211  B
+  4509 (48)>(16) 210212  B
+210176 (53)>(11) 210210  B
+
+
+%Round 5
+
+210210 (00)<(64)   4617  B
+210212 (21)<(43) 210176  B
+210211 (12)<(52)   4509  B

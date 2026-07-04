@@ -1,0 +1,43 @@
+%%Tournament: 2000 Niigata Expert Game
+%%Country: Japan
+%%Date: 06/02/2000
+%%Sender: Tom Schotte
+
+%http://www4.plala.or.jp/sko/suiyoubi_no_kai/s/result/ngmei_21.html
+
+%Round1
+   488 >   7048  
+  7047 >   7046  
+ 10585 >   7096  
+
+%Round2
+   488 >   7096  
+  7047 >  10585  
+  7048 >   7046  
+
+%Round3
+   488 >   7046  
+  7047 >   7096  
+  7048 >  10585  
+
+%Round4
+   488 >   7047  
+  7048 >   7096  
+ 10585 >   7046  
+
+%Round5
+   488 >  10585  
+  7047 >   7048  
+  7096 >   7046  
+
+
+
+%players
+%1 488	takizawa	masaki
+%2 7047	umezawa	ogata
+%3 7048	kanda	yoshihiro
+%4 10585	matuzawa	takashi
+%5 7096	suzuki	nobuyuki
+%6 7046	sasaki	sadayuki
+
+

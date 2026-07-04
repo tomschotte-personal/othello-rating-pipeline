@@ -1,0 +1,34 @@
+%%Tournament: Pakistan Othello Championship 2022 female Finals
+%%Country: Pakistan
+%%Date: 21/07/2022
+%%Sender: Furqhan
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/02/19 01:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_% +380465, Riasat, Zainab, PAK,  3, 106, 0
+%_% +380461, Riasat, Shanza, PAK,  2, 97, 0
+%_% +380463, Khan, Maryam, PAK,  1, 64, 0
+%_% +380462, Ahmad, Tayyaba, PAK,  0, 31, 0
+%_% +380464, Khalid, Fatima, PAK,  0, 31, 0
+%_% +380460, Rajput, Zeenat, PAK,  0, 31, 0
+
+
+
+%Round: 1
+
+380460 (31)<(33) 380461  B
+380462 (31)<(33) 380463  B
+380464 (31)<(33) 380465  B
+
+%Round: 2
+
+380461 (33)>(31) 380463  B
+
+%Round: 3
+
+380465 (33)>(31) 380461  B
+
+
+%%Added results

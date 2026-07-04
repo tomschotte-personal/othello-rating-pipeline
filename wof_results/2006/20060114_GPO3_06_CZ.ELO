@@ -1,0 +1,32 @@
+%%Tournament: Czech GPO 3/2006
+%%Country: Czech Republic
+%%Date: 14/01/2006
+%%Sender: Emmanuel.Lazard
+
+% Round 1
+4501 > 4514
+4617 > 4502
+
+% Round 2
+4501 = 4502
+4617 > 4514
+
+% Round 3
+4501 > 4617
+4502 > 4514
+
+% Round 4
+4501 > 4514
+4617 > 4502
+
+% Round 5
+4501 > 4502
+4617 > 4514
+
+% Round 6
+4501 > 4617
+4502 > 4514
+
+% Round 7
+4501 < 4617
+4502 > 4514

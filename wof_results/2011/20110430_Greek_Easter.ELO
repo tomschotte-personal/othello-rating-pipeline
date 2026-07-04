@@ -1,0 +1,47 @@
+%%Tournament: Greek Easter 2011
+%%Country: Greece
+%%Date: 30/04/2011
+%%Sender: Pantelis Theodosiou
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/09/29 17:42
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  300001, MITSIS, Georgios, GRC,  5, 286, 1351
+%_%  300000, MITSI, Christina, GRC,  2, 122, 1808
+%_% +300027, POLYCHRONAKIS, Alexandros, GRC,  2, 111, 0
+%_%  300011, GIOUZELIS, Alexandros, GRC,  2, 79, -56
+%_% +300026, KONTELAS, Loukianos, GRC,  1, 115, 0
+%_%  300021, PALAPANIDIS, Christos, GRC,  1, 95, 1241
+
+
+
+%Round: 1
+
+300026 (15)<(49) 300000  B
+300027 (07)<(57) 300001  B
+300021 (22)<(42) 300011  B
+
+%Round: 2
+
+300027 (17)<(47) 300026  B
+300021 (05)<(59) 300000  B
+300011 (00)<(64) 300001  B
+
+%Round: 3
+
+300021 (30)<(34) 300027  B
+300011 (37)>(27) 300026  B
+300001 (50)>(14) 300000  B
+
+%Round: 4
+
+300026 (26)<(38) 300021  B
+300001 (64)>(00) 300011  B
+
+%Round: 5
+
+300027 (13)<(51) 300001  B
+
+
+%%Added results

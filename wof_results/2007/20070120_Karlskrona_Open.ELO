@@ -1,0 +1,71 @@
+%%Tournament: Karlskrona Open
+%%Country: Sweden
+%%Date: 20/01/2007
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 20:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1560, HERMANSSEN, Kim, S,  6, 286
+%_%    1379, MAGNUSSON, Johan, S,  5, 282
+%_%    1577, SANDBERG ODSELL, Caroline, S,  5, 278
+%_%    1505, GARDEBRINK, Christian, S,  5, 263
+%_%    1495, INGELMAN-SUNDBERG, Simon, S,  3, 235
+%_%    1389, SOSNOWSKI, Mateusz, PL,  2, 174
+%_%    1564, AKERLIND, Josefin, S,  2, 167
+%_% +150006, KARLSSON, Stefan, S,  0, 107
+
+
+
+%Round: 1
+
+  1505 (22)<(42)   1495 B
+  1560 (41)>(23)   1379 B
+  1389 (28)<(36)   1564 B
+150006 (22)<(42)   1577 B
+
+%Round: 2
+
+  1379 (23)<(41)   1505 B
+  1495 (26)<(38)   1389 B
+  1577 (41)>(23)   1560 B
+  1564 (39)>(25) 150006 B
+
+%Round: 3
+
+  1505 (46)>(18)   1389 B
+  1379 (40)>(24)   1577 B
+150006 (11)<(53)   1495 B
+  1560 (42)>(22)   1564 B
+
+%Round: 4
+
+  1577 (29)<(35)   1505 B
+  1389 (49)>(15) 150006 B
+  1564 (10)<(54)   1379 B
+  1495 (17)<(47)   1560 B
+
+%Round: 5
+
+  1505 (57)>(07) 150006 B
+  1577 (40)>(24)   1564 B
+  1560 (47)>(17)   1389 B
+  1379 (33)>(31)   1495 B
+
+%Round: 6
+
+  1564 (24)<(40)   1505 B
+150006 (20)<(44)   1560 B
+  1495 (14)<(50)   1577 B
+  1389 (12)<(52)   1379 B
+
+%Round: 7
+
+  1505 (22)<(42)   1560 B
+  1564 (12)<(52)   1495 B
+  1379 (57)>(07) 150006 B
+  1577 (52)>(12)   1389 B
+
+
+%%Added results

@@ -1,0 +1,42 @@
+%%Tournament: Kfar-Saba open
+%%Country: Israel
+%%Date: 25/02/2023
+%%Sender: Leonid Shifman
+
+
+%     ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_% 200040, LAUFER, Shachar, ISR, 4, 182
+%_% 200404, DVIVON Konstantin, ISR, 3.5, 205 
+%_%    885, SHIFMAN, Ilya, ISR,  3, 182
+%_% 200010,SHIFMAN, Michael, ISR,  2, 143
+%_%    880, SHIFMAN, Leonid, ISR,  1.5, 152
+%_% +200405, MATVEEVA, Sonya, ISR,  1, 96
+
+%Round: 1
+200404 (32)=(32)    885  B
+200405 (36)>(28)    880  B
+200010 (18)<(46) 200040  B
+
+%Round: 2
+200404 (64)>(00) 200405  B
+   880 (21)<(43) 200010  B
+   885 (29)<(35) 200040  B
+
+%Round: 3
+200010 (11)<(53) 200404  B
+200405 (19)<(45)    885  B
+200040 (34)>(30)    880  B
+
+%Round: 4
+200404 (33)>(31) 200040  B
+200405 (13)<(51) 200010  B
+   885 (32)=(32)    880  B
+
+
+%Round: 5
+   880 (41)>(23) 200404  B
+200040 (36)>(28) 200405  B
+200010 (20)<(44)    885  B
+
+%%Added results

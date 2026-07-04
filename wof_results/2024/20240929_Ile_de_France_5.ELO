@@ -1,0 +1,52 @@
+%%Tournament: Ile De France 5
+%%Country: France
+%%Date: 29/09/2024
+%%Sender: LAZARD Emmanuel
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   50053, TASTET, Remi, FRA, 5, 215, 1731
+%_%      11, LAZARD, Emmanuel, FRA, 4, 219, 1944
+%_%       2, TASTET, Marc, FRA, 3, 227, 1992
+%_%      45, ANDRIANI, Bintsa, FRA, 3, 198, 1649
+%_%   50081, TASTET, Sophie, FRA, 2, 138, 1351
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA, 2, 133, 1863
+%_%     228, BUSUTTIL, Michel, FRA, 1, 121, 1344
+%_%   +50127, Hugot, Nicolas, FRA, 0, 29, -
+
+%Round: 1
+
+    45 (27)<(37)  50053  B
+     2 (53)>(11)    228  B
+ 50127 (00)<(64)  50081  B
+    11 (44)>(20)   3598  B
+
+%Round: 2
+
+  3598 (49)>(15)  50127  B
+   228 (15)<(49)     45  B
+ 50053 (44)>(20)      2  B
+ 50081 (03)<(61)     11  B
+
+%Round: 3
+
+ 50127 (11)<(53)    228  B
+     2 (64)>(00)   3598  B
+    45 (42)>(22)  50081  B
+    11 (31)<(33)  50053  B
+
+%Round: 4
+
+ 50127 (03)<(61)      2  B
+   228 (17)<(47)   3598  B
+ 50053 (54)>(10)  50081  B
+    45 (16)<(48)     11  B
+
+%Round: 5
+
+    11 (35)>(29)      2  B
+  3598 (17)<(47)  50053  B
+ 50081 (39)>(25)    228  B
+ 50127 (00)<(64)     45  B

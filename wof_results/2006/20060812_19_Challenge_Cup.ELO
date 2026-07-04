@@ -1,0 +1,52 @@
+%%Tournament: 19th Challenge Cup
+%%Country: Japan
+%%Date: 12/08/2006
+%%Sender: Tom Schotte
+
+%round1
+6816 > 10358
+5537 > 11800
+5652 > 6900
+5659 > 10102
+
+%round2
+5537 > 6816
+5652 > 11801
+10102 > 10358
+6900 > 5659
+
+%round3
+6816 > 6900
+5652 > 5537
+10102 > 11801
+5659 > 11800
+
+%round4
+6816 > 5652
+5537 > 10102
+5659 > 11801
+10358 > 11800
+
+%round5
+6816 > 5659
+5537 > 6900
+5652 > 10358
+11801 > 11800
+
+%round6
+6816 > 11801
+5537 > 10358
+10102 > 5652
+11800 > 6900
+
+%elite
+%1 6816	asahina	satoshi
+%2 5537	takanashi	yusuke
+%3 5652	shiiki	isamu
+%4 10102	kanai	ashizawa
+%5 5659	hamada	atushi
+%6 6900	hatena	akijima
+%7 11800	toyotake	akari
+%8 10358	yubara	satoshi
+%9 11801	tanaka	iroi
+

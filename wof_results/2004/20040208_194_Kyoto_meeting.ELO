@@ -1,0 +1,60 @@
+%%Tournament: 194th Kyoto Meeting
+%%Country: Japan
+%%Date: 08/02/2004
+%%Sender: Tom Schotte
+
+%Round1
+11886 > 10038
+5526 > 5507
+10007 > 6970
+10123 > 10129
+6929 > 10009
+
+%Round2
+11886 > 6929
+10038 > 10129
+5526 > 10123
+10041 > 10007
+6970 > 5507
+
+%Round3
+11886 > 6970
+10038 > 6929
+10041 > 5526
+5507 > 10009
+10123 > 10007
+
+%Round4
+11886 > 10041
+5526 > 10038
+6970 > 10123
+6929 > 5507
+10009 > 10129
+
+%Round5
+11886 > 5526
+10038 > 6970
+10041 > 6929
+10007 > 10129
+10123 > 10009
+
+%Round6
+11886 > 10123
+10038 > 10041
+5526 > 6929
+10007 > 10009
+5507 > 10129
+
+
+%players
+%1 11886	miyamato	matsuda
+%2 10038	wazuki	hiroyuki
+%3 5526	uno	toshihiro
+%4 10041	tatsumi	atsusi
+%5 10007	nakamura	yuki
+%6 5507	tsuchida	daisuke
+%7 6970	kudashou	takahiro
+%8 10123	nakamura	shuhei
+%9 6929	io	hideo
+%10 10009	taru	eiichi
+%11 10129	eikichi	masanobu

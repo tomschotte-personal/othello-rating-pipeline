@@ -1,0 +1,39 @@
+%%Tournament: Cambridge "Christmas" tournament
+%%Country: Great-Britain
+%%Date: 16/12/2012
+%%Sender: David Haigh
+
+%%Creator: David Haigh
+%%CreationDate: 2012/12/16 17:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, prev BOF rating, prev BOF games
+%_%      79, LEADER, Imre, GB,  4, 170, 1901, 909
+%_%    2065, MARSON, Phil, GB,  2, 149, 1401, 952
+%_%    2006, ARNOLD, Roy, GB,  0, 65, 1328, 1317
+
+
+%Round: 1
+
+  2065 (29)<(35)     79  
+
+%Round: 2
+
+    79 (51)>(13)   2006 
+
+%Round: 3
+
+  2006 (21)<(43)   2065 
+
+%Round: 4
+
+    79 (47)>(17)   2065 
+
+%Round: 5
+
+  2006 (27)<(37)     79       
+
+%Round: 6
+
+  2065 (60)>(04)   2006 
+
+%%Added results

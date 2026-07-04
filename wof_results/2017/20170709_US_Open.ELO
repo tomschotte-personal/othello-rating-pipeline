@@ -1,0 +1,72 @@
+%%Tournament: US Open 2017
+%%Country: USA
+%%Date: 09/07/2017
+%%Sender: RUHMKORFF Ben
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/07/12 05:40
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4876, MORENO, Borja, ESP, 12, 514, 2098
+%_%    4089, CHITRA, Yohanes, USA,  7, 451, 1951
+%_%   20009, RUHMKORFF, Ben, USA,  5, 321, 1748
+%_% + 20036, HUANG, Wil, USA,  0, 106, 0
+
+
+
+%Round: 1
+
+ 20009 (18)<(46)   4089  B
+  4876 (48)>(16)  20036  B
+
+%Round: 2
+
+  4876 (41)>(23)  20009  B
+ 20036 (17)<(47)   4089  B
+
+%Round: 3
+
+  4089 (07)<(57)   4876  B
+ 20009 (44)>(20)  20036  B
+
+%Round: 4
+
+  4089 (50)>(14)  20009  B
+ 20036 (22)<(42)   4876  B
+
+%Round: 5
+
+ 20009 (26)<(38)   4876  B
+  4089 (54)>(10)  20036  B
+
+%Round: 6
+
+  4876 (35)>(29)   4089  B
+ 20036 (21)<(43)  20009  B
+
+%Round: 7
+
+  4876 (48)>(16)  20009  B
+
+%Round: 8
+
+  4089 (20)<(44)   4876  B
+
+%Round: 9
+
+  4089 (56)>(08)  20009  B
+
+%Round: 10
+
+ 20009 (16)<(48)   4876  B
+
+%Round: 11
+
+  4876 (33)>(31)   4089  B
+
+%Round: 12
+
+ 20009 (33)>(31)   4089  B
+
+
+%%Added results

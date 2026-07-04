@@ -1,0 +1,55 @@
+%%Tournament: 9th Beijing Othello Open B
+%%Country: China
+%%Date: 30/01/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +60176, Qi, shaoyuan, CHN, 2, 119, -
+%_%  +60178, Luo, zirui, CHN, 2, 73, -
+%_%  +60177, Ma, yutong, CHN, 2, 72, -
+%_%  +60179, Ma, ziwei, CHN, 2, 95, -
+%_%  +60175, Yu, yuxiao, CHN, 1, 51, -
+%_%  +60185, Meng, jinyan, CHN, 1, 67, -
+%_%  +60186, Shi, jingyang, CHN, 1, 65, -
+%_%  +60187, Sun, xiaomei, CHN, 1, 62, -
+%_%  +60182, Wang, youyong, CHN, 1, 61, -
+%_%  +60183, Zhang, liyun, CHN, 1, 59, -
+%_%  +60180, Han, shuang, CHN, 1, 48, -
+%_%  +60173, Ning, jian, CHN, 1, 71, -
+%_%  +60174, Zhang, fengsong, CHN, 0, 25, -
+%_%  +60184, Li, tianlin, CHN, 0, 54, -
+%_%  +60172, Hou, yujian, CHN, 0, 52, -
+%_%  +60181, Wang, qihai, CHN, 0, 50, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/471
+
+%Round: 1
+
+ 60180 (03)<(61)  60176  B
+ 60181 (31)<(33)  60182  B
+ 60173 (19)<(45)  60175  B
+ 60174 (13)<(51)  60179  B
+ 60177 (39)>(25)  60187  B
+ 60178 (37)>(27)  60185  B
+ 60184 (30)<(34)  60186  B
+ 60172 (25)<(39)  60183  B
+
+%Round: 2
+
+ 60173 (52)>(12)  60174  B
+ 60187 (37)>(27)  60172  B
+ 60180 (45)>(19)  60181  B
+ 60185 (40)>(24)  60184  B
+ 60182 (28)<(36)  60178  B
+ 60186 (31)<(33)  60177  B
+ 60179 (44)>(20)  60183  B
+ 60176 (58)>(06)  60175  B
+
+%%Added results
+
+ 60177 (32)=(32)  60179  B
+ 60176 (57)>(07)  60178  B

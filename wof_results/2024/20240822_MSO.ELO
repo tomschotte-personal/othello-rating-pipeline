@@ -1,0 +1,64 @@
+%%Tournament: Mind Sports Olympiads
+%%Country: Great-Britain
+%%Date: 22/08/2024
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/09/19 12:42
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 257, 1993
+%_%   90100, FONTE GUERRA, Hector, ESP,  4, 176, 0
+%_%      83, SMITH, Paul, GBR,  3, 237, -512
+%_%   41000, SALERNO, Francesco, ITA,  3, 164, 0
+%_% +  9073, KALLIKORM Kevin, Kaido, EST,  3, 154, 0
+%_%    3061, DE LEO, Maurizio, ITA,  2, 161, 1471
+%_%   90010, HERNANDEZ, Mario, ESP,  2, 127, 456
+%_%   40103, GUECI, Riccardo, ITA,  2, 121, -607
+%_% +101001, FINN, Peter, GBR,  1, 137, 0
+%_% + 90104, PLASENCIA, Borja, ESP,  0, 66, 0
+
+
+
+%Round: 1
+
+     2 (49)>(15)   3061  B
+ 41000 (33)>(31)     83  B
+ 40103 (37)>(27)   9073  B
+ 90104 (21)<(43)  90010  B
+ 90100 (53)>(11) 101001  B
+
+%Round: 2
+
+ 90010 (14)<(50)      2  B
+ 90100 (36)>(28)  40103  B
+  3061 (31)<(33)  41000  B
+    83 (60)>(04)  90104  B
+  9073 (38)>(26) 101001  B
+
+%Round: 3
+
+     2 (37)>(27)     83  B
+101001 (20)<(44)   3061  B
+ 41000 (27)<(37)  90100  B
+ 40103 (40)>(24)  90010  B
+ 90104 (17)<(47)   9073  B
+
+%Round: 4
+
+101001 (62)>(02)  90104  B
+  9073 (35)>(29)  41000  B
+  3061 (57)>(07)  40103  B
+    83 (64)>(00)  90010  B
+ 90100 (00)<(64)      2  B
+
+%Round: 5
+
+     2 (57)>(07)   9073  B
+ 90010 (46)>(18) 101001  B
+  3061 (14)<(50)  90100  B
+ 40103 (09)<(55)     83  B
+ 41000 (42)>(22)  90104  B
+
+
+%%Added results

@@ -1,0 +1,51 @@
+%%Tournament: 30th Korea championship
+%%Country: Korea
+%%Date: 12/08/2023
+%%Sender: Taeyeon Kim
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/08/13 10:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   30532, Gwak, Eunwoo, KOR,  4.5, 218, 0
+%_%   30037, KIM, Jungsoo, KOR,  4, 187, 1846
+%_%    4062, JUNG, Taejoon, KOR,  3, 188, 2035
+%_%   30533, Gwak, Yujin, KOR,  2.5, 171, 0
+%_%   30470, KIM, Seong-Hyeon, KOR,  1, 92, 0
+%_% + 30538, CHO, Yeonho, KOR,  0, 104, 0
+
+
+
+%Round: 1
+
+ 30037 (38)>(26)  30533  B
+ 30532 (45)>(19)  30538  B
+ 30470 (09)<(55)   4062  B
+
+%Round: 2
+
+ 30538 (22)<(42)  30037  B
+ 30533 (52)>(12)  30470  B
+  4062 (10)<(54)  30532  B
+
+%Round: 3
+
+ 30037 (49)>(15)  30470  B
+ 30538 (12)<(52)   4062  B
+ 30532 (32)=(32)  30533  B
+
+%Round: 4
+
+  4062 (27)<(37)  30037  B
+ 30470 (20)<(44)  30532  B
+ 30533 (41)>(23)  30538  B
+
+%Round: 5
+
+ 30037 (21)<(43)  30532  B
+  4062 (44)>(20)  30533  B
+ 30538 (28)<(36)  30470  B
+
+
+%%Added results
+ 30037 (35)>(29)  30532  B

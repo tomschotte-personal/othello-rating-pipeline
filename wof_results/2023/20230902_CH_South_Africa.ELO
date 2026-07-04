@@ -1,0 +1,33 @@
+%%Tournament: South Africa Championship
+%%Country: South Africa
+%%Date: 02/09/2023
+%%Sender: Pieter 
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/09/02 11:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  570003, THOMAS, Pieter, ZAF,  3, 180, 0
+%_%  570001, MORGAN, Jonathan, ZAF,  2, 78, 0
+%_%  570002, MORGAN, Kyoko, ZAF,  1, 60, 0
+%_% +570004, Bothma, Arun, ZAF,  0, 66, 0
+
+
+
+%Round: 1
+
+570001 (35)>(29) 570004  B
+570003 (59)>(05) 570002  B
+
+%Round: 2
+
+570002 (22)<(42) 570001  B
+570004 (06)<(58) 570003  B
+
+%Round: 3
+
+570001 (01)<(63) 570003  B
+570002 (33)>(31) 570004  B
+
+
+%%Added results

@@ -1,0 +1,34 @@
+%%Tournament: DONCASTER regionals
+%%Country: Great-Britain
+%%Date: 13/07/2002
+%%Sender: Emmanuel.Lazard
+
+%Round 1
+065 > 2006
+047 > 2002
+804 >   76
+
+%Round 2
+2006 >   76
+2047 > 2065
+ 804 > 2002
+
+%Round 3
+ 804 > 2006
+2047 >   76
+2065 > 2002
+
+%Round 4
+2002 > 2006
+ 804 > 2047
+2065 >   76
+
+%Round 5
+2047 > 2006
+  76 = 2002
+ 804 > 2065
+
+%Round 6
+  76 > 2006
+ 804 > 2047
+2065 = 2002

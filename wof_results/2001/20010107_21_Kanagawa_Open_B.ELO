@@ -1,0 +1,60 @@
+%%Tournament: 21st Kanagawa Open B
+%%Country: Japan
+%%Date: 07/01/2001
+%%Sender: Tom Schotte
+
+%Round1
+ 11773 >  10431 
+ 12358 >  12362 
+ 12359 >  12357 
+ 12360 >  11198 
+ 12363 >  12361 
+
+%round2
+ 11773 >  12358 
+ 12357 >  12361 
+ 10431 =  12362 
+ 12360 >  12363 
+ 11198 >  12359 
+
+%round3
+ 11773 >  12357 
+ 10431 =  11198 
+ 12358 >  12360 
+ 12359 >  12363 
+ 12361 >  12362 
+
+%round4
+ 11773 >  12359 
+ 12357 >  12360 
+ 10431 >  12361 
+ 12358 >  11198 
+ 12362 >  12363 
+
+%round5
+ 11773 >  12360 
+ 12357 >  12363 
+ 10431 >  12358 
+ 11198 >  12361 
+ 12362 >  12359 
+
+%round6
+ 11773 >  11198 
+ 12357 >  12358 
+ 10431 >  12363 
+ 12359 >  12362 
+ 12360 >  12361 
+
+
+%players
+%1 11773	terao	shoyo
+%2 12357	kitsu	reiko
+%3 10431	tanaka	daiki
+%4 12358	okuhata	sonoko
+%5 12359	matsui	keigo
+%6 12360	tanaka	eiichi
+%7 11198	nakamichi	kihoko
+%8 12361	koizumi	yoshinori
+%9 12362	nagashima	ryugen
+%10 12363	takahashi	siyo
+

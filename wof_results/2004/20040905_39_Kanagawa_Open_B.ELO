@@ -1,0 +1,69 @@
+%%Tournament: 39th Kanagawa Open B
+%%Country: Japan
+%%Date: 05/09/2004
+%%Sender: Tom Schotte
+
+%Round1
+%1_player with a bye
+%13_left
+5617 > 5694
+7085 > 5689
+5555 > 11964
+11960 > 11963
+11962 > 11958
+
+%Round2
+5689 > 11964
+6851 > 11959
+5617 > 11960
+5555 > 7085
+11962 > 11961
+5694 > 11963
+
+%Round3
+5689 > 11963
+7085 > 11961
+5555 > 5617
+11959 > 11964
+11960 > 5694
+11962 > 6851
+
+%Round4
+5689 > 11959
+6851 > 11960
+7085 > 5617
+5555 > 11962
+11961 > 5694
+11963 > 11964
+
+%Round5
+5689 > 11960
+6851 > 5555
+5617 > 11961
+7085 > 11962
+11959 > 11963
+5694 > 11964
+
+%Round6
+5689 > 5555
+6851 > 7085
+5617 > 11962
+11959 > 5694
+11960 > 11964
+11961 > 11963
+
+
+%players
+%1 5689	koyahara	naoto
+%2 6851	yashiro	masa
+%3 5617	ikeda	atsuhiko
+%4 7085	iijima	taihei
+%5 5555	sato	tetsuya
+%6 11959	maruyama	kaoru
+%7 11960	miyazono	gun
+%8 11961	sano	kenji
+%9 11962	kudou	norio
+%10 5694	inoue	masaru
+%11 11963	takano	hiroyoshi
+%12 11964 konno	shoichi
+%13 11958	onosato	kei

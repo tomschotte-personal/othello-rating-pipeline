@@ -1,0 +1,15 @@
+%%Tournament: Campionato Ligure 2016 - 3 Tappa
+%%Country: Italy
+%%Date: 12/01/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Giuseppe Chiarulli ( 20/06/2016 22:47 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2855, BIANCHI, Paolo, I, 2, 93
+%_%  2885, IACONO, Stefano, I, 1, 79
+%_% 40102, OTTONELLO, Piera, I, 0, 20
+
+%Round 1 
+  2885 (59)>(05)  40102  B
+  2855 (44)>(20)   2885  B
+ 40102 (15)<(49)   2855  B

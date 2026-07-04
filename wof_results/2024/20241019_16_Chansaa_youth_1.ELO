@@ -1,0 +1,59 @@
+%%Tournament: Othello Chansaa 16, Youth 6-9 Ranked
+%%Country: Mongolia
+%%Date: 19/10/2024
+%%Sender: KHUYAGBAATAR Buyanzaya
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  440698, ERDENEBAYAR, Lkhagvasuren, MNG, 4, 198, 513
+%_%  440590, TSEGMID, Ayushbaatar, MNG, 4, 182, 916
+%_%  440588, MARGAD-ERDENE, Michid-Erdene, MNG, 3, 182, 257
+%_%  440796, ENKHBOLOR, Sergelen, MNG, 3, 187, 858
+%_%  440411, TAMIR, Budkhuu, MNG, 3, 135, 385
+%_%  440690, ELDEV-OCHIR, Galsanbat, MNG, 2, 148, 552
+%_%  440799, ORGIL, Ogoodoi, MNG, 2, 156, 709
+%_%  440589, TSERENPIL, Anar, MNG, 2, 151, 577
+%_%  440593, ERDENE-OCHIR, Erdenechimeg, MNG, 1, 147, 570
+%_%  440658, MARGAD-ERDENE, Erkhes-Erdene, MNG, 1, 114, 371
+
+%Round: 1
+
+440799 (22)<(42) 440698  B
+440588 (42)>(22) 440593  B
+440796 (30)<(34) 440411  B
+440590 (37)>(27) 440589  B
+440658 (28)<(36) 440690  B
+
+%Round: 2
+
+440589 (15)<(49) 440799  B
+440593 (30)<(34) 440658  B
+440698 (34)>(30) 440796  B
+440690 (19)<(45) 440590  B
+440411 (00)<(64) 440588  B
+
+%Round: 3
+
+440796 (48)>(16) 440589  B
+440799 (16)<(48) 440593  B
+440658 (15)<(49) 440411  B
+440588 (13)<(51) 440690  B
+440590 (10)<(54) 440698  B
+
+%Round: 4
+
+440589 (50)>(14) 440658  B
+440593 (26)<(38) 440796  B
+440690 (23)<(41) 440799  B
+440411 (16)<(48) 440590  B
+440698 (23)<(41) 440588  B
+
+%Round: 5
+
+440588 (22)<(42) 440590  B
+440698 (45)>(19) 440690  B
+440799 (28)<(36) 440411  B
+440796 (41)>(23) 440658  B
+440589 (43)>(21) 440593  B

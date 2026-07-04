@@ -1,0 +1,63 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 17/05/2014
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/05/29 23:39
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  6, 291, 2125
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  6, 270, 1945
+%_%      11, LAZARD, Emmanuel, FRA,  5, 298, 2028
+%_%    3518, DELAUNAY, Arnaud, FRA,  5, 261, 2164
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 212, 1823
+%_%    3600, BENOIT, Serge, FRA,  2, 170, 1381
+%_%     228, BUSUTTIL, Michel, FRA,  2, 122, 1305
+
+
+
+%Round: 1
+
+  3600 (34)>(30)     45 B
+    11 (30)<(34)      2 B
+   228 (17)<(47)   3518 B
+
+%Round: 2
+
+  3598 (34)>(30)     11 B
+  3518 (50)>(14)   3600 B
+     2 (64)>(00)    228 B
+
+%Round: 3
+
+    45 (26)<(38)   3518 B
+   228 (16)<(48)   3598 B
+  3600 (14)<(50)      2 B
+
+%Round: 4
+
+    11 (63)>(01)    228 B
+     2 (38)>(26)     45 B
+  3598 (42)>(22)   3600 B
+
+%Round: 5
+
+  3518 (29)<(35)      2 B
+  3600 (19)<(45)     11 B
+    45 (23)<(41)   3598 B
+
+%Round: 6
+
+   228 (37)>(27)   3600 B
+  3598 (31)<(33)   3518 B
+    11 (50)>(14)     45 B
+
+%Round: 7
+
+     2 (30)<(34)   3598 B
+    45 (53)>(11)    228 B
+  3518 (24)<(40)     11 B
+
+
+%%Added results

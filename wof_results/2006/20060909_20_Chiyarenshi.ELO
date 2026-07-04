@@ -1,0 +1,84 @@
+%%Tournament: 20th Chiyarenshi Open
+%%Country: Japan
+%%Date: 09/09/2006
+%%Sender: Tom Schotte
+
+%round1
+5628 > 5521
+11335 > 5542
+5596 > 5555
+5537 > 5543
+5594 > 5533
+5520 > 10131
+5593 > 5614
+%5521 and 5696 did not play
+
+%round2
+5628 > 5537
+11335 > 5594
+5533 > 7087
+5596 > 5542
+5520 > 5593
+10131 > 5614
+5521 > 5543
+5555 > 5696
+
+%round3
+5628 > 5520
+11335 > 5596
+5533 > 5593
+5537 > 5555
+5594 > 10131
+5542 > 5543
+5614 > 5696
+7087 > 5521
+
+%round4
+5628 > 11335
+5533 > 5555
+5537 > 5520
+5594 > 5596
+5542 > 7087
+5614 > 5521
+5593 > 10131
+5543 > 5696
+
+%round5
+5628 > 5533
+11335 > 5537
+5596 > 5593
+5520 > 5594
+10131 > 5555
+5614 > 5542
+5543 > 7087
+5696 > 5521
+
+%round6
+5628 > 5594
+11335 > 5614
+5533 > 5520
+5596 > 5537
+5542 > 5593
+10131 > 5543
+7087 > 5696
+5521 > 5555
+
+
+%players
+%1 5628	ohuchi	yasuhiro
+%2 11335	tamura	reika
+%3 5533	sato	kouichiro
+%4 5596	okamoto	akihiko
+%5 5537	takanashi	yusuke
+%6 5594	masayuki	suko
+%7 5520	okuda	tsuyoshi
+%8 5542	koide	satoshi
+%9 10131	nogami	yoshiyuki
+%10 5614	ishihara	makoto
+%11 5593	yamamoto	kunisuke
+%12 7087	higuchi	sayuki
+%13 5543	watanabe	keiichi
+%14 5521	hamada	kikue
+%15 5555	sato	tetsuya
+%16 5696	shigeru	hayakawa
+

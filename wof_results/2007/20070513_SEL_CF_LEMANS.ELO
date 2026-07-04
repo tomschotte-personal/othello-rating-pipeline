@@ -1,0 +1,35 @@
+%%Tournament: Selection CF Le Mans
+%%Country: France
+%%Date: 13/05/2007
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+3598 > 2788
+  45 <  433
+3519 <  544
+
+%%Round: 2
+
+ 433 < 3598
+2788 > 3519
+ 544 <   45
+
+%%Round: 3
+
+3598 >  544
+2788 >  433
+3519 >   45
+
+%%Round: 4
+
+ 433 > 3519
+ 544 > 2788
+  45 > 3598
+
+%%Round: 5
+
+ 433 >  544
+2788 >   45
+3519 > 3598

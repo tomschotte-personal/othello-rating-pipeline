@@ -1,0 +1,66 @@
+%%Tournament: Citta di Roma
+%%Country: Italy
+%%Date: 14/05/2023
+%%Sender: FNGO
+
+%%Creator: www.fngo.it
+%%CreationDate: 2023/10/11
+
+%       ID, NAME, Firstname
+%_%    148, ORTIZ, George, AUS
+%_%   2805, ALAMI, Carlo, ITA
+%_%   2841, VECCHI, Elisabetta, ITA
+%_%   2884, VECCHI, Maria Serena, ITA
+%_%   3023, LAI, Fabrizio, ITA
+%_%   3037, DI MATTEI, Alessandro, ITA
+%_%   3060, RUSSO, Luigi, ITA
+%_%   3062, CAVIOLA, Leonardo, ITA
+%_%   3066, MARCONI, Flavio, ITA
+%_%   8022, PECCERILLO, Vincenzo, ITA
+%_%  40052, GIGLIUCCI, Chiara, ITA
+%_%  40083, PACE, Alessandro, ITA
+%_%  40114, ARCARA, Paolo, ITA
+%_%  +40171, BERTOCCHI, Alberto, ITA
+%_%  +40172, CONGIU, Chiara, ITA
+
+
+%Round:1
+
+  3062 (17)<(47)   3037 
+   148 (37)>(27)   8022 
+  2884 (38)>(26)  40083 
+  2841 (33)>(31)   3060 
+ 40052 (33)>(31)   2805 
+ 40114 (53)>(11)   3066 
+ 40171 (15)<(49)   3023 
+
+%Round:2
+
+  3037 (51)>(13)   2884 
+  3023 (09)<(55)    148 
+ 40052 (28)<(36)   2841 
+ 40172 (08)<(56)  40114 
+ 40083 (14)<(50)   8022 
+  2805 (43)>(21)   3060 
+  3066 (13)<(51)   3062 
+
+%Round:3
+
+  2841 (17)<(47)   3037 
+   148 (30)<(34)  40114 
+  2884 (40)>(24)   2805 
+  3023 (18)<(46)  40052 
+  3062 (30)<(34)  40171 
+  8022 (60)>(04)  40172 
+  3060 (30)<(34)  40083 
+
+%Round:4
+
+ 40114 (33)>(31)   3037 
+  2884 (14)<(50)    148 
+ 40171 (08)<(56)   2841 
+  8022 (53)>(11)  40052 
+ 40083 (49)>(15)   3062 
+  2805 (45)>(19)   3066 
+ 40172 (17)<(47)   3023 
+  

@@ -1,0 +1,64 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 12/03/2023
+%%Sender: Lazard
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2023/03/12 20:19
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50075, BERTRANDIAS, Marc, FRA,  4, 203, 1864
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 195, 1876
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 187, 1762
+%_%      11, LAZARD, Emmanuel, FRA,  3, 190, 1953
+%_%       2, TASTET, Marc, FRA,  3, 175, 2038
+%_%     228, BUSUTTIL, Michel, FRA,  2, 170, 1403
+%_%    3734, CLUZON, Gilles, FRA,  2, 155, 1252
+%_%    9025, TOUCHENE, Fouad, DZA,  2, 147, 1763
+%_% + 50123, VISVANATH, Ramya, FRA,  1, 96, 0
+%_% + 50124, VISVANATH, Lea, FRA,  0, 82, 0
+
+
+
+%Round: 1
+
+   228 (57)>(07)  50124  B
+    45 (57)>(07)  50123  B
+    11 (24)<(40)   3598  B
+ 50075 (43)>(21)      2  B
+  3734 (24)<(40)   9025  B
+
+%Round: 2
+
+ 50123 (06)<(58)   3734  B
+  9025 (40)>(24)    228  B
+ 50124 (18)<(46)  50075  B
+     2 (22)<(42)     11  B
+  3598 (28)<(36)     45  B
+
+%Round: 3
+
+  3734 (20)<(44)   3598  B
+    11 (49)>(15)  50123  B
+   228 (21)<(43)     45  B
+ 50075 (43)>(21)   9025  B
+ 50124 (18)<(46)      2  B
+
+%Round: 4
+
+  3598 (43)>(21)    228  B
+ 50123 (51)>(13)  50124  B
+     2 (49)>(15)   3734  B
+  9025 (19)<(45)     11  B
+    45 (17)<(47)  50075  B
+
+%Round: 5
+
+  3734 (38)>(26)  50124  B
+ 50075 (24)<(40)   3598  B
+   228 (47)>(17)  50123  B
+    11 (30)<(34)     45  B
+     2 (37)>(27)   9025  B
+
+
+%%Added results

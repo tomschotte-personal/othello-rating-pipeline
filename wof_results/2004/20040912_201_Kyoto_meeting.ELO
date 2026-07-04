@@ -1,0 +1,84 @@
+%%Tournament: 201st Kyoto Meeting
+%%Country: Japan
+%%Date: 12/09/2004
+%%Sender: Tom Schotte
+
+%Round1
+6995 > 5526
+7054 > 10010
+6970 > 10007
+6860 > 5506
+10118 > 10009
+6929 > 6930
+12035 > 5547
+%three players missing
+
+%Round2
+6995 > 10008
+10351 > 5547
+10010 > 5506
+5526 > 6930
+6970 > 6929
+10007 > 10009
+6860 > 10118
+12035 > 7054
+
+%Round3
+6995 > 12035
+10351 > 7054
+10010 > 10007
+5526 > 10118
+6860 > 6970
+7081 > 6929
+5547 > 10009
+6930 > 10008
+
+%Round4
+6995 > 6860
+10351 > 6970
+7054 > 10118
+10010 > 5526
+10007 > 6930
+5506 > 10008
+7081 > 12035
+5547 > 6929
+
+%Round5
+10351 > 6995
+7054 > 6970
+10010 > 6860
+5526 > 7081
+10007 > 12035
+5506 > 5547
+10118 > 6930
+10008 > 10009
+
+%Round6
+6995 > 10010
+10351 > 6860
+7054 > 10007
+5526 > 5506
+6970 > 7081
+10118 > 5547
+6929 = 10009
+10008 > 12035
+
+
+%players
+%1 6995	funakoshi	shogo
+%2 10351	tokumaru	kikuchi
+%3 7054	nakamori	hiroki
+%4 10010	aoki	akira
+%5 5526	uno	toshihiro
+%6 6970	kudashou	takahiro
+%7 10007	nakamura	yuki
+%8 6860	miyazaki	yuji
+%9 5506	tamaki	suguru
+%10 10118	masuda	kazuhisa
+%11 6929	io	hideo
+%12 7081	kado	naoki
+%13 5547	ohno	atsuko
+%14 12035	haze	kentaro
+%15 6930	nishimine	satoru
+%16 10008	okuda	masashi
+%17 10009	taru	eiichi

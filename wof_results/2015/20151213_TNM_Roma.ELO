@@ -1,0 +1,43 @@
+%%Tournament: Torneo di Natale Maestri
+%%Country: Italy
+%%Date: 13/12/2015
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci
+%%CreationDate: 2016/06/19 23:00
+
+
+%      ID, NAME, Firstname, score, disc-count
+%_%    36, MARCONI, Francesco, 4, 183
+%_%  2844, SPERANDIO, Roberto, 3, 157
+%_%  2805, ALAMI, Carlo, 3, 148
+%_%  3019, DIODATI, Michele, 2, 128
+%_%  3111, SCOGNAMIGLIO, Paolo, 2, 119
+%_%    43, PUZZO, Luigi, 1, 124
+%_%    42, PRIVITERA, Biagio, 1, 79
+%_%  3062, CAVIOLA, Leonardo, 0, 86
+
+%Round 1 
+    36 (53)>(11)   3019  B
+    43 (14)<(50)   2844  B
+  3111 (45)>(19)   3062  B
+    42 (18)<(46)   2805  B
+
+%Round 2 
+  2805 (24)<(40)     36  B
+  2844 (48)>(16)   3111  B
+  3019 (54)>(10)     42  B
+  3062 (11)<(53)     43  B
+
+%Round 3 
+    36 (52)>(12)   2844  B
+  3111 (35)>(29)   3019  B
+    43 (27)<(37)   2805  B
+    42 (34)>(30)   3062  B
+
+%Round 4 
+  3062 (26)<(38)     36  B
+  2805 (41)>(23)   3111  B
+  2844 (47)>(17)     42  B
+  3019 (34)>(30)     43  B
+

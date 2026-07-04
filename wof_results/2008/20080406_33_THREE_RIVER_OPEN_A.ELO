@@ -1,0 +1,28 @@
+%%Tournament: 33rd three river open A
+%%Country: Japan
+%%Date: 06/04/2008
+%%Sender: Tom Schotte
+
+%round1:
+5560 > 5524
+5507 > 5575
+
+%round2:
+5560 > 5575
+5507 = 5524
+
+%round3:
+5560 < 5507
+5524 < 5575
+
+%round4:
+5560 < 5524
+5507 < 5575
+
+%round5:
+5560 > 5575
+5507 > 5524
+
+%round6:
+5560 > 5507
+5524 > 5575

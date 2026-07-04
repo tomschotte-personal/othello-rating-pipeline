@@ -1,0 +1,88 @@
+%%Tournament: Ivory Coast 2013
+%%Country: Ivory Coast
+%%Date: 01/07/2013
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/07/22 14:54
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  410000, OUREGA, Loh Jeannot, CIV,  6, 286, 813
+%_% +  9049, HANSegnon, Marquerite, CIV,  5, 231, 0
+%_% +  9045, Cherif, Fanta, CIV,  4, 235, 0
+%_% +410012, Ourega Zirimbia Ange, F, CIV,  4, 222, 0
+%_% +  9039, Akre, Gabriel, CIV,  2, 129, 0
+%_% +410008, Ourega Gallo, Irene, CIV,  2, 127, 0
+%_% +  9040, Kone, Hamadou, CIV,  2, 100, 0
+%_% +  9035, Gode Gnako, Albert, CIV,  1.5, 65, 0
+%_% +  9027, Guiehoua France, marie, CIV,  1, 98, 0
+%_% +  9036, Goro, Fatoumata, CIV,  1, 66, 0
+%_% +  9031, Togba, Vanama, CIV,  1, 66, 0
+%_% +  9033, Adou, Victor, CIV,  1, 62, 0
+%_% +  9037, Gnonsian, AnneMaria, CIV,  1, 62, 0
+%_% +  9051, Mme, Aziallo, CIV,  1, 62, 0
+%_% +  9048, Danon Amoin, Rose, CIV,  1, 54, 0
+%_% +  9029, NGuessan, Marcelin, CIV,  0.5, 63, 0
+%_% +  9053, Kouame, Franck, CIV,  0, 59, 0
+%_% +  9050, Soro, Douna, CIV,  0, 54, 0
+%_% +  9052, Gba, Sandrine, CIV,  0, 38, 0
+%_% +  9028, Ouedraogo, Oumou, CIV,  0, 36, 0
+%_% +  9032, Nampe, Franck, CIV,  0, 35, 0
+%_%  410002, AMIA, Gode Raymond, CIV,  0, 26, 0
+
+
+
+%Round: 1
+
+410000 (50)>(14) 410002  B
+  9048 (46)>(18)   9049  B
+  9050 (25)<(39) 410008  B
+  9051 (33)>(31)   9031  B
+  9027 (50)>(14)   9033  B
+  9035 (33)>(31)   9029  B
+  9036 (43)>(21)   9037  B
+  9052 (24)<(40)   9039  B
+  9040 (35)>(29)   9053  B
+  9028 (23)<(41) 410012  B
+  9032 (11)<(53)   9045  B
+
+%Round: 2
+
+410002 (12)<(52) 410000  B
+  9049 (56)>(08)   9048  B
+410008 (35)>(29)   9050  B
+  9031 (35)>(29)   9051  B
+  9033 (48)>(16)   9027  B
+  9029 (32)=(32)   9035  B
+  9037 (41)>(23)   9036  B
+  9039 (50)>(14)   9052  B
+  9053 (30)<(34)   9040  B
+410012 (51)>(13)   9028  B
+  9045 (40)>(24)   9032  B
+
+%Round: 3
+
+  9040 (04)<(60) 410000  B
+  9039 (25)<(39) 410012  B
+  9045 (50)>(14)   9027  B
+  9049 (40)>(24) 410008  B
+
+%Round: 4
+
+410000 (37)>(27)   9040  B
+410012 (50)>(14)   9039  B
+  9027 (18)<(46)   9045  B
+410008 (29)<(35)   9049  B
+
+%Round: 5
+
+410000 (41)>(23) 410012  B
+  9045 (18)<(46)   9049  B
+
+%Round: 6
+
+410012 (18)<(46) 410000  B
+  9049 (36)>(28)   9045  B
+
+
+%%Added results

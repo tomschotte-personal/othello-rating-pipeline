@@ -1,0 +1,54 @@
+%%Tournament: Copenhagen 2013
+%%Country: Denmark
+%%Date: 20/04/2013
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/04/20 16:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  6, 283, 2083
+%_%      96, VALLUND, Henrik, DNK,  6, 259, 1892
+%_%    1025, BADSTED, Palle, DNK,  4, 219, 1775
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  3, 208, 1661
+%_%    1981, STOKKE, Solrun, DNK,  1, 167, 1541
+
+
+
+%Round: 1
+
+    96 (15)<(49)     92  B
+  1025 (41)>(23)   1981  B
+
+%Round: 2
+
+  1019 (28)<(36)   1025  B
+  1981 (14)<(50)     96  B
+
+%Round: 3
+
+    92 (33)>(31)   1981  B
+    96 (35)>(29)   1019  B
+
+%Round: 4
+
+  1025 (15)<(49)     96  B
+  1019 (07)<(57)     92  B
+
+%Round: 5
+
+  1981 (30)<(34)   1019  B
+    92 (35)>(29)   1025  B
+
+%Round: 6
+
+    92 (28)<(36)     96  B
+  1981 (29)<(35)   1025  B
+
+%Round: 7
+
+  1025 (23)<(41)     92  B
+  1019 (30)<(34)     96  B
+
+
+%%Added results

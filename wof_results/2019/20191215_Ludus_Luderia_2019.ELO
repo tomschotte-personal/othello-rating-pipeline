@@ -1,0 +1,57 @@
+%%Tournament: Ludus Luderia 2019
+%%Country: Brazil
+%%Date: 15/12/2019
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/01/03 22:13
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  4, 187, 1269
+%_%    4083, DE CAMARGO, Lucas, BRA,  3, 190, 1700
+%_%  290025, CORREIA JR., Moises, BRA,  3, 156, 1026
+%_% +290098, GOES, Sara, BRA,  3, 140, 0
+%_%  290043, TUBERO, Jesualdo, BRA,  2, 120, 805
+%_%  290031, CEORLIN, Gilberto, BRA,  2, 115, 113
+%_%  290157, CORREIA, Renato Paie, BRA,  2, 112, 698
+%_%  290040, SILVA, Joao Victor S. Da, BRA,  2, 103, 814
+%_%  290153, RODRIGUES, Poliana Yossie, BRA,  1, 115, 463
+%_%  290013, FRITSCH, Evans, BRA,  1, 112, 1008
+%_% +290099, FRITSCH, Noemi, BRA,  1, 90, 0
+
+
+
+%Round: 1
+
+  4083 (51)>(13) 290040  B
+290031 (17)<(47) 290174  B
+290013 (26)<(38) 290157  B
+290153 (21)<(43) 290025  B
+290043 (48)>(16) 290099  B
+
+%Round: 2
+
+290025 (18)<(46)   4083  B
+290174 (57)>(07) 290043  B
+290157 (51)>(13) 290031  B
+290098 (34)>(30) 290013  B
+290040 (00)<(64) 290153  B
+
+%Round: 3
+
+  4083 (64)>(00) 290157  B
+290153 (16)<(48) 290174  B
+290043 (48)>(16) 290098  B
+290013 (16)<(48) 290025  B
+290099 (15)<(49) 290040  B
+
+%Round: 4
+
+290174 (35)>(29)   4083  B
+290025 (47)>(17) 290043  B
+290157 (23)<(41) 290040  B
+290098 (50)>(14) 290153  B
+290031 (45)>(19) 290099  B
+
+
+%%Added results

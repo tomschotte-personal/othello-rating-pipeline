@@ -1,0 +1,48 @@
+%%Tournament: 2009 National Open Day 2
+%%Country: USA
+%%Date: 12/07/2009
+%%Sender: Randy Fang
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/07/12 16:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4088, FANG, Randy, USA,  4, 232
+%_%    6419, ARMATYS, Frank, USA,  4, 202
+%_%    6438, CAI, Jian, USA,  3, 209
+%_%    6412, ROCKWELL, David, USA,  1, 125
+
+
+
+%Round: 1
+
+  4088 (19)<(45)   6419 B
+  6412 (22)<(42)   6438 B
+
+%Round: 2
+
+  6412 (03)<(61)   4088 B
+  6438 (24)<(40)   6419 B
+
+%Round: 3
+
+  4088 (16)<(48)   6438 B
+  6419 (45)>(19)   6412 B
+
+%Round: 4
+
+  6419 (19)<(45)   4088 B
+  6438 (25)<(39)   6412 B
+
+%Round: 5
+
+  4088 (53)>(11)   6412 B
+  6419 (20)<(44)   6438 B
+
+%Round: 6
+
+  6438 (26)<(38)   4088 B
+  6412 (31)<(33)   6419 B
+
+
+%%Added results

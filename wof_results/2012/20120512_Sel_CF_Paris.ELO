@@ -1,0 +1,58 @@
+%%Tournament: Selection de Paris CF
+%%Country: France
+%%Date: 12/05/2012
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/06/03 21:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  5, 230
+%_%   50036, CLINTON, Samuel, F,  4, 220
+%_%   50030, JUIGNER, Arthur, F,  3, 197
+%_%    3839, RUBIO, Celine, F,  3, 175
+%_%    2788, LECAT, Monique, B,  3, 154
+%_%    3600, BENOIT, Serge, F,  2, 159
+%_%     419, BETIN, Dominique, F,  1, 120
+%_% + 50063, SCHNEIDER, Doris, F,  1, 89
+%_% + 50062, MOUCHEN, Marie-France, F,  1, 56
+
+
+
+%Round: 1
+
+ 50030 (53)>(11)   2788  B
+ 50062 (15)<(49)   3839  B
+  3598 (58)>(06)    419  B
+  3600 (24)<(40)  50036  B
+
+%Round: 2
+
+  3839 (01)<(63)  50030  B
+ 50063 (11)<(53)   3598  B
+ 50036 (63)>(01)  50062  B
+  2788 (42)>(22)   3600  B
+
+%Round: 3
+
+   419 (30)<(34)   2788  B
+  3600 (41)>(23)  50063  B
+ 50030 (15)<(49)  50036  B
+  3598 (35)>(29)   3839  B
+
+%Round: 4
+
+   419 (24)<(40)  50030  B
+  2788 (53)>(11)  50063  B
+ 50036 (18)<(46)   3598  B
+  3839 (36)>(28)   3600  B
+
+%Round: 5
+
+ 50063 (04)<(60)   3839  B
+  3600 (44)>(20)    419  B
+ 50036 (50)>(14)   2788  B
+ 50030 (26)<(38)   3598  B
+
+
+%%Added results

@@ -1,0 +1,51 @@
+%%Tournament: Torneo di Categoria
+%%Country: Italy
+%%Date: 13/06/2015
+%%Sender: Chiara Gigliucci
+
+%%Creator: Chiara Gigliucci
+%%CreationDate: 2016/06/14 18:00
+
+
+%      ID, NAME, Firstname, score, disc-count
+%_%  3062, CAVIOLA, Leonardo,  4, 246
+%_%  2884, VECCHI, Maria Serena,  3, 270
+%_% 40052, GIGLIUCCI, Chiara,  2, 234
+%_% 40084, GIANNINI, Valentino,  2, 171
+%_% 40048, PANTANI, Ennio,  2, 206
+%_% 40047, PANTANI, Antonio,  1, 167
+%_% 40075, CESTRA, Carla,  1, 158
+%_% 40099, LEOFRIGIO, Marco,  1, 143
+
+
+%Round: 1
+
+ 40084 (37)>(27)  40099  B
+ 40075 (13)<(51)  40052  B
+  3062 (44)>(20)  40047  B
+ 40048 (06)<(58)   2884  B
+
+
+%Round: 2
+
+  2884 (23)<(41)   3062  B
+ 40052 (54)>(10)  40084  B
+ 40099 (07)<(57)  40048  B
+ 40047 (49)>(15)  40075  B
+
+%Round: 3
+
+  3062 (37)>(27)  40052  B
+ 40047 (18)<(46)   2884  B
+ 40084 (35)>(29)  40048  B
+ 40075 (43)>(21)  40099  B
+
+
+%Round: 4
+
+ 40084 (28)<(36)   3062  B
+ 40052 (18)<(46)   2884  B
+ 40099 (37)>(27)  40047  B
+ 40048 (40)>(24)  40075  B
+ 
+ 

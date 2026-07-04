@@ -1,0 +1,31 @@
+%%Tournament: Ramat-Gan
+%%Country: Israel
+%%Date: 29/01/2011
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, IL, 3, 164
+%_%    880, SHIFMAN, Leonid, IL, 3, 151
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 2, 131
+%_%    4151, MILLER, Alexey, IL, 2, 115
+%_%    200006, MARGALIOT, Michael, IL, 0, 79
+
+%Round 1
+  4028 (24)<(40)   4151 B
+  4085 (42)>(22)    880 B
+
+%Round 2
+200006 (04)<(60)   4085 B
+   880 (35)>(29)   4028 B
+
+%Round 3
+  4151 (04)<(60)    880 B
+  4028 (40)>(24) 200006 B
+
+%Round 4
+  4085 (29)<(35)   4028 B
+200006 (24)<(40)   4151 B
+
+%Round 5
+  4151 (31)<(33)   4085 B
+   880 (34)>(30) 200006 B

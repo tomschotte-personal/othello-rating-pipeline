@@ -1,0 +1,59 @@
+%%Tournament: 215th Kyoto Meeting
+%%Country: Japan
+%%Date: 13/11/2005
+%%Sender: Tom Schotte
+
+%round1
+5526 > 10125
+6972 > 6936
+6929 > 6995
+10118 > 11911
+10007 > 5573
+
+%round2
+5526 > 10007
+10125 > 6929
+6995 > 5573
+10118 > 6972
+6936 > 11911
+
+%round3
+5526 > 10118
+6972 > 10007
+10125 > 6995
+6929 > 6936
+5573 > 11911
+
+%round4
+6972 > 5526
+10125 > 10118
+6929 > 10007
+5573 > 6936
+6995 > 11911
+
+%round5
+5526 > 6929
+10125 > 6972
+5573 > 10118
+6995 > 6936
+10007 > 11911
+
+%round6
+5526 > 6995
+6972 > 11911
+6929 > 10118
+5573 > 10125
+6936 > 10007
+
+
+%players
+%1 5526	uno	toshihiro
+%2 6972	miyazaki	toru
+%3 10125	nakano	takao
+%4 6929	io	hideo
+%5 5573	nagayama	hironari
+%6 6995	funakoshi	shogo
+%7 10118	masuda	kazuhisa
+%8 10007	nakamura	yuki
+%9 6936	tsubouchi	masao
+%10 11911	yamada	hideyuki

@@ -1,0 +1,50 @@
+%%Tournament: Bergen Open 2019
+%%Country: Norway
+%%Date: 31/07/2019
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/09/16 20:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1981, STOKKE, Solrun, DNK,  5, 241, 1532
+%_% +140060, ELLINGSEN, Roy, N,  4, 161, 0
+%_% +140061, LAUSER, Andreas, N,  3, 220, 0
+%_%    1979, HJELMEN, Gisle, NOR,  2, 164, 1174
+%_% +140062, ELLINGSEN Maren, Hopland, N,  1, 101, 0
+%_% +140063, ERIKSEN, Maria, N,  0, 73, 0
+
+
+
+%Round: 1
+
+  1979 (12)<(52)   1981  B
+140062 (38)>(26) 140063  B
+140060 (33)>(31) 140061  B
+
+%Round: 2
+
+140063 (05)<(59)   1979  B
+140062 (28)<(36) 140060  B
+  1981 (33)>(31) 140061  B
+
+%Round: 3
+
+140061 (49)>(15) 140062  B
+140060 (42)>(22)   1979  B
+140063 (15)<(49)   1981  B
+
+%Round: 4
+
+  1981 (57)>(07) 140060  B
+  1979 (58)>(06) 140062  B
+140061 (58)>(06) 140063  B
+
+%Round: 5
+
+  1979 (13)<(51) 140061  B
+140060 (43)>(21) 140063  B
+140062 (14)<(50)   1981  B
+
+
+%%Added results

@@ -1,0 +1,32 @@
+%%Tournament: Cameponato Argentino 2009
+%%Country: Argentina
+%%Date: 27/09/2009
+%%Sender: Daniel Olivares
+
+%Juan Pablo Lucioli played only the first 2 rounds, so the total disc count doesn«t match 
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  280008, RODRUIGUEZ, Ismael, URU, 3.5, 165
+%_%     650, OLIVARES,   Daniel, ARG, 2.5, 106    
+%_%    4157, ITURBIDE,   Paula, ARG, 2, 106
+%_%    4167, COELLO,     Alejandro, ARG, 2, 86    
+%_%    4166, LUCIOLI,    Juan Pablo, ARG, 0, 49
+
+%Round 1
+  4166 (31)<(33) 280008 B
+  4167 (20)<(44)    650 B
+
+%Round 2
+280008 (46)>(18)   4167 B
+  4157 (46)>(18)   4166 B
+
+%Round 3
+  4167 (48)>(16)   4157 B
+   650 (32)=(32) 280008 B 
+
+%Round 4
+  4157 (34)>(30)    650 B
+
+%Round 5
+280008 (54)>(10)   4157 B
+

@@ -1,0 +1,50 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 29/01/2022
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/01/29 20:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50053, TASTET, Remi, FRA,  4, 198, 1119
+%_%       2, TASTET, Marc, FRA,  4, 184, 2079
+%_%   50096, LEVY, Marc, FRA,  4, 171, 1800
+%_%      11, LAZARD, Emmanuel, FRA,  2, 157, 2010
+%_%      45, ANDRIANI, Bintsa, FRA,  1, 130, 1779
+%_%     228, BUSUTTIL, Michel, FRA,  0, 120, 1551
+
+
+
+%Round: 1
+
+ 50053 (47)>(17)  50096  B
+    11 (47)>(17)     45  B
+   228 (24)<(40)      2  B
+
+%Round: 2
+
+    45 (21)<(43)  50053  B
+ 50096 (38)>(26)    228  B
+     2 (35)>(29)     11  B
+
+%Round: 3
+
+ 50053 (45)>(19)    228  B
+    45 (18)<(46)      2  B
+    11 (26)<(38)  50096  B
+
+%Round: 4
+
+     2 (44)>(20)  50053  B
+   228 (30)<(34)     11  B
+ 50096 (33)>(31)     45  B
+
+%Round: 5
+
+ 50053 (43)>(21)     11  B
+     2 (19)<(45)  50096  B
+    45 (43)>(21)    228  B
+
+
+%%Added results

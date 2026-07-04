@@ -1,0 +1,43 @@
+%%Tournament: Swiss open
+%%Country: Switzerland
+%%Date: 03/05/2025
+%%Sender: BERG Matthias
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   50067, JUIGNER, Felix, CHE, 5, 202, 2094
+%_%    3024, BORASSI, Michele, CHE, 4, 171, 2366
+%_%   50030, JUIGNER, Arthur, CHE, 3, 174, 2233
+%_%    5301, BERG, Matthias, DEU, 2, 143, 2175
+%_%  240002, JOYE, Frederic, CHE, 1, 110, 1849
+
+%Round: 1
+
+ 50030 (45)>(19)   5301  B
+240002 (25)<(39)   3024  B
+
+%Round: 2
+
+  3024 (45)>(19)  50030  B
+  5301 (23)<(41)  50067  B
+
+%Round: 3
+
+  5301 (38)>(26) 240002  B
+ 50067 (35)>(29)  50030  B
+
+%Round: 4
+
+  3024 (22)<(42)  50067  B
+ 50030 (49)>(15) 240002  B
+
+%Round: 5
+
+  3024 (33)>(31)   5301  B
+ 50067 (52)>(12) 240002  B
+
+%%Added results
+
+  3024 (39)>(25)  50067  B

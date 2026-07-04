@@ -1,0 +1,56 @@
+%%Tournament: Grimstad Othello Open
+%%Country: Norway
+%%Date: 21/02/2009
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/04/03 11:56
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1953, KJELLSTADLI, Jonas, N,  6, 244
+%_%    1800, AAS, Vidar, N,  4, 247
+%_%    2546, LYNGROTH, Cedrik Andersen, N,  3, 201
+%_%    1968, TORGERSEN, Terje, N,  3, 191
+%_%    2521, LYNGROTH, Johnny, N,  1, 164
+%_%    2543, KJELLSTADLI, Ingvild, N,  1, 105
+
+
+
+%Round: 1
+
+  1968 (18)<(46)   1800 B
+  2543 (17)<(47)   2546 B
+  2521 (21)<(43)   1953 B
+
+%Round: 2
+
+  1800 (56)>(08)   2543 B
+  1968 (36)>(28)   2521 B
+  2546 (21)<(43)   1953 B
+
+%Round: 3
+
+  2521 (10)<(54)   2546 B
+  2543 (15)<(49)   1968 B
+  1953 (37)>(27)   1800 B
+
+%Round: 4
+
+  1968 (24)<(40)   1953 B
+  2543 (38)>(26)   2521 B
+  1800 (49)>(15)   2546 B
+
+%Round: 5
+
+  2521 (24)<(40)   1800 B
+  2546 (42)>(22)   1968 B
+  1953 (46)>(18)   2543 B
+
+%Round: 6
+
+  1800 (29)<(35)   1953 B
+  2546 (22)<(42)   1968 B
+  2521 (55)>(09)   2543 B
+
+
+%%Added results

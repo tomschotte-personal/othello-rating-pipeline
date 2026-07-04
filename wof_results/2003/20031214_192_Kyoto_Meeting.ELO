@@ -1,0 +1,49 @@
+%%Tournament: 192nd Kyoto Meeting
+%%Country: Japan
+%%Date: 14/12/2003
+%%Sender: Tom Schotte
+
+%round1
+5507 > 6929
+10123 > 10008
+6995 > 10007
+
+%round2
+5507 > 10007
+6995 > 10123
+6929 > 10118
+
+%round3
+5507 > 6995
+10123 > 6929
+10008 > 10118
+
+%round4
+5507 > 10123
+10008 > 6995
+10118 > 10007
+
+%round5
+5507 > 10008
+10123 > 10118
+10007 > 6929
+
+%round6
+5507 > 10118
+6995 > 6929
+10008 > 10007
+
+%round7
+10123 > 10007
+6995 > 10118
+6929 > 10008
+
+
+%players
+%1 5507	tsuchida	daisuke
+%2 10123	nakamura	shuhei
+%3 6995	funakoshi	shogo
+%4 10008	okuda	masashi
+%5 6929	io	hideo
+%6 10118	masuda	kazuhisa
+%7 10007	nakamura	yuki

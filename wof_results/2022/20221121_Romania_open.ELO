@@ -1,0 +1,38 @@
+%%Tournament: Romania Open 2022
+%%Country: Romania
+%%Date: 21/11/2022
+%%Sender: Benkt
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/11/21 21:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  380058, MAHMOOF, Sardar, PAK,  3, 99, 0
+%_%    4514, KOTINOVA, Hana, CZE,  2, 97, 1078
+%_% +400002, Bayzait, Beit, BGR,  1, 64, 0
+%_% +580002, Ozgan, Rauf, TUR,  1, 64, 0
+%_% +370002, Carc, Radu, ROU,  0, 31, 0
+%_% +  9070, Czuba, Adam, HUN,  0, 31, 0
+%_% +380401, SAAD, Muhammad, PAK,  0, 31, 0
+%_% +580003, Sadiq, Usman, TUR,  0, 31, 0
+
+
+
+%Round: 1
+
+380058 (33)>(31) 370002  B
+580002 (33)>(31) 380401  B
+580003 (31)<(33) 400002  B
+  4514 (33)>(31)   9070  B
+
+%Round: 2
+
+580002 (31)<(33) 380058  B
+400002 (31)<(33)   4514  B
+
+%Round: 3
+
+380058 (33)>(31)   4514  B
+
+
+%%Added results

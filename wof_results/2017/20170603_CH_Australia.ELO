@@ -1,0 +1,58 @@
+%%Tournament: Australian Nationals
+%%Country: Australia
+%%Date: 03/06/2017
+%%Sender: G. Ortiz
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/06/07 21:45
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4113, VINAR, Matt, AUS,  5, 242, 2047
+%_%    4107, HUGHES, Scott, AUS,  4, 219, 1934
+%_%  260020, MILANKOV, Samuel, AUS,  3, 184, 1654
+%_%    4145, CAIRNS, Phil, AUS,  3, 143, 1491
+%_%    4147, GUIBAL, Fab, AUS,  2, 156, 203
+%_% +260032, ABREU, Dominic, AUS,  2, 155, 0
+%_%  260026, CAIRNS, Fleur, AUS,  1, 138, 1403
+%_% +260033, WARWICK, Kyle, AUS,  0, 43, 0
+
+
+
+%Round: 1
+
+  4113 (60)>(04) 260033  B
+  4147 (23)<(41) 260032  B
+  4107 (51)>(13) 260020  B
+  4145 (34)>(30) 260026  B
+
+%Round: 2
+
+  4107 (48)>(16)   4145  B
+260032 (16)<(48)   4113  B
+260033 (00)<(64) 260020  B
+260026 (22)<(42)   4147  B
+
+%Round: 3
+
+  4113 (36)>(28)   4107  B
+260020 (44)>(20)   4147  B
+  4145 (34)>(30) 260032  B
+260026 (50)>(14) 260033  B
+
+%Round: 4
+
+260020 (13)<(51)   4113  B
+  4107 (42)>(22) 260026  B
+  4147 (22)<(42)   4145  B
+260032 (54)>(10) 260033  B
+
+%Round: 5
+
+  4145 (17)<(47)   4113  B
+260032 (14)<(50)   4107  B
+260026 (14)<(50) 260020  B
+260033 (15)<(49)   4147  B
+
+
+%%Added results  Final  Hughes - Vinar
+  4107 (22)<(42)   4113  B

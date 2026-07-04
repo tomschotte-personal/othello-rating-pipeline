@@ -1,0 +1,63 @@
+%%Tournament: Fredericia Open
+%%Country: Denmark
+%%Date: 18/03/2018
+%%Sender: Peter Michaelsen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/07/02 09:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  7, 391, 2005
+%_%    1000, MICHAELSEN, Peter, DNK,  5, 296, 1459
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  5, 295, 1482
+%_%    1067, NIELSEN, John, DNK,  4, 221, 0
+%_% +220033, Hede, Kim, DNK,  4, 206, 0
+%_% +220031, Jakobsen, Henning, DNK,  2, 128, 0
+%_% +220032, Skov, Jan, DNK,  1, 87, 0
+
+
+
+%Round: 1
+
+  1000 (28)<(36) 220033  B
+  1019 (64)>(00) 220032  B
+    92 (63)>(01) 220031  B
+
+%Round: 2
+
+  1067 (04)<(60)   1019  B
+220031 (09)<(55)   1000  B
+220032 (00)<(64)     92  B
+
+%Round: 3
+
+220033 (47)>(17) 220031  B
+    92 (60)>(04)   1067  B
+  1000 (64)>(00) 220032  B
+
+%Round: 4
+
+  1019 (11)<(53)     92  B
+220032 (12)<(52) 220033  B
+  1067 (22)<(42)   1000  B
+
+%Round: 5
+
+220031 (44)>(20) 220032  B
+  1000 (50)>(14)   1019  B
+220033 (14)<(50)   1067  B
+
+%Round: 6
+
+    92 (47)>(17)   1000  B
+  1067 (52)>(12) 220031  B
+  1019 (47)>(17) 220033  B
+
+%Round: 7
+
+220032 (15)<(49)   1067  B
+220033 (00)<(64)     92  B
+220031 (05)<(59)   1019  B
+
+
+%%Added results

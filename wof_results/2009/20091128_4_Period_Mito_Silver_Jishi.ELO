@@ -1,0 +1,35 @@
+%%Tournament: 4_Period_Mito_Silver_Jishi
+%%Country: Japan
+%%Date: 28/11/2009
+%%Sender: Hiroyuki Iwata
+
+%_%   5661, KURAHASHI, tetsushi, J, 4.0, 179
+%_%   6986, IZUMI, takashi, J, 3.0, 179
+%_%   5543, WATANABE, keiichi, J, 3.0, 174
+%_%   5618, KATO, tomihiro, J, 2.0, 147
+%_%   5545, KOBAYASI, manabu, J, 0.0, 89
+
+%Round 1
+  6986 (36) > (28)   5661
+  5618 (52) > (12)   5545
+
+%Round 2
+  6986 (40) > (24)   5545
+  5618 (34) > (30)   5543
+
+%Round 3
+  5661 (35) > (29)   5543
+  6986 (45) > (19)   5618
+
+%Round 4
+  5661 (41) > (23)   5545
+  5543 (36) > (28)   6986
+
+%Round 5
+  5661 (41) > (23)   5618
+  5543 (34) > (30)   5545
+
+%Round 6
+  5661 (34) > (30)   6986
+  5543 (45) > (19)   5618
+

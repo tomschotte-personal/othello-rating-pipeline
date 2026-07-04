@@ -1,0 +1,31 @@
+%%Tournament: IT LOC 2026 1st tournament Terni
+%%Country: Italy
+%%Date: 21/02/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +40481, Ivaldi, Lucio, ITA, 3, 155, -
+%_%  +40482, Grifoni, Joy, ITA, 2, 114, -
+%_%  +40483, Angellotti, Francesco, ITA, 1, 46, -
+%_%  +40484, Petti, Clelia, ITA, 0, 69, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/480
+
+%Round: 1
+
+ 40481 (55)>(09)  40483  B
+ 40482 (37)>(27)  40484  B
+
+%Round: 2
+
+ 40482 (14)<(50)  40481  B
+ 40484 (28)<(36)  40483  B
+
+%Round: 3
+
+ 40483 (01)<(63)  40482  B
+ 40481 (50)>(14)  40484  B

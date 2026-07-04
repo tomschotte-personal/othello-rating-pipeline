@@ -1,0 +1,50 @@
+%%Tournament: Open Rennes Hiver 2008
+%%Country: France
+%%Date: 06/12/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/12/17 11:13
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     145, POIRIER, Serge, F,  5, 249
+%_%    3523, GELIN, Gabriel, F,  4, 230
+%_%    3793, ROUSSET, Gabriel, F,  2, 138
+%_%    3728, POIRIER, Antoine, F,  2, 121
+%_%    3794, GAUDAIRE, Arthur, F,  1, 128
+%_%    3524, POIRIER, Thibault, F,  1, 94
+
+
+
+%Round: 1
+
+  3728 (21)<(43)   3524 B
+  3793 (40)>(24)   3794 B
+  3523 (31)<(33)    145 B
+
+%Round: 2
+
+  3794 (31)<(33)   3728 B
+  3524 (17)<(47)   3523 B
+   145 (53)>(11)   3793 B
+
+%Round: 3
+
+  3728 (10)<(54)   3523 B
+  3794 (11)<(53)    145 B
+  3793 (49)>(15)   3524 B
+
+%Round: 4
+
+   145 (46)>(18)   3728 B
+  3523 (51)>(13)   3793 B
+  3524 (19)<(45)   3794 B
+
+%Round: 5
+
+  3728 (39)>(25)   3793 B
+   145 (64)>(00)   3524 B
+  3794 (17)<(47)   3523 B
+
+
+%%Added results

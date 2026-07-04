@@ -1,0 +1,47 @@
+%%Tournament: Oslo Open 2024
+%%Country: Norway
+%%Date: 20/04/2024
+%%Sender: OKAZAKI Kodai
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  140059, HAUS, Knut Bjarte, NOR, 5, 259, 1833
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR, 4, 218, 1795
+%_%    1802, SKOGEN, Tor Birger, NOR, 3, 187, 1633
+%_%  140031, TVEDT, Sverre, NOR, 0, 104, 1689
+
+%Round: 1
+
+  1802 (30)<(34) 140059  B
+140031 (18)<(46)   2511  B
+
+%Round: 2
+
+  2511 (58)>(06)   1802  B
+140059 (53)>(11) 140031  B
+
+%Round: 3
+
+  1802 (49)>(15) 140031  B
+140059 (53)>(11)   2511  B
+
+%Round: 4
+
+  2511 (38)>(26) 140031  B
+140059 (31)<(33)   1802  B
+
+%Round: 5
+
+  1802 (25)<(39)   2511  B
+140031 (14)<(50) 140059  B
+
+%Round: 6
+
+140031 (20)<(44)   1802  B
+  2511 (26)<(38) 140059  B
+
+%Round: 7
+
+140059 (58)>(06)   2511  B

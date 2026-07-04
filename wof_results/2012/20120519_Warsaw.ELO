@@ -1,0 +1,69 @@
+%%Tournament: Polish Grand Prix (Warsaw)
+%%Country: Poland
+%%Date: 19/05/2012
+%%Sender: Roman Kraczyk
+
+%_%  130011, SURY, BARTLOMIEJ, POL,  9, 708
+%_%    5745, BUKA, MICHAL, POL,  8, 590
+%_%    4048, KRACZYK, ROMAN, POL,  7, 655
+%_%    5711, ZIEBA, GRZEGORZ, POL,  6, 636
+%_%    5730, DOMINCZAK, CEZARY, POL,  4, 507
+%_%    5755, ARKADIUSZ, WEGLOREK, POL,  4, 488
+%_%    5751, KOSIM, ZBIGNIEW, POL,  4, 485
+%_%  130009, JAWORSKI, HENRYK, POL,  2, 387
+%_%  130015, LOKASTO, ANATO, POL,  1, 344
+
+
+%Round 1
+  5730 < 130011  B
+  4048 >   5751  B
+  5745 > 130009  B
+  5711 > 130015  B
+
+%Round 2
+  5755 <   4048  B
+130011 >   5711  B
+  5751 <   5745  B
+130015 <   5730  B
+
+%Round 3
+  5745 < 130011  B
+  4048 >   5730  B
+130009 <   5755  B
+  5711 >   5751  B
+
+%Round 4
+130011 >   4048  B
+  5755 <   5711  B
+130015 <   5745  B
+  5730 > 130009  B
+
+%Round 5
+130011 >   5755  B
+  4048 <   5745  B
+130009 <   5711  B
+  5751 > 130015  B
+
+%Round 6
+  5751 < 130011  B
+  5711 >   5730  B
+  5745 >   5755  B
+130015 < 130009  B
+
+%Round 7
+130009 < 130011  B
+  5711 <   4048  B
+  5730 >   5751  B
+  5755 > 130015  B
+
+%Round 8
+130011 > 130015  B
+  5745 >   5730  B
+  4048 > 130009  B
+  5751 >   5755  B
+
+%Round 9
+  5711 <   5745  B
+130015 <   4048  B
+  5755 >   5730  B
+130009 <   5751  B

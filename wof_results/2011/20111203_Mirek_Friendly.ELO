@@ -1,0 +1,57 @@
+%%Tournament: Mirek Friendely Tournament
+%%Country: China
+%%Date: 03/12/2011
+%%Sender: Tom Schotte
+
+%Round1
+  4501 >   7129 
+  7184 >   7148 
+  7185 >   7186 
+  7187 >   7149 
+
+%Round2
+  4501 >   7149 
+  7148 >   7186 
+  7129 =   7184 
+  7185 >   7187 
+
+%Round3
+  4501 >   7185 
+  7148 >   7187 
+  7129 >   7149 
+  7184 >   7186 
+
+%Round4
+  4501 =   7148 
+  7129 >   7185 
+  7149 >   7184 
+  7186 >   7187 
+
+%Round5
+  4501 >   7186 
+  7148 >   7129 
+  7184 >   7187 
+  7149 >   7185 
+
+%Round6
+  4501 >   7187 
+  7148 >   7149 
+  7129 >   7186 
+  7185 >   7184 
+
+%Round7
+  4501 >   7184 
+  7148 >   7185 
+  7129 >   7187 
+  7149 >   7186 
+
+
+%Players
+%1 VORACEK Miroslav (Czech Republic)[id: 4501]
+%2 HU Yingchong (China)[id: 7148]
+%3 WANG Weiwei (China)[id: 7129]
+%4 7184 FANG Yuqi
+%5 7185 WANG Bing
+%6 ZHAO Jingtao (China)[id: 7149]
+%7 7186 JIA Baolong
+%8 7187 LIANG Rui

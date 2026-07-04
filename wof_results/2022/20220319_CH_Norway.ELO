@@ -1,0 +1,64 @@
+%%Tournament: Norwegian Championship
+%%Country: Norway
+%%Date: 19/03/2022
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/03/22 22:40
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2583, DANIELSEN, Jostein, NOR,  7, 332, 2068
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  5, 271, 1899
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  5, 240, 2000
+%_%    1878, BOE, Alexander, NOR,  4, 223, 1800
+%_%  140031, TVEDT, Sverre, NOR,  3, 204, 1726
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 191, 1641
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  2, 163, 1180
+
+
+
+%Round: 1
+
+  2583 (58)>(06) 140031  B
+  1802 (20)<(44)   2570  B
+  2511 (51)>(13) 140048  B
+
+%Round: 2
+
+  1878 (37)>(27)   1802  B
+140048 (00)<(64)   2583  B
+  2570 (38)>(26)   2511  B
+
+%Round: 3
+
+140031 (45)>(19) 140048  B
+  2511 (46)>(18)   1878  B
+  2583 (33)>(31)   2570  B
+
+%Round: 4
+
+  1802 (24)<(40)   2511  B
+  2570 (33)>(31) 140031  B
+  1878 (11)<(53)   2583  B
+
+%Round: 5
+
+140048 (28)<(36)   2570  B
+  2583 (43)>(21)   1802  B
+140031 (33)>(31)   1878  B
+
+%Round: 6
+
+  2511 (23)<(41)   2583  B
+  1878 (40)>(24) 140048  B
+  1802 (34)>(30) 140031  B
+
+%Round: 7
+
+  2570 (18)<(46)   1878  B
+140031 (19)<(45)   2511  B
+140048 (39)>(25)   1802  B
+
+
+%%Added results
+  2511 (19)<(45)   2583  B

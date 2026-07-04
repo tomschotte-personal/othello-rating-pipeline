@@ -1,0 +1,65 @@
+%%Tournament: Ile de France 8
+%%Country: FRA
+%%Date: 02/12/2017
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/03 10:44
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4, 221, 2082
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 196, 1966
+%_%      11, LAZARD, Emmanuel, FRA,  4, 179, 2014
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 184, 1593
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 178, 1794
+%_%   50053, TASTET, Remi, FRA,  3, 159, 1225
+%_%    2788, LECAT, Monique, BEL,  2, 164, 1436
+%_%    3600, BENOIT, Serge, FRA,  2, 160, 1392
+%_%   50096, LEVY, Marc, FRA,  2, 134, 1824
+%_%     228, BUSUTTIL, Michel, FRA,  2, 125, 1572
+%_%    3734, CLUZON, Gilles, FRA,  1, 100, 1355
+
+
+
+%Round: 1
+
+ 50096 (16)<(48)   3598  B
+  3734 (47)>(17)    228  B
+     2 (45)>(19)  50053  B
+  3600 (17)<(47)   2788  B
+    45 (52)>(12)     11  B
+
+%Round: 2
+
+  2788 (54)>(10)   3734  B
+  9025 (25)<(39)     45  B
+  3598 (36)>(28)      2  B
+ 50053 (14)<(50)  50096  B
+   228 (34)>(30)   3600  B
+
+%Round: 3
+
+  3734 (16)<(48)  50053  B
+     2 (54)>(10)   2788  B
+    11 (45)>(19)   9025  B
+ 50096 (16)<(48)    228  B
+    45 (27)<(37)   3598  B
+
+%Round: 4
+
+  3598 (26)<(38)     11  B
+  3600 (53)>(11)   3734  B
+   228 (11)<(53)      2  B
+  2788 (27)<(37)     45  B
+  9025 (52)>(12)  50096  B
+
+%Round: 5
+
+    45 (23)<(41)      2  B
+ 50053 (38)>(26)   2788  B
+    11 (44)>(20)   3600  B
+  3734 (16)<(48)   9025  B
+  3598 (49)>(15)    228  B
+
+
+%%Added results

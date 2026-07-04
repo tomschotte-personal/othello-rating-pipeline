@@ -1,0 +1,39 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 26/08/2012
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      4168, LISNOVSKY, Marcelo, ARG, 3.5,192
+%_%      4167, COELLO, Alejandro, ARG, 3.5, 173 
+%_%       650, OLIVARES, Daniel, ARG, 3, 186
+%_%    280033, PELLIZZARI, Maximiliano, ARG, 3,183
+%_%      4157, ITURBIDE, Paula, ARG, 2, 164
+%_%    280038, COHEN, Mercedes, ARG, 0, 62
+
+
+%Round 1
+   650 (37)>(27)   4168  B
+280038 (20)<(44)   4157  B
+280033 (28)<(36)   4167  B
+
+%Round 2
+280038 (13)<(51)    650  B
+  4168 (44)>(20) 280033  B
+  4157 (50)>(14)   4167  B
+
+%Round 3
+   650 (44)>(20)   4157  B
+  4167 (32)=(32)   4168  B
+280033 (58)>(06) 280038  B
+
+%Round 4
+  4157 (27)<(37)   4168  B
+280038 (11)<(53)   4167  B
+   650 (28)<(36) 280033  B
+
+%Round 5
+  4168 (52)>(12) 280038  B
+  4167 (38)>(26)    650  B
+280033 (41)>(23)   4157  B
+

@@ -1,0 +1,48 @@
+%%Tournament: Uppsala Open
+%%Country: Sweden
+%%Date: 08/11/2008
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 20:44
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1511, LJUNGQVIST, Daniel, S,  5, 253
+%_%    1513, ASPENRYD, Henry, S,  5, 197
+%_%    1503, ANDERSSON, Christopher, S,  2, 170
+%_%    1449, ISAKSSON, Jonas, S,  0, 148
+
+
+
+%Round: 1
+
+  1449 (16)<(48)   1503 B
+  1511 (28)<(36)   1513 B
+
+%Round: 2
+
+  1513 (37)>(27)   1449 B
+  1503 (23)<(41)   1511 B
+
+%Round: 3
+
+  1449 (24)<(40)   1511 B
+  1513 (35)>(29)   1503 B
+
+%Round: 4
+
+  1503 (38)>(26)   1449 B
+  1513 (13)<(51)   1511 B
+
+%Round: 5
+
+  1449 (28)<(36)   1513 B
+  1511 (56)>(08)   1503 B
+
+%Round: 6
+
+  1511 (37)>(27)   1449 B
+  1503 (24)<(40)   1513 B
+
+
+%%Added results

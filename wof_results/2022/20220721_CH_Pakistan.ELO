@@ -1,0 +1,84 @@
+%%Tournament: Pakistan Championship 2022
+%%Country: Pakistan
+%%Date: 21/07/2022
+%%Sender: Furqhan
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/02/19 01:08
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_% +380065, Sahi, Riasat, PAK,  5, 165, 0
+%_% +380078, GILL, Irshaman, PAK,  4, 163, 0
+%_% +380081, Irfan, Muhammad, PAK,  3, 137, 0
+%_% +380071, Gondal, Azhar, PAK,  3, 130, 0
+%_% +380062, Saad, Rajpot, PAK,  2, 97, 0
+%_% +380070, Umair, Muhammad, PAK,  2, 97, 0
+%_% +380075, Zakariaya, Bahuddin, PAK,  2, 97, 0
+%_% +380067, Ali, Muhammad, PAK,  1, 64, 0
+%_% +380083, Butt, Rashid, PAK,  1, 64, 0
+%_% +380073, Farooq, Rana, PAK,  1, 64, 0
+%_% +380069, Imran, Asif, PAK,  1, 64, 0
+%_% +380076, Qadeer, Raja, PAK,  1, 64, 0
+%_% +380079, Rizwan, Muhammad, PAK,  1, 64, 0
+%_% +380061, Sufyan, Muhammad, PAK,  1, 64, 0
+%_% +380063, Ahmad, Rehman, PAK,  0, 31, 0
+%_% +380086, Azam, Muhammad, PAK,  0, 31, 0
+%_% +380084, Bhatti, Amjad, PAK,  0, 31, 0
+%_% +380068, Butt, Usama, PAK,  0, 31, 0
+%_% +380077, Farhan, Khawaja, PAK,  0, 31, 0
+%_% +380074, Gondal, Akhtar, PAK,  0, 31, 0
+%_% +380064, Hayat, Sikander, PAK,  0, 31, 0
+%_% +380082, Imran, Muhammad, PAK,  0, 31, 0
+%_% +380060, Iqbal, Azhar, PAK,  0, 31, 0
+%_% +380080, KHAN, Hashim, PAK,  0, 31, 0
+%_% +380085, Raju, Asif, PAK,  0, 31, 0
+%_% +380066, Shah , Mohsin, PAK,  0, 31, 0
+%_% +380072, Ullah, Ahsan, PAK,  0, 31, 0
+%_%  380054, USMAN, Muhammad, PAK,  0, 31, 0
+
+
+
+%Round: 1
+
+380060 (31)<(33) 380061  B
+380062 (33)>(31) 380063  B
+380064 (31)<(33) 380065  B
+380066 (31)<(33) 380067  B
+380068 (31)<(33) 380069  B
+380070 (33)>(31) 380085  B
+380086 (31)<(33) 380071  B
+380072 (31)<(33) 380073  B
+380074 (31)<(33) 380075  B
+380054 (31)<(33) 380076  B
+380077 (31)<(33) 380078  B
+380079 (33)>(31) 380080  B
+380081 (33)>(31) 380082  B
+380083 (33)>(31) 380084  B
+
+%Round: 2
+
+380061 (31)<(33) 380062  B
+380065 (33)>(31) 380067  B
+380069 (31)<(33) 380070  B
+380071 (33)>(31) 380073  B
+380075 (33)>(31) 380076  B
+380078 (33)>(31) 380079  B
+380081 (33)>(31) 380083  B
+
+%Round: 3
+
+380062 (31)<(33) 380065  B
+380070 (31)<(33) 380071  B
+380075 (31)<(33) 380078  B
+
+%Round: 4
+
+380065 (33)>(31) 380071  B
+380078 (33)>(31) 380081  B
+
+%Round: 5
+
+380065 (33)>(31) 380078  B
+
+
+%%Added results

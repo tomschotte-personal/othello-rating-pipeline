@@ -1,0 +1,33 @@
+%%Tournament: Odense Open
+%%Country: Denmark
+%%Date: 04/11/2006
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+1046 > 1040
+
+%%Round: 2
+
+1068 < 1040
+
+%%Round: 3
+
+1046 > 1068
+
+%%Round: 4
+
+1040 > 1046
+
+%%Round: 5
+
+1040 = 1068
+
+%%Round: 6
+
+1068 < 1046
+
+%%Final
+
+1046 < 1040

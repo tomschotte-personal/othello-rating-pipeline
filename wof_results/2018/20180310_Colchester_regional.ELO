@@ -1,0 +1,61 @@
+%%Tournament: Colchester Regional 2018
+%%Country: Great-Britain
+%%Date: 10/03/2018
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Steve Rowe.
+%%CreationDate: 2018/03/12 12:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    320, PLOWMAN, Guy, GBR, 7, ,
+%_%    6437, BECK, David, GBR, 6, ,
+%_%    79, LEADER, Imre, GBR, 4.5, ,
+%_%    2091, ROWE, Steve, GBR, 4.5, ,
+%_%    100027, PLOWMAN, Mark, GBR, 3, ,
+%_%    2069, PLOWMAN, Luke, GBR, 2, , 
+%_%    100037, PLOWMAN, Anya, GBR, 1, ,
+%_%   +100042, PLOWMAN, Sophie, GBR, 0, ,   
+
+%Round: 1
+  6437 (48)>(16) 100042   B
+   320 (62)>(02) 100027   B
+    79 (53)>(11)   2069   B
+  2091 (41)>(23) 100037   B
+  
+%Round: 2
+  6437 (48)>(16) 100027   W
+   320 (53)>(11)   2069   W
+    79 (38)>(26) 100037   W
+  2091 (64)>(00) 100042   W
+    
+%Round: 3
+  2069 (59)>(05) 100042   B
+   320 (63)>(01) 100037   B
+    79 (52)>(12) 100027   B
+  6437 (55)>(09)   2091   W
+  
+%Round: 4
+   320 (42)>(22)   6437   W
+    79 (42)>(22) 100042   W
+  2069 (33)>(31) 100037   W
+  2091 (40)>(24) 100027   W
+    
+%Round: 5
+   320 (33)>(31)   2091   B
+  6437 (48)>(16)     79   W
+100037 (46)>(18) 100042   W
+100027 (64)>(00)   2069   W
+    
+%Round: 6
+  6437 (58)>(06)   2069   B
+   320 (62)>(02) 100042   B
+100027 (44)>(20) 100037   B
+  2091 (32)=(32)     79   B
+
+%Round: 7
+  6437 (55)>(09) 100037   W
+100027 (51)>(13) 100042   W
+   320 (41)>(23)     79   W
+  2091 (55)>(09)   2069   W
+
+%%Added results

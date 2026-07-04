@@ -1,0 +1,55 @@
+%%Tournament: Singapore Open Mar 2026
+%%Country: Singapore
+%%Date: 22/03/2026
+%%Sender: KURNIAWAN Samuel Henry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  250174, KURNIAWAN, Samuel Henry, SGP, 5, 229, 1925
+%_%    4140, LIEW, Yik Meng, MYS, 4.5, 193, 2163
+%_%  250120, WIRAWAN, Daniel, SGP, 4, 241, 1898
+%_%  250005, GOH, Jun Jie Anthony, SGP, 4, 210, 2018
+%_%  250299, NG, Jason, SGP, 3.5, 171, 1884
+%_%  +250307, GEE, Sen Bong, SGP, 2, 156, -
+%_%  250187, TAN, Meng Lin, SGP, 1, 144, 1843
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/499
+
+%Round: 1
+
+250307 (29)<(35)   4140  B
+250005 (45)>(19) 250187  B
+250120 (24)<(40) 250174  B
+
+%Round: 2
+
+250187 (23)<(41) 250120  B
+  4140 (32)=(32) 250299  B
+250174 (20)<(44) 250005  B
+
+%Round: 3
+
+250005 (27)<(37)   4140  B
+250299 (24)<(40) 250174  B
+250120 (47)>(17) 250307  B
+
+%Round: 4
+
+250307 (39)>(25) 250187  B
+250299 (37)>(27) 250005  B
+  4140 (21)<(43) 250120  B
+
+%Round: 5
+
+250120 (57)>(07) 250299  B
+250174 (50)>(14) 250307  B
+250187 (28)<(36)   4140  B
+
+%Round: 6
+
+250005 (35)>(29) 250120  B
+250307 (25)<(39) 250299  B
+250174 (47)>(17) 250187  B

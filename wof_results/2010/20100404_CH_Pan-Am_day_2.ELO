@@ -1,0 +1,46 @@
+%%Tournament: 2010 Pan-American Championships Day 2
+%%Country: USA
+%%Date: 04/04/2010
+%%Sender: Randy Fang
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/04/05 13:57
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     650, OLIVARES, Daniel, ARG,  4, 247
+%_%  280008, RODRIGUEZ, Ismael, URU,  3, 153
+%_%    4083, DE CAMARGO R., Lucas C., BR,  2, 114
+%_%    4088, FANG, Randy, USA,  1, 126
+
+
+
+%Round: 1
+
+  4088 (21)<(43) 280008 B
+   650 (51)>(13)   4083 B
+
+%Round: 2
+
+280008 (11)<(53)   4088 B
+  4083 (42)>(22)    650 B
+
+%Round: 3
+
+280008 (36)>(28)   4088 B
+   650 (45)>(19)   4083 B
+
+%Round: 4
+
+  4083 (40)>(24)   4088 B
+280008 (40)>(24)    650 B
+
+%Round: 5
+
+   650 (61)>(03) 280008 B
+
+%Round: 6
+
+280008 (09)<(55)    650 B
+
+
+%%Added results

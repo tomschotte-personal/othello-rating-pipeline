@@ -1,0 +1,44 @@
+%%Tournament: Ile de France 5
+%%Country: France
+%%Date: 18/11/2023
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2023/11/19 23:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      45, ANDRIANI, Bintsa, FRA,  5, 234, 1771
+%_%       2, TASTET, Marc, FRA,  4, 221, 2011
+%_%   50052, LE MORVAN, Eric, FRA,  3, 167, 1317
+%_%     228, BUSUTTIL, Michel, FRA,  2, 128, 1402
+%_%     419, BETIN, Dominique, FRA,  1, 90, 1378
+
+
+
+%Round: 1
+
+ 50052 (20)<(44)      2  B
+   228 (14)<(50)     45  B
+
+%Round: 2
+
+   419 (23)<(41)    228  B
+    45 (50)>(14)  50052  B
+
+%Round: 3
+
+     2 (28)<(36)     45  B
+ 50052 (43)>(21)    419  B
+
+%Round: 4
+
+   228 (14)<(50)  50052  B
+   419 (00)<(64)      2  B
+
+%Round: 5
+
+    45 (58)>(06)    419  B
+     2 (45)>(19)    228  B
+
+
+%%Added results

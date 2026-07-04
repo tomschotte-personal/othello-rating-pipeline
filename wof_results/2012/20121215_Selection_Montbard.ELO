@@ -1,0 +1,58 @@
+%%Tournament: Selection Montbard 12-2012
+%%Country: France
+%%Date: 15/12/2012
+%%Sender: Jean-Pierre Avy
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2012/12/16 22:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     275, OVION, Jacques, FRA,  5, 233, 968
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 246, 1876
+%_%   50028, BRUIANT, Jacky, FRA,  4, 230, 0
+%_%    3801, AVY, Bernadette, FRA,  3, 169, 259
+%_%    3791, AVY, Jean-Pierre, FRA,  3, 160, 1274
+%_%    3799, TREBUJAIS, Cecile, FRA,  2, 142, -137
+%_%    3766, DELGADO, Marie-Louise, FRA,  2, 105, 0
+%_%    3790, CAPLET, Alain, FRA,  1, 113, 0
+%_%   50031, BASSET, Claudine, FRA,  1, 82, 0
+
+
+
+%Round: 1
+
+    45 (62)>(02)  50031  B
+  3791 (36)>(28)   3799  B
+  3801 (09)<(55)    275  B
+ 50028 (59)>(05)   3766  B
+
+%Round: 2
+
+  3766 (01)<(63)     45  B
+   275 (38)>(26)  50028  B
+  3790 (24)<(40)   3791  B
+ 50031 (19)<(45)   3801  B
+
+%Round: 3
+
+ 50028 (61)>(03)  50031  B
+    45 (15)<(49)    275  B
+  3799 (47)>(17)   3790  B
+  3801 (24)<(40)   3791  B
+
+%Round: 4
+
+  3791 (29)<(35)    275  B
+  3766 (13)<(51)   3801  B
+  3790 (07)<(57)     45  B
+  3799 (19)<(45)  50028  B
+
+%Round: 5
+
+ 50031 (18)<(46)   3766  B
+ 50028 (39)>(25)   3790  B
+   275 (56)>(08)   3799  B
+    45 (49)>(15)   3791  B
+
+
+%%Added results

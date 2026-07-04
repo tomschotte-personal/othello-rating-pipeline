@@ -1,0 +1,37 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 20/09/2015
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    280033, PELLIZZARI, Maximiliano, ARG, 4, 238
+%_%       650, OLIVARES, Daniel, ARG, 3, 170
+%_%      4167, COELLO, Alejandro, ARG, 3, 170
+%_%      4168, LISNOVSKY, Marcelo, ARG, 2, 147
+%_%      4157, ITURBIDE, Paula, ARG, 2, 132
+%_%    280035, NAKASONE, David, ARG, 1, 103
+
+%Round 1
+280033 (56)>(08)   4157  B
+  4167 (41)>(23)    650  B
+  4168 (30)<(34) 280035  B
+
+%Round 2
+   650 (57)>(07)   4157  B
+  4167 (47)>(17)   4168  B
+280035 (09)<(55) 280033  B
+
+%Round 3
+  4168 (30)<(34)    650  B
+  4157 (43)>(21) 280035  B
+280033 (55)>(09)   4167  B
+
+%Round 4
+  4168 (36)>(28) 280033  B
+   650 (36)>(28) 280035  B
+  4167 (20)<(44)   4157  B
+
+%Round 5
+280033 (44)>(20)    650  B
+280035 (11)<(53)   4167  B
+  4157 (30)<(34)   4168  B

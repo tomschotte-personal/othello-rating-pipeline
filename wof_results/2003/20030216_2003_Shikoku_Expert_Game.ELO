@@ -1,0 +1,51 @@
+%%Tournament: Shikoku Expert Game 2003
+%%Country: Japan
+%%Date: 16/02/2003
+%%Sender: Tom Schotte
+
+%round1
+10127 > 11595
+6839 > 11889
+10070 > 10331
+11135 > 11888
+6977 > 11485
+
+%round2
+10127 > 11888
+6839 > 6977
+10070 > 11135
+11595 > 10331
+11485 > 11889
+
+%round3
+10127 > 6977
+10070 > 6839
+11135 > 11485
+10331 > 11889
+11595 > 11888
+
+%round4
+10127 > 10070
+6839 > 11595
+11135 > 6977
+10331 > 11485
+11888 > 11889
+
+%Finals
+6839 > 10070
+11135 > 10127
+11135 > 10070
+
+
+
+%players
+%1 10127	okuda	hiroyuki
+%2 6839	matsutani	shinpei
+%3 10070	kamemoto	osamu
+%4 11135	makino	mizuho
+%5 10331	matsui	takashi
+%6 11595	watanabe	soichiro
+%7 6977	okamura	hiroaki
+%8 11888	osada	michiko
+%9 11485	senoo	yasuyo
+%10 11889	kamitoda	shigeko

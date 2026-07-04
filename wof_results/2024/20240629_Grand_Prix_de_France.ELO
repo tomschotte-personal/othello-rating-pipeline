@@ -1,0 +1,72 @@
+%%Tournament: Grand Prix de France
+%%Country: France
+%%Date: 29/06/2024
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2024/07/20 23:08
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  7.5, 374, 2021
+%_%     839, KASHIWABARA, Takuji, FRA,  7, 391, 2134
+%_%   50096, LEVY, Marc, FRA,  7, 356, 1829
+%_%      45, ANDRIANI, Bintsa, FRA,  5.5, 327, 1709
+%_%     228, BUSUTTIL, Michel, FRA,  3, 232, 1348
+
+
+
+%Round: 1
+
+ 50096 (14)<(50)    839  B
+   228 (33)>(31)     45  B
+
+%Round: 2
+
+     2 (53)>(11)    228  B
+    45 (21)<(43)  50096  B
+
+%Round: 3
+
+   839 (24)<(40)     45  B
+ 50096 (46)>(18)      2  B
+
+%Round: 4
+
+   228 (22)<(42)  50096  B
+     2 (21)<(43)    839  B
+
+%Round: 5
+
+    45 (32)=(32)      2  B
+   839 (45)>(19)    228  B
+
+%Round: 6
+
+   839 (28)<(36)  50096  B
+    45 (50)>(14)    228  B
+
+%Round: 7
+
+   228 (19)<(45)      2  B
+ 50096 (29)<(35)     45  B
+
+%Round: 8
+
+    45 (23)<(41)    839  B
+     2 (36)>(28)  50096  B
+
+%Round: 9
+
+ 50096 (38)>(26)    228  B
+   839 (24)<(40)      2  B
+
+%Round: 10
+
+     2 (49)>(15)     45  B
+   228 (08)<(56)    839  B
+
+
+%%Added results
+     2 (38)>(26)    839  B
+   839 (39)>(25)      2  B
+   839 (26)<(38)      2  B

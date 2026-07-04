@@ -1,0 +1,50 @@
+%%Tournament: Ekero open
+%%Country: Sweden
+%%Date: 01/04/2023
+%%Sender: benkt
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/04/01 23:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1513, ASPENRYD, Henry, SWE,  5, 230, 2023
+%_%    1375, STENBERG, Veronica, SWE,  4, 215, 1791
+%_%    1301, STEENTOFT, Benkt, SWE,  3, 174, 1783
+%_%    1499, BENGTSSON, Ulf, SWE,  2, 134, 1762
+%_%    1368, ROSENQVIST, Anders, SWE,  1, 114, 1512
+%_%  150064, LOFROTH, Emma, SWE,  0, 93, 719
+
+
+
+%Round: 1
+
+  1513 (48)>(16)   1375  B
+  1499 (49)>(15) 150064  B
+  1368 (23)<(41)   1301  B
+
+%Round: 2
+
+150064 (19)<(45)   1513  B
+  1375 (40)>(24)   1368  B
+  1301 (39)>(25)   1499  B
+
+%Round: 3
+
+  1513 (54)>(10)   1368  B
+150064 (25)<(39)   1301  B
+  1499 (03)<(61)   1375  B
+
+%Round: 4
+
+  1301 (28)<(36)   1513  B
+  1368 (24)<(40)   1499  B
+  1375 (61)>(03) 150064  B
+
+%Round: 5
+
+  1513 (47)>(17)   1499  B
+  1301 (27)<(37)   1375  B
+150064 (31)<(33)   1368  B
+
+
+%%Added results

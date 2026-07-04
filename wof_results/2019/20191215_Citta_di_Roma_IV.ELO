@@ -1,0 +1,33 @@
+%%Tournament: Citta' di Roma 2019 - Tappa IV
+%%Country: Italy
+%%Date: 15/12/2019
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  2844, SPERANDIO, Roberto, ITA, 3, 173-83
+%_%  3111, SCOGNAMIGLIO, Paolo, ITA, 3, 142-114
+%_% 40083, PACE, Alessandro, ITA, 3, 130-126
+%_%  3059, DI PIETRO, Massimo, ITA, 3, 166-90
+%_%  3023, LAI, Fabrizio, ITA, 2, 128-128
+%_%  3062, CAVIOLA, Leonardo, ITA, 1, 105-151
+%_% 40097, CACCIATORE, Alessandro, ITA, 1, 56-20
+
+%Round 1 
+  2844 (37)>(27)   3059  B
+  3062 (26)<(38)   3111  B
+ 40083 (43)>(21)   3023  B
+
+%Round 2 
+ 40097 (09)<(55)   2844  B
+  3111 (24)<(40)  40083  B
+  3059 (49)>(15)   3062  B
+
+%Round 3 
+  2844 (50)>(14)  40083  B
+  3023 (17)<(47)   3111  B
+  3059 (57)>(07)  40097  B
+
+%Round 4 
+  3111 (33)>(31)   2844  B
+ 40083 (33)>(31)   3062  B
+ 40097 (07)<(57)   3023  B

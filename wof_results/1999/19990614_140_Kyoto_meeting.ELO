@@ -1,0 +1,72 @@
+%%Tournament: 122nd Kyoto Meeting
+%%Country: Japan
+%%Date: 14/06/1999
+%%Sender: Tom Schotte
+
+%Round1
+ 11882 >  12048  
+ 11030 >  10770  
+  6970 >  12046  
+ 11845 >  10008  
+ 11786 >  11753  
+  6929 >  12047  
+ 10014 >    884  
+
+%Round2
+ 11882 >   6929  
+ 11030 >  11786  
+   884 >  12046  
+ 11753 >   6970  
+ 11845 >  10014  
+ 10008 >  12048  
+ 10770 >  12047  
+
+%Round3
+ 11882 >  11030  
+   884 >  10008  
+ 11845 >  11753  
+ 11786 >   6929  
+ 12046 >  12048  
+ 10770 >  10014  
+ 12047 >   6970  
+
+%Round4
+ 11882 >  11845  
+ 11030 >   6929  
+   884 >  10770  
+ 11753 >  10014  
+  6970 >  12048  
+ 12046 >  11786  
+ 10008 >  12047  
+
+%Round5
+ 11882 >    884  
+ 11030 >  11845  
+ 11753 >  12046  
+  6970 >  10008  
+ 11786 >  10770  
+  6929 >  12048  
+ 10014 >  12047  
+
+
+
+%players
+%1 11882	takamura	kandai
+%2 11030	imai	takatoshi
+%3 884	fukui	seiji
+%4 11753	yokoyama	chiaki
+%5 6970	kudashou	takahiro
+%6 11845	wada	masanori
+%7 11786	tanaka	norihiro
+%8 6929	io	hideo
+%9 10014	suzuki	takao
+%10 12046	nakamizo	mitsuo
+%11 10008	okuda	masashi
+%12 10770	suzuki	shinichi
+%13 12047	hosomi	yuichirou
+%14 12048	hosomi	yoshinobu
+
+
+
+
+

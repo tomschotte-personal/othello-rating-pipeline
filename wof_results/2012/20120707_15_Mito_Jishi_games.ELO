@@ -1,0 +1,31 @@
+%%Tournament: 15_period_Mito_Jishi_games
+%%Country: Japan
+%%Date: 07/07/2012
+%%Sender: Hiroyuki Iwata
+
+%_%   6986, IZUMI, takashi, J, 3.0, 138
+%_%   5524, NAGAO, hiroto, J, 2.5, 143
+%_%   5513, TANIDA, kunihiko, J, 2.5, 134
+%_%  10109, EBIHARA, yusuke, J, 1.0, 115
+%_%  10870, NAKAMURA, keiko, J, 1.0, 110
+
+%Round 1
+  5513 (40)>(24)  10870 
+ 10109 (36)>(28)   5524 
+
+%Round 2
+  6986 (42)>(22)   5513 
+ 10870 (33)>(31)  10109 
+
+%Round 3
+  6986 (40)>(24)  10109 
+  5524 (41)>(23)  10870 
+
+%Round 4
+  6986 (34)>(30)  10870 
+  5524 (32)=(32)   5513 
+
+%Round 5
+  5524 (42)>(22)   6986 
+  5513 (40)>(24)  10109 
+

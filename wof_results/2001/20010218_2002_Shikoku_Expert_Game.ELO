@@ -1,0 +1,39 @@
+%%Tournament: Shikoku Expert Game 2001
+%%Country: Japan
+%%Date: 18/02/2001
+%%Sender: Tom Schotte
+
+%round1
+11358 > 11890
+10331 > 10736
+6925 > 10437
+
+%round2
+10070 > 6925
+11890 > 10437
+10331 > 11358
+
+%round3
+11358 > 10736
+10070 > 10331
+6925 > 11890
+
+%round4
+11358 > 10070
+6925 > 10331
+10736 > 10437
+
+%round5
+11358 > 6925
+10070 > 10437
+11890 > 10736
+
+
+%players
+%1 11358	tsuchikawa	noriaki
+%2 10070	kamemoto	osamu
+%3 11890	uchida	yuichi
+%4 10331	matsui	takashi
+%5 6925	izumo	kengo
+%6 10736	yanagihara	shigemi
+%7 10437	kono	yuko

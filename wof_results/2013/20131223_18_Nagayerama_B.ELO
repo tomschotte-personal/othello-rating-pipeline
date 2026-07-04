@@ -1,0 +1,31 @@
+%%Tournament: 18_Nagayerama_B
+%%Country: Japan
+%%Date: 23/12/2013
+%%Sender: Hiroyuki Iwata
+
+%_%  11928, ISHITAKA, masaki, JPN, 3.0, 167
+%_%   5650, KOBAYASHI, nobu, JPN, 3.0, 137
+%_%  12807, TAMURA, masanori, JPN, 2.0, 143
+%_%   6833, OCHIAI, naohumi, JPN, 2.0, 118
+%_%  13104, TAKAHASHI, kashinari, JPN, 0.0, 75
+
+%Round 1
+ 11928 (55)>(09)  12807 
+  5650 (50)>(14)  13104 
+
+%Round 2
+ 11928 (40)>(24)   6833 
+ 12807 (55)>(09)   5650 
+
+%Round 3
+  5650 (32)>(32)  11928 
+  6833 (43)>(21)  13104 
+
+%Round 4
+ 11928 (40)>(24)  13104 
+  6833 (33)>(31)  12807 
+
+%Round 5
+  5650 (46)>(18)   6833 
+ 12807 (48)>(16)  13104 
+

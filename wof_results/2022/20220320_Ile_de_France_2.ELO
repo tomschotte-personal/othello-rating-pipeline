@@ -1,0 +1,50 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 20/03/2022
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/03/21 01:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 230, 2079
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 210, 1949
+%_%   50096, LEVY, Marc, FRA,  3, 184, 1800
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 134, 1779
+%_%   50052, LE MORVAN, Eric, FRA,  1, 91, 1273
+%_%     228, BUSUTTIL, Michel, FRA,  0, 111, 1551
+
+
+
+%Round: 1
+
+     2 (33)>(31)  50096  B
+ 50052 (14)<(50)     45  B
+   228 (08)<(56)   3598  B
+
+%Round: 2
+
+    45 (10)<(54)      2  B
+ 50096 (43)>(21)    228  B
+  3598 (56)>(08)  50052  B
+
+%Round: 3
+
+     2 (34)>(30)    228  B
+    45 (16)<(48)   3598  B
+ 50052 (23)<(41)  50096  B
+
+%Round: 4
+
+  3598 (08)<(56)      2  B
+   228 (29)<(35)  50052  B
+ 50096 (47)>(17)     45  B
+
+%Round: 5
+
+     2 (53)>(11)  50052  B
+  3598 (42)>(22)  50096  B
+    45 (41)>(23)    228  B
+
+
+%%Added results

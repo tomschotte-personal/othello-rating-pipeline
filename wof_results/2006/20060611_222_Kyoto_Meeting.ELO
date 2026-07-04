@@ -1,0 +1,85 @@
+%%Tournament: 222nd Kyoto Open
+%%Country: Japan
+%%Date: 11/06/2006
+%%Sender: Tom Schotte
+
+%Round1
+5669 > 6929
+698 > 6995
+6923 > 6972
+5516 > 11900
+10125 > 10009
+6937 > 6936
+6824 > 5568
+6842 > 6997
+
+%Round2
+5669 > 10125
+6970 > 5568
+698 > 6937
+6923 > 5516
+6995 > 11900
+6972 > 6997
+6824 > 6842
+6936 > 10009
+
+%Round3
+5669 > 698
+6970 > 6972
+6923 > 6824
+5516 > 6842
+6995 > 6936
+10125 > 6937
+5568 > 6929
+11900 > 6997
+
+%Round4
+5669 > 6923
+6970 > 698
+6995 > 5516
+6972 > 6937
+6824 > 10125
+6936 > 6842
+5568 > 11900
+6929 > 10009
+
+%Round5
+5669 > 6970
+698 > 5568
+6923 > 10125
+5516 > 6936
+6995 > 6824
+6937 > 11900
+6972 > 6929
+6997 > 10009
+
+%Round6
+5669 > 6995
+6970 > 6923
+698 > 6824
+5516 > 6972
+10125 > 5568
+6937 > 6929
+6936 > 6997
+10009 > 6842
+
+
+
+%Players
+%1 5669	nakano	shunsuke
+%2 6970	kudashou	takahiro
+%3 698	suekuni	makoto
+%4 6923	kimura	keigo
+%5 5516	ishikawa	akira
+%6 6995	funakoshi	shogo
+%7 10125	nakano	takao
+%8 6937	yamada	minoru
+%9 6972	miyazaki	toru
+%10 6824	kuroda	takuji
+%11 6936	tsubouchi	masao
+%12 5568	okamoto	kazuki
+%13 11900	yamamoto	yoshiki
+%14 6842	morinaga	syou
+%15 6997	yamazoe	keiji
+%16 6929	io	hideo
+%17 10009	taru	eiichi

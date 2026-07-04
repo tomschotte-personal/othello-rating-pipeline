@@ -1,0 +1,70 @@
+%%Tournament: Deutsche Meisterschaft
+%%Country: Germany
+%%Date: 27/05/2017
+%%Sender: Matthias Berg
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/06/28 22:52
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    5301, BERG, Matthias, DEU,  9, 432, 2196
+%_%   70002, ROSSLER, Daniel, DEU,  7, 385, 1816
+%_%   70015, BACH, Gunnar, DEU,  7, 374, 1801
+%_%    5343, GAERTNER, Joerg, DEU,  5, 290, 1600
+%_%    5324, MURAWSKI, Stefan, DEU,  2, 199, 1118
+
+
+
+%Round: 1
+
+  5301 (63)>(01)   5324  B
+  5343 (15)<(49)  70002  B
+
+%Round: 2
+
+ 70015 (31)<(33)   5301  B
+  5324 (19)<(45)  70002  B
+
+%Round: 3
+
+ 70002 (26)<(38)  70015  B
+  5324 (18)<(46)   5343  B
+
+%Round: 4
+
+  5301 (41)>(23)  70002  B
+  5343 (17)<(47)  70015  B
+
+%Round: 5
+
+  5301 (57)>(07)   5343  B
+ 70015 (48)>(16)   5324  B
+
+%Round: 6
+
+  5324 (18)<(46)   5301  B
+ 70002 (48)>(16)   5343  B
+
+%Round: 7
+
+  5301 (29)<(35)  70015  B
+ 70002 (47)>(17)   5324  B
+
+%Round: 8
+
+  5343 (40)>(24)   5324  B
+ 70015 (23)<(41)  70002  B
+
+%Round: 9
+
+ 70002 (26)<(38)   5301  B
+ 70015 (14)<(50)   5343  B
+
+%Round: 10
+
+  5343 (19)<(45)   5301  B
+  5324 (06)<(58)  70015  B
+
+
+%%Added results
+ 70015 (20)<(44)  70002  B

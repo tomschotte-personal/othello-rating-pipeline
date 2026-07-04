@@ -1,0 +1,30 @@
+%%Tournament: Tournoi B de Strasbourg
+%%Country: France
+%%Date: 24/05/1996
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+ 786 <  695
+ 466 >  696
+
+%%Round: 2
+
+ 635 >  786
+ 695 >  466
+
+%%Round: 3
+
+ 696 <  695
+ 466 <  635
+
+%%Round: 4
+
+ 635 >  696
+ 786 <  466
+
+%%Round: 5
+
+ 695 >  635
+ 696 >  786

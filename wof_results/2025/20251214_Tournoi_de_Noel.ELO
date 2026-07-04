@@ -1,0 +1,44 @@
+%%Tournament: Tournoi de Noel
+%%Country: France
+%%Date: 14/12/2025
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2025/12/14 21:19
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 231, 1993
+%_%      11, LAZARD, Emmanuel, FRA,  4, 205, 1944
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 215, 1649
+%_%     228, BUSUTTIL, Michel, FRA,  2, 122, 1344
+%_%     702, BERTRAM, Henry, FRA,  1, 67, 0
+
+
+
+%Round: 1
+
+    45 (26)<(38)     11  B
+   228 (23)<(41)      2  B
+
+%Round: 2
+
+   702 (20)<(44)    228  B
+     2 (33)>(31)     45  B
+
+%Round: 3
+
+    11 (10)<(54)      2  B
+    45 (58)>(06)    702  B
+
+%Round: 4
+
+   228 (04)<(60)     45  B
+   702 (00)<(64)     11  B
+
+%Round: 5
+
+     2 (63)>(01)    702  B
+    11 (53)>(11)    228  B
+
+
+%%Added results

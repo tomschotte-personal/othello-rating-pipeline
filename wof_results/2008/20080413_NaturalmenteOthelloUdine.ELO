@@ -1,0 +1,53 @@
+%%Tournament: NaturalMente Othello 13/4/2008 - Udine
+%%Country: Italy
+%%Date: 13/04/2008
+%%Sender: Donato Barnaba
+
+
+%_%   3029, CARPIGNANO, Marino
+%_%   3092, MUNINI, Paolo
+%_%  3053, CUM, Sandro
+%_% 3112, CARBONINI, Luca     
+%_% 3113, ZECA, Vehbi     
+%_% 3114, PIDUTTI, Eugenio     
+%_% 3115, CHITTRAWONG, Baifon     
+%_% 3116, ALIMANI, Daut     
+%_% 3117, PAPAIS, Denis     
+%_% 3118, GELMI, Antonietta     
+%_% 3119, MEO, Laura     
+%_% 3120, CIMPAN, Costantin     
+%_% 3121, MACOR, Giacomo     
+%_% 3122, MACEROLA, Luana     
+%_% 3123, PISANI, Bruno     
+
+
+
+%Round: 1
+
+3118 (37)>(27) 3119 B
+3112 (53)>(11) 3115 B
+3116 (18)<(46) 3029 B
+3092 (49)>(15) 3117 B
+3114 (10)<(54) 3053 B
+
+%Round: 2
+
+3053 (64)>(00) 3118 B
+3113 (13)<(51) 3112 B
+3029 (38)>(26) 3092 B
+3120 (24)<(40) 3116 B
+3117 (45)>(19) 3114 B
+
+%Round: 3
+
+3112 (14)<(50) 3029 B
+3119 (05)<(59) 3053 B
+3118 (25)<(39) 3121 B
+3122 (34)>(30) 3123 B
+
+%Round: 4
+
+3029 (13)<(51) 3053 B
+3092 (37)>(27) 3112 B
+3118 (46)>(18) 3122 B
+3121 (45)>(19) 3119 B

@@ -1,0 +1,44 @@
+%%Tournament: 178th Kyoto Meeting
+%%Country: Japan
+%%Date: 13/10/2002
+%%Sender: Tom Schotte
+
+%Round1
+6970 > 5526
+6995 > 5507
+6929 > 10009
+10038 > 11875
+
+%Round2
+6970 > 6929
+5507 > 11875
+6995 > 10038
+5526 > 10009
+
+%Round3
+6970 > 6995
+5507 > 10038
+5526 > 6929
+10009 > 11875
+
+%Round4
+5507 > 6970
+6995 > 5526
+6929 > 11875
+10038 > 10009
+
+%Round5
+6970 > 10038
+5507 > 6929
+6995 > 10009
+5526 > 11875
+
+%players
+%1 6970 KUDASHOU Takahiro
+%2 5507	tsuchida	daisuke
+%3 6995	funakoshi	shogo
+%4 5526	uno	toshihiro
+%5 6929 IO Hideo
+%6 10038	wazuki	hiroyuki
+%7 10009 TARU Eiichi
+%8 11875	eto	tetsuharu

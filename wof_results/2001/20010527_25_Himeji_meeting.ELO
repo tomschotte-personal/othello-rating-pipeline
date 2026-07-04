@@ -1,0 +1,77 @@
+%%Tournament: 24th Himeji Meeting
+%%Country: Japan
+%%Date: 27/05/2001
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka25.html
+
+
+%Round1
+6970 > 10766
+10024 > 11987
+11882 > 6973
+10025 > 10227
+360 > 11986
+11753 > 11988
+10753 > 11975
+11984 > 11041
+
+%Round2
+6970 > 10024
+6973 > 11041
+11882 > 10025
+11753 > 11984
+10753 > 360
+10766 > 11987
+10227 > 11986
+11988 > 11975
+
+%Round3
+6970 > 11882
+10024 > 10227
+10025 > 10766
+360 > 6973
+10753 > 11753
+11975 > 11986
+11041 > 11987
+11984 > 11988
+
+%Round4
+6970 > 10753
+10024 > 11882
+6973 > 10227
+10025 > 11984
+360 > 11753
+10766 > 11988
+11975 > 11041
+11986 > 11987
+
+%Round5
+6970 > 10025
+10024 > 360
+6973 > 10753
+11882 > 11975
+11753 > 11986
+10766 > 11984
+11041 > 11988
+11987 > 10227
+
+
+
+%players
+%1 6970	kudashou	takahiro
+%2 10024	konami	hiroshi
+%3 6973	kitagawa	kanya
+%4 11882	takamura	kandai
+%5 10025	nobuhito	yoichi
+%6 360	tamenori	masaru
+%7 11753	yokoyama	chiaki
+%8 10753	kagotani	hiroto
+%9 10766	nishimura	hidemi
+%10 11975	sugai	katsumi
+%11 11041	iseda	katsuya
+%12 11984	nishitani	takuro
+%13 11987	mimura	yukiko
+%14 11986	imai	eiji
+%15 10227	yokoyama	takako
+%16 11988	kawatsu	shinsuke

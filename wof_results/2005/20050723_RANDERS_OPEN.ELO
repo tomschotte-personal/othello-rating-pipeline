@@ -1,0 +1,35 @@
+%%Tournament: Randers Open 2005
+%%Country: Denmark
+%%Date: 23/07/2005
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+1000 > 1047
+  97 < 1046
+
+%%Round: 2
+
+1000 <   97
+1047 < 1040
+
+%%Round: 3
+
+1000 < 1040
+1047 > 1046
+
+%%Round: 4
+
+1000 < 1046
+  97 < 1040
+
+%%Round: 5
+
+1047 <   97
+1046 > 1040
+
+%%Match 3/4
+1000 <   97
+
+%%finale
+1040 = 1046

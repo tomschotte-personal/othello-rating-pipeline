@@ -1,0 +1,40 @@
+%%Tournament: North_Kanto_expert_games
+%%Country: Japan
+%%Date: 23/01/2011
+%%Sender: Hiroyuki Iwata
+
+%_%   5591, SATAKE, yosuke, J, 3.0, 122
+%_%   5502, GOTO, hiroshi, J, 3.0, 116
+%_%   6890, SAITO, masaki, J, 2.0, 128
+%_%   5577, KURITA, seiya, J, 2.0, 121
+%_%    699, KITAJIMA, masato, J, 2.0, 116
+%_%   5527, GOTO, masahiro, J, 1.0, 90
+%_%   5593, YAMAMOTO, kunisuke, J, 1.0, 87
+%_%   5563, KURACHI, takayuki, J, 1.0, 79
+%_%  10256, URUSHIHARA, kazuhiro, J, 1.0, 74
+%_%   5531, KAWAGUCHI, hayato, J, 0.0, 91
+
+%Round 1
+  5591 (32) > (32)   5531
+   699 (33) > (31)   5527
+
+%Round 2
+  5502 (32) > (32)   5593
+  6890 (52) > (12)  10256
+  5591 (39) > (25)    699
+  5563 (34) > (30)   5577
+  5527 (37) > (27)   5531
+
+%Round 3
+  5502 (48) > (16)   5591
+  6890 (48) > (16)   5563
+  5577 (44) > (20)  10256
+  5593 (38) > (26)    699
+
+%Round 4
+  5502 (36) > (28)   6890
+  5591 (35) > (29)   5563
+  5577 (47) > (17)   5593
+   699 (32) > (32)   5531
+ 10256 (42) > (22)   5527
+

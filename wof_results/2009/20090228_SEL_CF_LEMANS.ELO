@@ -1,0 +1,58 @@
+%%Tournament: Selection Mans 2009
+%%Country: France
+%%Date: 28/02/2009
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/03/04 18:11
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     433, NICOLET, Stephane, F,  5, 219
+%_%    3519, DAUBA, Cedric, F,  3, 228
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  3, 190
+%_%    2788, LECAT, Monique, B,  3, 179
+%_%    5908, DARCK, Nancy, B,  3, 168
+%_%    5911, VOLVERT, Quentin, B,  3, 120
+%_%    3384, AUZENDE, Frederic, F,  2, 157
+%_%    3523, GELIN, Gabriel, F,  2, 140
+%_%    3860, PORTES, Jessica, F,  1, 79
+
+
+
+%Round: 1
+
+   433 (45)>(19)   2788 B
+  3523 (40)>(24)   5908 B
+  3598 (63)>(01)   5911 B
+  3384 (38)>(26)   3519 B
+
+%Round: 2
+
+  5908 (18)<(46)    433 B
+  5911 (00)<(64)   3519 B
+  3860 (15)<(49)   3523 B
+  3598 (44)>(20)   3384 B
+
+%Round: 3
+
+  2788 (45)>(19)   3598 B
+  3384 (31)<(33)   5911 B
+  3519 (61)>(03)   3860 B
+   433 (57)>(07)   3523 B
+
+%Round: 4
+
+  3523 (27)<(37)   3598 B
+  5908 (36)>(28)   3384 B
+  3519 (30)<(34)    433 B
+  3860 (03)<(61)   2788 B
+
+%Round: 5
+
+  2788 (14)<(50)   5908 B
+  5911 (46)>(18)   3860 B
+  3598 (27)<(37)    433 B
+  3523 (17)<(47)   3519 B
+
+
+%%Added results

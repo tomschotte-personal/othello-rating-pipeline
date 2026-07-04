@@ -1,0 +1,40 @@
+%%Tournament: Israel - Israel_youth (friendly) 
+%%Country: Israel
+%%Date: 13/07/2018
+%%Sender: Leonid Shifman
+
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    885, SHIFMAN, Ilya, ISR,  4, 236
+%_% 200010, SHIFMAN, Michael, ISR,  4, 191
+%_%    880, SHIFMAN, Leonid, ISR,  3, 235
+%_%   4038, GELTZER, Valery, ISR,  2, 153
+%_% 200040, LAUFER, Shachar, ISR,  2, 114
+%_% 200018, YOSIFOVICH, Danielle, ISR,  1, 95
+
+
+%Round: 1
+200040 (14)<(50)    880  B
+200010 (15)<(49)    885  B
+
+%Round: 2
+   880 (62)>(02) 200040  B
+   885 (36)>(28) 200010  B
+
+%Round: 3
+200018 (22)<(42)    880  B
+200040 (33)>(31)    885  B
+
+%Round: 4
+   880 (26)<(38) 200018  B
+   885 (27)<(37) 200040  B
+
+%Round: 5
+200010 (37)>(27)    880  B
+200018 (17)<(47)    885  B
+
+%Round: 6
+   880 (28)<(36) 200010  B
+   885 (46)>(18) 200018  B
+
+%%Added results

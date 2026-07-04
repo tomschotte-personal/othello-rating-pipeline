@@ -1,0 +1,34 @@
+%%Tournament: Tournoi Ile de France 4
+%%Country: France
+%%Date: 16/06/2001
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+3501 >  709
+ 566 > 3384
+3514 >   11
+
+%%Round: 2
+
+ 433 >  566
+3384 <   11
+3501 < 3514
+
+%%Round: 3
+
+ 709 <  566
+  11 > 3501
+3514 <  433
+
+%%Round: 4
+
+3384 >  709
+ 566 < 3514
+  11 <  433
+
+%%Round: 5
+
+ 709 <   11
+3514 > 3384
+ 433 > 3501

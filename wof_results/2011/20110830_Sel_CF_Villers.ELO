@@ -1,0 +1,44 @@
+%%Tournament: Selection CdF Villers-sur-le-Roule
+%%Country: France
+%%Date: 30/08/2011
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/09/09 22:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3515, BUTIN, Pierre, F,  5, 262
+%_%   50058, GUERRERO, Jimmy, F,  4, 165
+%_%    3857, BUTIN, Antoine, F,  2.5, 152
+%_%   50059, HUYNH, Cecile, F,  2.5, 144
+%_%   50060, CHENU, Alain, F,  1, 117
+
+
+
+%Round: 1
+
+ 50060 (10)<(54)   3515  B
+ 50058 (40)>(24)  50059  B
+
+%Round: 2
+
+  3857 (27)<(37)  50058  B
+ 50059 (39)>(25)  50060  B
+
+%Round: 3
+
+  3515 (55)>(09)  50059  B
+ 50060 (26)<(38)   3857  B
+
+%Round: 4
+
+ 50058 (48)>(16)  50060  B
+  3857 (15)<(49)   3515  B
+
+%Round: 5
+
+ 50059 (32)=(32)   3857  B
+  3515 (64)>(00)  50058  B
+
+
+%%Added results

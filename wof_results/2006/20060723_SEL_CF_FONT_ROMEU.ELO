@@ -1,0 +1,32 @@
+%%Tournament: Selection CF de Font-Romeu
+%%Country: France
+%%Date: 23/07/2006
+%%Sender: Emmanuel.Lazard
+
+%%Creator: PAPP 1.28
+%%CreationDate: 2006/09/07 09:55
+
+%%Round: 1
+
+ 104 > 3600
+   7 > 3660
+
+%%Round: 2
+
+2788 <    7
+3660 <  104
+
+%%Round: 3
+
+3600 < 3660
+ 104 > 2788
+
+%%Round: 4
+
+   7 >  104
+2788 > 3600
+
+%%Round: 5
+
+3660 > 2788
+3600 <    7

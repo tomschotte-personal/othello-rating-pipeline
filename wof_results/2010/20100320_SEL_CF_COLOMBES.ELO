@@ -1,0 +1,64 @@
+%%Tournament: selection CF Colombes
+%%Country: France
+%%Date: 20/03/2010
+%%Sender: Gilles Cluzon
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/03/21 00:19
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3384, AUZENDE, Frederic, F,  5, 225
+%_%   50006, BISMUTH, Frederic, F,  4, 219
+%_%     419, BETIN, Dominique, F,  3, 211
+%_%    3515, BUTIN, Pierre, F,  3, 211
+%_%       2, TASTET, Marc, F,  3, 207
+%_%    3734, CLUZON, Gilles, F,  3, 188
+%_% + 50024, ADROUCHE, Sofian, F,  2, 130
+%_% + 50025, SALGUES, Amandine, F,  1, 109
+%_% + 50026, SERFATI, Guillaume, F,  1, 55
+%_% + 50027, GENOUD, Jeremy, F,  0, 45
+
+
+
+%Round: 1
+
+ 50006 (20)<(44)   3515 B
+     2 (53)>(11)    419 B
+  3734 (46)>(18)  50025 B
+  3384 (63)>(01)  50024 B
+ 50027 (21)<(43)  50026 B
+
+%Round: 2
+
+   419 (63)>(01)  50027 B
+ 50026 (09)<(55)   3734 B
+  3515 (15)<(49)      2 B
+ 50025 (17)<(47)   3384 B
+ 50024 (22)<(42)  50006 B
+
+%Round: 3
+
+  3734 (43)>(21)    419 B
+ 50006 (61)>(03)  50026 B
+  3384 (42)>(22)      2 B
+ 50027 (00)<(64)   3515 B
+ 50024 (43)>(21)  50025 B
+
+%Round: 4
+
+  3384 (33)>(31)   3734 B
+     2 (19)<(45)  50006 B
+  3515 (64)>(00)  50024 B
+ 50025 (41)>(23)  50027 B
+   419 (64)>(00)  50026 B
+
+%Round: 5
+
+   419 (52)>(12)  50025 B
+  3515 (24)<(40)   3384 B
+ 50006 (51)>(13)   3734 B
+ 50026 (00)<(64)      2 B
+ 50027 (00)<(64)  50024 B
+
+
+%%Added results

@@ -1,0 +1,47 @@
+%%Tournament: Cambridge Christmas Friendly
+%%Country: Great-Britain
+%%Date: 09/12/2023
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader.
+%%CreationDate: 2023/12/17 16:00
+
+%          ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       320, PLOWMAN, Guy, GBR, 5, 268,
+%_%       943, JUODELE, Marius, LTU, 5, 267,
+%_%        79, LEADER, Imre, GBR, 4, 260,
+%_%    100027, PLOWMAN, Mark, GBR, 2, 193,
+%_%    100042, PLOWMAN, Sophie, GBR, 2, 105, 
+%_% +  600002, JUODELE, Vlad, LTU, 0, 59,
+
+%Round: 1
+   320 (50)>(14) 100027  B
+600002 (24)<(40) 100042  B
+   943 (36)>(28)     79  B
+
+%Round: 2
+600002 (00)<(64)    320  B
+100027 (21)<(43)    943  B
+100042 (07)<(57)     79  B
+
+%Round: 3
+   943 (23)<(41)    320  B
+    79 (57)>(07) 600002  B
+100027 (45)>(19) 100042  B
+
+%Round: 4
+   320 (13)<(51)     79  B
+100042 (00)<(64)    943  B
+600002 (01)<(63) 100027  B
+
+%Round: 5
+   320 (62)>(02) 100042  B
+   943 (64)>(00) 600002  B
+    79 (41)>(23) 100027  B
+
+%Round: 6
+   320 (38)>(26)     79  B
+100027 (27)<(37)    943  B
+600002 (27)<(37) 100042  B
+
+%%Added results

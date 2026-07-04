@@ -1,0 +1,88 @@
+%%Tournament: Year forgetting conference 2006
+%%Country: Japan
+%%Date: 10/12/2006
+%%Sender: Tom Schotte
+
+%Round1
+6962 > 6963
+5524 > 6961
+7055 > 6955
+5523 > 6916
+5681 > 888
+889 > 11310
+6952 > 10265
+6954 > 7067
+6967 > 6964
+11965 > 11309
+
+%Round2
+6962 > 6952
+5524 > 7055
+7067 > 11310
+5523 > 6967
+6955 > 6961
+888 > 11309
+5681 > 11965
+6916 > 6964
+6954 > 889
+10088 > 10265
+
+%Round3
+6962 > 6954
+5524 > 5523
+7055 > 888
+7067 > 6967
+6955 > 11965
+5681 > 6952
+889 > 10088
+6916 > 6963
+11309 > 6961
+11310 > 6964
+
+%Round4
+6962 > 5524
+7055 > 6954
+7067 > 6955
+5523 > 5681
+888 > 6952
+889 > 6916
+11309 > 10088
+6964 > 10265
+6967 > 6963
+11965 > 11310
+
+%Round5
+6962 > 5523
+5524 > 5681
+7055 > 889
+7067 > 11309
+6955 > 6954
+888 > 6967
+6916 > 11965
+6952 > 11310
+10088 > 6963
+6961 > 10265
+
+
+%players
+%1 6962	mukai	daisuke
+%2 5524	nagao	hiroto
+%3 7055	terada	ziyunya
+%4 7067	nagaya	tosiko
+%5 5523	araki	yasuyuki
+%6 6955	iwasaki	masaaki
+%7 888	sugiyama	mitsuaki
+%8 5681	sato	tomoyuki
+%9 889	sugiyama	akemi
+%10 6916	mizuno	keigo
+%11 6952	sano	hirotaka
+%12 6954	oguri	kenji
+%13 11309	suzuki	junichi
+%14 6964	yoshino	nobuko
+%15 10088	sato	alex
+%16 6967	kobayashi	tome
+%17 11965	shiho	ikuko
+%18 6961	hasegawa	toshi
+%19 11310	suzuki	miyuki
+%20 6963	okabe	michiaki
+%21 10265	nishimura	hirokuni

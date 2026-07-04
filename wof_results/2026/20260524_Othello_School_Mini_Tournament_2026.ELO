@@ -1,0 +1,20 @@
+%%Tournament: Othello School Mini Tournament 2026
+%%Country: TH
+%%Date: 24/05/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 190307, SUKALAK, Phakaphon, TH, 1, 56, 962
+%_% 190162, SUTTINAKSOMBUT, Pongsakorn, TH, 0, 8, 1137
+%_% 190359, PATTAMASONTHI, Nakkawee, TH, 0, 0, 940
+%_% 190354, NAKKAEW, Natthakorn, TH, 0, 0, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/564
+
+%Round: 3
+
+ 190162 (08)<(56) 190307  B

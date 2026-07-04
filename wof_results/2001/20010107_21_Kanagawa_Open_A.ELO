@@ -1,0 +1,121 @@
+%%Tournament: 21st Kanagawa Open A
+%%Country: Japan
+%%Date: 07/01/2001
+%%Sender: Tom Schotte
+
+%Round1
+   299 >  11327 
+  6822 >  11047 
+ 11088 >  11189 
+ 10952 >    882 
+  5530 >   5521 
+   600 >  10997 
+  5574 >  11114 
+  7002 >   6868 
+ 12355 >    881 
+   652 >  11772 
+  5500 =  10082 
+  5681 >  12356 
+%6813 had a bye
+
+%round2
+ 10997 >  11327 
+  6813 >   5500 
+   299 >   5681 
+  6822 =   5574 
+ 11088 >    600 
+ 10952 >  10082 
+  5530 >    652 
+  6868 >    882 
+  7002 >  12355 
+   881 >  11114 
+ 11189 >   5521 
+ 11047 >  11772 
+%12356 had a bye
+
+%round3
+ 10997 >   6868 
+   299 >   5530 
+  6822 >   7002 
+ 11088 >  10952 
+   600 >  12355 
+  5574 >   6813 
+   882 >   5500 
+   881 >  11047 
+   652 >  12356 
+  5521 >  10082 
+  5681 >  11189 
+ 11772 >  11114 
+%11327 had a bye
+
+%round4
+ 10997 >   5574 
+  6813 >   5530 
+   299 >  11088 
+  6822 >    881 
+ 10952 >   5681 
+  6868 >  11047 
+  7002 >    600 
+ 11189 >    882 
+ 12355 >  10082 
+ 11327 >   5500 
+   652 >   5521 
+ 11772 >  12356 
+%11114 had a bye
+
+%round5
+ 10997 >  11088 
+  6813 >    652 
+  6822 >    299 
+ 10952 >   7002 
+  5530 >   5681 
+   600 >  11189 
+  5574 >    881 
+   882 >  12356 
+  6868 >  12355 
+ 11327 >  11772 
+  5500 >  11114 
+  5521 >  11047 
+%10082 had a bye
+
+%round6
+ 10997 >   6822 
+  6813 >   6868 
+   299 >  10952 
+ 11088 >   5574 
+  5530 >   7002 
+   600 >  11327 
+   882 >    652 
+   881 >   5521 
+ 11189 >  11772 
+ 12355 >   5681 
+  5500 >  12356 
+ 11114 >  10082 
+%11047 had a bye
+
+%players
+%1 10997	hida	kikuchi
+%2 6813	yamazaki	nobuyuki
+%3 299	murakami	takeshi
+%4 6822	yamada	yuichi
+%5 11088	kawate	masayuki
+%6 10952	esaka	akira
+%7 5530	noda	bintatsu
+%8 600	takeda	kyoko
+%9 5574	takashima	ryoji
+%10 882	ibata	kensuke	
+%11 6868	sasaki	sohei
+%12 7002	kagawa	youichi
+%13 881	okubo	ryoichi
+%14 11189	nagumo	natsuhiko
+%15 12355	imayasu	hikari
+%16 11327	takeuchi	masahiro
+%17 652	horiuchi	keiko
+%18 5500	furusaki	yoko
+%19 5521	hamada	kikue
+%20 11047	itabasi	kunihiro
+%21 5681	sato	tomoyuki
+%22 11114	koiwai	katsuharu
+%23 11772	ogasawara	masayuki
+%24 10082	takeuchi	tomoko
+%25 12356	tanno	kazuya

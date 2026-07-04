@@ -1,0 +1,44 @@
+%%Tournament: selection parisienne 2 au cdf 2009
+%%Country: France
+%%Date: 06/06/2009
+%%Sender: Gilles Cluzon
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/06/06 18:31
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3841, LEBLANC, Aurelien, F,  5, 234
+%_%    3836, BENTOLILA, Sarah, F,  4, 178
+%_%    3778, SAGONA, Eric, F,  3, 150
+%_%    3734, CLUZON, Gilles, F,  2, 140
+%_%     275, OVION, Jacques, F,  1, 138
+
+
+
+%Round: 1
+
+  3778 (25)<(39)   3836 B
+  3841 (45)>(19)    275 B
+
+%Round: 2
+
+  3734 (10)<(54)   3841 B
+   275 (30)<(34)   3778 B
+
+%Round: 3
+
+  3836 (38)>(26)    275 B
+  3778 (41)>(23)   3734 B
+
+%Round: 4
+
+  3841 (54)>(10)   3778 B
+  3734 (26)<(38)   3836 B
+
+%Round: 5
+
+   275 (23)<(41)   3734 B
+  3836 (23)<(41)   3841 B
+
+
+%%Added results

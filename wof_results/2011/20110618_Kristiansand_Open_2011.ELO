@@ -1,0 +1,48 @@
+%%Tournament: Kristiansand Open
+%%Country: Norway
+%%Date: 18/06/2011
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/06/19 21:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1802, SKOGEN, Tor Birger, N,  4.5, 189
+%_%  140008, KULLANDAIRAJ, George-Paul, N,  3, 209
+%_%    1878, BOE, Alexander, N,  2.5, 192
+%_%    2577, SAWALA, Rita, N,  2, 178
+
+
+
+%Round: 1
+
+  2577 (38)>(26)   1878  B
+  1802 (34)>(30) 140008  B
+
+%Round: 2
+
+  1802 (24)<(40)   2577  B
+140008 (42)>(22)   1878  B
+
+%Round: 3
+
+  2577 (22)<(42) 140008  B
+  1878 (31)<(33)   1802  B
+
+%Round: 4
+
+  1878 (42)>(22)   2577  B
+140008 (31)<(33)   1802  B
+
+%Round: 5
+
+  2577 (31)<(33)   1802  B
+  1878 (39)>(25) 140008  B
+
+%Round: 6
+
+140008 (39)>(25)   2577  B
+  1802 (32)=(32)   1878  B
+
+
+%%Added results

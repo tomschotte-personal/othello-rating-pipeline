@@ -1,0 +1,44 @@
+%%Tournament: Oslo Open 2010
+%%Country: Norway
+%%Date: 23/01/2010
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/01/24 14:06
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2507, RAA, Harald, N,  5, 274
+%_%    1894, DOVLAND, Johan, N,  3, 212
+%_%    1802, SKOGEN, Tor Birger, N,  3, 205
+%_%    2577, SAWALA, Rita, N,  3, 184
+%_%    2588, OLSEN, Mona Christin, N,  1, 85
+
+
+
+%Round: 1
+
+  2588 (14)<(50)   1802 B
+  2507 (49)>(15)   1894 B
+
+%Round: 2
+
+  2577 (04)<(60)   2507 B
+  1894 (61)>(03)   2588 B
+
+%Round: 3
+
+  1802 (20)<(44)   1894 B
+  2588 (00)<(64)   2577 B
+
+%Round: 4
+
+  2507 (60)>(04)   2588 B
+  2577 (16)<(48)   1802 B
+
+%Round: 5
+
+  1894 (28)<(36)   2577 B
+  1802 (23)<(41)   2507 B
+
+
+%%Added results

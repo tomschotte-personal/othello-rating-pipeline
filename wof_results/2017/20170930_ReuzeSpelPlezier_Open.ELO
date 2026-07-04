@@ -1,0 +1,50 @@
+%%Tournament: ReuzeSpelPlezier Othello Open 2017
+%%Country: Belgium
+%%Date: 30/09/2017
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/10/01 12:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  5, 264, 2039
+%_%    5900, REUNES, Nick, BEL,  4, 228, 1759
+%_% +270040, VAN DER AUWERA, Bjorn, BEL,  3, 188, 0
+%_% +270038, D'HAEYER, Sofie, BEL,  2, 119, 0
+%_% +270041, SOETENS, Ruben, BEL,  1, 95, 0
+%_% +270039, LEENAERT, Tom, BEL,  0, 66, 0
+
+
+
+%Round: 1
+
+270039 (11)<(53) 270038  B
+  2795 (48)>(16) 270040  B
+  5900 (48)>(16) 270041  B
+
+%Round: 2
+
+270040 (55)>(09) 270039  B
+270038 (16)<(48)   5900  B
+270041 (09)<(55)   2795  B
+
+%Round: 3
+
+270039 (12)<(52)   5900  B
+270040 (53)>(11) 270041  B
+  2795 (60)>(04) 270038  B
+
+%Round: 4
+
+270041 (37)>(27) 270039  B
+  5900 (20)<(44)   2795  B
+270038 (04)<(60) 270040  B
+
+%Round: 5
+
+270039 (07)<(57)   2795  B
+270041 (22)<(42) 270038  B
+270040 (04)<(60)   5900  B
+
+
+%%Added results

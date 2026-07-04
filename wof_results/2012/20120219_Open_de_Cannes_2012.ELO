@@ -1,0 +1,64 @@
+%%Tournament: Open de Cannes
+%%Country: France
+%%Date: 19/02/2012
+%%Sender: David Sahli
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/03/01 10:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     544, SAHLI, David, F,  5, 245
+%_%     695, SCHERNO, Dominique, F,  4, 218
+%_%   50019, JONQUIERES, Philippe, F,  3, 192
+%_%     382, RETIERE, Christophe, F,  3, 170
+%_%    3436, DUSOIR, Corentin, F,  3, 163
+%_% + 50061, BELAVAL, Maxime, F,  2, 143
+%_% + 50052, le morvan, eric, F,  2, 129
+%_%    3783, CATALANOTTI, Alain, F,  1, 139
+%_%   50014, GOUYSSE, Henry, F,  1, 106
+%_%   50044, TURQUOIS, Alban, F,  1, 95
+
+
+
+%Round: 1
+
+   544 (33)>(31)   3783  B
+ 50044 (22)<(42)  50052  B
+  3436 (16)<(48)  50019  B
+   382 (45)>(19)  50061  B
+   695 (49)>(15)  50014  B
+
+%Round: 2
+
+ 50052 (13)<(51)    695  B
+  3783 (31)<(33)  50044  B
+ 50061 (49)>(15)   3436  B
+ 50019 (46)>(18)    382  B
+ 50014 (02)<(62)    544  B
+
+%Round: 3
+
+   695 (50)>(14)  50044  B
+   544 (43)>(21)  50019  B
+ 50061 (53)>(11)   3783  B
+   382 (61)>(03)  50052  B
+  3436 (46)>(18)  50014  B
+
+%Round: 4
+
+  3783 (49)>(15)  50014  B
+ 50044 (18)<(46)    382  B
+ 50052 (25)<(39)   3436  B
+   695 (21)<(43)    544  B
+ 50019 (60)>(04)  50061  B
+
+%Round: 5
+
+  3436 (47)>(17)   3783  B
+ 50061 (18)<(46)  50052  B
+   382 (00)<(64)    544  B
+ 50019 (17)<(47)    695  B
+ 50014 (56)>(08)  50044  B
+
+
+%%Added results

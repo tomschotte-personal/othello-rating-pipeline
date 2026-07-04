@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 01/10/2023
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2023/10/03 00:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 257, 2011
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 191, 1878
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 162, 1771
+%_%   50053, TASTET, Remi, FRA,  3, 142, 1626
+%_%     228, BUSUTTIL, Michel, FRA,  2, 153, 1402
+%_%   50096, LEVY, Marc, FRA,  2, 122, 1795
+%_%  +50126, MELCER, Stephane, FRA,  1, 93, 0
+
+
+
+%Round: 1
+
+     2 (54)>(10)  50053  B
+  3598 (51)>(13)  50096  B
+ 50126 (10)<(54)    228  B
+
+%Round: 2
+
+ 50096 (43)>(21)  50126  B
+   228 (29)<(35)   3598  B
+    45 (10)<(54)      2  B
+
+%Round: 3
+
+   228 (39)>(25)     45  B
+ 50053 (38)>(26)  50096  B
+  3598 (29)<(35)      2  B
+
+%Round: 4
+
+    45 (52)>(12)  50126  B
+ 50053 (17)<(47)   3598  B
+     2 (60)>(04)    228  B
+
+%Round: 5
+
+  3598 (29)<(35)     45  B
+   228 (27)<(37)  50053  B
+ 50126 (10)<(54)      2  B
+
+
+%%Added results

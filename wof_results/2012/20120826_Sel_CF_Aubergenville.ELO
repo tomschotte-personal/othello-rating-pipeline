@@ -1,0 +1,50 @@
+%%Tournament: Selection CF Aubergenville
+%%Country: France
+%%Date: 26/08/2012
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.34
+%%CreationDate: 2012/09/12 11:50
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3841, LEBLANC, Aurelien, FRA,  5, 204
+%_% + 50065, DENIS, Aurelien, FRA,  4, 211
+%_%      46, ANDRIANI, Sandry, FRA,  3, 221
+%_%    3600, BENOIT, Serge, FRA,  2, 119
+%_%    3839, RUBIO, Celine, FRA,  1, 136
+%_%     275, OVION, Jacques, FRA,  0, 69
+
+
+
+%Round: 1
+
+  3839 (14)<(50)   3600  B
+    46 (63)>(01)    275  B
+ 50065 (31)<(33)   3841  B
+
+%Round: 2
+
+   275 (11)<(53)   3839  B
+  3600 (11)<(53)  50065  B
+  3841 (35)>(29)     46  B
+
+%Round: 3
+
+  3839 (30)<(34)  50065  B
+   275 (20)<(44)   3841  B
+    46 (56)>(08)   3600  B
+
+%Round: 4
+
+  3841 (42)>(22)   3839  B
+ 50065 (38)>(26)     46  B
+  3600 (36)>(28)    275  B
+
+%Round: 5
+
+  3839 (17)<(47)     46  B
+  3841 (50)>(14)   3600  B
+   275 (09)<(55)  50065  B
+
+
+%%Added results

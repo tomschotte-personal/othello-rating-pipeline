@@ -1,0 +1,59 @@
+%%Tournament: 152nd Kyoto Meeting
+%%Country: Japan
+%%Date: 11/06/2000
+%%Sender: Tom Schotte
+
+%round1
+10770 > 10014
+6970 > 10228
+6824 > 11911
+5526 > 11753
+10009 > 882
+10008 > 6929
+
+%round2
+10770 > 6824
+6970 > 10008
+10014 > 11911
+6929 > 10228
+5526 > 10009
+11753 > 882
+
+%round3
+10770 > 6970
+10014 > 6929
+5526 > 6824
+11753 > 10008
+882 > 10228
+10009 > 11911
+
+%round4
+10770 > 5526
+6970 > 11753
+6824 > 10008
+10014 > 10009
+6929 > 882
+11911 > 10228
+
+%round5
+10770 > 11753
+6970 > 10014
+6824 > 10009
+6929 > 5526
+882 > 11911
+10228 > 10008
+
+
+%players
+%1 10770	suzuki	shinichi
+%2 6970	kudashou	takahiro
+%3 6824	kuroda	takuji
+%4 10014	suzuki	takao
+%5 6929	io	hideo
+%6 5526	uno	toshihiro
+%7 11753	yokoyama	chiaki
+%8 882	ibata	kensuke
+%9 10009	taru	eiichi
+%10 10008	okuda	masashi
+%11 11911	yamada	hideyuki
+%12 10228	urushihara	yoshihisa

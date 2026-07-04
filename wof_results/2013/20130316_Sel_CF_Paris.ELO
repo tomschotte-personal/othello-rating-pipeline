@@ -1,0 +1,44 @@
+%%Tournament: SelCdF20130316
+%%Country: France
+%%Date: 16/03/2013
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/03/17 21:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50030, JUIGNER, Arthur, FRA,  5, 238, 2035
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 180, 2023
+%_%    3734, CLUZON, Gilles, FRA,  3, 183, 1246
+%_%     419, BETIN, Dominique, FRA,  2, 141, 1288
+%_%    3600, BENOIT, Serge, FRA,  1, 98, 1327
+
+
+
+%Round: 1
+
+  3734 (26)<(38)   3598  B
+   419 (16)<(48)  50030  B
+
+%Round: 2
+
+  3600 (13)<(51)    419  B
+ 50030 (49)>(15)   3734  B
+
+%Round: 3
+
+  3598 (21)<(43)  50030  B
+  3734 (55)>(09)   3600  B
+
+%Round: 4
+
+   419 (17)<(47)   3734  B
+  3600 (30)<(34)   3598  B
+
+%Round: 5
+
+ 50030 (58)>(06)   3600  B
+  3598 (47)>(17)    419  B
+
+
+%%Added results

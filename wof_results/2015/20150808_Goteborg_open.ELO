@@ -1,0 +1,24 @@
+%%Tournament: Goteborg Open
+%%Country: Sweden
+%%Date: 08/08/2015
+%%Sender: Mateusz
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/08/22 20:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  2, 88, 1960
+%_%    1569, RIBGUTH, Michael, SWE,  0, 40, 1493
+
+
+
+%Round: 1
+
+150016 (47)>(17)   1569  B
+
+%Round: 2
+
+  1569 (23)<(41) 150016  B
+
+
+%%Added results

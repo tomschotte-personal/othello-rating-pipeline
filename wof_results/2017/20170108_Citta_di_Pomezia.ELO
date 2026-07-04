@@ -1,0 +1,33 @@
+%%Tournament: Citta' di Pomezia
+%%Country: Italy
+%%Date: 08/01/2017
+%%Sender: Chiara Gigliucci
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3062, CAVIOLA, Leonardo, I, 3, 135
+%_% 40052, GIGLIUCCI, Chiara, I, 2, 128
+%_% 40074, CENCI, Alessio, I, 2, 123
+%_% 40119, ALESSI, Andrea, I, 1, 78
+%_% 40121, RIDOLFI, Raffaele, I, 1, 87
+%_% 40120, DELLA BELLA, Alessandro, I, 0, 25
+
+
+%Round 1 
+  3062 (48)>(16)  40119  B
+ 40120 (08)<(56)  40074  B
+ 40052 (56)>(08)  40121  B
+
+%Round 2 
+ 40074 (22)<(42)   3062  B
+ 40119 (11)<(53)  40052  B
+ 40121 (60)>(04)  40120  B
+
+%Round 3 
+  3062 (45)>(19)  40052  B
+ 40121 (19)<(45)  40074  B
+ 40120 (13)<(51)  40119  B
+
+
+
+
+

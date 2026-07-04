@@ -1,0 +1,54 @@
+%%Tournament: 3rd Nocera Inferiore
+%%Country: Italy
+%%Date: 02/06/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40242, HORUPASHENKO, Vadym, ITA, 4, 174, -
+%_%   40246, CALABRESE, Primo Vinicio, ITA, 3, 205, -
+%_%   40245, IOVANE, Diego, ITA, 3, 138, -
+%_%   40148, MARALDI, Simone, ITA, 2, 151, 1068
+%_%   40241, SAVARESE, Michele, ITA, 2, 138, -
+%_%   40244, ALATI, Anna, ITA, 2, 115, -
+%_%   40249, SANTONICOLA, Caterina, ITA, 2, 95, -
+%_%   40248, LAMBIASE, Giuseppe, ITA, 1, 77, -
+%_%   40286, GRIMALDI, Lino, ITA, 1, 79, -
+%_%  +40345, Daniele, Vincenzo, ITA, 0, 108, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/284
+
+%Round: 1
+
+ 40148 (28)<(36)  40245  B
+ 40244 (46)>(18)  40248  B
+ 40246 (64)>(00)  40286  B
+ 40249 (35)>(29)  40345  B
+ 40241 (29)<(35)  40242  B
+
+%Round: 2
+
+ 40286 (15)<(49)  40148  B
+ 40345 (28)<(36)  40241  B
+ 40248 (03)<(61)  40246  B
+ 40245 (44)>(20)  40249  B
+ 40242 (57)>(07)  40244  B
+
+%Round: 3
+
+ 40286 (27)<(37)  40248  B
+ 40244 (40)>(24)  40345  B
+ 40249 (33)>(31)  40241  B
+ 40148 (29)<(35)  40242  B
+ 40246 (23)<(41)  40245  B
+
+%Round: 4
+
+ 40242 (47)>(17)  40245  B
+ 40246 (57)>(07)  40249  B
+ 40241 (42)>(22)  40244  B
+ 40248 (19)<(45)  40148  B
+ 40345 (27)<(37)  40286  B

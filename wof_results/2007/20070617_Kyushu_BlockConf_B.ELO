@@ -1,0 +1,29 @@
+%%Tournament: Kyushu 2007 Block Conference B
+%%Country: Japan
+%%Date: 17/06/2007
+%%Sender: Tom Schotte
+
+%round1:
+7007 > 10311
+10194 > 10300
+
+%round2:
+7007 > 10311
+10194 > 10300
+
+%round3:
+7007 > 10300
+10194 > 10311
+
+%round4:
+7007 > 10300
+10194 < 10311
+
+%round5:
+7007 > 10194
+10311 > 10300
+
+%round6:
+7007 > 10311
+10194 > 10300
+

@@ -1,0 +1,41 @@
+%%Tournament: Oslo Sommer-Cup 2009
+%%Country: Norway
+%%Date: 06/06/2009
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/06/07 15:54
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1894, DOVLAND, Johan, N,  2, 138
+%_%    2507, RAA, Harald, N,  2, 132
+%_%    1802, SKOGEN, Tor Birger, N,  2, 114
+
+
+
+%Round: 1
+
+  2507 (21)<(43)   1894 B
+
+%Round: 2
+
+  1894 (49)>(15)   1802 B
+
+%Round: 3
+
+  1802 (27)<(37)   2507 B
+
+%Round: 4
+
+  1894 (19)<(45)   2507 B
+
+%Round: 5
+
+  1802 (37)>(27)   1894 B
+
+%Round: 6
+
+  2507 (29)<(35)   1802 B
+
+
+%%Added results

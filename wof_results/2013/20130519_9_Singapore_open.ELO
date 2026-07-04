@@ -1,0 +1,32 @@
+%%Tournament: 9th Singapore Open 2013
+%%Country: Singapore
+%%Date: 19/05/2013
+%%Sender: Alex Koh
+
+%ID,FAMILY NAME,Firstname,COUNTRY,score,MBQ
+%_% 250003, KOH,    Bo Chao Alex,    SGP, 5, 245
+%_% 250007, WU,     Jin Feng,        SGP, 4, 180
+%_% 250065, LOW,    Wee Hao Eddie,   SGP, 3, 156
+%_% 250107, CHEANG, Eu Howe Gabriel, SGP, 2, 127
+%_% 250110, LOW,    Wei Xin Wilson,  SGP, 1,  97
+
+% Round 1
+250003 (64)>(00) 250110  B
+250007 (47)>(17) 250107  B
+
+%Round 2
+250107 (12)<(52) 250003  B
+250065 (19)<(45) 250007  B
+
+%Round 3
+250003 (49)>(15) 250007  B
+250065 (49)>(15) 250110  B
+
+%Round 4
+250110 (24)<(40) 250007  B
+250107 (26)<(38) 250065  B
+
+%Round 5
+250003 (47)>(17) 250065  B
+250110 (25)<(39) 250107  B
+

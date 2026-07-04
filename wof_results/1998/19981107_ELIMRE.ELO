@@ -1,0 +1,35 @@
+%%Tournament: Selection de Rennes
+%%Country: France
+%%Date: 07/11/1998
+%%Sender: Emmanuel.Lazard
+
+
+%%Round: 1
+
+ 823 >  940
+ 894 <  870
+3350 <  891
+
+%%Round: 2
+
+ 870 < 3350
+ 891 <  823
+ 940 >  894
+
+%%Round: 3
+
+3350 <  823
+ 870 <  940
+ 894 <  891
+
+%%Round: 4
+
+ 891 >  870
+ 823 >  894
+ 940 > 3350
+
+%%Round: 5
+
+3350 <  894
+ 940 >  891
+ 870 <  823

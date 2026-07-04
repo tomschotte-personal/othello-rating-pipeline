@@ -1,0 +1,48 @@
+%%Tournament: Kuala Lumpur open
+%%Country: Malaysia
+%%Date: 06/12/2025
+%%Sender: LIM Joe Onn
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  160103, WONG, Oliver Jing Yuan, MYS, 5, 233, -
+%_%  +160008, leong, Wai Yik Bryan, MYS, 3, 179, -
+%_%  +160009, Tan, Yong Chin, MYS, 3, 178, -
+%_%  160007, LIM, Joe Onn, MYS, 2, 157, 1215
+%_%  +160010, Tanaka, Masamune, JPN, 2, 141, -
+%_%  +160011, Teh, song Jyn Jayden, MYS, 0, 72, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/436
+
+%Round: 1
+
+160007 (22)<(42) 160008  B
+160010 (51)>(13) 160011  B
+160009 (22)<(42) 160103  B
+
+%Round: 2
+
+160103 (49)>(15) 160007  B
+160011 (10)<(54) 160009  B
+160008 (29)<(35) 160010  B
+
+%Round: 3
+
+160103 (46)>(18) 160011  B
+160009 (19)<(45) 160008  B
+160007 (42)>(22) 160010  B
+
+%Round: 4
+
+160011 (14)<(50) 160007  B
+160008 (16)<(48) 160103  B
+160010 (17)<(47) 160009  B
+
+%Round: 5
+
+160007 (28)<(36) 160009  B
+160103 (48)>(16) 160010  B
+160011 (17)<(47) 160008  B

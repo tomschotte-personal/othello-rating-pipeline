@@ -1,0 +1,28 @@
+%%Tournament: LIM 2
+%%Country: Brazil
+%%Date: 23/11/2024
+%%Sender: CORREIA JR. Moises
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  290025, CORREIA JR., Moises, BRA, 2.5, 125, 1467
+%_%  290168, PAIE CORREIA, Vitor, BRA, 2, 86, 1254
+%_%  290051, CORREIA, Rafael Augusto P., BRA, 1, 83, 1081
+%_%  290042, CORREIA, Lucas Augusto P., BRA, 0.5, 90, 715
+
+%Round: 1
+
+290025 (32)=(32) 290042  B
+290051 (28)<(36) 290168  B
+
+%Round: 2
+
+290168 (14)<(50) 290025  B
+290042 (30)<(34) 290051  B
+
+%Round: 3
+
+290025 (43)>(21) 290051  B
+290168 (36)>(28) 290042  B

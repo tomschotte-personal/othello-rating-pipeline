@@ -1,0 +1,121 @@
+%%Tournament: 2016 US National Championship
+%%Country: USA
+%%Date: 18/06/2016 - 19/06/2016
+%%Sender: David Parsons
+
+
+%_%   177, ROSE, Brian, USA, 5, 244, 2158
+%_%   296, KIERULF, Anders, CHE, 5, 349, 1719
+%_%  4004, SANO, Yoko, J, 4, 351, 1892
+%_%  4043, SEELEY, Ben, USA, 12, 617, 2352
+%_%  4089, CHITRA, Yohanes, USA, 10, 488, 1913
+%_%  6422, PLATT, Jared, USA, 2, 160, 1615
+%_%  6428, BISHOP, Robert, USA, 1, 168, 1504
+%_% 20023, ROSE, Joseph, USA, 3, 185, 1890
+
+%Round 1
+%Ben Seeley 44 Joseph Rose 20 W
+%Yoko Sano 35 Brian Rose 29 W
+%Yohanes Chitra 45 Jared Platt 19 W
+%Robert Bishop 26 Anders Kierulf 38 W
+  4043 (44)>(20)  20023   W
+  4004 (35)>(29)    177   W
+  4089 (45)>(19)   6422   W
+  6428 (26)<(38)    296   W
+
+%Round 2
+%Yohanes Chitra 13 Ben Seeley 51 W
+%Jared Platt 28 Yoko Sano 36 W
+%Brian Rose 39 Anders Kierulf 25 W
+%Joseph Rose 34 Robert Bishop 30 W
+  4089 (13)<(51)   4043   W
+  6422 (28)<(36)   4004   W
+   177 (39)>(25)    296   W
+ 20023 (34)>(30)   6428   W
+
+%Round 3
+%Ben Seeley 52 Yoko Sano 12 W
+%Joseph Rose 23 Brian Rose 41 W
+%Anders Kierulf 24 Yohanes Chitra 40 W
+%Robert Bishop 26 Jared Platt 38 W
+  4043 (52)>(12)   4004   W
+ 20023 (23)<(41)    177   W
+   296 (24)<(40)   4089   W
+  6428 (26)<(38)   6422   W
+
+%Round 4
+%Jared Platt 11 Ben Seeley 53 W
+%Yoko Sano 30 Yohanes Chitra 34 W
+%Brian Rose 40 Robert Bishop 24 W
+%Anders Kierulf 43 Joseph Rose 21 W
+  6422 (11)<(53)   4043   W
+  4004 (30)<(34)   4089   W
+   177 (40)>(24)   6428   W
+   296 (43)>(21)  20023   W
+
+%Round 5
+%Ben Seeley 31 Brian Rose 33 W
+%Yohanes Chitra 41 Robert Bishop 23 W
+%Yoko Sano 26 Anders Kierulf 38 W
+%Joseph Rose 45 Jared Platt 19 W
+  4043 (31)<(33)    177   W
+  4089 (41)>(23)   6428   W
+  4004 (26)<(38)    296   W
+ 20023 (45)>(19)   6422   W
+
+%Round 6
+%Brian Rose 31 Yohanes Chitra 33 W
+%Robert Bishop 2 Ben Seeley 62 W
+%Jared Platt 12 Anders Kierulf 52 W
+%Joseph Rose 36 Yoko Sano 28 W
+   177 (31)<(33)   4089   W
+  6428 (02)<(62)   4043   W
+  6422 (12)<(52)    296   W
+ 20023 (36)>(28)   4004   W
+
+%Round 7
+%Anders Kierulf 12 Ben Seeley 52 W
+%Yohanes Chitra 60 Joseph Rose 4 W
+%Jared Platt 33 Brian Rose 31 W
+%Yoko Sano 27 Robert Bishop 37 W
+   296 (12)<(52)   4043   W
+  4089 (60)>(04)  20023   W
+  6422 (33)>(31)    177   W
+  4004 (27)<(37)   6428   W
+
+%Round 8
+%Ben Seeley 41 Yoko Sano 23 B
+%Yohanes Chitra 40 Anders Kierulf 24 B
+  4043 (41)>(23)   4004   B
+  4089 (40)>(24)    296   B
+
+%Round 9
+%Ben Seeley 39 Yohanes Chitra 25 B
+%Yoko Sano 37 Anders Kierulf 27 B
+  4043 (39)>(25)   4089   B
+  4004 (37)>(27)    296   B
+
+%Round 10
+%Ben Seeley 52 Anders Kierulf 12 B
+%Yohanes Chitra 44 Yoko Sano 20 B
+  4043 (52)>(12)    296   B
+  4089 (44)>(20)   4004   B
+
+%Round 11
+%Anders Kierulf 14 Ben Seeley 50 B
+%Yoko Sano 14 Yohanes Chitra 50 B
+   296 (14)<(50)   4043   B
+  4004 (14)<(50)   4089   B
+
+%Round 12
+%Yoko Sano 23 Ben Seeley 41 B
+%Anders Kierulf 16 Yohanes Chitra 48 B
+  4004 (23)<(41)   4043   B
+   296 (16)<(48)   4089   B
+
+%Round 13
+%Anders Kierulf 24 Yoko Sano 40 B
+%Yohanes Chitra 15 Ben Seeley 49 B
+   296 (24)<(40)   4004   B
+  4089 (15)<(49)   4043   B
+

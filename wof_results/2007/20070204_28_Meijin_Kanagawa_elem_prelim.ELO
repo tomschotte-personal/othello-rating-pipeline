@@ -1,0 +1,57 @@
+%%Tournament: 28th Meijin Kanagawa Elementary School Preliminaries
+%%Country: Japan
+%%Date: 04/02/2007
+%%Sender: Tom Schotte
+
+%Round1
+  5585 >  12375 
+  6899 >   6905 
+  6908 >  12378 
+ 12367 >  12379 
+
+%Round2
+  6899 >   5585 
+  6908 >  12379 
+ 12378 >  12367 
+ 12375 >   6905 
+
+%Round3
+  5585 >   6905 
+  6899 >  12375 
+ 12378 >  12379 
+ 12367 >   6908 
+
+%Round4
+  5585 >   6908 
+  6899 >  12379 
+ 12378 >  12375 
+ 12367 >   6905 
+
+%Round5
+  5585 >  12378 
+  6899 >  12367 
+  6908 >   6905 
+ 12375 >  12379 
+
+%round6
+  5585 >  12379 
+  6908 >   6899 
+ 12378 >   6905 
+ 12375 >  12367 
+
+%round7
+  5585 >  12367 
+  6899 >  12378 
+  6908 >  12375 
+  6905 >  12379 
+
+
+%players
+%1 5585	yasuda	kenji
+%2 6899	shinbo	asakura
+%3 6908	aoki	takayosi
+%4 12378	kawarada	takuya
+%5 12375	kaneko	takumu
+%6 12367	honda	rintaro
+%7 6905	shinbo	mizuki
+%8 12379	kawarada	naoya

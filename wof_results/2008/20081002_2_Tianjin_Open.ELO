@@ -1,0 +1,77 @@
+%%Tournament: 2nd Tianjin Open
+%%Country: China
+%%Date: 02/10/2008
+%%Sender: Tom Schotte
+
+
+%round 1
+7112 > 7145
+7110 < 7148
+7150 < 7103
+7105 < 7118
+7151 > 7152
+
+%round 2
+7112 > 7148
+7110 > 7145
+7105 > 7152
+7116 < 7103
+7151 < 7118
+
+%round 3
+7112 > 7103
+7110 < 7118
+7150 < 7151
+7105 < 7116
+7145 > 7148
+
+%round 4
+7112 > 7118
+7110 > 7150
+7105 < 7103
+7116 > 7151
+7148 > 7152
+
+%round 5
+7112 > 7152
+7110 < 7105
+7150 > 7118
+7116 > 7148
+7151 > 7145
+
+%round 6
+7112 > 7116
+7150 < 7152
+7105 > 7145
+7151 < 7148
+7103 > 7118
+
+%round 7
+7110 > 7152
+7150 < 7116
+7105 > 7148
+7151 < 7103
+7145 < 7118
+
+%semi-final
+7118 < 7112
+7116 > 7103
+
+%3/4 final
+7118 > 7116
+
+%final
+7103 > 7112
+
+%%PLAYERS
+%1 Ghostors(FENG Ling) [7112]
+%2 Jiale(FANG Yun) [7110]
+%3 Cixu(ZHAO Entie) [7150]
+%4 Liulangzhe(CUI Long) [7105]
+%5 Rola(JIANG Bofeng) [7116]
+%6 Ciyuan(ZHOU Lijia) [7151]
+%7 Qingzhong(ZHAO Jin) [7145]
+%8 255(HU Yingchong) [7148]
+%9 Kongxinshu(CHEN Xu) [7103]
+%10 Bat(KANG Le) [7118]
+%11 Feifei(CHEN Suhui)[7152]

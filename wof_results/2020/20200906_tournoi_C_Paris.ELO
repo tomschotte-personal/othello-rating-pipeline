@@ -1,0 +1,50 @@
+%%Tournament: Tournoi C Paris
+%%Country: France
+%%Date: 06/09/2020
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/10/11 13:09
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3600, BENOIT, Serge, FRA,  5, 236, 1406
+%_%     228, BUSUTTIL, Michel, FRA,  4, 230, 1531
+%_% + 50116, CERF, Juliette, FRA,  3, 184, 0
+%_%     275, OVION, Jacques, FRA,  2, 151, 1131
+%_%   50110, ROUSSELLE, Yolande, FRA,  1, 74, 863
+%_%   50097, OVION, Alix-Anne, FRA,  0, 85, 727
+
+
+
+%Round: 1
+
+ 50110 (38)>(26)  50097  B
+  3600 (43)>(21)    275  B
+ 50116 (18)<(46)    228  B
+
+%Round: 2
+
+   275 (61)>(03)  50110  B
+ 50097 (21)<(43)  50116  B
+   228 (22)<(42)   3600  B
+
+%Round: 3
+
+ 50110 (08)<(56)  50116  B
+   275 (10)<(54)    228  B
+  3600 (54)>(10)  50097  B
+
+%Round: 4
+
+   228 (52)>(12)  50110  B
+ 50116 (18)<(46)   3600  B
+ 50097 (20)<(44)    275  B
+
+%Round: 5
+
+ 50110 (13)<(51)   3600  B
+   228 (56)>(08)  50097  B
+   275 (15)<(49)  50116  B
+
+
+%%Added results

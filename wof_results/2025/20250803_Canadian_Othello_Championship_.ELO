@@ -1,0 +1,39 @@
+%%Tournament: Canadian Othello Championship 2025
+%%Country: Canada
+%%Date: 03/08/2025 - 05/08/2025
+%%Sender: ATAMANOV Dmitry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   13484, SHIMOMURA, Shiki, JPN, 6, 154, 2414
+%_%    4001, FU, Jacky, CAN, 3, 121, 2100
+%_%    6405, MA, Derek, HKG, 3, 109, 1757
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/350
+
+%Round: 1
+
+  6405 (22)<(42)   4001  B
+
+%Round: 2
+
+ 13484 (40)>(24)   6405  B
+
+%Round: 3
+
+  4001 (29)<(35)  13484  B
+
+%Round: 4
+
+  4001 (29)<(35)   6405  B
+
+%Round: 5
+
+  6405 (28)<(36)  13484  B
+
+%Round: 6
+
+ 13484 (43)>(21)   4001  B

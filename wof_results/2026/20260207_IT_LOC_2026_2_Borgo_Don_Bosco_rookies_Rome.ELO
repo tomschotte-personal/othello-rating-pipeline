@@ -1,0 +1,58 @@
+%%Tournament: IT LOC 2026 - 2nd "Borgo Don Bosco rookies" (Rome)
+%%Country: Italy
+%%Date: 07/02/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +40462, Calabresi, Stefano, ITA, 4, 187, -
+%_%   40230, IANNUZZI, Emanuele, ITA, 3, 160, 1181
+%_%   40322, CORSI, Gioia, ITA, 2.5, 145, -
+%_%   40319, GIACCONE, Tommaso, ITA, 2, 118, -
+%_%   40317, FORIERE, Flavio, ITA, 2, 101, -
+%_%   40321, SERRAINO, Tiziana, ITA, 2, 116, -
+%_%  +40463, Benedetti, Emily, ITA, 2, 124, -
+%_%   40354, COVIELLO, Edoardo, ITA, 2, 88, -
+%_%   40219, MAZZOCCO, Luca, ITA, 1.5, 138, -
+%_%   40208, FIORILLO, Luca, ITA, 1.5, 125, 186
+%_%  +40464, Galka, Wioletta, ITA, 1, 95, -
+%_%   40324, FORIERE, Tiberio, ITA, 0.5, 99, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/472
+
+%Round: 1
+
+ 40317 (20)<(44)  40230  B
+ 40324 (32)=(32)  40208  B
+ 40463 (27)<(37)  40319  B
+ 40464 (23)<(41)  40322  B
+ 40354 (42)>(22)  40219  B
+ 40321 (13)<(51)  40462  B
+
+%Round: 2
+
+ 40219 (53)>(11)  40464  B
+ 40317 (35)>(29)  40463  B
+ 40208 (31)<(33)  40321  B
+ 40230 (49)>(15)  40324  B
+ 40322 (18)<(46)  40354  B
+ 40462 (41)>(23)  40319  B
+
+%Round: 3
+
+ 40463 (33)>(31)  40324  B
+ 40319 (34)>(30)  40208  B
+ 40321 (27)<(37)  40317  B
+ 40322 (32)=(32)  40219  B
+ 40230 (24)<(40)  40462  B
+
+%Round: 4
+
+ 40462 (55)>(09)  40317  B
+ 40219 (21)<(43)  40230  B
+ 40319 (24)<(40)  40322  B
+ 40464 (29)<(35)  40463  B
+ 40324 (21)<(43)  40321  B

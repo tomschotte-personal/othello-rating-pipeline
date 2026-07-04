@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 6
+%%Country: France
+%%Date: 22/11/2014
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/11/23 22:28
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3518, DELAUNAY, Arnaud, FRA,  5, 253, 2148
+%_%      11, LAZARD, Emmanuel, FRA,  4, 222, 2017
+%_% + 50075, BERTRANDIAS, Marc, FRA,  3, 176, 0
+%_% +  9025, TOUCHENE, Foued, DZA,  3, 155, 0
+%_%    3600, BENOIT, Serge, FRA,  2, 149, 1418
+%_%    3734, CLUZON, Gilles, FRA,  2, 102, 1387
+%_%     228, BUSUTTIL, Michel, FRA,  1, 103, 1356
+
+
+
+%Round: 1
+
+  3518 (57)>(07)   9025  B
+  3734 (18)<(46)  50075  B
+   228 (08)<(56)     11  B
+
+%Round: 2
+
+  9025 (53)>(11)   3734  B
+    11 (18)<(46)   3518  B
+ 50075 (47)>(17)   3600  B
+
+%Round: 3
+
+  3518 (47)>(17)  50075  B
+  3600 (58)>(06)    228  B
+  9025 (09)<(55)     11  B
+
+%Round: 4
+
+ 50075 (26)<(38)     11  B
+   228 (31)<(33)   3734  B
+  3600 (25)<(39)   3518  B
+
+%Round: 5
+
+    11 (55)>(09)   3600  B
+  3734 (00)<(64)   3518  B
+  9025 (46)>(18)    228  B
+
+
+%%Added results

@@ -1,0 +1,52 @@
+%%Tournament: 179th Kyoto Meeting
+%%Country: Japan
+%%Date: 10/11/2002
+%%Sender: Tom Schotte
+
+%Round1
+5526 > 11431
+5507 > 6929
+10038 > 6995
+6970 > 10008
+7081 > 10009
+
+%Round2
+10038 > 5526
+6970 > 5507
+10009 > 6995
+7081 > 11431
+6929 > 10008
+
+%Round3
+5526 > 10009
+11431 > 10008
+5507 > 7081
+6995 > 6929
+6970 > 10038
+
+%Round4
+5526 > 6970
+11431 > 6929
+5507 > 10038
+6995 > 7081
+10009 > 10008
+
+%Round5
+5526 > 5507
+11431 > 6970
+10038 > 10009
+6995 > 10008
+6929 > 7081
+
+
+%players
+%1 5526	uno	toshihiro
+%2 11431	maeno	ken'ichi
+%3 5507	tsuchida	daisuke
+%4 10038	wazuki	hiroyuki
+%5 6995	funakoshi	shogo
+%6 6970 KUDASHOU Takahiro
+%7 10009 TARU Eiichi
+%8 7081	kado	naoki
+%9 6929 IO Hideo
+%10 10008	okuda	masashi

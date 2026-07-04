@@ -1,0 +1,92 @@
+%%Tournament: 197th Kyoto Meeting
+%%Country: Japan
+%%Date: 09/05/2004
+%%Sender: Tom Schotte
+
+%Round1
+6970 > 5669
+6995 > 7082
+10119 > 10010
+5526 > 7054
+10123 > 10118
+6860 > 10129
+10125 > 6976
+10008 > 10122
+
+%Round2
+6970 > 10008
+6995 > 6860
+5669 > 7082
+10119 > 10123
+5526 > 10125
+7054 > 6976
+10122 > 10010
+7081 > 12041
+10118 > 10129
+
+%Round3
+6970 > 7081
+6995 > 5526
+5669 > 10118
+7054 > 10123
+6860 > 10119
+6976 > 10010
+10122 > 10125
+10129 > 7082
+10008 > 12041
+
+%Round4
+6970 > 6995
+5669 > 5526
+7054 > 10119
+10123 > 10008
+6860 > 7081
+6976 > 12041
+10122 > 10118
+10125 > 10129
+10010 > 7082
+
+%Round5
+6970 > 6860
+6995 > 10122
+5669 > 7054
+10119 > 10125
+5526 > 6976
+10123 > 7081
+10129 > 12041
+10118 > 7082
+10010 > 10008
+
+%Round6
+6970 > 10123
+6995 > 7054
+5669 > 6860
+10119 > 10122
+5526 > 7081
+6976 > 10008
+10125 > 10118
+10129 > 10010
+%two players left
+
+
+
+
+%players
+%1 6970	kudashou	takahiro
+%2 6995	funakoshi	shogo
+%3 5669	nakano	shunsuke
+%4 10119	sentoku	hidefumi
+%5 5526	uno	toshihiro
+%6 7054	nakamori	hiroki
+%7 10123	nakamura	shuhei
+%8 6860	miyazaki	yuji
+%9 6976	asano	yuki
+%10 10122	tanino	takumi
+%11 10125	nakano	takao
+%12 10129	eikichi	masanobu
+%13 7081	kado	naoki
+%14 10118	masuda	kazuhisa
+%15 10008	okuda	masashi
+%16 10010	aoki	akira
+%17 7082	matsuzaka	katsuhiko
+%18 12041	nakajima	hiroichi

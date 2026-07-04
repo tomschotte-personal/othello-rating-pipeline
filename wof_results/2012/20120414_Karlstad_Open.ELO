@@ -1,0 +1,25 @@
+%%Tournament: Karlstad Open
+%%Country: Sweden
+%%Date: 14/04/2012
+%%Sender: Henry
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2012/05/02 14:38
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  150009, WETTERGREN, Niklas, S,  2, 73
+%_%    1454, FRONMARK, Marcus, S,  0, 55
+
+
+
+%Round: 1
+
+  1454 (31)<(33) 150009  B
+
+%Round: 2
+
+150009 (40)>(24)   1454  B
+
+
+%%Added results
+

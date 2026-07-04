@@ -1,0 +1,33 @@
+%%Tournament: 29th Kanagawa All Japan Preliminaries Master
+%%Country: Japan
+%%Date: 11/06/2001
+%%Sender: Tom Schotte
+
+%Round1
+   881 >  11114 
+  6843 >    175 
+
+%Round2
+  6830 >    175 
+  6843 >  11114 
+
+%Round3
+   881 >   6843 
+  6830 >  11114 
+
+%Round4
+  6830 >    881 
+   175 >  11114 
+
+%Round5
+   881 >    175 
+  6843 >   6830 
+
+
+%players
+%19 881	okubo	ryoichi
+%20 6830	takahashi	kanji
+%21 6843	itagaki	kenichi
+%22 175	yasojima	keiji
+%23 11114	koiwai	katsuharu
+

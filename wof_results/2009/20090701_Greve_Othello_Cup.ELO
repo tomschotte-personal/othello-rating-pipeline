@@ -1,0 +1,73 @@
+%%Tournament: Greve Othello Cup
+%%Country: Denmark
+%%Date: 01/07/2009
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 21:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      92, FELDBORG, Karsten, DK,  7, 318
+%_%      96, VALLUND, Henrik, DK,  5, 295
+%_%    1059, STOEVRING, Pia, DK,  4, 265
+%_%    1047, STORM, Henning, DK,  3.5, 252
+%_%    1981, STOKKE, Solrun, DK,  3.5, 242
+%_%    1098, STORM, Line Kjaergaard, DK,  3, 191
+%_%   70000, MIRALLES DIAZ, Maria, D,  0.5, 92
+%_%   70001, BLUM, Gerhard, D,  0.5, 73
+
+
+
+%Round: 1
+
+    96 (52)>(12)  70000 B
+  1047 (33)>(31)   1059 B
+    92 (56)>(08)   1098 B
+  1981 (53)>(11)  70001 B
+
+%Round: 2
+
+    96 (48)>(16)   1047 B
+  1059 (59)>(05)  70000 B
+    92 (54)>(10)  70001 B
+  1981 (57)>(07)   1098 B
+
+%Round: 3
+
+    96 (48)>(16)   1059 B
+  1047 (50)>(14)  70000 B
+    92 (41)>(23)   1981 B
+  1098 (46)>(18)  70001 B
+
+%Round: 4
+
+    96 (47)>(17)   1981 B
+    92 (39)>(25)   1047 B
+  1059 (62)>(02)  70001 B
+  1098 (47)>(17)  70000 B
+
+%Round: 5
+
+  1981 (14)<(50)     96 B
+  1047 (14)<(50)     92 B
+  1059 (52)>(12)  70000 B
+  1098 (64)>(00)  70001 B
+
+%Round: 6
+
+    96 (21)<(43)     92 B
+  1047 (28)<(36)   1981 B
+  1059 (45)>(19)   1098 B
+ 70000 (32)=(32)  70001 B
+
+%Round: 7
+
+    92 (35)>(29)     96 B
+  1047 (54)>(10)   1981 B
+
+%Round: 8
+
+  1981 (32)=(32)   1047 B
+
+
+%%Added results

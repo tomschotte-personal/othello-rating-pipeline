@@ -1,0 +1,63 @@
+%%Tournament: Copenhagen Open 2015
+%%Country: Denmark
+%%Date: 09/05/2015
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/05/09 16:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  6, 314, 2106
+%_%    1025, BADSTED, Palle, DNK,  5.5, 260, 1659
+%_%      93, LUND JENSEN, Erik, DNK,  5, 291, 2025
+%_%      96, VALLUND, Henrik, DNK,  3.5, 241, 1894
+%_%    1000, MICHAELSEN, Peter, DNK,  3, 196, 1215
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  3, 182, 1509
+%_%    1075, PEDERSEN, Mads, DNK,  2, 140, 711
+
+
+
+%Round: 1
+
+  1019 (04)<(60)     92  B
+  1075 (34)>(30)   1000  B
+    96 (19)<(45)     93  B
+
+%Round: 2
+
+  1025 (50)>(14)   1075  B
+    93 (27)<(37)   1019  B
+  1000 (33)>(31)     96  B
+
+%Round: 3
+
+    92 (25)<(39)     93  B
+    96 (32)=(32)   1025  B
+  1019 (17)<(47)   1000  B
+
+%Round: 4
+
+  1075 (19)<(45)     96  B
+  1000 (06)<(58)     92  B
+  1025 (40)>(24)   1019  B
+
+%Round: 5
+
+    93 (53)>(11)   1000  B
+  1019 (51)>(13)   1075  B
+    92 (37)>(27)   1025  B
+
+%Round: 6
+
+    96 (55)>(09)   1019  B
+  1025 (36)>(28)     93  B
+  1075 (15)<(49)     92  B
+
+%Round: 7
+
+  1000 (29)<(35)   1025  B
+    92 (45)>(19)     96  B
+    93 (59)>(05)   1075  B
+
+
+%%Added results

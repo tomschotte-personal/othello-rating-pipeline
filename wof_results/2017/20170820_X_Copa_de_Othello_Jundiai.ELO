@@ -1,0 +1,50 @@
+%%Tournament: X Copa de Othello - Jundiai
+%%Country: Brazil
+%%Date: 20/08/2017
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/29 10:39
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290007, TAKEMOTO, Jun, BRA,  5, 242, 1856
+%_%  290000, SILVA, Fabricio, BRA,  4, 231, 2121
+%_%  290035, JARA, Alfredo Pene, BRA,  2, 153, 0
+%_%  290025, CORREIA JR., Moises, BRA,  2, 121, 0
+%_%  290043, TUBERO, Jesualdo, BRA,  1, 109, 0
+%_%  290285, SILVA, Rogerio, BRA,  1, 104, 0
+
+
+
+%Round: 1
+
+290035 (46)>(18) 290025  B
+290007 (52)>(12) 290043  B
+290000 (64)>(00) 290285  B
+
+%Round: 2
+
+290025 (07)<(57) 290007  B
+290285 (38)>(26) 290035  B
+290043 (13)<(51) 290000  B
+
+%Round: 3
+
+290007 (43)>(21) 290285  B
+290043 (23)<(41) 290025  B
+290000 (50)>(14) 290035  B
+
+%Round: 4
+
+290285 (15)<(49) 290043  B
+290035 (15)<(49) 290007  B
+290025 (21)<(43) 290000  B
+
+%Round: 5
+
+290043 (12)<(52) 290035  B
+290025 (34)>(30) 290285  B
+290000 (23)<(41) 290007  B
+
+
+%%Added results

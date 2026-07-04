@@ -1,0 +1,58 @@
+%%Tournament: Selection CF 2010 Montbard
+%%Country: France
+%%Date: 03/07/2010
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/07/09 22:33
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% + 50030, Juigner, Arthur, F,  5, 258
+%_%    3791, AVY, Jean-Pierre, F,  4, 180
+%_% + 50029, Yussupov, Artur, F,  3, 179
+%_%   50002, LEFEBVRE, Cyril, F,  3, 168
+%_%    3801, AVY, Bernadette, F,  3, 160
+%_%    3799, TREBUJAIS, Cecile, F,  2, 164
+%_%    3766, DELGADO, Marie-Louise, F,  2, 156
+%_% + 50028, Bruiant, Jacky, F,  2, 113
+%_% + 50031, Basset, Claudine, F,  1, 102
+
+
+
+%Round: 1
+
+  3799 (10)<(54)   3791 B
+  3801 (43)>(21)  50031 B
+ 50028 (40)>(24)   3766 B
+ 50002 (33)>(31)  50029 B
+
+%Round: 2
+
+ 50031 (09)<(55)   3799 B
+  3766 (20)<(44)   3801 B
+ 50030 (59)>(05)  50028 B
+  3791 (33)>(31)  50002 B
+
+%Round: 3
+
+ 50002 (45)>(19)  50031 B
+  3801 (11)<(53)  50030 B
+ 50028 (13)<(51)   3791 B
+ 50029 (34)>(30)   3799 B
+
+%Round: 4
+
+  3766 (21)<(43)  50029 B
+  3791 (09)<(55)  50030 B
+  3799 (49)>(15)  50028 B
+ 50002 (46)>(18)   3801 B
+
+%Round: 5
+
+ 50031 (13)<(51)   3766 B
+  3801 (44)>(20)   3799 B
+ 50029 (31)<(33)   3791 B
+ 50030 (51)>(13)  50002 B
+
+
+%%Added results

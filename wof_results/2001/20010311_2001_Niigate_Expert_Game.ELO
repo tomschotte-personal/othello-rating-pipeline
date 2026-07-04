@@ -1,0 +1,47 @@
+%%Tournament: 2001 Niigata Expert Game
+%%Country: Japan
+%%Date: 11/03/2001
+%%Sender: Tom Schotte
+
+%http://www4.plala.or.jp/sko/suiyoubi_no_kai/s/result/ngmei2001.html
+
+%Round1
+   488 >   7051  
+  7047 >   7096  
+  7048 >  11996  
+  7046 >  10381  
+
+%Round2
+   488 >   7046  
+  7047 >   7048  
+  7051 >  10381  
+  7096 >  11996  
+
+%Round3
+   488 >   7047  
+  7048 >   7096  
+  7051 >   7046  
+ 11996 >  10381  
+
+%Round4
+   488 >   7048  
+  7047 >   7051  
+  7096 >  10381  
+  7046 >  11996  
+
+%Round5
+   488 >   7096  
+  7047 >   7046  
+  7048 >  10381  
+  7051 >  11996  
+
+
+%players
+%1 488	takizawa	masaki
+%2 7047	umezawa	ogata
+%3 7048	kanda	yoshihiro
+%4 7051	okuno	tomoji
+%5 7096	suzuki	nobuyuki
+%6 7046	sasaki	sadayuki
+%7 11996	watanabe	teruko
+%8 10381	iwasaka	nishimura

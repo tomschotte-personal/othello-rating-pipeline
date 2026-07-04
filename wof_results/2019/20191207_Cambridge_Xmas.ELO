@@ -1,0 +1,56 @@
+%%Tournament: Cambridge Xmas friendly
+%%Country: Great-Britain
+%%Date: 07/12/2019
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader.
+%%CreationDate: 2019/12/10 12:00
+
+%          ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%        79, LEADER, Imre, GBR, 8, ,
+%_%       320, PLOWMAN, Guy, GBR, 6, ,
+%_%    100027, PLOWMAN, Mark, GBR, 3.5, ,
+%_%    100037, PLOWMAN, Anya, GBR, 2.5, ,
+%_%    100042, PLOWMAN, Sophie, GBR, 0, ,
+
+%Round: 1
+100027 (32)=(32) 100037   
+    79 (41)>(23) 100042   
+  
+%Round: 2
+100037 (49)>(15) 100042   
+   320 (22)<(42)     79   
+    
+%Round: 3
+100042 (07)<(57)    320   
+    79 (52)>(12) 100027    
+ 
+%Round: 4
+   320 (59)>(05) 100037 
+100027 (61)>(03) 100042 
+     
+%Round: 5
+   320 (58)>(06) 100027   
+100037 (24)<(40)     79   
+    
+%Round: 6
+100037 (22)<(42) 100027   
+100042 (19)<(45)     79   
+
+%Round: 7
+100042 (11)<(53) 100037   
+    79 (39)>(25)    320 
+
+%Round: 8
+   320 (56)>(08) 100042   
+100027 (10)<(54)     79 
+    
+%Round: 9
+100037 (18)<(46)    320   
+100042 (19)<(45) 100027 
+
+%Round: 10
+100027 (18)<(46)    320   
+    79 (44)>(20) 100037   
+
+%%Added results

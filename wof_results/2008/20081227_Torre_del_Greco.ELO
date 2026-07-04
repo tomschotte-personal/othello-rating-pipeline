@@ -1,0 +1,61 @@
+%%Tournament: Torneo di Natale
+%%Country: Italy
+%%Date: 27/12/2008
+%%Sender: Donato Barnaba
+
+
+%_% 2843, STANZIONE, Pierluigi
+%_% 3037, DI MATTEI, Alessandro
+%_% +40003, COSENZA, Mariana,     {I}
+%_% 2933, PRIVITERA, Francesco
+%_% 3001, LIGUORI, Tommaso
+%_% 3036, SAGRATELLA, Simone
+%_% 2839, LAMBERTI, Luigi
+%_% +40004, DEL GATTO, Antonino,     {I}
+%_% 2913, AMIRANTE, Andrea
+%_% 3012, OREFICE, Roberto
+%_% 3011, OREFICE, Antonio
+%_% 3026, BALENA, Salvatore
+%_% 2851, ROMANO, Benedetto
+
+
+
+%Round: 1
+
+3037 (45)>(19) 3001 B
+40004 (27)<(37) 2843 B
+2851 (56)>(8) 2913 B
+2933 (12)<(52) 2839 B
+3036 (53)>(11) 40003 B
+
+%Round: 2
+
+2839 (11)<(53) 3037 B
+2843 (19)<(45) 2851 B
+3001 (52)>(12) 3036 B
+40003 (64)>(0) 40004 B
+2913 (43)>(21) 2933 B
+
+%Round: 3
+
+3037 (32)=(32) 2851 B
+3001 (60)>(4) 2843 B
+40003 (0)<(64) 2839 B
+3036 (52)>(12) 2913 B
+40004 (16)<(48) 2933 B
+
+%Round: 4
+
+3036 (9)<(55) 3037 B
+2851 (52)>(12) 3001 B
+2839 (37)>(27) 40004 B
+2933 (37)>(27) 2843 B
+2913 (43)>(21) 40003 B
+
+%Round: 5
+
+2851 (58)>(6) 2839 B
+3037 (63)>(1) 2913 B
+3001 (43)>(21) 2933 B
+40004 (15)<(49) 3036 B
+2843 (56)>(8) 40003 B

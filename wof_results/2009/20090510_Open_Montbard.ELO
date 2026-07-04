@@ -1,0 +1,51 @@
+%%Tournament: Open Montbard
+%%Country: France
+%%Date: 10/05/2009
+%%Sender: Jean-Pierre Avy
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/05/14 12:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     839, KASHIWABARA, Takuji, F,  5, 221
+%_%    3384, AUZENDE, Frederic, F,  4, 222
+%_%    3597, BARRE, Sebastien, F,  3, 218
+%_%    3515, BUTIN, Pierre, F,  3, 197
+%_%    3766, DELGADO, Marie-Louise, F,  2, 124
+%_%    3791, AVY, Jean-Pierre, F,  2, 97
+%_%    3790, CAPLET, Alain, F,  1, 81
+
+
+
+%Round: 1
+
+   839 (43)>(21)   3384 B
+  3790 (12)<(52)   3766 B
+  3597 (26)<(38)   3515 B
+
+%Round: 2
+
+  3515 (58)>(06)   3791 B
+  3384 (55)>(09)   3790 B
+  3766 (28)<(36)    839 B
+
+%Round: 3
+
+  3384 (60)>(04)   3766 B
+   839 (41)>(23)   3515 B
+  3791 (03)<(61)   3597 B
+
+%Round: 4
+
+  3790 (16)<(48)   3791 B
+  3515 (18)<(46)   3384 B
+  3597 (27)<(37)    839 B
+
+%Round: 5
+
+  3791 (00)<(64)    839 B
+  3515 (60)>(04)   3790 B
+  3766 (00)<(64)   3597 B
+
+
+%%Added results

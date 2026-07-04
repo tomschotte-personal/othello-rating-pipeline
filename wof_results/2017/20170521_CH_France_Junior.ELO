@@ -1,0 +1,48 @@
+%%Tournament: Championnat de France Junior 2017
+%%Country: France
+%%Date: 21/05/2017
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/05/28 10:58
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50067, JUIGNER, Felix, FRA,  3, 162, 1607
+%_% + 50098, BENOIT, Mathis, FRA,  2, 135, 0
+%_%   50053, TASTET, Remi, FRA,  2, 115, 1186
+%_%   50081, TASTET, Sophie, FRA,  2, 114, 911
+%_% + 50101, KEUMAYOU, Esther, FRA,  2, 66, 0
+%_% + 50100, ROQUES, Raphael, FRA,  1, 86, 0
+%_% + 50099, BENOIT, Elijah, FRA,  1, 85, 0
+%_% + 50107, CISSOKHO, Aminata, FRA,  1, 76, 0
+%_% + 50102, BALDE, Mama, FRA,  1, 51, 0
+%_% + 50106, BALDE, Mariama, FRA,  0, 70, 0
+
+
+
+%Round: 1
+
+ 50106 (10)<(54)  50081  B
+ 50053 (56)>(08)  50100  B
+ 50102 (34)>(30)  50099  B
+ 50067 (64)>(00)  50101  B
+ 50107 (11)<(53)  50098  B
+
+%Round: 2
+
+ 50099 (34)>(30)  50106  B
+ 50101 (33)>(31)  50107  B
+ 50098 (18)<(46)  50053  B
+ 50100 (47)>(17)  50102  B
+ 50081 (17)<(47)  50067  B
+
+%Round: 3
+
+ 50053 (13)<(51)  50067  B
+ 50107 (34)>(30)  50106  B
+ 50101 (33)>(31)  50100  B
+ 50081 (43)>(21)  50099  B
+ 50102 (00)<(64)  50098  B
+
+
+%%Added results

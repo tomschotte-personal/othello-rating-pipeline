@@ -1,0 +1,34 @@
+%%Tournament: Campionato Ligure 2016 - 7a Tappa
+%%Country: Italy
+%%Date: 07/06/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Chiara Gigliucci ( 05/09/2016 22:20 )
+
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 40096, TOMASI, Fabio, I, 4, 201
+%_%  2855, BIANCHI, Paolo, I, 4, 199
+%_% 40109, LORENZONI, Marco, I, 3, 161
+%_% 40102, OTTONELLO, Piera, I, 2, 130
+%_% 40098, BREGANTE, Alessio, I, 2, 114
+
+%Round 1 
+ 40098 (24)<(40) 40109 B
+  2855 (29)<(35) 40096 B
+
+%Round 2 
+ 40109 (27)<(37)  2855 B
+ 40102 (18)<(46) 40098 B
+
+%Round 3 
+  2855 (42)>(22) 40102 B
+ 40096 (19)<(45) 40109 B
+
+%Round 4 
+ 40102 (09)<(55) 40096 B
+ 40098 (06)<(58)  2855 B
+
+%Round 5 
+ 40096 (59)>(05) 40098 B
+ 40109 (16)<(48) 40102 B
+

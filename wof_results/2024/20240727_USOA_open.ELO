@@ -1,0 +1,49 @@
+%%Tournament: USOA Open
+%%Country: USA
+%%Date: 27/07/2024
+%%Sender: Kevin Ruby
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    4043, SEELEY, Ben, USA, 5, 259, 2386
+%_%  +20067, Jenny, San, USA, 3, 179, -
+%_%   20038, RUBY, Kevin, USA, 3, 174, 1514
+%_%   20057, KOSSAKOVSKI, Dmitri, USA, 3, 167, 1184
+%_%    6428, BISHOP, Robert, USA, 1, 114, 1574
+%_%  +20068, Seijii, Okuno, USA, 0, 67, -
+
+%Round: 1
+
+ 20057 (43)>(21)  20067  B
+  6428 (22)<(42)  20038  B
+  4043 (57)>(07)  20068  B
+
+%Round: 2
+
+ 20068 (18)<(46)  20057  B
+ 20038 (13)<(51)   4043  B
+ 20067 (49)>(15)   6428  B
+
+%Round: 3
+
+ 20068 (20)<(44)  20038  B
+  4043 (45)>(19)  20067  B
+ 20057 (57)>(07)   6428  B
+
+%Round: 4
+
+ 20038 (51)>(13)  20057  B
+ 20067 (50)>(14)  20068  B
+  6428 (14)<(50)   4043  B
+
+%Round: 5
+
+ 20057 (08)<(56)   4043  B
+ 20068 (08)<(56)   6428  B
+ 20038 (24)<(40)  20067  B
+
+%%Added results
+
+ 20067 (24)<(40)   4043  B

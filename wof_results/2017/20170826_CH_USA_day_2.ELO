@@ -1,0 +1,48 @@
+%%Tournament: 2017 US Nationals - Sylvia Petric Memorial - day 2
+%%Country: USA
+%%Date: 26/08/2017 - 27/08/2017
+%%Sender: David Rockwell
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/09/10 13:08
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     177, ROSE, Brian, USA,  5, 233, 2145
+%_%    6422, PLATT, Jared, USA,  3.5, 198, 1685
+%_%   20023, ROSE, Joseph, USA,  2, 183, 1870
+%_%   14065, Tamaki, Tomoyasu, JPN,  1.5, 154, 0
+
+
+
+%Round: 1
+
+   177 (36)>(28)  14065  B
+  6422 (47)>(17)  20023  B
+
+%Round: 2
+
+ 20023 (16)<(48)    177  B
+  6422 (32)=(32)  14065  B
+
+%Round: 3
+
+   177 (22)<(42)   6422  B
+ 14065 (19)<(45)  20023  B
+
+%Round: 4
+
+ 14065 (10)<(54)    177  B
+ 20023 (50)>(14)   6422  B
+
+%Round: 5
+
+   177 (37)>(27)  20023  B
+ 14065 (29)<(35)   6422  B
+
+%Round: 6
+
+ 20023 (28)<(36)  14065  B
+  6422 (28)<(36)    177  B
+
+
+%%Added results

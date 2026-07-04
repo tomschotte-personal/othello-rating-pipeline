@@ -1,0 +1,97 @@
+%%Tournament: 60th Osaka Meeting
+%%Country: Japan
+%%Date: 20/01/2002
+%%Sender: Tom Schotte
+
+%http://www.eonet.ne.jp/~kinki/oosaka/2002/02-01/oosaka02-01B.html
+
+%Round1
+ 10351 >  11630  
+  6825 >  11625  
+ 11753 >   5588  
+ 11799 >  11626  
+ 10014 >  12077  
+ 11854 >  11631  
+  6930 >  11781  
+ 11774 >  11628  
+ 11855 >  11779  
+  6929 >  11627  
+ 11782 >  10227  
+
+%Round2
+ 10351 >   6929  
+  5588 >  10227  
+ 11753 >  11631  
+ 11799 >  10014  
+ 11854 >  11782  
+  6930 >   6825  
+ 11774 >  11855  
+ 11627 >  11628  
+ 11626 >  12077  
+ 11779 >  11630  
+ 11625 >  11781  
+
+%Round3
+ 10351 >  11854  
+  5588 >  11625  
+  6825 >  11626  
+ 11799 >  11753  
+ 10014 >   6929  
+ 11774 >   6930  
+ 11627 >  11855  
+ 11782 >  11779  
+ 11630 >  12077  
+ 11781 >  11628  
+ 11631 >  10227  
+
+%Round4
+ 10351 >  11774  
+  5588 >   6930  
+  6825 >  11799  
+ 11753 >  11854  
+ 11627 >  10014  
+  6929 >  11782  
+ 11626 >  11855  
+ 11628 >  12077  
+ 11779 >  11631  
+ 11630 >  11625  
+ 10227 >  11781  
+
+%Round5
+  5588 >  11774  
+  6825 >  10351  
+ 11753 >  11627  
+ 11799 >   6929  
+ 10014 >  11779  
+ 11854 >  11630  
+  6930 >  11626  
+ 11855 >  11782  
+ 11628 >  10227  
+ 11625 >  11631  
+ 11781 >  12077  
+
+
+%players
+%1 10351	tokumaru	kikuchi
+%2 5588	kobayashi	ritsuko
+%3 6825	shinkawa	hiroki
+%4 11753	yokoyama	chiaki
+%5 11799	hashimoto	yoshiaki
+%6 10014	suzuki	takao
+%7 11854	hirai	toshimitsu
+%8 6930	nishimine	satoru
+%9 11774	watase	makoto
+%10 11627	hiraki	toshio
+%11 11855	kikuchi	ryuichi
+%12 6929	io	hideo
+%13 11626	yoshimura	osamu
+%14 11628	takeno	hiroaki
+%15 11779	shima	miyuki
+%16 11625	hiraki	tatsuya
+%17 11782	murakami	tadayoshi
+%18 11630	tatsumi	maiho
+%19 11781	tsuyuzaki	miria
+%20 10227	yokoyama	takako
+%21 11631	tatsumi	akihiro
+%22 12077	shima	kyoko
+

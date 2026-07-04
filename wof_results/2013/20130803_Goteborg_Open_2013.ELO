@@ -1,0 +1,50 @@
+%%Tournament: Goteborg Open
+%%Country: Sweden
+%%Date: 03/08/2013
+%%Sender: Mateusz Sosnowski
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/08/03 19:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    6552, ANDERSSON, Mathias, SWE,  4, 229, 1896
+%_%  150009, WETTERGREN, Niklas, SWE,  3.5, 205, 1953
+%_%  150016, EKLUND, Oskar, SWE,  3, 191, 1960
+%_%    1569, RIBGUTH, Michael, SWE,  3, 151, 1493
+%_% +150029, JORGENSEN, Andreas, SWE,  1.5, 133, 0
+%_% +150031, JORGENSEN, Hugo, SWE,  0, 51, 0
+
+
+
+%Round: 1
+
+  6552 (52)>(12)   1569  B
+150016 (57)>(07) 150029  B
+150031 (00)<(64) 150009  B
+
+%Round: 2
+
+150029 (17)<(47)   6552  B
+  1569 (53)>(11) 150031  B
+150009 (46)>(18) 150016  B
+
+%Round: 3
+
+  6552 (58)>(06) 150031  B
+150029 (32)=(32) 150009  B
+150016 (47)>(17)   1569  B
+
+%Round: 4
+
+150009 (35)>(29)   6552  B
+150031 (16)<(48) 150016  B
+  1569 (33)>(31) 150029  B
+
+%Round: 5
+
+  6552 (43)>(21) 150016  B
+150009 (28)<(36)   1569  B
+150029 (46)>(18) 150031  B
+
+
+%%Added results

@@ -1,0 +1,37 @@
+%%Tournament: Sukkot children tournament
+%%Country: Israel
+%%Date: 09/10/2017
+%%Sender: Leonid Shifman
+
+%   ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 200010, SHIFMAN, Michael, IL,  5, 249
+%_% 200040, LAUFER, Shahar, IL,  4, 229
+%_% 200027, FABIAN, Guy, IL,  3, 160
+%_% 200012, FABIAN, Asaf, IL,  2, 138
+%_% 200037, MONASTYRSKI, Shay, IL,  1, 108
+%_% 200014, FRIDMAN, Tal, IL,  0, 76
+
+%Round: 1
+200040 (49)>(15) 200037  B
+200027 (47)>(17) 200014  B
+200010 (50)>(14) 200012  B
+
+%Round: 2
+200040 (53)>(11) 200027  B
+200014 (11)<(53) 200010  B
+200037 (13)<(51) 200012  B
+%Round: 3
+200010 (55)>(09) 200040  B
+200012 (43)>(21) 200014  B
+200027 (48)>(16) 200037  B
+
+%Round: 4
+200040 (64)>(00) 200012  B
+200027 (20)<(44) 200010  B
+200037 (47)>(17) 200014  B
+
+%Round: 5
+200014 (10)<(54) 200040  B
+200012 (30)<(34) 200027  B
+200010 (47)>(17) 200037  B
+%%Added results

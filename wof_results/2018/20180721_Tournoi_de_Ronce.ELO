@@ -1,0 +1,44 @@
+%%Tournament: Tournoi de Ronce 2018
+%%Country: France
+%%Date: 21/07/2018
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/07/21 23:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 217, 2079
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 198, 1949
+%_%       1, RALLE, Paul, FRA,  3, 196, 2176
+%_%   50053, TASTET, Remi, FRA,  2, 125, 1119
+%_%    3734, CLUZON, Gilles, FRA,  1, 104, 1330
+
+
+
+%Round: 1
+
+     2 (37)>(27)   3598  B
+  3734 (03)<(61)      1  B
+
+%Round: 2
+
+ 50053 (36)>(28)   3734  B
+     1 (30)<(34)      2  B
+
+%Round: 3
+
+  3598 (44)>(20)      1  B
+     2 (49)>(15)  50053  B
+
+%Round: 4
+
+  3734 (07)<(57)      2  B
+ 50053 (15)<(49)   3598  B
+
+%Round: 5
+
+     1 (45)>(19)  50053  B
+  3598 (38)>(26)   3734  B
+
+
+%%Added results

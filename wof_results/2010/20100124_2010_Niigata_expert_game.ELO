@@ -1,0 +1,31 @@
+%%Tournament: 2010_Niigata_expert_game
+%%Country: Japan
+%%Date: 24/01/2010
+%%Sender: Hiroyuki Iwata
+
+%_%  10083, AIBARA, shigero, J, 3.0, 117
+%_%   6816, ASAHINA, satoshi, J, 2.0, 147
+%_%   7047, UMEZAWA, yoshinori, J, 2.0, 135
+%_%   7048, KANDA, yoshihiro, J, 2.0, 132
+%_%   7050, HARII, mitsu, J, 1.0, 109
+
+%Round 1
+  6816 (42) > (22)   7048
+  7047 (42) > (22)   7050
+
+%Round 2
+ 10083 (35) > (29)   7050
+  6816 (43) > (21)   7047
+
+%Round 3
+ 10083 (33) > (31)   6816
+  7047 (41) > (23)   7048
+
+%Round 4
+  7048 (48) > (16)  10083
+  7050 (33) > (31)   6816
+
+%Round 5
+ 10083 (33) > (31)   7047
+  7048 (39) > (25)   7050
+

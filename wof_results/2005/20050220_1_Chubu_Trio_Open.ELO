@@ -1,0 +1,86 @@
+%%Tournament: Chubu Trio Open
+%%Country: Japan
+%%Date: 20/02/2005
+%%Sender: Tom Schotte
+
+%%http://www.geocities.jp/mikawa_op/kekka1.html
+
+%%PLAYERS
+%01 6860	miyazaki	yuji
+%02 10354	maki	shin'ichiro
+%03 5559	kawarada	yuichi
+%04 5507	tsuchida	daisuke
+%05 7054	nakamori	hiroki
+%06 6995	funakoshi	shogo
+%07 5699	yoshiyuki	suganuma
+%08 5571	matsumoto	hiroyuki
+%09 10539	hirabayasi	mihoko
+%10 5676	tsukamoto	hiroaki
+%11 11621	suzuki	mikio
+%12 10261	ito	riyoutarou
+%13 11622	kitigawa	masaya
+%14 11623	ito	masayuki
+
+
+%round 1
+  6860 >  11621
+ 10354 >  11622
+  5559 >  10261
+  5507 >  11623
+  7054 <   5571
+  6995 <  10359
+  5699 >   5676
+
+%round 2
+  6860 >   5699
+ 10354 >   5559
+  5507 <   5571
+  7054 >  11623
+  6995 >  11621
+ 10359 <   5676
+ 10261 >  11622
+
+%round 3
+  6860 >   6995
+ 10354 >   5571
+  5559 >   5507
+  7054 >   5699
+ 10359 >  11622
+  5676 <  10261
+ 11621 >  11623
+
+%round 4
+  6860 >  10354
+  5559 >   5571
+  5507 >   5676
+  7054 >  10359
+  6995 >  10261
+  5699 <  11621
+ 11622 >  11623
+
+%round 5
+  6860 <   5559
+ 10354 >   7054
+  5507 >   6995
+  5699 >  11622
+  5571 >  10359
+  5676 >  11623
+ 11621 >  10261
+
+%round 6
+  6860 >  11621
+ 10354 >   5507
+  5559 >   7054
+  6995 >  11622
+  5699 >  10359
+  5571 >   5676
+ 10261 <  11623
+
+%round 7
+  6860 >   5571
+ 10354 <   6995
+  5559 <   5699
+  5507 >  10261
+  7054 >  11621
+ 10359 >  11623
+  5676 >  11622

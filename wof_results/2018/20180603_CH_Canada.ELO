@@ -1,0 +1,43 @@
+%%Tournament: Canadian championship 2018
+%%Country: Canada
+%%Date: 03/06/2018
+%%Sender: Jacky Fu
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4001, FU, Jacky, CAN, 4, 248
+%_%    4002, KRZYWONOS, Tim, CAN, 4, 245
+%_%    4013, CORIO, Marc, Can, 4, 184
+%_% +110009, KRISHNA G. V., SAI, CAN, 2, 141
+%_% +110010, HIGGINS, MATTHEW, CAN, 1, 68
+%_% +110011, YE, STEVEN, CAN, 0, 42
+
+%ROUND 1
+110009 (46)>(18) 110010  B
+  4001 (26)<(38)   4002  B
+110011 (12)<(52)   4013  B
+
+%ROUND 2
+  4001 (55)>(09) 110011  B
+110010 (02)<(62)   4002  B
+110011 (12)<(52)   4013  B
+
+%ROUND 3
+  4002 (64)>(00) 110011  B
+110009 (09)<(55)   4001  B
+110010 (20)<(44)   4013  B
+
+%ROUND 4
+110011 (16)<(48) 110010  B
+  4013 (04)<(60)   4001  B
+  4002 (59)>(05) 110009  B
+
+%ROUND 5
+  4013 (42)>(22)   4002  B
+110010 (12)<(52)   4001  B
+110011 (05)<(59) 110009  B
+
+%Final:
+  4002 (42)>(22)   4001  B
+
+%3/4th playoff:
+110009 (22)<(42)   4013  B

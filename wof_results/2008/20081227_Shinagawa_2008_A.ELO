@@ -1,0 +1,44 @@
+%%Tournament: Shinagawa_2008_A
+%%Country: Japan
+%%Date: 27/12/2008
+%%Sender: Ryuichi Hoshi
+
+%_%   5537, TAKANASHI, yuusuke, J, 4.0, 154
+%_%   5538, ITO, jyunya, J, 3.0, 185
+%_%   5590, NAKAMURA, yuya, J, 2.0, 104
+%_%   5514, WATAHIKI, kenta, J, 2.0, 95
+%_%    700, NAKAJIMA, tetsuya, J, 1.0, 118
+%_%   5539, YAMAKAWA, takashi, J, 1.0, 68
+%_%   5533, SATO, kouichiro, J, 0.0, 57
+%_%   5589, HIDEKAZU, nagasaki, J, 0.0, 27
+%_%   5686, IWATA, hiroyuki, J, 0.0, 24
+
+%Round 1
+  5538 (38) > (26)   5533
+  5539 (37) > (27)   5589
+  5590 (40) > (24)   5686
+
+%Round 2
+  5538 (33) > (31)   5539
+  5514 (33) > (31)   5533
+
+%Round 3
+  5538 (35) > (29)   5514
+   700 (38) > (26)   5590
+
+%Round 4
+  5590 (38) > (26)    700
+  5514 (33) > (31)   5538
+
+%Round 5
+  5537 (36) > (28)   5538
+
+%Round 6
+  5537 (44) > (20)   5538
+
+%Round 7
+  5537 (37) > (27)    700
+
+%Round 8
+  5537 (37) > (27)    700
+

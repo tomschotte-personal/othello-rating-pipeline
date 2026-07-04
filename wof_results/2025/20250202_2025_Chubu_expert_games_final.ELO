@@ -1,0 +1,35 @@
+%%Tournament: 2025_Chubu_expert_games_final
+%%Country: Japan
+%%Date: 02/02/2025
+%%Sender: Hajime NAKAMURA
+
+%_%   5699, YOSHIYUKI, suganuma, JPN, 3.0, 127
+%_%  14510, HATTORI, kouki, JPN, 2.5, 122
+%_%   5570, OHIKE, yoshinori, JPN, 2.5, 113
+%_%  11939, MIYAGAWA, keigo, JPN, 1.5, 106
+%_%   5676, TSUKAMOTO, hiroaki, JPN, 1.5, 92
+%_%  14763, OKUDAIRA, akio, JPN, 1.0, 77
+%_%  16197, IMAGAWA, tomihito, JPN, 1.0, 48
+%_%  14787, KAWASOE, ousuke, JPN, 0.0, 72
+%_%  12263, KOGA, shingo, JPN, 0.0, 59
+%_%  16198, IMAGAWA, maki, JPN, 0.0, 16
+
+%Round 1
+ 16197 (48)>(16)  16198 
+  5570 (39)>(25)  14763 
+ 11939 (45)>(19)  12263 
+ 14510 (45)>(19)  14787 
+  5699 (47)>(17)   5676 
+
+%Round 2
+  5676 (43)>(21)  12263 
+  5570 (42)>(22)  14787 
+ 14510 (45)>(19)  14763 
+  5699 (35)>(29)  11939 
+
+%Round 3
+ 14763 (33)>(31)  14787 
+ 11939 (32)=(32)   5676 
+ 14510 (32)=(32)   5570 
+  5699 (45)>(19)  12263 
+

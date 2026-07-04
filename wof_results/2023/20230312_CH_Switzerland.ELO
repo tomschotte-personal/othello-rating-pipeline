@@ -1,0 +1,45 @@
+%%Tournament: Swiss Championships
+%%Country: Switzerland
+%%Date: 12/03/2023
+%%Sender: Matthias Berg
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/03/12 17:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     839, KASHIWABARA, Takuji, FRA,  4, 204, 2158
+%_%    5301, BERG, Matthias, DEU,  4, 185, 2165
+%_%   50030, JUIGNER, Arthur, CHE,  3, 198, 2304
+%_%  240002, JOYE, Frederic, CHE,  3, 184, 1850
+%_% +240003, MEUWLY, Laurent, CHE,  1, 69, 0
+
+
+
+%Round: 1
+
+ 50030 (31)<(33)   5301  B
+240002 (29)<(35)    839  B
+
+%Round: 2
+
+240003 (06)<(58) 240002  B
+   839 (30)<(34)  50030  B
+
+%Round: 3
+
+  5301 (08)<(56)    839  B
+ 50030 (64)>(00) 240003  B
+
+%Round: 4
+
+240002 (35)>(29)  50030  B
+240003 (02)<(62)   5301  B
+
+%Round: 5
+
+   839 (43)>(21) 240003  B
+  5301 (42)>(22) 240002  B
+
+
+%%Added results
+ 50030 (47)>(17)   5301  B

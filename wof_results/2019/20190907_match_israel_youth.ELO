@@ -1,0 +1,34 @@
+%%Tournament: friendly match Israel-1 - Israel(youth) 
+%%Country: Israel
+%%Date: 07/09/2019
+%%Sender: Leonid Shifman
+
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 200010, SHIFMAN, Michael, ISR,  3, 143
+%_% 200040, LAUFER, Shachar, ISR,  2, 132
+%_%    885, SHIFMAN, Ilya, ISR,  2, 130
+%_%    880, SHIFMAN, Leonid, ISR,  1, 107
+
+
+%Round: 1
+
+200040 (30)<(34)    880  B
+200010 (31)<(33)    885  B
+
+%Round: 2
+
+   880 (17)<(47) 200040  B
+   885 (24)<(40) 200010  B
+
+%Round: 3
+
+200010 (33)>(31)    880  B
+200040 (12)<(52)    885  B
+
+%Round: 4
+
+   880 (25)<(39) 200010  B
+   885 (21)<(43) 200040  B
+
+%%Added results

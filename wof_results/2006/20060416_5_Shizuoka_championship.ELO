@@ -1,0 +1,91 @@
+%%Tournament: 5th Shizuoka Championship
+%%Country: Japan
+%%Date: 16/04/2006
+%%Sender: Tom Schotte
+
+%Round1
+6954 > 6964
+5523 > 888
+6959 > 6966
+6965 > 6968
+6955 > 6961
+10864 > 6854
+889 > 6963
+10085 > 6952
+6914 > 7067
+11965 > 6967
+
+%Round2
+6954 > 6959
+5523 > 6914
+6854 > 6961
+888 > 6967
+6952 > 10823
+10864 > 6965
+889 > 6955
+10085 > 11965
+6966 > 6968
+7067 > 6963
+
+%Round3
+6954 > 10864
+5523 > 889
+6854 > 7067
+888 > 10085
+6952 > 6959
+6965 > 11965
+10823 > 6966
+6914 > 6955
+6964 > 6967
+10088 > 6961
+6963 > 6968
+
+%Round4
+6954 > 5523
+6854 > 6965
+6952 > 888
+6959 > 6963
+6955 > 6966
+10823 > 10085
+10864 > 6964
+889 > 6914
+7067 > 11965
+6961 > 6967
+10088 > 6968
+
+%Round5
+6954 > 6952
+5523 > 10823
+6854 > 889
+888 > 10864
+6959 > 7067
+6965 > 6914
+6955 > 6964
+10085 > 10088
+6966 > 11965
+6961 > 6963
+6967 > 6968
+
+%players
+%1 6954	oguri	kenji
+%2 5523	araki	yasuyuki
+%3 6854	ozaki	yoshihito
+%4 888	sugiyama	mitsuaki
+%5 6952	sano	hirotaka
+%6 6959	suzuki	takahiro
+%7 6965	suzuki	toyoharu
+%8 6955	iwasaki	masaaki
+%9 10823	date	yuji
+%10 10864	mizuno	keigo
+%11 889	sugiyama	akemi
+%12 10085	iwamoto	yoshimi
+%13 6966	sato	masuo
+%14 6914	nakayama	takahiro
+%15 7067	nagaya	tosiko
+%16 6964	yoshino	nobuko
+%17 6961	hasegawa	toshi
+%18 10088	sato	alex
+%19 11965	shiho	ikuko
+%20 6967	kobayashi	tome
+%21 6963	okabe	michiaki
+%22 6968	kobayashi	tamami

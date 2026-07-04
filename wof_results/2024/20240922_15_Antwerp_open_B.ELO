@@ -1,0 +1,49 @@
+%%Tournament: 15 Antwerp open B
+%%Country: Belgium
+%%Date: 22/09/2024
+%%Sender: SCHOTTE Tom
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  270033, SCHOTTE, Wout, BEL, 6, 286, 791
+%_%  120286, DUFOUR, Noa, NLD, 5, 267, 1009
+%_%  270032, SCHOTTE, Sander, BEL, 4, 214, 449
+%_%   60099, ZHANG, Qizheng, CHN, 3, 194, 776
+%_%  270086, ROOS, Stan, BEL, 3, 159, 78
+
+%Round: 1
+
+120286 (47)>(17) 270032  B
+ 60099 (19)<(45) 270033  B
+
+%Round: 2
+
+270033 (31)<(33) 120286  B
+270086 (11)<(53)  60099  B
+
+%Round: 3
+
+120286 (31)<(33) 270086  B
+270032 (19)<(45) 270033  B
+
+%Round: 4
+
+270086 (21)<(43) 270032  B
+ 60099 (07)<(57) 120286  B
+
+%Round: 5
+
+270033 (47)>(17) 270086  B
+270032 (46)>(18)  60099  B
+
+%Round: 6
+
+120286 (16)<(48) 270033  B
+ 60099 (39)>(25) 270032  B
+
+%Round: 7
+
+270033 (38)>(26)  60099  B
+270086 (13)<(51) 120286  B

@@ -1,0 +1,52 @@
+%%Tournament: Citta di Matera
+%%Country: Italy
+%%Date: 27/01/2024
+%%Sender: FNGO
+
+%%Creator: www.fngo.it
+%%CreationDate: 2024/04/23
+
+%       ID, NAME, Firstname
+%_% +40189, GAGLIARDI, Melania, ITA
+%_% +40190, CRISTALLO, Emanuele, ITA
+%_% +40191, GAGLIARDI, Domenico, ITA
+%_% +40192, ANECCHINO, Diana, ITA
+%_% +40193, LADOGANA, Alessandra, ITA
+%_% +40194, CLEMENTELLI, Giovanni, ITA
+%_% +40195, LAVIOLA, Desiree, ITA
+%_% +40196, ANECCHINO, Alessandra, ITA
+%_% +40197, FARAONE, Gabriele, ITA
+%_% +40198, MARCELLO, Domenico, ITA
+
+
+%Round:1
+
+ 40190 (25)<(39)  40189 
+ 40191 (38)>(26)  40196 
+ 40192 (26)<(38)  40193 
+ 40195 (28)<(36)  40194 
+ 40197 (54)>(10)  40198 
+
+%Round:2
+
+ 40194 (30)<(34)  40191 
+ 40189 (42)>(22)  40197 
+ 40193 (30)<(34)  40190 
+ 40196 (29)<(35)  40195 
+ 40198 (16)<(48)  40192 
+
+%Round:3
+
+ 40191 (32)=(32)  40189 
+ 40190 (52)>(12)  40194 
+ 40192 (36)>(28)  40195 
+ 40197 (57)>(07)  40193 
+ 40198 (44)>(20)  40196 
+
+%Round:4
+
+ 40190 (47)>(17)  40191 
+ 40189 (37)>(27)  40192 
+ 40195 (10)<(54)  40197 
+ 40194 (33)>(31)  40198 
+ 40193 (64)>(00)  40196 

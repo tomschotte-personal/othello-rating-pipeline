@@ -1,0 +1,112 @@
+%%Tournament: 6th Yamanasi Open
+%%Country: Japan
+%%Date: 07/10/2007
+%%Sender: Tom Schotte
+
+%Round1
+  4014 >   6850 
+  5563 >    600 
+  5574 >   7089 
+  5545 >  10919 
+  5527 >   6813 
+  6960 =   5591 
+  5690 >    653 
+  5520 >   5616 
+%5589 5558 5535 5530 5617 5508 6948 did not play
+% 6843 had a bye
+
+%Round2
+  4014 >   5574 
+  5563 >   5690 
+  5545 >   5591 
+  5527 >   5520 
+   600 >    653 
+  6843 >   6960 
+  6813 >   5616 
+  7089 >   6850 
+  6948 >  10919 
+%5589 5558 5535 5530 5617 5508 did not play
+
+%Round3
+  4014 >   5527 
+  5563 >   6843 
+  5574 >   5690 
+  5545 >   6948 
+  5589 >   5617 
+  6960 >   5530 
+  5558 >   5508 
+  5535 >   5591 
+   600 >   7089 
+  5520 =   6813 
+  5616 >   6850 
+ 10919 >    653 
+
+%Round4
+  4014 >   5545 
+  5563 >   5574 
+  5527 >    600 
+  5589 >   5558 
+  6960 >   6813 
+  5535 >   6948 
+  5690 >  10919 
+  6843 >   5520 
+   653 >   6850 
+  5617 >   5530 
+  7089 >   5616 
+  5591 >   5508 
+
+%Round5
+  4014 >   5563 
+  5574 >    600 
+  5545 >   5527 
+  5589 >   6843 
+  5558 >   6813 
+  5535 >   6960 
+  5690 >   7089 
+   653 >   6948 
+  5520 >   5591 
+  5530 >  10919 
+  5617 >   5616 
+  5508 >   6850 
+
+%Round6
+  4014 =   5589 
+  5563 >   5545 
+  5574 >   5535 
+  5527 >   5690 
+  6960 >   5520 
+  5558 >   6843 
+   600 >   5617 
+   653 >   7089 
+  6813 >   5591 
+  5530 >   5508 
+  5616 >  10919 
+%6948 6850 did not play
+
+
+%players
+%1 4014	tominaga	kenta
+%2 5563	kurachi	takayuki
+%3 5574	takashima	ryoji
+%4 5545	kobayashi	manabu
+%5 5527	goto	masahiro
+%6 5589	nagasaki	hidekazu
+%7 6960	namiki	kazunari
+%8 5558	tamaki	kyotaro
+%9 5535	iijima	takamune
+%10 600	takeda	kyoko
+%11 5690	yoshiki	masuda
+%12 6843	itagaki	kenichi
+%13 653	takeda	hajime
+%14 5520	okuda	tsuyoshi
+%15 6813	yamazaki	nobuyuki
+%16 5530	noda	bintatsu
+%17 5616	tanaka	atsushi
+%18 5617	ikeda	atsuhiko
+%19 7089	domoto	shin
+%20 5591	satake	yosuke
+%21 5508	tatsumi	yukiko
+%22 6948	yoshida	makoto
+%23 6850	morimoto	baidu
+%24 10919	takigawa	mitsuaki
+

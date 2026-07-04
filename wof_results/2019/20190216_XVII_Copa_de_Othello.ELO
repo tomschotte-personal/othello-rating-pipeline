@@ -1,0 +1,48 @@
+%%Tournament: XVII Copa de Othello
+%%Country: Brazil
+%%Date: 16/02/2019
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/01/12 23:20
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    4083, DE CAMARGO, Lucas, BRA,  6, 325, 1700
+%_%  290025, CORREIA JR., Moises, BRA,  3, 199, 1026
+%_%  290051, CORREIA, Rafael Augusto P., BRA,  3, 170, 704
+%_%  290157, CORREIA, Renato Paie, BRA,  0, 74, 698
+
+
+
+%Round: 1
+
+  4083 (53)>(11) 290157  B
+290025 (47)>(17) 290051  B
+
+%Round: 2
+
+290157 (00)<(64)   4083  B
+290051 (37)>(27) 290025  B
+
+%Round: 3
+
+290157 (15)<(49) 290025  B
+290051 (04)<(60)   4083  B
+
+%Round: 4
+
+290025 (45)>(19) 290157  B
+  4083 (51)>(13) 290051  B
+
+%Round: 5
+
+  4083 (41)>(23) 290025  B
+290051 (35)>(29) 290157  B
+
+%Round: 6
+
+290025 (08)<(56)   4083  B
+290157 (00)<(64) 290051  B
+
+
+%%Added results

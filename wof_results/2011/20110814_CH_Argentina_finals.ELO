@@ -1,0 +1,28 @@
+%%Tournament: Campeonato Argentino  (Ronda Final)
+%%Country: Argentina
+%%Date: 14/08/2011
+%%Sender: Daniel Olivares
+
+%   ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     650, OLIVARES, Daniel, ARG, 3, 147
+%_%    4167, COELLO, Alejandro, ARG, 2, 116    
+%_%  280008, RODRIGUEZ, Ismael, URU, 1, 121
+
+
+%Round 1
+   650 (40)>(24) 280008  B
+
+%Round 2
+  4167 (25)<(39)    650  B
+
+%Round 3
+  4167 (35)>(29) 280008  B
+      
+%Round 4
+280008 (41)>(23)    650  B
+    
+%Round 5
+   650 (45)>(19)   4167  B
+
+%Round 6
+280008 (27)<(37)   4167  B

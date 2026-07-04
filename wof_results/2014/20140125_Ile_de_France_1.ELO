@@ -1,0 +1,50 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 25/01/2014
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/02/15 15:08
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 234, 2140
+%_%      11, LAZARD, Emmanuel, FRA,  3, 175, 2018
+%_%     228, BUSUTTIL, Michel, FRA,  2.5, 132, 1278
+%_%    3600, BENOIT, Serge, FRA,  2, 198, 1371
+%_%     419, BETIN, Dominique, FRA,  1.5, 109, 1322
+%_%    3734, CLUZON, Gilles, FRA,  1, 112, 1358
+
+
+
+%Round: 1
+
+   419 (12)<(52)      2  B
+    11 (33)>(31)   3600  B
+   228 (18)<(46)   3734  B
+
+%Round: 2
+
+  3600 (64)>(00)    419  B
+     2 (56)>(08)    228  B
+  3734 (23)<(41)     11  B
+
+%Round: 3
+
+   419 (32)=(32)    228  B
+  3600 (59)>(05)   3734  B
+    11 (27)<(37)      2  B
+
+%Round: 4
+
+  3734 (19)<(45)    419  B
+   228 (34)>(30)     11  B
+     2 (44)>(20)   3600  B
+
+%Round: 5
+
+   419 (20)<(44)     11  B
+  3734 (19)<(45)      2  B
+  3600 (24)<(40)    228  B
+
+
+%%Added results

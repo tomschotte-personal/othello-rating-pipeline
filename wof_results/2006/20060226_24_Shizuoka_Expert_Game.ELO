@@ -1,0 +1,76 @@
+%%Tournament: 24th Shizuoka Expert Game
+%%Country: Japan
+%%Date: 26/02/2006
+%%Sender: Tom Schotte
+
+%Round1
+6951 > 11185
+6959 > 6967
+6955 > 6854
+10823 > 5523
+10823 > 6954
+6846 > 10806
+7067 > 11965
+
+%Round2
+6951 > 7067
+6959 > 6955
+5523 > 11185
+6954 > 10806
+6854 > 10088
+10823 > 11965
+6846 > 10823
+
+%Round3
+6959 > 6846
+6955 > 5523
+6954 > 7067
+6854 > 10823
+10823 > 6951
+11185 > 10088
+11965 > 6967
+
+%Round4
+6951 > 6955
+6959 > 10823
+5523 > 6854
+6954 > 6846
+10806 > 7067
+10823 > 11965
+6967 > 10088
+
+%Round5
+6951 > 6959
+5523 > 10823
+6955 > 6846
+6954 > 10823
+6854 > 6967
+10806 > 11185
+11965 > 10088
+
+%Round6
+6951 > 6959
+5523 > 6954
+6955 > 10806
+6854 > 10823
+10823 > 6967
+7067 > 10088
+11185 > 11965
+
+
+%players
+%1 6951	fujita	takeshi
+%2 6959	suzuki	takahiro
+%3 5523	araki	yasuyuki
+%4 6955	iwasaki	masaaki
+%5 6954	oguri	kenji
+%6 6854	ozaki	yoshihito
+%7 10806	nagai	makoto
+%8 10823	date	yuji
+%9 6952	sano	hirotaka
+%10 6846	koyama	yasuyuki
+%11 7067	nagaya	tosiko
+%12 11185	nagai	kaku
+%13 11965	shiho	ikuko
+%14 6967	kobayashi	tome
+%15 10088	sato	alex

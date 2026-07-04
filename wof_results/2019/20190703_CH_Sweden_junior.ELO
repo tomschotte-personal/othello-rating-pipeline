@@ -1,0 +1,41 @@
+%%Tournament: Svenska Ungdomsfinalen 2019
+%%Country: Sweden
+%%Date: 03/07/2019
+%%Sender: Benkt
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/07/03 13:24
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150064, LOFROTH, Emma, SWE,  5, 261, 589
+%_% +150076, Juhnestam, Tuva, SWE,  5, 222, 0
+%_% +150070, Juhnestam, Tindra, SWE,  2, 141, 0
+
+
+
+%Round: 1
+
+150064 (55)>(09) 150070  B
+
+%Round: 2
+
+150076 (19)<(45) 150064  B
+
+%Round: 3
+
+150070 (25)<(39) 150076  B
+
+%Round: 4
+
+150070 (13)<(51) 150064  B
+
+%Round: 5
+
+150064 (30)<(34) 150076  B
+
+%Round: 6
+
+150076 (50)>(14) 150070  B
+
+
+%%Added results

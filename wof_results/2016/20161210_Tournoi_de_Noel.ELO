@@ -1,0 +1,72 @@
+%%Tournament: Tournoi de Noel
+%%Country: France
+%%Date: 10/12/2016
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/12/15 18:06
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     839, KASHIWABARA, Takuji, FRA,  5, 203, 2169
+%_%     433, NICOLET, Stephane, FRA,  4, 221, 2106
+%_%   50075, BERTRANDIAS, Marc, FRA,  4, 212, 1795
+%_%       2, TASTET, Marc, FRA,  3, 219, 2102
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 180, 1972
+%_%     419, BETIN, Dominique, FRA,  3, 155, 1444
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 170, 1865
+%_%    2788, LECAT, Monique, BEL,  2, 145, 1519
+%_%     228, BUSUTTIL, Michel, FRA,  2, 134, 1505
+%_%    9025, TOUCHENE, Fouad, DZA,  2, 133, 1647
+%_%   50052, LE MORVAN, Eric, FRA,  2, 125, 869
+%_%    3600, BENOIT, Serge, FRA,  2, 121, 1549
+%_%    3734, CLUZON, Gilles, FRA,  1, 102, 1439
+
+
+
+%Round: 1
+
+   419 (10)<(54)   2788  B
+  3734 (00)<(64)      2  B
+  3598 (16)<(48)    839  B
+ 50075 (50)>(14)  50052  B
+  3600 (24)<(40)   9025  B
+   228 (00)<(64)    433  B
+
+%Round: 2
+
+     2 (47)>(17)     45  B
+ 50052 (09)<(55)    419  B
+   839 (43)>(21)   3734  B
+   433 (55)>(09)   2788  B
+  9025 (17)<(47)  50075  B
+  3598 (48)>(16)    228  B
+
+%Round: 3
+
+     2 (27)<(37)    433  B
+  2788 (31)<(33)   3600  B
+    45 (52)>(12)   9025  B
+   228 (44)>(20)  50052  B
+   419 (12)<(52)   3598  B
+ 50075 (27)<(37)    839  B
+
+%Round: 4
+
+  3600 (11)<(53)      2  B
+    45 (30)<(34)  50075  B
+  2788 (41)>(23)    228  B
+   839 (39)>(25)    433  B
+  3734 (19)<(45)    419  B
+  9025 (24)<(40)   3598  B
+
+%Round: 5
+
+ 50075 (54)>(10)   2788  B
+ 50052 (42)>(22)   3734  B
+   228 (51)>(13)   3600  B
+     2 (28)<(36)    839  B
+   433 (40)>(24)   3598  B
+   419 (33)>(31)     45  B
+
+
+%%Added results

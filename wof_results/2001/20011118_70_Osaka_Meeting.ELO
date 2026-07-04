@@ -1,0 +1,73 @@
+%%Tournament: 70th Osaka Meeting
+%%Country: Japan
+%%Date: 18/11/2001
+%%Sender: Tom Schotte
+
+%round1
+11779 > 11627
+6929 > 6930
+884 > 11782
+11780 > 11628
+10014 > 11626
+7081 > 10351
+6980 > 11783
+11625 > 6978
+
+%round2
+10351 > 11781
+6930 > 11626
+11779 > 6980
+6978 > 11783
+6929 > 884
+11780 > 11625
+7081 > 10014
+11782 > 11628
+
+%round3
+10351 > 11782
+6930 > 11625
+11779 > 11780
+11627 > 11781
+6929 > 7081
+884 > 6980
+10014 > 6978
+11626 > 11783
+
+%round4
+10351 > 11780
+6930 > 10014
+11779 > 6929
+11627 > 6980
+6978 > 11782
+884 > 7081
+11781 > 11628
+11626 > 11625
+
+%round5
+10351 > 11779
+6930 > 884
+11627 > 6929
+6978 > 7081
+11780 > 11626
+10014 > 11625
+11781 > 6980
+11628 > 11783
+
+
+%1 10351	tokumaru	kikuchi
+%2 6930	nishimine	satoru
+%3 11779	shima	miyuki
+%4 11627	hiraki	toshio
+%5 6978	matsumoto	kishie
+%6 6929	io	hideo
+%7 884	fukui	seiji
+%8 11780	sawada	eijiro
+%9 10014	suzuki	takao
+%10 7081	kado	naoki
+%11 11781	tsuyuzaki	miria
+%12 11626	yoshimura	osamu
+%13 11628	takeno	hiroaki
+%14 11782	murakami	tadayoshi
+%15 6980	matsumoto	kazunori
+%16 11625	hiraki	tatsuya
+%17 11783	kimura	atsuko

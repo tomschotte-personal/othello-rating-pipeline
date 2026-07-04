@@ -1,0 +1,52 @@
+%%Tournament: 52nd Kanagawa Open B
+%%Country: Japan
+%%Date: 04/03/2007
+%%Sender: Tom Schotte
+
+%Round1
+ 11540 >   5637 
+  6900 >  10919 
+ 12375 >   5643 
+  5635 >  12380 
+
+%Round2
+ 10919 >   5637 
+ 11540 >   5635 
+  6900 >  12375 
+  5643 >  12380 
+
+%Round3
+ 10919 >   5643 
+ 11540 >   6900 
+  5635 >  12375 
+ 12380 >   5637 
+
+%Round4
+ 10919 >  11540 
+  6900 >   5635 
+ 12375 >  12380 
+  5643 >   5637 
+
+%Round5
+ 10919 >   5635 
+ 11540 >   5643 
+  6900 >  12380 
+ 12375 >   5637 
+
+%Round6
+ 10919 >  12380 
+ 11540 >  12375 
+  6900 >   5643 
+  5637 >   5635 
+
+
+%players
+%1 10919	takigawa	mitsuaki
+%2 11540	kunii	daisuke
+%3 6900	hatena	akijima
+%4 12375	kaneko	takumu
+%5 5635	watahiki	yoshiharu
+%6 5643	sano	fujiwara
+%7 12380	kasaba	miho
+%8 5637	sano	matsuda
+

@@ -1,0 +1,63 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 28/03/2015
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/03/29 00:58
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  5, 302, 1999
+%_%   50075, BERTRANDIAS, Marc, FRA,  5, 284, 1731
+%_%      11, LAZARD, Emmanuel, FRA,  5, 273, 1994
+%_%       2, TASTET, Marc, FRA,  5, 235, 2093
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 221, 1832
+%_%    9025, TOUCHENE, Foued, DZA,  3, 202, 1465
+%_%     275, OVION, Jacques, FRA,  2, 107, 1263
+
+
+
+%Round: 1
+
+     2 (31)<(33)    275  B
+    45 (34)>(30)  50075  B
+  9025 (18)<(46)     11  B
+
+%Round: 2
+
+  3598 (45)>(19)     45  B
+    11 (30)<(34)      2  B
+ 50075 (52)>(12)   9025  B
+
+%Round: 3
+
+   275 (01)<(63)     11  B
+  9025 (20)<(44)   3598  B
+     2 (14)<(50)  50075  B
+
+%Round: 4
+
+    45 (22)<(42)   9025  B
+ 50075 (64)>(00)    275  B
+  3598 (30)<(34)      2  B
+
+%Round: 5
+
+    11 (49)>(15)  50075  B
+     2 (43)>(21)     45  B
+   275 (04)<(60)   3598  B
+
+%Round: 6
+
+  9025 (25)<(39)      2  B
+  3598 (52)>(12)     11  B
+    45 (54)>(10)    275  B
+
+%Round: 7
+
+ 50075 (33)>(31)   3598  B
+   275 (19)<(45)   9025  B
+    11 (33)>(31)     45  B
+
+
+%%Added results

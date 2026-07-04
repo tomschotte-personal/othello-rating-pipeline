@@ -1,0 +1,44 @@
+%%Tournament: Othelloweekend_tournament_C
+%%Country: Belgium
+%%Date: 08/03/2009
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/03/10 08:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    5905, MAY, Michael, B,  5, 254
+%_%    4090, SCHOTTE, Bram, B,  4, 191
+%_%    5923, DE FLOU, Mathias, B,  2.5, 122
+%_%    5916, DREESEN, Gunner, B,  2, 169
+%_% +270000, DE BEUKELAER, Stijn, B,  1.5, 104
+
+
+
+%Round: 1
+
+270000 (02)<(62)   5905 B
+  5916 (30)<(34)   5923 B
+
+%Round: 2
+
+  5905 (41)>(23)   5916 B
+  4090 (46)>(18) 270000 B
+
+%Round: 3
+
+  5923 (02)<(62)   5905 B
+  5916 (24)<(40)   4090 B
+
+%Round: 4
+
+  4090 (50)>(14)   5923 B
+270000 (12)<(52)   5916 B
+
+%Round: 5
+
+  5905 (49)>(15)   4090 B
+  5923 (32)=(32) 270000 B
+
+
+%%Added results

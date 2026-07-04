@@ -1,0 +1,34 @@
+%%Tournament: 2016_NorthEast_championhsip
+%%Country: Japan
+%%Date: 29/05/2016
+%%Sender: Hiroyuki Iwata
+
+%_%   5584, OSHIMIZU, takanori, JPN, 4.0, 187
+%_%   7034, YOSHIDA, taisaku, JPN, 3.0, 176
+%_%  10616, SATO, hisakazu, JPN, 2.0, 128
+%_%  11921, FUJIYOSHI, takeshi, JPN, 2.0, 128
+%_%    652, HORIUCHI, keiko, JPN, 0.0, 85
+
+%Round 1
+  5584 (51)>(13)   7034 
+ 10616 (47)>(17)    652 
+
+%Round 2
+ 11921 (33)>(31)    652 
+ 10616 (38)>(26)   5584 
+
+%Round 3
+  5584 (39)>(25)  11921 
+  7034 (40)>(24)  10616 
+
+%Round 4
+  5584 (37)>(27)    652 
+  7034 (39)>(25)  11921 
+
+%Round 5
+  7034 (54)>(10)    652 
+ 11921 (45)>(19)  10616 
+
+%Round 6
+  5584 (34)>(30)   7034 
+

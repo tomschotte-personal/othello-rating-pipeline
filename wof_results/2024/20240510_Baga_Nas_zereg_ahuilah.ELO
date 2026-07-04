@@ -1,0 +1,58 @@
+%%Tournament: BAGA Nas, ZEREG Ahuilah
+%%Country: Mongolia
+%%Date: 10/05/2024
+%%Sender: ??
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2024/05/26 17:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  440590, TSEGMID, Ayushbaatar, MNG,  5, 226, 0
+%_%  440569, ALTANGEREL, Amar-Erdene, GerelGegee,  4, 213, 0
+%_%  440591, BUUVEIBAATAR, Tegshjargal, MNG,  3, 175, 0
+%_%  440423, TUVSHINJARGAL, Molor-Erdene, SuperMind,  3, 171, 0
+%_%  440593, ERDENE-OCHIR, Erdenechimeg, MNG,  3, 168, 0
+%_%  440706, ORGIL, Uguudei, MNG,  2, 164, 0
+%_%  440698, ERDENEBAYAR, Lkhagvasuren, MNG,  2, 157, 0
+%_%  440589, TSERENPIL, Anar, MNG,  2, 104, 0
+%_%  440658, MARGAD-ERDENE, Erkhes-Erdene, MNG,  1, 102, 0
+
+
+
+%Round: 1
+
+440658 (14)<(50) 440423  B
+440569 (16)<(48) 440590  B
+440591 (13)<(51) 440593  B
+440698 (49)>(15) 440589  B
+
+%Round: 2
+
+440590 (50)>(14) 440658  B
+440423 (41)>(23) 440706  B
+440593 (35)>(29) 440698  B
+440589 (04)<(60) 440569  B
+
+%Round: 3
+
+440569 (42)>(22) 440591  B
+440706 (31)<(33) 440589  B
+440698 (23)<(41) 440423  B
+440593 (21)<(43) 440590  B
+
+%Round: 4
+
+440569 (43)>(21) 440593  B
+440589 (52)>(12) 440658  B
+440423 (27)<(37) 440590  B
+440591 (36)>(28) 440706  B
+
+%Round: 5
+
+440658 (22)<(42) 440706  B
+440423 (12)<(52) 440569  B
+440589 (00)<(64) 440591  B
+440590 (48)>(16) 440698  B
+
+
+%%Added results

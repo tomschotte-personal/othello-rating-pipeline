@@ -1,0 +1,48 @@
+%%Tournament: Colchester regional
+%%Country: Great-Britain
+%%Date: 09/03/2024
+%%Sender: Stephen Rowe
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2024/04/30 21:48
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    6437, BECK, David, GBR,  6, 319, 2123
+%_%    2091, ROWE, Stephen, GBR,  2, 155, 1497
+%_% +171001, CHENG, Ben, HKG,  2, 147, 0
+%_% +171002, CHENG, Hailey, HKG,  2, 147, 0
+
+
+
+%Round: 1
+
+171002 (47)>(17) 171001  B
+  2091 (00)<(64)   6437  B
+
+%Round: 2
+
+171001 (34)>(30)   2091  B
+  6437 (55)>(09) 171002  B
+
+%Round: 3
+
+171002 (29)<(35)   2091  B
+171001 (14)<(50)   6437  B
+
+%Round: 4
+
+171001 (49)>(15) 171002  B
+  6437 (49)>(15)   2091  B
+
+%Round: 5
+
+  2091 (44)>(20) 171001  B
+171002 (14)<(50)   6437  B
+
+%Round: 6
+
+  2091 (31)<(33) 171002  B
+  6437 (51)>(13) 171001  B
+
+
+%%Added results

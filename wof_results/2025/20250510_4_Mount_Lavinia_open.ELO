@@ -1,0 +1,36 @@
+%%Tournament: 4th Mount Lavinia open
+%%Country: Sri Lanka
+%%Date: 10/05/2025
+%%Sender: CZYMARA Andreas
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   70017, CZYMARA, Andreas, LKA, 6, 209, 1450
+%_%    9030, DISSANAYAKE, Thakshi, LKA, 4, 117, -
+%_%  +520001, Dammika, Fernando, LKA, 2, 58, -
+
+%Round: 1
+
+ 70017 (59)>(05) 520001  B
+
+%Round: 2
+
+  9030 (15)<(49)  70017  B
+
+%Round: 3
+
+520001 (17)<(47)   9030  B
+
+%Round: 4
+
+520001 (11)<(53)  70017  B
+
+%Round: 5
+
+ 70017 (48)>(16)   9030  B
+
+%Round: 6
+
+  9030 (39)>(25) 520001  B

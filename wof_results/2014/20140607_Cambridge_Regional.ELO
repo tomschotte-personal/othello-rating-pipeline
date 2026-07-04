@@ -1,0 +1,48 @@
+%%Tournament: Cambridge Regional
+%%Country: Great-Britain
+%%Date: 07/06/2014
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2014/06/07 15:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      79, LEADER, Imre, GBR,  6, 267
+%_%    2047, BARRASS, Iain, GBR,  4, 233
+%_%    2006, ARNOLD, Roy, GBR,  1, 136
+%_%    4164, THEODOSIOU, Pantelis, GRC,  1, 132
+
+
+
+%Round: 1
+
+  2006 (17)<(47)   2047  B
+    79 (43)>(21)   4164  B
+
+%Round: 2
+
+    79 (41)>(23)   2006  B
+  2047 (52)>(12)   4164  B
+
+%Round: 3
+
+  2006 (15)<(49)   4164  B
+    79 (45)>(19)   2047  B
+
+%Round: 4
+
+  4164 (09)<(55)     79  B
+  2047 (41)>(23)   2006  B
+
+%Round: 5
+
+  2006 (18)<(46)     79  B
+  4164 (17)<(47)   2047  B
+
+%Round: 6
+
+  2047 (27)<(37)     79  B
+  4164 (24)<(40)   2006  B
+
+
+%%Added results

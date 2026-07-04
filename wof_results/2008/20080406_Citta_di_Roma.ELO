@@ -1,0 +1,37 @@
+%%Tournament: II tappa - CITTA' DI ROMA 2008
+%%Country: Italy
+%%Date: 06/04/2008
+%%Sender: Donato Barnaba
+
+
+%_%   2844, SPERANDIO, Roberto
+%_%   3037, DI MATTEI, Alessandro
+%_%   2848, SPERANDIO, Damiano
+%_%   3060, RUSSO, Luigi
+%_% 3111, SCOGNAMIGLIO, Paolo  
+
+
+%Round: 1
+
+3037 (52)>(12) 3111 B
+2848 (50)>(14) 3060 B
+
+%Round: 2
+
+3111 (17)<(47) 2848 B
+2844 (46)>(18) 3037 B
+
+%Round: 3
+
+2848 (36)>(28) 2844 B
+3060 (34)>(30) 3111 B
+
+%Round: 4
+
+2844 (50)>(14) 3060 B
+3037 (50)>(14) 2848 B
+
+%Round: 5
+
+3060 (25)<(39) 3037 B
+3111 (16)<(48) 2844 B

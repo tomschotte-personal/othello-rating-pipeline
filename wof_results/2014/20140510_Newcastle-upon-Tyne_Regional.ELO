@@ -1,0 +1,54 @@
+%%Tournament: Newcastle-upon-Tyne Regional
+%%Country: Great-Britain
+%%Date: 10/05/2014
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/05/10 17:58
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2006, ARNOLD, Roy, GBR,  6, 269, 1483
+%_%  100004, LIGHTMAN, Marie, GBR,  4, 230, 1300
+%_%  100020, BALKAN, Gokce, GBR,  4, 230, 1084
+%_%    2001, STEPHENSON, Ken, GBR,  4, 243, 1253
+%_%    2089, HORTON, John, GBR,  3, 204, 897
+
+
+
+%Round: 1
+
+  2006 (44)>(20) 100020  B
+  2001 (11)<(53) 100004  B
+
+%Round: 2
+
+  2089 (55)>(09) 100004  B
+100020 (15)<(49)   2001  B
+
+%Round: 3
+
+  2006 (43)>(21)   2089  B
+100004 (29)<(35) 100020  B
+
+%Round: 4
+
+100020 (52)>(12)   2089  B
+  2001 (26)<(38)   2006  B
+
+%Round: 5
+
+  2089 (10)<(54)   2001  B
+  2006 (39)>(25) 100004  B
+
+%Round: 6
+
+100020 (28)<(36)   2006  B
+100004 (39)>(25)   2001  B
+
+%Round: 7
+
+  2001 (38)>(26)   2089  B
+  2006 (29)<(35) 100004  B
+
+
+%%Added results

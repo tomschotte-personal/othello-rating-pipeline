@@ -1,0 +1,59 @@
+%%Tournament: I Torneo NonSoloGo
+%%Country: Italy
+%%Date: 20/03/2004
+%%Sender: Donato Barnaba
+
+
+%_% 2930, BAGGIO, Giuseppe
+%_% 3081, REALE, Francesco
+%_% 3082, FARACI, Marco
+%_% +3097, GARBARINI, Cristiano,     {I}
+%_% 3061, DE LEO, Maurizio
+%_% 2871, COTTOGNI, Gianni
+%_% 407, BARNABA, Donato
+%_% 3089, PELLEGRINI, Marco
+%_% 3056, SARANGA, Roberto
+%_% +3098, MARIGO, Francesco,     {I}
+%_% 3045, ACCIARO, Giuseppe
+%_% 3005, PALLADINO, Domenico
+%_% 3024, BORASSI, Michele
+%_% 2903, BERSAGLIERI, Daniela
+
+
+
+%Round: 1
+
+ 407 (54)>(10) 3061 B
+3082 (15)<(49) 3005 B
+2871 (54)>(10) 3097 B
+3098 (32)>(31) 2903 B
+3024 (50)>(14) 3089 B
+3081 (40)>(24) 3045 B
+2930 (18)<(49) 3056 B
+
+%Round: 2
+
+3098 (09)<(55)  407 B
+3005 (43)>(21) 3081 B
+3056 (25)<(39) 2871 B
+3045 (11)<(53) 3024 B
+3097 (15)<(49) 2930 B
+3061 (36)>(28) 3082 B
+
+%Round: 3
+
+ 407 (59)>(05) 2871 B
+3024 (31)<(33) 3005 B
+2930 (25)<(39) 3098 B
+3089 (38)>(26) 3056 B
+3081 (29)<(35) 3097 B
+3082 (34)>(30) 3045 B
+
+%Round: 4
+
+3005 (44)>(20)  407 B
+2871 (16)<(48) 3089 B
+3098 (31)<(32) 3024 B
+3097 (39)>(25) 3082 B
+3056 (28)<(36) 3081 B
+3045 (28)<(36) 2930 B

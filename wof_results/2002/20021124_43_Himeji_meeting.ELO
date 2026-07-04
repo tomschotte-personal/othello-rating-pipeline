@@ -1,0 +1,76 @@
+%%Tournament: 43rd Himeji Meeting
+%%Country: Japan
+%%Date: 24/11/2002
+%%Sender: Tom Schotte
+
+%http://www2.117.ne.jp/~othello/kekka43.html
+
+%Round1
+  6825 >  11979  
+ 11032 >  11882  
+  7081 >   6807  
+ 11041 >  12057  
+ 10024 >  11978  
+ 12058 >  10025  
+ 10227 >  12059  
+%one player missing
+
+%Round2
+  6825 >   7081  
+ 11882 >  12059  
+ 11041 >  11032  
+ 11978 >   6807  
+ 12058 >  10024  
+ 11753 >  10227  
+ 12057 >  10025  
+%one player missing
+
+%Round3
+  6825 >  11041  
+ 11032 >  11979  
+ 11882 >   7081  
+ 11978 >  10227  
+ 10024 >  12058  
+ 11753 >  12057  
+ 12059 >   6807  
+ 10025 >  11987  
+
+%Round4
+  6825 >  11753  
+ 11032 >  11978  
+  7081 >  10025  
+ 11882 >  12058  
+ 10024 >  11041  
+ 12059 >  12057  
+ 10227 >  11979  
+  6807 >  11987  
+
+%Round5
+  6825 >  11882  
+ 11032 >  10024  
+  7081 >  11753  
+ 11041 >  12059  
+ 11978 >  12057  
+ 12058 >  10227  
+ 10025 >   6807  
+ 11987 >  11979  
+
+
+
+%players
+%1 6825	shinkawa	hiroki
+%2 11032	imamura	hiroshi
+%3 7081	kado	naoki
+%4 11882	takamura	kandai
+%5 11041	iseda	katsuya
+%6 11978	hirao	atsushi
+%7 10024	konami	hiroshi
+%8 12058	kinoshita	hiro
+%9 11753	yokoyama	chiaki
+%10 12059	kinoshita	kantoku
+%11 10025	nobuhito	yoichi
+%12 10227	yokoyama	takako
+%13 11987	mimura	yukiko
+%14 6807	waku	you
+%15 12057	yamada	fuji
+%16 11979	okikawa	tauru

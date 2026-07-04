@@ -1,0 +1,34 @@
+%%Tournament: Tournoi B de Paris
+%%Country: France
+%%Date: 19/04/1998
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 824 > 4500
+ 942 >  709
+  46 <  275
+
+%%Round: 2
+
+ 709 <   46
+ 275 <  824
+4500 <  942
+
+%%Round: 3
+
+  46 >  824
+ 709 > 4500
+ 942 >  275
+
+%%Round: 4
+
+4500 <   46
+ 824 >  942
+ 275 >  709
+
+%%Round: 5
+
+  46 >  942
+4500 >  275
+ 709 >  824

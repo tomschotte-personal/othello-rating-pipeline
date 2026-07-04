@@ -1,0 +1,48 @@
+%%Tournament: Whitley Bay Regional 2011
+%%Country: Great-Britain
+%%Date: 21/05/2011
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/05/21 14:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2006, ARNOLD, Roy, GB,  5.5, 284
+%_%  100004, LIGHTMAN, Marie, GB,  4.5, 237
+%_%  100012, BOWERS, Emma, GB,  1, 143
+%_%  100009, BELDON, Gerry, GB,  1, 104
+
+
+
+%Round: 1
+
+  2006 (38)>(26) 100012 B
+100009 (15)<(49) 100004 B
+
+%Round: 2
+
+100004 (18)<(46)   2006 B
+100012 (49)>(15) 100009 B
+
+%Round: 3
+
+  2006 (64)>(00) 100009 B
+100004 (42)>(22) 100012 B
+
+%Round: 4
+
+100012 (15)<(49)   2006 B
+100004 (44)>(20) 100009 B
+
+%Round: 5
+
+  2006 (32)=(32) 100004 B
+100009 (45)>(19) 100012 B
+
+%Round: 6
+
+100009 (09)<(55)   2006 B
+100012 (12)<(52) 100004 B
+
+
+%%Added results

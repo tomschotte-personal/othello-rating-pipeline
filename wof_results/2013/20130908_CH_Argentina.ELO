@@ -1,0 +1,38 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 08/09/2013
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    280033, PELLIZZARI, Maximiliano, ARG, 5, 
+%_%      4168, LISNOVSKY, Marcelo, ARG, 4, 
+%_%       650, OLIVARES, Daniel, ARG, 3, 
+%_%    280035, NAKASONE, David, ARG, 2, 
+%_%      4167, COELLO, Alejandro, ARG, 1, 
+%_%    280034, SEIFERT, Max, ARG, 0, 
+
+%Round 1
+280033 (42)>(22)   4167  B
+   650 (55)>(09) 280035  B
+280034 (30)<(34)   4168  B
+
+%Round 2
+  4167 (14)<(50)    650  B
+280035 <   4168  B
+280034 (06)<(58) 280033  B
+
+%Round 3
+   650 (45)>(19) 280034  B
+280035 (46)>(18)   4167  B
+280033 (39)>(25)   4168  B
+
+%Round 4
+280033 (43)>(21)    650  B
+  4168 (34)>(30)   4167  B
+280034 < 280035  B
+
+%Round 5
+280033 (39)>(25) 280035  B
+   650 (15)<(49)   4168  B
+  4167 (48)>(16) 280034  B
+

@@ -1,0 +1,50 @@
+%%Tournament: Roerby Open 2014
+%%Country: Denmark
+%%Date: 18/01/2014
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/03/16 14:05
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  4, 216, 1527
+%_%    1025, BADSTED, Palle, DNK,  4, 214, 1755
+%_%  220005, PALUDAN, Berit, DNK,  3, 156, 0
+%_%    1017, MAARTENSSON, Mikael, DNK,  2, 164, 1225
+%_%    1000, MICHAELSEN, Peter, DNK,  2, 144, 958
+%_% +220006, FREDERIKSEN, Kristian, DK,  0, 66, 0
+
+
+
+%Round: 1
+
+  1019 (48)>(16)   1000  B
+220006 (15)<(49)   1025  B
+220005 (50)>(14)   1017  B
+
+%Round: 2
+
+  1025 (08)<(56)   1019  B
+  1000 (53)>(11) 220005  B
+  1017 (59)>(05) 220006  B
+
+%Round: 3
+
+  1019 (24)<(40) 220005  B
+  1025 (46)>(18)   1017  B
+220006 (19)<(45)   1000  B
+
+%Round: 4
+
+  1017 (29)<(35)   1019  B
+220005 (48)>(16) 220006  B
+  1000 (10)<(54)   1025  B
+
+%Round: 5
+
+  1019 (53)>(11) 220006  B
+  1017 (44)>(20)   1000  B
+  1025 (57)>(07) 220005  B
+
+
+%%Added results

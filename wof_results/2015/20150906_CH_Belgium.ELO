@@ -1,0 +1,63 @@
+%%Tournament: 32nd Belgian Championship Zonhoven
+%%Country: Belgium
+%%Date: 06/09/2015
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/09/06 20:10
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  6, 276, 2048
+%_%    2799, PEPERKAMP, Marcel, BEL,  6, 264, 1928
+%_%    2785, VAES, Dimitri, BEL,  5, 241, 1737
+%_%    4012, DE GRAAF, Jan C., NLD,  4, 238, 1980
+%_%    5900, REUNES, Nick, BEL,  4, 229, 1802
+%_%    5083, SNEEK, Marcel, NLD,  2, 186, 1662
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  1, 141, 1428
+
+
+
+%Round: 1
+
+  2799 (42)>(22)   4012  B
+  5900 (34)>(30)   5083  B
+  2785 (48)>(16)   2795  B
+
+%Round: 2
+
+  4068 (14)<(50)   5900  B
+  2795 (50)>(14)   2799  B
+  5083 (21)<(43)   2785  B
+
+%Round: 3
+
+  4012 (28)<(36)   2795  B
+  2785 (48)>(16)   4068  B
+  2799 (51)>(13)   5083  B
+
+%Round: 4
+
+  5900 (30)<(34)   2785  B
+  5083 (12)<(52)   4012  B
+  4068 (30)<(34)   2799  B
+
+%Round: 5
+
+  2795 (33)>(31)   5083  B
+  2799 (39)>(25)   5900  B
+  4012 (40)>(24)   4068  B
+
+%Round: 6
+
+  2785 (13)<(51)   2799  B
+  4068 (06)<(58)   2795  B
+  5900 (43)>(21)   4012  B
+
+%Round: 7
+
+  5083 (46)>(18)   4068  B
+  4012 (42)>(22)   2785  B
+  2795 (50)>(14)   5900  B
+
+
+%%Added results

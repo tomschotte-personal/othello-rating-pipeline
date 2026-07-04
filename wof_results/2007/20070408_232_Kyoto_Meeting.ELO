@@ -1,0 +1,64 @@
+%%Tournament: 232nd Kyoto Meeting
+%%Country: Japan
+%%Date: 08/04/2007
+%%Sender: Tom Schotte
+
+%round1
+5568 > 10008
+6997 > 5506
+6972 > 10039
+6929 > 6930
+
+%round2
+5568 > 6972
+5506 > 6939
+5576 > 6997
+6929 > 6931
+10008 > 10039
+
+%round3
+5568 > 6929
+6997 > 6930
+5506 > 10008
+5576 > 6972
+10039 > 6939
+10022 > 6931
+
+%round4
+5568 > 5576
+6997 > 6972
+5506 > 6929
+10039 > 10022
+6930 > 6939
+10008 > 6931
+
+%round5
+5568 > 5506
+6997 > 10039
+5576 > 6929
+6972 > 10008
+6930 > 10022
+6931 > 6939
+
+%round6
+6997 > 5568
+5506 > 5576
+6972 > 6930
+10039 > 6931
+6929 > 10008
+6939 > 10022
+
+
+%players
+%1 5568	okamoto	kazuki
+%2 6997	yamazoe	keiji
+%3 5506	tamaki	suguru
+%4 5576	takahashi	yoshiko
+%5 6972	miyazaki	toru
+%6 10039	morioka	wataru
+%7 6929	io	hideo
+%8 6930	nishimine	satoru
+%9 10008	okuda	masashi
+%10 6939	iwao	hajime
+%11 6931	obama	satomi
+%12 10022	takahashi	hiroki

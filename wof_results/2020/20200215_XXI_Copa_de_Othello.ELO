@@ -1,0 +1,44 @@
+%%Tournament: XXI Copa de Othello
+%%Country: Brazil
+%%Date: 15/02/2020
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/03/28 08:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  5, 219, 1530
+%_%  290025, CORREIA JR., Moises, BRA,  4, 193, 1335
+%_%  290051, CORREIA, Rafael Augusto P., BRA,  3, 166, 1041
+%_%  290013, FRITSCH, Evans, BRA,  2, 163, 1166
+%_%  290031, CEORLIN, Gilberto, BRA,  1, 99, 953
+
+
+
+%Round: 1
+
+290174 (59)>(05) 290031  B
+290013 (28)<(36) 290051  B
+
+%Round: 2
+
+290031 (20)<(44) 290013  B
+290025 (21)<(43) 290174  B
+
+%Round: 3
+
+290051 (48)>(16) 290031  B
+290013 (24)<(40) 290025  B
+
+%Round: 4
+
+290025 (46)>(18) 290051  B
+290174 (37)>(27) 290013  B
+
+%Round: 5
+
+290051 (24)<(40) 290174  B
+290031 (18)<(46) 290025  B
+
+
+%%Added results

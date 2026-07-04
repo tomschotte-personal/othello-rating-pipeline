@@ -1,0 +1,30 @@
+%%Tournament: 35th three river open A
+%%Country: Japan
+%%Date: 07/06/2008
+%%Sender: Tom Schotte
+
+%round1:
+5575 > 6800
+5571 > 6860
+
+%round2:
+5575 > 6860
+5571 > 6800
+
+%round3:
+5575 > 5571
+6860 < 6800
+ 
+%round4:
+5575 > 6800
+5571 < 6860
+
+%round5:
+5575 < 6860
+5571 < 6800
+
+%round6:
+5575 < 5571
+6860 > 6800
+
+

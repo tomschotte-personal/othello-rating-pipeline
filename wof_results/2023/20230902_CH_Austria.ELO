@@ -1,0 +1,44 @@
+%%Tournament: Austria Championship
+%%Country: Austria
+%%Date: 02/09/2023
+%%Sender: Marko
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2023/09/02 16:12
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   15404, OTAKA, Tomoki, JPN,  5, 266, 2038
+%_%    4869, SCHORETITS, Markus, AUT,  4, 201, 1557
+%_% +  9071, Schneider, Walter, Austria,  3, 119, 0
+%_% +  9067, Otaka, Maya, Japan,  2, 127, 0
+%_% +  9072, Otaka, Junichiro, Japan,  1, 127, 0
+
+
+
+%Round: 1
+
+ 15404 (49)>(15)   9072  B
+  9067 (21)<(43)   4869  B
+
+%Round: 2
+
+ 15404 (64)>(00)   9067  B
+  9072 (31)<(33)   9071  B
+
+%Round: 3
+
+  9071 (01)<(63)  15404  B
+  4869 (52)>(12)   9072  B
+
+%Round: 4
+
+  9071 (12)<(52)   4869  B
+  9067 (35)>(29)   9072  B
+
+%Round: 5
+
+  4869 (14)<(50)  15404  B
+  9067 (31)<(33)   9071  B
+
+
+%%Added results

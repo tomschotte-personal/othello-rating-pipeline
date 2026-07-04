@@ -1,0 +1,55 @@
+%%Tournament: 15th KoA Championships 2010
+%%Country: Korea
+%%Date: 21/02/2010
+%%Sender: 
+
+
+
+
+%Ranking of the 9 players after round 5:
+%_% ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 4850, Mario, MADRONA, E, 4, 363
+%_% 4035, Kwansoo, KIM, ROK, 4, 345
+%_% 4074, Joungmok, OH, ROK, 4, 337
+%_% 4063, Younghwa, KWON, ROK, 3, 308
+%_% 4087, Kwangwook, LEE, ROK, 3, 286
+%_% 4073, Velma, FU, HK, 2, 276
+%_% 7573, Seungsup, HA, ROK, 2? 273
+%_% 30001, Hyunshik, KIM, ROK, 2, 266
+%_% 4062, Taejoon, JUNG, ROK, 1, 236
+
+%Round: 1
+30001 (25)<(39)  4087 W
+ 4063 (18)<(46)  4074 W
+ 4073 (36)>(28)  4062 W
+ 7573 (23)<(41)  4850 W
+
+%Round: 2
+ 4087 (25)<(39)  4035 W
+ 4074 (35)>(29)  4073 W
+ 4850 (49)>(15) 30001 W
+ 4062 (26)<(38)  7573 W
+
+%Round: 3
+ 4035 (28)<(36)  4850 W
+ 7573 (19)<(45)  4074 W
+ 4073 (15)<(49)  4063 W
+ 4087 (34)>(30)  4062 W
+
+%Round: 4
+ 4074 (33)>(31)  4850 W
+ 4063 (24)<(40)  4087 W
+ 4035 (40)>(24)  4073 W
+30001 (30)<(34)  7573 W
+
+%Round: 5
+ 4074 (28)<(36)  4035 W
+ 4850 (56)>(08)  4087 W
+ 7573 (19)<(45)  4063 W
+ 4062 (20)<(44) 30001 W
+
+%Finals: 1
+ 4850 (47)>(17)  4035 W
+
+%Finals: 2
+ 4035 (22)<(40)  4850 W

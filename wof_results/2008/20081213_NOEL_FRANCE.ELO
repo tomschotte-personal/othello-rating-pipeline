@@ -1,0 +1,65 @@
+%%Tournament: tournoi de noel 2008
+%%Country: France
+%%Date: 13/12/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/12/17 11:26
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      45, ANDRIANI, Bintsa, F,  5, 226
+%_%    3518, DELAUNAY, Arnaud, F,  4, 230
+%_%      11, LAZARD, Emmanuel, F,  3, 204
+%_%     433, NICOLET, Stephane, F,  3, 180
+%_%    3841, LEBLANC, Aurelien, F,  3, 144
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  3, 138
+%_%    3722, LEFEBVRE, Thierry, F,  2, 160
+%_%    3384, AUZENDE, Frederic, F,  2, 143
+%_%    3778, SAGONA, Eric, F,  2, 133
+%_%    3600, BENOIT, Serge, F,  2, 132
+%_%    3734, CLUZON, Gilles, F,  1, 110
+
+
+
+%Round: 1
+
+  3600 (27)<(37)   3841 B
+   433 (56)>(08)   3734 B
+  3384 (47)>(17)   3778 B
+  3518 (27)<(37)   3722 B
+  3598 (15)<(49)     11 B
+
+%Round: 2
+
+  3734 (31)<(33)   3600 B
+%  3722 (24)<(40)     45 B
+  3841 (16)<(48)   3384 B
+  3778 (15)<(49)   3518 B
+    11 (27)<(37)    433 B
+
+%Round: 3
+
+  3600 (15)<(49)     11 B
+  3722 (28)<(36)   3778 B
+  3518 (62)>(02)   3598 B
+%    45 (50)>(14)   3384 B
+   433 (30)<(34)   3841 B
+
+%Round: 4
+
+  3841 (18)<(46)   3518 B
+  3734 (23)<(41)   3722 B
+  3598 (47)>(17)   3600 B
+  3384 (16)<(48)    433 B
+%    11 (23)<(41)     45 B
+
+%Round: 5
+
+  3778 (25)<(39)   3841 B
+%    45 (55)>(09)    433 B
+    11 (56)>(08)   3734 B
+  3722 (30)<(34)   3598 B
+  3518 (46)>(18)   3384 B
+
+
+%%Added results

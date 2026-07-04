@@ -1,0 +1,86 @@
+%%Tournament: 22nd Chiyarenshi Open
+%%Country: Japan
+%%Date: 11/11/2006
+%%Sender: Tom Schotte
+
+
+%round1
+5533 > 5555
+10131 > 10888
+5537 > 5567
+5566 > 5614
+5594 > 5593
+5596 > 5543
+11096 > 5514
+5547 > 5552
+
+%round2
+5533 > 5547
+10131 > 11096
+5537 > 5566
+5555 > 5567
+5596 > 5594
+5593 > 5543
+5514 > 5552
+11335 > 5614
+
+%round3
+5533 > 10131
+5555 > 5547
+10888 > 5614
+5566 > 11335
+5594 > 11096
+5596 > 5537
+5567 > 5543
+5593 > 5514
+
+%round4
+5533 > 5596
+10131 > 5594
+5537 > 5593
+10888 > 5555
+5567 > 5547
+5514 > 5543
+11096 > 5566
+11335 > 5552
+
+%round5
+10131 > 5596
+5537 > 5533
+5555 > 5514
+5566 > 5593
+5594 > 10888
+5567 > 11096
+5614 > 5552
+5547 > 11335
+
+%round6
+5533 > 5567
+10131 > 5537
+5555 > 11096
+10888 > 5596
+5566 > 5594
+5593 > 11335
+5614 > 5547
+5543 > 5552
+
+
+%players
+%1 5533	sato	kouichiro
+%2 10131	nogami	yoshiyuki
+%3 5537	takanashi	yusuke
+%4 5555	sato	tetsuya
+%5 10888	shimizu	koichi
+%6 5566	matsuzawa	atsushi
+%7 5594	masayuki	suko
+%8 5596	okamoto	akihiko
+%9 5567	mitsuya	nobuaki
+%10 5593	yamamoto	kunisuke
+%11 5614	ishihara	makoto
+%12 5514	watahiki	kenta
+%13 11096	kikukawa	takamichi
+%14 5547	ohno	atsuko
+%15 11335	tamura	reika
+%16 5543	watanabe	keiichi
+%17 5552	sakurai	takeuchi
+

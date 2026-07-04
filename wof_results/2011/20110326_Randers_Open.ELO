@@ -1,0 +1,50 @@
+%%Tournament: Randers Open
+%%Country: Denmark
+%%Date: 26/03/2011
+%%Sender: Henrik Vallund
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/03/26 16:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  220003, LINDE, Mathias, DK,  4, 212
+%_%      96, VALLUND, Henrik, DK,  3, 238
+%_%    1045, NIELSEN, Kim J., DK,  3, 172
+%_%    1981, STOKKE, Solrun, DK,  3, 149
+%_%    1000, MICHAELSEN, Peter, DK,  1, 103
+%_%    1047, STORM, Henning, DK,  1, 86
+
+
+
+%Round: 1
+
+  1045 (24)<(40)   1981 B
+220003 (62)>(02)   1000 B
+    96 (62)>(02)   1047 B
+
+%Round: 2
+
+  1000 (22)<(42)   1045 B
+  1981 (02)<(62)     96 B
+  1047 (33)>(31) 220003 B
+
+%Round: 3
+
+  1045 (35)>(29)     96 B
+  1000 (50)>(14)   1047 B
+220003 (44)>(20)   1981 B
+
+%Round: 4
+
+  1047 (21)<(43)   1045 B
+    96 (25)<(39) 220003 B
+  1981 (39)>(25)   1000 B
+
+%Round: 5
+
+  1045 (28)<(36) 220003 B
+  1047 (16)<(48)   1981 B
+  1000 (04)<(60)     96 B
+
+
+%%Added results

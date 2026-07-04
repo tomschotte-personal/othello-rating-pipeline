@@ -1,0 +1,46 @@
+%%Tournament: Swiss Championships
+%%Country: Switzerland
+%%Date: 28/02/2026
+%%Sender: BERG Matthias
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   50030, JUIGNER, Arthur, CHE, 4, 157, 2406
+%_%    3024, BORASSI, Michele, CHE, 4, 144, 2345
+%_%    5301, BERG, Matthias, DEU, 3, 127, 2241
+%_%   50067, JUIGNER, Felix, CHE, 3, 127, 2328
+%_%  240002, JOYE, Frederic, CHE, 1, 85, 1996
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/485
+
+%Round: 1
+
+  5301 (25)<(39)   3024  B
+ 50030 (41)>(23)  50067  B
+
+%Round: 2
+
+  3024 (22)<(42)  50030  B
+240002 (30)<(34)   5301  B
+
+%Round: 3
+
+ 50067 (25)<(39)   3024  B
+ 50030 (49)>(15) 240002  B
+
+%Round: 4
+
+240002 (20)<(44)  50067  B
+  5301 (39)>(25)  50030  B
+
+%Round: 5
+
+ 50067 (35)>(29)   5301  B
+  3024 (44)>(20) 240002  B
+
+%%Added results
+
+ 50030 (41)>(23)   3024  B

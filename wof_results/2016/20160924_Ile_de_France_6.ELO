@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 6
+%%Country: France
+%%Date: 24/09/2016
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/10/26 10:49
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 221, 1968
+%_%       2, TASTET, Marc, FRA,  4, 208, 2115
+%_%    9025, TOUCHENE, Fouad, DZA,  3.5, 170, 1615
+%_%     228, BUSUTTIL, Michel, FRA,  3, 190, 1448
+%_%    3600, BENOIT, Serge, FRA,  2.5, 162, 1544
+%_%   50091, ENGUEHARD, Guillaume, FRA,  2, 124, 0
+%_%   50092, RUSSKIKH, Svetlana, FRA,  1, 85, 0
+
+
+
+%Round: 1
+
+  3598 (53)>(11)  50092  B
+     2 (54)>(10)  50091  B
+   228 (49)>(15)   3600  B
+
+%Round: 2
+
+  3598 (31)<(33)      2  B
+ 50092 (16)<(48)  50091  B
+  9025 (43)>(21)    228  B
+
+%Round: 3
+
+ 50091 (15)<(49)    228  B
+  3600 (24)<(40)   3598  B
+     2 (29)<(35)   9025  B
+
+%Round: 4
+
+ 50092 (13)<(51)   3600  B
+  9025 (20)<(44)   3598  B
+   228 (31)<(33)      2  B
+
+%Round: 5
+
+ 50091 (11)<(53)   3598  B
+  3600 (32)=(32)   9025  B
+     2 (59)>(05)  50092  B
+
+
+%%Added results

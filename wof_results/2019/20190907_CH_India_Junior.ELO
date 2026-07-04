@@ -1,0 +1,26 @@
+%%Tournament: Junior Indian Othello Championship 2019
+%%Country: India
+%%Date: 07/09/2019
+%%Sender: Ashok Choudhary
+
+%_%    ID,	  NAME,		Firstname,	COUNTRY,     score,    disc-count
+%_%  +350035,	GUPTA	,	Devansh,	IND,		5,	237
+%_%  +350036,	DEVADIGA,	Saket,		IND,		1,	138
+%_%  +350037,	SRIVASTAVA,	Sarthak,	IND,		1,	86
+%_%  +350032,	CHOUDHARY,	Rinku,	 	IND,		1,	51
+
+%%Final
+350035 (48)>(16) 350036  B
+350036 (31)<(33) 350035  B
+
+%%Round 1
+350037 (15)<(49) 350035  B
+350032 (36)>(28) 350036  B
+
+%%Round 2
+350035 (56)>(08) 350032  B
+350036 (50)>(14) 350037  B
+
+%%Round 3
+350032 (07)<(57) 350037  B
+350036 (13)<(51) 350035  B

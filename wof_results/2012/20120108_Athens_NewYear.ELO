@@ -1,0 +1,38 @@
+%%Tournament: Athens NewYear 2012
+%%Country: Greece
+%%Date: 08/01/2012
+%%Sender: Pantelis Theodosiou
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/09/29 19:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  300005, GIOUZELIS, George, GRC,  3, 133, 300
+%_%  300011, GIOUZELIS, Alexandros, GRC,  2, 122, -56
+%_%  300021, PALAPANIDIS, Christos, GRC,  2, 117, 1241
+%_%  300023, KOTOPOULI, Maria, GRC,  1, 88, 110
+%_%  300024, LELLAS, Ektor, GRC,  1, 67, 110
+%_% +300028, PATSOURAKIS, Eustratios, GRC,  0, 49, 0
+
+
+
+%Round: 1
+
+300005 (50)>(14) 300028  B
+300011 (54)>(10) 300024  B
+300023 (19)<(45) 300021  B
+
+%Round: 2
+
+300005 (42)>(22) 300023  B
+300021 (19)<(45) 300011  B
+300028 (18)<(46) 300024  B
+
+%Round: 3
+
+300011 (23)<(41) 300005  B
+300023 (47)>(17) 300028  B
+300024 (11)<(53) 300021  B
+
+
+%%Added results

@@ -1,0 +1,92 @@
+%%Tournament: Ivory Coast Nationals
+%%Country: Ivory Coast
+%%Date: 01/07/2014
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/07/22 14:07
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  410000, OUREGA, Loh Jeannot, CIV,  6, 280, 813
+%_% +410008, Ourega Gallo, Irene, CIV,  6, 243, 0
+%_% +  9045, Cherif, Fanta, CIV,  4, 228, 0
+%_%  410004, KOBENAN SIGNO, Joseph, CIV,  4, 185, 0
+%_% +410012, Ourega Zirimbia Ange, F, CIV,  2, 141, 0
+%_% +  9037, Gnonsian, AnneMaria, CIV,  2, 134, 0
+%_% +  9032, Nampe, Franck, CIV,  2, 130, 0
+%_% +  9040, Kone, Hamadou, CIV,  2, 75, 0
+%_% +  9047, Kablan, Anthony, CIV,  2, 74, 0
+%_% +  9039, Akre, Gabriel, CIV,  1.5, 72, 0
+%_% +  9033, Adou, Victor, CIV,  1.5, 71, 0
+%_% +  9028, Ouedraogo, Oumou, CIV,  1, 112, 0
+%_% +  9027, Guiehoua France, marie, CIV,  1, 67, 0
+%_% +  9034, Drama, Jolie, CIV,  0.5, 57, 0
+%_% +  9038, Assale, Kinimo, CIV,  0.5, 56, 0
+%_% +  9046, Keita, Tiemoko, CIV,  0, 54, 0
+%_% +  9041, Abdouem, Steve, CIV,  0, 53, 0
+%_% +  9029, NGuessan, Marcelin, CIV,  0, 49, 0
+%_% +  9035, Gode Gnako, Albert, CIV,  0, 47, 0
+%_% +  9042, Gbophio Bazou, Marie, CIV,  0, 42, 0
+%_% +  9031, Togba, Vanama, CIV,  0, 38, 0
+%_% +  9036, Goro, Fatoumata, CIV,  0, 37, 0
+%_% +  9026, Kobehi, Troupa, CIV,  0, 33, 0
+%_% +  9044, Signo Anne, Marie, CIV,  0, 26, 0
+
+
+
+%Round: 1
+
+410000 (60)>(04)   9026  B
+  9027 (36)>(28)   9028  B
+  9029 (25)<(39) 410008  B
+  9031 (24)<(40)   9032  B
+  9033 (39)>(25)   9034  B
+  9035 (19)<(45) 410004  B
+  9036 (14)<(50)   9037  B
+  9038 (24)<(40)   9039  B
+  9040 (35)>(29)   9041  B
+  9042 (23)<(41) 410012  B
+  9044 (11)<(53)   9045  B
+  9046 (25)<(39)   9047  B
+
+%Round: 2
+
+  9026 (29)<(35) 410000  B
+  9028 (33)>(31)   9027  B
+410008 (40)>(24)   9029  B
+  9032 (50)>(14)   9031  B
+  9034 (32)=(32)   9033  B
+410004 (36)>(28)   9035  B
+  9037 (41)>(23)   9036  B
+  9039 (32)=(32)   9038  B
+  9041 (24)<(40)   9040  B
+410012 (45)>(19)   9042  B
+  9045 (49)>(15)   9044  B
+  9047 (35)>(29)   9046  B
+
+%Round: 3
+
+410000 (49)>(15)   9032  B
+410012 (31)<(33) 410004  B
+  9045 (45)>(19)   9037  B
+410008 (37)>(27)   9028  B
+
+%Round: 4
+
+  9032 (25)<(39) 410000  B
+410004 (40)>(24) 410012  B
+  9037 (24)<(40)   9045  B
+  9028 (24)<(40) 410008  B
+
+%Round: 5
+
+410000 (48)>(16) 410004  B
+  9045 (29)<(35) 410008  B
+
+%Round: 6
+
+410004 (15)<(49) 410000  B
+410008 (52)>(12)   9045  B
+
+
+%%Added results

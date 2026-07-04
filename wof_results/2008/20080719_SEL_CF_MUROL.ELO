@@ -1,0 +1,55 @@
+%%Tournament: Selection de Murol 2008
+%%Country: France
+%%Date: 19/07/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/07/23 15:12
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     433, NICOLET, Stephane, F,  5, 238
+%_%    4869, SCHORETITS, Markus, A,  4, 196
+%_%    3598, LEVY-ABEGNOLI, Thierry, F,  4, 192
+%_%    3519, DAUBA, Cedric, F,  3, 176
+%_%    3600, BENOIT, Serge, F,  2, 154
+%_%    3660, STAIGRE, Pascal, F,  2, 146
+%_%    5908, DARCK, Nancy, B,  2, 121
+%_%    2788, LECAT, Monique, B,  2, 114
+%_%    3734, CLUZON, Gilles, F,  1, 143
+
+
+
+%Round: 1
+
+  4869 (40)>(24)   3734 B
+  3598 (49)>(15)   2788 B
+  3600 (42)>(22)   3660 B
+  5908 (06)<(58)    433 B
+
+%Round: 2
+
+  3519 (49)>(15)   3600 B
+  3734 (24)<(40)   3598 B
+   433 (45)>(19)   4869 B
+  3660 (23)<(41)   5908 B
+
+%Round: 3
+
+  5908 (16)<(48)   3519 B
+  3598 (30)<(34)    433 B
+  2788 (34)>(30)   3600 B
+  4869 (43)>(21)   3660 B
+
+%Round: 4
+
+   433 (53)>(11)   3519 B
+  3600 (27)<(37)   3598 B
+  3734 (31)<(33)   5908 B
+  2788 (09)<(55)   4869 B
+
+%Round: 5
+
+  4869 (39)>(25)   5908 B
+  3519 (28)<(36)   3598 B
+  3660 (40)>(24)   3734 B
+   433 (48)>(16)   2788 B

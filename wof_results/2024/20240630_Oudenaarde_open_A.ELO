@@ -1,0 +1,38 @@
+%%Tournament: oudenaarde othello open A
+%%Country: Belgium
+%%Date: 30/06/2024
+%%Sender: SCHOTTE Tom
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    2795, SCHOTTE, Tom, BEL, 4, 224, 1976
+%_%    5909, VAN DAMME, Brecht, BEL, 3, 144, 1502
+%_%    5905, MAY, Michael, BEL, 2, 140, 1564
+%_%  270069, DE MOOR, Nadja, BEL, 1, 132, 1326
+
+%Round: 1
+
+  5905 (18)<(46)   5909  B
+  2795 (37)>(27) 270069  B
+
+%Round: 2
+
+  5909 (10)<(54)   2795  B
+270069 (13)<(51)   5905  B
+
+%Round: 3
+
+  5909 (36)>(28) 270069  B
+  5905 (35)>(29)   2795  B
+
+%Round: 4
+
+  2795 (47)>(17)   5909  B
+270069 (35)>(29)   5905  B
+
+%Round: 5
+
+  5905 (07)<(57)   2795  B
+  5909 (35)>(29) 270069  B

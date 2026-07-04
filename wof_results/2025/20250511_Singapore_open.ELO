@@ -1,0 +1,45 @@
+%%Tournament: Singapore Open
+%%Country: Singapore
+%%Date: 11/05/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  250003, KOH, Bo Chao Alex, SGP, 5, 230, 2233
+%_%  250147, SIA, Cheng Yong, SGP, 4, 215, 2178
+%_%  250299, NG, Jason, SGP, 2, 159, 1841
+%_%  250174, KURNIAWAN, Samuel Henry, SGP, 2, 147, 1934
+%_%  250187, TAN, Meng Lin, SGP, 1, 115, 1872
+%_%  250289, KOH, Jun Kai, SGP, 1, 94, 1888
+
+%Round: 1
+
+250299 (28)<(36) 250147  B
+250003 (48)>(16) 250187  B
+250174 (29)<(35) 250289  B
+
+%Round: 2
+
+250289 (21)<(43) 250299  B
+250187 (17)<(47) 250174  B
+250147 (26)<(38) 250003  B
+
+%Round: 3
+
+250289 (25)<(39) 250187  B
+250174 (19)<(45) 250147  B
+250299 (18)<(46) 250003  B
+
+%Round: 4
+
+250187 (23)<(41) 250299  B
+250147 (64)>(00) 250289  B
+250003 (47)>(17) 250174  B
+
+%Round: 5
+
+250299 (29)<(35) 250174  B
+250289 (13)<(51) 250003  B
+250187 (20)<(44) 250147  B

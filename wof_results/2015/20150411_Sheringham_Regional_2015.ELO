@@ -1,0 +1,48 @@
+%%Tournament: Sheringham Regional 2015
+%%Country: Great-Britain
+%%Date: 11/04/2015
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/04/12 09:46
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  6, 301, 2188
+%_%    2065, MARSON, Phil, GBR,  4, 190, 1736
+%_%    2006, ARNOLD, Roy, GBR,  2, 140, 1483
+%_%  100004, LIGHTMAN, Marie, GBR,  0, 137, 1300
+
+
+
+%Round: 1
+
+  2006 (37)>(27) 100004  B
+  2065 (03)<(61)     79  B
+
+%Round: 2
+
+  2065 (37)>(27)   2006  B
+100004 (22)<(42)     79  B
+
+%Round: 3
+
+    79 (52)>(12)   2006  B
+100004 (30)<(34)   2065  B
+
+%Round: 4
+
+100004 (26)<(38)   2006  B
+    79 (57)>(07)   2065  B
+
+%Round: 5
+
+  2006 (15)<(49)   2065  B
+    79 (36)>(28) 100004  B
+
+%Round: 6
+
+  2006 (11)<(53)     79  B
+  2065 (60)>(04) 100004  B
+
+
+%%Added results

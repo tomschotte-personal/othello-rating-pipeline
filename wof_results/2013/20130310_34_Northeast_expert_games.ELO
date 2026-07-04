@@ -1,0 +1,34 @@
+%%Tournament: 34_Northeast_expert_games
+%%Country: Japan
+%%Date: 10/03/2013
+%%Sender: Hiroyuki Iwata
+
+%_%   5584, OSHIMIZU, takanori, JPN, 5.0, 210
+%_%   7034, YOSHIDA, taisaku, JPN, 3.0, 152
+%_%  10616, SATOHISA, kazu, JPN, 2.0, 148
+%_%  12507, MIURA, toshie, JPN, 1.0, 98
+%_%  12884, TAMURA, yuki, JPN, 0.0, 95
+
+%Round 1
+  5584 (39)>(25)  10616 
+  7034 (35)>(29)  12884 
+
+%Round 2
+  5584 (39)>(25)   7034 
+ 12507 (37)>(27)  12884 
+
+%Round 3
+  5584 (44)>(20)  12884 
+ 10616 (47)>(17)  12507 
+
+%Round 4
+  5584 (48)>(16)  12507 
+  7034 (33)>(31)  10616 
+
+%Round 5
+  7034 (36)>(28)  12507 
+ 10616 (45)>(19)  12884 
+
+%Round 6
+  5584 (40)>(23)   7034 
+

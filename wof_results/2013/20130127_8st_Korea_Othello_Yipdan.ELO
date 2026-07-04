@@ -1,0 +1,50 @@
+%%Tournament: 8st Korea Othello Yipdan
+%%Country: Korea
+%%Date: 27/01/2013
+%%Sender: Joungmok OH
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2013/01/27 22:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   +30010, GIM, Dongsung, KOR,  5, 261
+%_%   +30007, KIM, Younggun, KOR,  3, 175
+%_%   +30006, LEE, Wonjae, KOR,  3, 171
+%_%   +30009, HONG, Hyungbum, KOR,  2, 144
+%_%   +30005, KIM, Wangnyeon, KOR,  1, 112
+%_%   +30008, SHIN, Youngja, KOR,  1, 97
+
+
+
+%Round: 1
+
+ 30010 (50)>(14)  30006  B
+ 30009 (39)>(25)  30008  B
+ 30007 (51)>(13)  30005  B
+
+%Round: 2
+
+ 30008 (10)<(54)  30010  B
+ 30006 (35)>(29)  30007  B
+ 30005 (47)>(17)  30009  B
+
+%Round: 3
+
+ 30010 (61)>(03)  30007  B
+ 30008 (42)>(22)  30005  B
+ 30009 (39)>(25)  30006  B
+
+%Round: 4
+
+ 30005 (08)<(56)  30010  B
+ 30007 (39)>(25)  30009  B
+ 30006 (55)>(09)  30008  B
+
+%Round: 5
+
+ 30010 (40)>(24)  30009  B
+ 30005 (22)<(42)  30006  B
+ 30008 (11)<(53)  30007  B
+
+
+%%Added results

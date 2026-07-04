@@ -1,0 +1,63 @@
+%%Tournament: Othello Nova Odessa Julho 2017
+%%Country: Brazil
+%%Date: 26/07/2017
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/31 12:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290116, LISBOA, Guilherme, BRA,  4, 219, 0
+%_%  290040, SILVA, Joao Victor S. Da, BRA,  4, 202, 0
+%_%  290168, PAIE CORREIA, Vitor, BRA,  4, 192, 0
+%_%  290056, PIO DE ARAUJO, Eduardo, BRA,  2.5, 157, 0
+%_%  +290287, NINA, Diego Vinicius H, BRA,  2.5, 166, 0
+%_%  290032, PIO DE ARAUJO, Victor, BRA,  2, 135, 0
+%_%  +290289, LANZONI, Isadora, BRA,  2, 152, 0
+%_%  +290288, VALENCA, Natan, BRA,  2, 123, 0
+%_%  +290286, CARCELIANO, Victor, BRA,  1, 102, 0
+%_%  290053, SILVA, William Cezar F., BRA,  0, 88, 0
+
+
+
+%Round: 1
+
+290053 (17)<(47) 290286  B
+290287 (10)<(54) 290116  B
+290168 (47)>(17) 290288  B
+290040 (41)>(23) 290289  B
+
+%Round: 2
+
+290286 (20)<(44) 290168  B
+290116 (47)>(17) 290040  B
+290289 (44)>(20) 290053  B
+290056 (32)=(32) 290287  B
+290288 (16)<(48) 290032  B
+
+%Round: 3
+
+290168 (33)>(31) 290116  B
+290040 (56)>(08) 290286  B
+290032 (42)>(22) 290289  B
+290053 (10)<(54) 290056  B
+290287 (23)<(41) 290288  B
+
+%Round: 4
+
+290040 (41)>(23) 290168  B
+290116 (38)>(26) 290032  B
+290286 (10)<(54) 290056  B
+290288 (34)>(30) 290289  B
+290053 (10)<(54) 290287  B
+
+%Round: 5
+
+290056 (17)<(47) 290040  B
+290032 (19)<(45) 290168  B
+290288 (15)<(49) 290116  B
+290287 (47)>(17) 290286  B
+290289 (33)>(31) 290053  B
+
+
+%%Added results

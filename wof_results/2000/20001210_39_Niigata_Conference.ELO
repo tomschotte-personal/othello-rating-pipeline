@@ -1,0 +1,61 @@
+%%Tournament: 39th Niigata Othello Conference
+%%Country: Japan
+%%Date: 10/12/2000
+%%Sender: Tom Schotte
+
+%round1
+488 > 7051
+7047 > 10381
+11276 > 12008
+7048 > 7046
+7096 > 12007
+10585 > 11996
+
+%round2
+488 > 7047
+11276 > 7048
+7051 > 10381
+7096 > 10585
+7046 > 12008
+12007 > 11996
+
+%round3
+488 > 11276
+7047 > 7096
+7051 > 12007
+7048 > 10381
+7046 > 10585
+12008 > 11996
+
+%round4
+488 > 7048
+7047 > 7046
+7051 > 11276
+10585 > 12007
+12008 > 7096
+10381 > 11996
+
+%round5
+488 > 10585
+7047 > 7051
+11276 > 7046
+7048 > 11996
+7096 > 10381
+12007 > 12008
+
+
+
+%players
+%1 488	takizawa	masaki	
+%2 7047	umezawa	yoshinori
+%3 11276	sato	shinji
+%4 7051	okuno	tomoji
+%5 7048	kanda	yoshihiro
+%6 7096	suzuki	nobuyuki
+%7 7046	sasaki	sadayuki
+%8 10585	matuzawa	takashi
+%9 12007	iijima	hiroshi
+%10 12008	akahara	kenta
+%11 10381	iwasaka	nishimura
+%12 11996	watanabe	teruko
+

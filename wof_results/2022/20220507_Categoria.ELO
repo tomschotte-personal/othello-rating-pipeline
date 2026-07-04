@@ -1,0 +1,38 @@
+%%Tournament: Categoria
+%%Country: Italy
+%%Date: 07/05/2022
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   3023, LAI, Fabrizio, ITA, 4, 203-053
+%_%  40047, PANTANI, Ennio, ITA, 3, 134-122
+%_%  40048, PANTANI, Antonio, ITA, 2, 113-143
+%_%   2884, VECCHI, Maria Serena, ITA, 2, 145-111
+%_%  40121, RIDOLFI, Raffaele, ITA, 2, 138-118
+%_%  40148, MARALDI, Simone, ITA, 1, 111-145
+%_% +40153, DE SIMONE, Giulia, ITA, 1, 087-169
+%_%  40147, ZEPPIERI, Eleonora, ITA, 1, 093-163
+
+%Round 1
+  3023 (43)>(21)  40121  B
+ 40147 (14)<(50)   2884  B
+ 40048 (46)>(18)  40148  B
+ 40153 (15)<(49)  40047  B
+
+%Round 2
+ 40047 (09)<(55)   3023  B
+  2884 (30)<(34)  40048  B
+ 40121 (55)>(09)  40153  B
+ 40148 (43)>(21)  40147  B
+
+%Round 3
+  3023 (62)>(02)  40048  B
+ 40121 (20)<(44)   2884  B
+ 40148 (21)<(43)  40047  B
+ 40147 (36)>(28)  40153  B
+
+%Round 4
+  2884 (21)<(43)   3023  B
+ 40048 (31)<(33)  40047  B
+ 40147 (22)<(42)  40121  B
+ 40153 (35)>(29)  40148  B

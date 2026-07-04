@@ -1,0 +1,35 @@
+%%Tournament: 96th Dutch Othello Open
+%%Country: Netherlands
+%%Date: 26/05/2019
+%%Sender: Jan de Graaf
+
+%        ID, NAME, Firstname, COUNTRY, score, BQ
+%_%    5105, VAN DEN BIGGELAAR, Nicky, NL, 4, 233
+%_%    5071, HOBO, Roel, NL, 3, 190
+%_%    5198, VAN DEN BERG, Erwin, NL, 3, 162
+%_%    4012, DE GRAAF, Jan, NL, 2, 183
+
+% Round 1
+  5105 (47)>(17)   4012  B
+  5071 (38)>(26)   5198  B
+
+% Round 2
+  5105 (28)<(36)   5071  B
+  4012 (31)<(33)   5198  B
+
+% Round 3
+  5198 (20)<(44)   5105  B
+  5071 (37)>(27)   4012  B
+
+% Round 4
+  5198 (34)>(30)   5071  B
+  4012 (40)>(24)   5105  B
+
+% Round 5
+  5071 (26)<(38)   5105  B
+  5198 (37)>(27)   4012  B
+
+% Round 6
+  5105 (52)>(12)   5198  B
+  4012 (41)>(23)   5071  B
+

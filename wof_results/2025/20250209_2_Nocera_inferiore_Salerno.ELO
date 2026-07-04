@@ -1,0 +1,57 @@
+%%Tournament: 2 Nocera Inferiore - Salerno
+%%Country: Italy
+%%Date: 09/02/2025
+%%Sender: Rino
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    8022, PECCERILLO, Vincenzo, ITA, 4, 216, 1721
+%_%    2839, LAMBERTI, Luigi, ITA, 3, 163, 1557
+%_%   40225, BERRUTO, Giuseppe, ITA, 3, 145, 1227
+%_%   40258, Bosco, Marco, ITA, 3, 123, -
+%_%   40242, HORUPASHENKO, Vadym, ITA, 2, 132, -
+%_%   40241, SAVARESE, Michele, ITA, 2, 145, -
+%_%   40248, LAMBIASE, Giuseppe, ITA, 2, 126, -
+%_%   40244, ALATI, Anna, ITA, 2, 142, -
+%_%   40245, IOVANE, Diego, ITA, 1, 97, -
+%_%   40246, CALABRESE, Primo Vinicio, ITA, 1, 112, -
+%_%   +40286, Lino, Grimaldi, ITA, 1, 84, -
+%_%   40249, SANTONICOLA, Caterina, ITA, 0, 51, -
+
+%Round: 1
+
+  8022 (46)>(18)  40242  B
+  2839 (60)>(04)  40245  B
+ 40248 (12)<(52)  40225  B
+ 40286 (12)<(52)  40244  B
+ 40258 (45)>(19)  40249  B
+ 40246 (19)<(45)  40241  B
+
+%Round: 2
+
+ 40245 (48)>(16)  40286  B
+ 40249 (12)<(52)  40248  B
+ 40242 (47)>(17)  40246  B
+ 40241 (25)<(39)  40258  B
+ 40225 (10)<(54)   8022  B
+ 40244 (20)<(44)   2839  B
+
+%Round: 3
+
+ 40246 (63)>(01)  40249  B
+ 40286 (11)<(53)  40241  B
+ 40248 (45)>(19)  40244  B
+ 40225 (41)>(23)  40242  B
+ 40258 (39)>(25)  40245  B
+  8022 (52)>(12)   2839  B
+
+%Round: 4
+
+ 40258 (00)<(64)   8022  B
+ 40241 (22)<(42)  40225  B
+  2839 (47)>(17)  40248  B
+ 40242 (44)>(20)  40245  B
+ 40244 (51)>(13)  40246  B
+ 40249 (19)<(45)  40286  B

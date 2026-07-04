@@ -1,0 +1,25 @@
+%%Tournament: 2008 Tokyo Block preliminary students
+%%Country: Japan
+%%Date: 29/06/2008
+%%Sender: Tom Schotte
+
+
+%ROUND1
+5541 < 5640
+6863 > 5643
+
+%ROUND2
+5541 > 5643
+5635 > 5640
+
+%ROUND3
+5541 > 6863
+5635 > 5643
+
+%ROUND4
+5541 > 5635
+6863 > 5640
+
+%ROUND5
+6863 > 5635
+5640 > 5643

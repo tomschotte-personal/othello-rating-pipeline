@@ -1,0 +1,33 @@
+%%Tournament: Nahariya New Year
+%%Country: Israel
+%%Date: 24/09/2022
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/09/28 10:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     880, SHIFMAN, Leonid, ISR,  2, 112, 1599
+%_%  200404, KURILENKOV, Konstantin, ISR,  2, 83, 1134
+%_%     885, SHIFMAN, Ilya, ISR,  1, 96, 1797
+%_%  200010, SHIFMAN, Micky, ISR,  1, 93, 1789
+
+
+
+%Round: 1
+
+   880 (48)>(16) 200010  B
+200404 (14)<(50)    885  B
+
+%Round: 2
+
+   885 (28)<(36)    880  B
+200010 (31)<(33) 200404  B
+
+%Round: 3
+
+   880 (28)<(36) 200404  B
+   885 (18)<(46) 200010  B
+
+
+%%Added results

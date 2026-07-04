@@ -1,0 +1,59 @@
+%%Tournament: 191st Kyoto Meeting
+%%Country: Japan
+%%Date: 09/11/2003
+%%Sender: Tom Schotte
+
+%round1
+5507 > 6923
+5506 > 5559
+6936 > 6929
+10038 > 10009
+10118 > 10008
+
+%round2
+5559 > 10009
+5507 > 10118
+5506 > 6929
+6936 > 10038
+6923 > 10008
+
+%round3
+5559 > 6936
+5507 > 5506
+6923 > 10038
+10118 > 6929
+10008 > 10009
+
+%round4
+5559 > 5507
+6936 > 5506
+10038 > 10008
+6923 > 10118
+6929 > 10009
+
+%round5
+5559 > 6923
+5507 > 6936
+5506 > 10118
+10038 > 6929
+%10008 left and 10009 bye
+
+%round6
+5559 > 10118
+5506 > 6923
+6936 > 10009
+10038 > 5507
+%10008 left and 6929 bye
+
+
+%players
+%1 5559	kawarada	yuichi
+%2 5507	tsuchida	daisuke
+%3 5506	tamaki	suguru
+%4 6936	tsubouchi	masao
+%5 10038	wazuki	hiroyuki
+%6 6923	kimura	keigo
+%7 6929	io	hideo
+%8 10118	masuda	kazuhisa
+%9 10008	okuda	masashi
+%10 10009	taru	eiichi

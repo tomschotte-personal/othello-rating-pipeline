@@ -1,0 +1,30 @@
+%%Tournament: 28_Mito_Jishi_games
+%%Country: Japan
+%%Date: 07/09/2013
+%%Sender: Hiroyuki Iwata
+
+%_%   6986, IZUMI, takashi, JPN, 5.0, 207
+%_%   5527, GOTO, masahiro, JPN, 2.5, 174
+%_%  11066, KAMIHARA, takashi, JPN, 1.5, 113
+%_%  11317, TAKAHASHI, naga, JPN, 1.0, 146
+
+%Round 1
+  6986 (43)>(21)  11317 
+ 11066 (32)=(32)   5527 
+
+%Round 2
+  6986 (39)>(25)  11066 
+  5527 (34)>(30)  11317 
+
+%Round 3
+  6986 (37)>(27)   5527 
+ 11066 (33)>(31)  11317 
+
+%Round 4
+  6986 (54)>(10)  11066 
+  5527 (51)>(13)  11317 
+
+%Round 5
+  6986 (34)>(30)   5527 
+ 11317 (51)>(13)  11066 
+

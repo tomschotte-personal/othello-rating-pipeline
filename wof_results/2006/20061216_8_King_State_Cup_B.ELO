@@ -1,0 +1,60 @@
+%%Tournament: 8th King State Cup B
+%%Country: Japan
+%%Date: 16/12/2006
+%%Sender: Tom Schotte
+
+%round1
+7045 > 5537
+5609 > 5577
+5630 > 5555
+6827 > 5514
+5624 > 5577
+
+%round2
+7045 > 6827
+5537 > 5555
+5609 > 5624
+5514 > 5630
+5577 > 5577
+
+%round3
+7045 > 5609
+5555 > 5577
+5537 > 5514
+5630 > 5577
+5624 > 6827
+
+%round4
+7045 > 5630
+5555 > 5624
+5537 > 5609
+5514 > 5577
+5577 > 6827
+
+%round5
+7045 > 5514
+5555 > 5577
+5537 > 5624
+5609 > 5630
+6827 > 5577
+
+%round6
+5555 > 7045
+5609 > 6827
+5630 > 5537
+5514 > 5577
+5577 > 5624
+
+
+%players
+%1 7045	isobe	seiji
+%2 5555	sato	tetsuya
+%3 5537	takanashi	yusuke
+%4 5609	mori	takahiro
+%5 5630	tanaka	syu
+%6 5514	watahiki	kenta
+%7 6827	shimizu	kenko
+%8 5624	kobayashi	oh
+%9 5577	kurita	seiya
+%10 10919	takikawa	akurai
+

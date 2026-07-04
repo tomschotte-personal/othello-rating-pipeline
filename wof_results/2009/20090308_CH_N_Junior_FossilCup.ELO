@@ -1,0 +1,53 @@
+%%Tournament: CH_N_Junior_FossilCup
+%%Country: Norway
+%%Date: 08/03/2009
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/04/03 11:58
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1953, KJELLSTADLI, Jonas, N,  7, 359
+%_%    1800, AAS, Vidar, N,  5, 336
+%_%    2543, KJELLSTADLI, Ingvild, N,  1, 106
+%_%    2536, BIE, Karl Richard, N,  1, 95
+
+
+
+%Round: 1
+
+  2536 (02)<(62)   1800 B
+  2543 (15)<(49)   1953 B
+
+%Round: 2
+
+  1800 (49)>(15)   2536 B
+  1953 (55)>(09)   2543 B
+
+%Round: 3
+
+  1800 (54)>(10)   2543 B
+  1953 (64)>(00)   2536 B
+
+%Round: 4
+
+  2543 (04)<(60)   1800 B
+  2536 (13)<(51)   1953 B
+
+%Round: 5
+
+  2536 (27)<(37)   2543 B
+  1800 (26)<(38)   1953 B
+
+%Round: 6
+
+  2543 (26)<(38)   2536 B
+  1953 (43)>(21)   1800 B
+
+%Round: 7
+
+  2543 (05)<(59)   1953 B
+  2536 (00)<(64)   1800 B
+
+
+%%Added results

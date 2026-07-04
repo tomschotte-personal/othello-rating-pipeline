@@ -1,0 +1,50 @@
+%%Tournament: Skanderborg open
+%%Country: Denmark
+%%Date: 24/02/2024
+%%Sender: Kim J. Nielsen
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2024/03/01 16:20
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      97, VALLUND, Torben, DNK,  4, 228, 1727
+%_%      95, QVIST JESSEN, Claus, DNK,  4, 214, 1822
+%_% +220043, ANDERSEN, Jens Moeller, DNK,  3, 153, 0
+%_%    1000, MICHAELSEN, Peter, DNK,  2, 150, 1269
+%_%    1047, STORM, Henning, DNK,  1, 112, 1393
+%_%  220100, NIELSEN, Alberte Josefine, DNK,  1, 103, 1127
+
+
+
+%Round: 1
+
+220043 (18)<(46)     97  B
+    95 (44)>(20)   1047  B
+  1000 (39)>(25) 220100  B
+
+%Round: 2
+
+  1047 (15)<(49)     97  B
+220100 (09)<(55)     95  B
+  1000 (28)<(36) 220043  B
+
+%Round: 3
+
+    97 (64)>(00) 220100  B
+    95 (47)>(17)   1000  B
+220043 (42)>(22)   1047  B
+
+%Round: 4
+
+220100 (49)>(15)   1047  B
+  1000 (42)>(22)     97  B
+    95 (51)>(13) 220043  B
+
+%Round: 5
+
+    97 (47)>(17)     95  B
+  1047 (40)>(24)   1000  B
+220043 (44)>(20) 220100  B
+
+
+%%Added results

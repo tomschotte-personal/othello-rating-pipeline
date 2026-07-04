@@ -1,0 +1,52 @@
+%%Tournament: Non-Categoria
+%%Country: Italy
+%%Date: 15/09/2024
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3037, DI MATTEI, Alessandro, ITA, 6, 287, 2295
+%_%    3111, SCOGNAMIGLIO, Paolo, ITA, 5, 222, 2053
+%_%   41003, LUNARI, Raimondo, ITA, 4, 200, 1652
+%_%   40086, FOSCHI, Damiano, ITA, 4, 214, 1680
+%_%    2818, DI COLA, Severino, ITA, 2, 149, 1647
+%_%   40162, BAIELLI, Rodolfo, ITA, 2, 133, 1589
+%_%    3062, CAVIOLA, Leonardo, ITA, 1, 139, 1477
+
+%Round: 1
+
+ 41003 (13)<(51)   3037  B
+  2818 (21)<(43)   3111  B
+ 40162 (19)<(45)  40086  B
+
+%Round: 2
+
+ 41003 (46)>(18)   2818  B
+  3111 (41)>(23)   3062  B
+ 40086 (14)<(50)   3037  B
+
+%Round: 3
+
+  3037 (42)>(22)   3111  B
+ 40086 (28)<(36)  41003  B
+  3062 (28)<(36)  40162  B
+
+%Round: 4
+
+  2818 (41)>(23)   3062  B
+  3111 (33)>(31)  41003  B
+  3037 (53)>(11)  40162  B
+
+%Round: 5
+
+  3037 (48)>(16)   2818  B
+ 40162 (13)<(51)   3111  B
+  3062 (12)<(52)  40086  B
+
+%Round: 6
+
+ 41003 (42)>(22)  40162  B
+  2818 (21)<(43)  40086  B
+  3062 (21)<(43)   3037  B

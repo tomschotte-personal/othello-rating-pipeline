@@ -1,0 +1,29 @@
+%%Tournament: Ramat-Gan Open
+%%Country: Israel
+%%Date: 17/04/2009
+%%Sender: Tom Schotte
+
+%Rounds
+
+4028 > 4085
+4028 > 885
+4028 > 880
+4028 > 4151
+4028 > 200008
+4085 < 885
+4085 > 880
+4085 > 4151
+4085 > 200008
+885 < 200008
+885 > 880
+885 > 4151
+880 > 4151
+880 > 200008
+4151 > 200008
+
+%RADZIVILOVSKY Pavel (Israel)[id: 4028]
+%MALNEV Andrey (Israel)[id: 4085]
+%SHIFMAN Ilya (Israel)[id: 885]
+%SHIFMAN Leonid (Israel)[id: 880]
+%TZEITLIN Leonid (Israel)[id: 200008]
+%MILLER Alexey (Israel)[id: 4151]

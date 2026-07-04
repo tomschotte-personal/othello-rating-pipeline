@@ -1,0 +1,31 @@
+%%Tournament: 2026_East_Kanto_expert_games
+%%Country: Japan
+%%Date: 15/02/2026
+%%Sender: Hajime NAKAMURA
+
+%_%  15042, KOMATSU, kanaharu, JPN, 4.0, 190
+%_%   7063, HASEGAWA, akira, JPN, 3.0, 157
+%_%   5520, OKUDA, tsuyoshi, JPN, 2.0, 130
+%_%   5545, KOBAYASHI, manabu, JPN, 1.0, 107
+%_%   5650, KOBAYASHI, makoto, JPN, 0.0, 56
+
+%Round 1
+  5520 (46)>(18)   5650 
+ 15042 (41)>(23)   5545 
+
+%Round 2
+  5545 (37)>(27)   5650 
+  7063 (49)>(15)   5520 
+
+%Round 3
+ 15042 (54)>(10)   5650 
+  7063 (33)>(31)   5545 
+
+%Round 4
+  5520 (48)>(16)   5545 
+ 15042 (52)>(12)   7063 
+
+%Round 5
+ 15042 (43)>(21)   5520 
+  7063 (63)>(01)   5650 
+

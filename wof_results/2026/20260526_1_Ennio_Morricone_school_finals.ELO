@@ -1,0 +1,41 @@
+%%Tournament: 1st Ennio Morricone School Tournament (Finals)
+%%Country: Italy
+%%Date: 26/05/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +40501, Saliola, Flavio, ITA, 3, 120, -
+%_%  +40502, zabski, gabriele, ITA, 2, 97, -
+%_%  +40503, Ferri, Francesco, ITA, 2, 105, -
+%_%   40461, BINDA, Elisa, ITA, 2, 99, -472
+%_%  +40504, Ferri, Alessio, ITA, 1, 96, -
+%_%  +40505, Russodivito, Daniele, ITA, 1, 94, -
+%_%  +40506, Mule', Jasmine, ITA, 1, 96, -
+%_%  +40507, Di Giorgi, Alice, ITA, 0, 61, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/568
+
+%Round: 1
+
+ 40505 (41)>(23)  40507  B
+ 40501 (43)>(21)  40504  B
+ 40502 (34)>(30)  40503  B
+ 40461 (36)>(28)  40506  B
+
+%Round: 2
+
+ 40507 (20)<(44)  40504  B
+ 40503 (42)>(22)  40506  B
+ 40461 (25)<(39)  40502  B
+ 40501 (37)>(27)  40505  B
+
+%Round: 3
+
+ 40501 (40)>(24)  40502  B
+ 40503 (33)>(31)  40504  B
+ 40461 (38)>(26)  40505  B
+ 40506 (46)>(18)  40507  B

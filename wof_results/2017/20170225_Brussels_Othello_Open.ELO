@@ -1,0 +1,69 @@
+%%Tournament: Brussels Othello Open 2017
+%%Country: Belgium
+%%Date: 25/02/2017
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/02/25 20:21
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  9, 423, 2023
+%_%    5214, DE BOER, Rosalinde, NLD,  7, 318, 1678
+%_%    5900, REUNES, Nick, BEL,  6, 333, 1781
+%_%  270024, NICHOLLS, Frederic, BEL,  4, 284, 1532
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  4, 252, 1349
+
+
+
+%Round: 1
+
+270024 (43)>(21)   4068  B
+  5214 (49)>(15)   5900  B
+
+%Round: 2
+
+  2795 (24)<(40)   5214  B
+  5900 (30)<(34) 270024  B
+
+%Round: 3
+
+  4068 (12)<(52)   5900  B
+270024 (16)<(48)   2795  B
+
+%Round: 4
+
+  5214 (46)>(18) 270024  B
+  2795 (48)>(16)   4068  B
+
+%Round: 5
+
+  5900 (14)<(50)   2795  B
+  4068 (23)<(41)   5214  B
+
+%Round: 6
+
+  4068 (36)>(28) 270024  B
+  5900 (47)>(17)   5214  B
+
+%Round: 7
+
+  5214 (14)<(50)   2795  B
+270024 (24)<(40)   5900  B
+
+%Round: 8
+
+  5900 (55)>(09)   4068  B
+  2795 (35)>(29) 270024  B
+
+%Round: 9
+
+270024 (26)<(38)   5214  B
+  4068 (12)<(52)   2795  B
+
+%Round: 10
+
+  2795 (50)>(14)   5900  B
+  5214 (07)<(57)   4068  B
+
+
+%%Added results

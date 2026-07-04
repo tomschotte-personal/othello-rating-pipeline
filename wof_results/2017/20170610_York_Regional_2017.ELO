@@ -1,0 +1,48 @@
+%%Tournament: York Regional 2017
+%%Country: Great-Britain
+%%Date: 10/06/2017
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/06/18 16:30
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  6, 287, 2127
+%_%    2078, KYTE, Bruce, GBR,  4, 219, 1546
+%_%    2006, ARNOLD, Roy, GBR,  2, 129, 1466
+%_%    2001, STEPHENSON, Ken, GBR,  0, 133, 1258
+
+
+
+%Round: 1
+
+  2078 (41)>(23)   2006  B
+    79 (36)>(28)   2001  B
+
+%Round: 2
+
+  2001 (24)<(40)   2078  B
+  2006 (07)<(57)     79  B
+
+%Round: 3
+
+  2078 (30)<(34)     79  B
+  2001 (25)<(39)   2006  B
+
+%Round: 4
+
+  2006 (12)<(52)   2078  B
+  2001 (18)<(46)     79  B
+
+%Round: 5
+
+  2078 (42)>(22)   2001  B
+    79 (64)>(00)   2006  B
+
+%Round: 6
+
+    79 (50)>(14)   2078  B
+  2006 (48)>(16)   2001  B
+
+
+%%Added results

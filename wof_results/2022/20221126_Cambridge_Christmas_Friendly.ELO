@@ -1,0 +1,47 @@
+%%Tournament: Cambridge Christmas/friendly
+%%Country: Great-Britain
+%%Date: 26/11/2022
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader.
+%%CreationDate: 2022/11/28 16:00
+
+%          ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       320, PLOWMAN, Guy, GBR, 5, ,
+%_%       943, JUODELE, Marius, LTU, 5, ,
+%_%        79, LEADER, Imre, GBR, 4, , 1906, ,
+%_%    100027, PLOWMAN, Mark, GBR, 2, , 910, ,
+%_%    100037, PLOWMAN, Anya, GBR, 2, , 543, ,
+%_%    100042, PLOWMAN, Sophie, GBR, 0, , , 
+
+%Round: 1
+   943 <    320 
+    79 > 100027 
+100037 > 100042 
+
+%Round: 2
+   943 >     79 
+100037 <    320 
+100042 < 100027 
+
+%Round: 3
+   943 > 100037 
+100042 <     79 
+100027 <    320 
+
+%Round: 4
+   943 > 100042 
+100027 > 100037 
+   320 >     79 
+
+%Round: 5
+   943 > 100027 
+   320 > 100042 
+    79 > 100037 
+
+%Round: 6
+   943 >    320 
+    79 > 100027 
+100037 > 100042 
+
+%%Added results

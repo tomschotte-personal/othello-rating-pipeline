@@ -1,0 +1,28 @@
+%%Tournament: 2013_expert_game
+%%Country: Japan
+%%Date: 11/02/2013
+%%Sender: Hiroyuki Iwata
+
+%_%  10070, KAMEMOTO, osamu, JPN, 3.0, 116
+%_%  10289, KAWAKAMI, yoshihiro, JPN, 2.0, 101
+%_%  11561, OKADA, hiroyuki, JPN, 2.0, 100
+%_%  10318, ATO, hideaki, JPN, 2.0, 90
+%_%  11357, TOYOTA, hiroshi, JPN, 0.0, 57
+%_%   6977, OKAMURA, hiroaki, JPN, 0.0, 57
+%_%  12780, TADA, tomonori, JPN, 0.0, 55
+
+%Round 1
+ 10070 (40)>(24)  12780 
+ 10318 (34)>(30)  10289 
+ 11561 (33)>(31)  11357 
+
+%Round 2
+ 10070 (35)>(29)   6977 
+ 10318 (33)>(31)  11561 
+ 10289 (38)>(26)  11357 
+
+%Round 3
+ 10070 (41)>(23)  10318 
+ 11561 (36)>(28)   6977 
+ 10289 (33)>(31)  12780 
+

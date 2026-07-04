@@ -1,0 +1,61 @@
+%%Tournament: Kyushu Expert Game 2008
+%%Country: Japan
+%%Date: 21/01/2008
+%%Sender: Tom Schotte
+
+%round1
+7003 > 7010
+7005 > 7004
+10303 > 10194
+10192 > 10195
+7007 > 7008
+
+%round2
+7003 > 10192
+7004 > 10194
+10303 > 7008
+7007 > 7005
+7010 > 10195
+
+%round3
+7003 > 7007
+7005 > 7008
+7004 > 7010
+10303 > 10192
+10194 > 10195
+
+%round4
+7005 > 10192
+7004 > 7007
+10303 > 7003
+10194 > 7010
+7008 > 10195
+
+%round5
+10192 > 7008
+7007 > 10194
+7010 > 10195
+
+%round6
+10192 > 7007
+10194 > 7010
+7008 > 10195
+
+%Finals
+7003 > 7004
+7005 > 10303
+7003 > 7005
+7004 > 10303
+
+
+%players
+%1 7003	nakano	takanao
+%2 7005	yamamoto	umehara
+%3 7004	massa	nao
+%4 10303	kiba	yuta
+%5 10192	hamada	naoki
+%6 10194	hirota	zizyunya
+%7 7007	inoue	noboru
+%8 7008	ihara	kunihiko
+%9 7010	ueno	hideki
+%10 10195	masike	mootan

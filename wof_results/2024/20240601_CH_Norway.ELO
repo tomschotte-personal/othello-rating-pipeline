@@ -1,0 +1,57 @@
+%%Tournament: Norwegian Championship 2024
+%%Country: Norway
+%%Date: 01/06/2024
+%%Sender: OKAZAKI Kodai
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    2570, ALBRIGTSEN, Vidar, NOR, 4, 197, 2069
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR, 3.5, 166, 1798
+%_%  140059, HAUS, Knut Bjarte, NOR, 2.5, 181, 1834
+%_%  140066, Bondarenko, Andriy, NOR, 2, 151, -
+%_%    1802, SKOGEN, Tor Birger, NOR, 2, 144, 1677
+%_%  140031, TVEDT, Sverre, NOR, 1, 121, 1706
+
+%Round: 1
+
+  2570 (23)<(41)   2511  B
+140059 (53)>(11) 140031  B
+  1802 (30)<(34) 140066  B
+
+%Round: 2
+
+140031 (16)<(48)   2570  B
+  1802 (34)>(30) 140059  B
+  2511 (21)<(43) 140066  B
+
+%Round: 3
+
+  1802 (35)>(29) 140031  B
+140059 (32)=(32)   2511  B
+  2570 (46)>(18) 140066  B
+
+%Round: 4
+
+  1802 (17)<(47)   2570  B
+140066 (29)<(35) 140059  B
+140031 (28)<(36)   2511  B
+
+%Round: 5
+
+  2570 (33)>(31) 140059  B
+  2511 (36)>(28)   1802  B
+140031 (37)>(27) 140066  B
+
+%Round: 6
+
+  2511 (35)>(29)   2570  B
+
+%Round: 7
+
+  2570 (48)>(16)   2511  B
+
+%Round: 8
+
+  2570 (39)>(25)   2511  B

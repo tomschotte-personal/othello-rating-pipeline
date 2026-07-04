@@ -1,0 +1,57 @@
+%%Tournament: Ferrara Open - Italian Grand Prix 2016
+%%Country: Italy
+%%Date: 01/05/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Giuseppe Chiarulli ( 20/06/2016 22:47 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   839, KASHIWABARA, Takuji, F, 7, 288
+%_%    36, MARCONI, Francesco, I, 6, 267
+%_% 40006, CHIARULLI, Giuseppe, I, 4, 238
+%_%  3019, DIODATI, Michele, I, 3.5, 237
+%_% 40002, ILACQUA, Gianluca, I, 3.5, 236
+%_% 40086, FOSCHI, Damiano, I, 3, 218
+%_% 40052, GIGLIUCCI, Chiara, I, 1, 183
+%_%  2884, VECCHI, Maria Serena, I, 0, 125
+
+%Round 1 
+ 40006 (53)>(11)   3019  B
+ 40086 (21)<(43)  40002  B
+   839 (46)>(18)   2884  B
+    36 (44)>(20)  40052  B
+
+%Round 2 
+ 40002 (19)<(45)  40006  B
+  3019 (25)<(39)    839  B
+ 40052 (27)<(37)  40086  B
+  2884 (13)<(51)     36  B
+
+%Round 3 
+   839 (45)>(19)  40002  B
+ 40006 (33)>(31)  40052  B
+  2884 (19)<(45)   3019  B
+    36 (33)>(31)  40086  B
+
+%Round 4 
+ 40052 (28)<(36)    839  B
+ 40002 (49)>(15)   2884  B
+ 40086 (35)>(29)  40006  B
+  3019 (28)<(36)     36  B
+
+%Round 5 
+  2884 (21)<(43)  40052  B
+   839 (34)>(30)  40086  B
+  3019 (32)=(32)  40002  B
+    36 (43)>(21)  40006  B
+
+%Round 6 
+ 40086 (45)>(19)   2884  B
+ 40052 (13)<(51)   3019  B
+ 40006 (13)<(51)    839  B
+ 40002 (31)<(33)     36  B
+
+%Round 7 
+  3019 (45)>(19)  40086  B
+  2884 (20)<(44)  40006  B
+ 40002 (43)>(21)  40052  B
+    36 (27)<(37)    839  B

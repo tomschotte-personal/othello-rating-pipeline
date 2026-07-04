@@ -1,0 +1,48 @@
+%%Tournament: Gothenburg Open
+%%Country: Sweden
+%%Date: 20/03/2022
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/04/08 13:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    6552, ANDERSSON, Mathias, SWE,  5, 266, 1980
+%_%  150016, EKLUND, Oskar, SWE,  5, 244, 2128
+%_%  150060, FREIBURGHAUS, Kim, SWE,  3, 192, 1776
+%_%    1379, MAGNUSSON, Johan, SWE,  2, 140, 1787
+%_%  150080, BREITENFELLNER, Anton, SWE,  1, 62, 296
+
+
+
+%Round: 1
+
+150080 (15)<(49)   1379  B
+  6552 (53)>(11) 150016  B
+
+%Round: 2
+
+  1379 (28)<(36)   6552  B
+150060 (62)>(02) 150080  B
+
+%Round: 3
+
+  6552 (54)>(10) 150060  B
+150016 (54)>(10)   1379  B
+
+%Round: 4
+
+150060 (29)<(35) 150016  B
+150080 (03)<(61)   6552  B
+
+%Round: 5
+
+150016 (62)>(02) 150080  B
+  1379 (13)<(51) 150060  B
+
+%Round: 6
+
+150016 (42)>(22)   6552  B
+
+
+%%Added results

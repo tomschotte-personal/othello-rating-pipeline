@@ -1,0 +1,28 @@
+%%Tournament: Czech GPO 3/2021
+%%Country: Czech Republic
+%%Date: 02/10/2021
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZE, 1, 88
+%_% 210172, GURZHIY, Fedos, CZE, 2, 97
+%_% 210175, GURZHIY, Luka, CZE, 0, 60
+%_% 210176, SLADEK, Vitek, CZE, 3, 139
+
+
+%Round 1
+
+210176 (51)>(13) 210175  B
+  4509 (17)<(47) 210172  B
+
+
+%Round 2
+
+210175 (28)<(36) 210172  B
+210176 (38)>(26)   4509  B
+
+
+%Round 3
+
+  4509 (45)>(19) 210175  B
+210172 (14)<(50) 210176  B

@@ -1,0 +1,69 @@
+%%Tournament: German Championships
+%%Country: Germany
+%%Date: 30/11/2019
+%%Sender: Matthias Berg
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/12/01 22:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      96, VALLUND, Henrik, DEU,  9, 419, 1848
+%_%    5301, BERG, Matthias, DEU,  8, 448, 2150
+%_%   70003, BEYER, Guenther, DEU,  5, 293, 1637
+%_%    5324, MURAWSKI, Stefan, DEU,  4, 268, 1436
+%_%   70017, CZYMARA, Andreas, DEU,  4, 252, 1353
+
+
+
+%Round: 1
+
+ 70017 (04)<(60)   5301  B
+ 70003 (46)>(18)   5324  B
+
+%Round: 2
+
+    96 (57)>(07)  70003  B
+  5324 (33)>(31)  70017  B
+
+%Round: 3
+
+  5301 (47)>(17)   5324  B
+ 70017 (14)<(50)     96  B
+
+%Round: 4
+
+ 70003 (62)>(02)  70017  B
+    96 (43)>(21)   5301  B
+
+%Round: 5
+
+  5324 (04)<(60)     96  B
+  5301 (61)>(03)  70003  B
+
+%Round: 6
+
+  5301 (51)>(13)  70017  B
+  5324 (28)<(36)  70003  B
+
+%Round: 7
+
+ 70003 (29)<(35)     96  B
+ 70017 (38)>(26)   5324  B
+
+%Round: 8
+
+  5324 (20)<(44)   5301  B
+    96 (37)>(27)  70017  B
+
+%Round: 9
+
+ 70017 (43)>(21)  70003  B
+  5301 (29)<(35)     96  B
+
+%Round: 10
+
+    96 (22)<(42)   5324  B
+ 70003 (09)<(55)   5301  B
+
+
+%%Added results

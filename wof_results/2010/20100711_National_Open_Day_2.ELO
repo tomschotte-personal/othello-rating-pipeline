@@ -1,0 +1,48 @@
+%%Tournament: 2010 National Open (day 2)
+%%Country: USA
+%%Date: 11/07/2010
+%%Sender: Randy Fang
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/07/11 17:10
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4088, FANG, Randy, USA,  5, 269
+%_%   20009, RUHMKORFF, Ben, USA,  5, 243
+%_%    6403, KATZMAN, Sharon, USA,  2, 111
+%_%    6418, WIENCEK, Tom, USA,  0, 145
+
+
+
+%Round: 1
+
+  4088 (48)>(16)   6403 B
+  6418 (17)<(47)  20009 B
+
+%Round: 2
+
+  6418 (29)<(35)   4088 B
+ 20009 (62)>(01)   6403 B
+
+%Round: 3
+
+  4088 (30)<(34)  20009 B
+  6403 (35)>(29)   6418 B
+
+%Round: 4
+
+  6403 (15)<(49)   4088 B
+ 20009 (34)>(30)   6418 B
+
+%Round: 5
+
+  4088 (55)>(09)   6418 B
+  6403 (10)<(54)  20009 B
+
+%Round: 6
+
+ 20009 (12)<(52)   4088 B
+  6403 (33)>(31)   6418 B
+
+
+%%Added results

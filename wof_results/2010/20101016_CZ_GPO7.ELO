@@ -1,0 +1,41 @@
+%%Tournament: Czech GPO 7/2010
+%%Country: Czech Republic
+%%Date: 16/10/2010
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4506, HVEZDOVA, Jitka, CZ, 3, 167
+%_%    4509, RYBARIK, Jan, CZ, 1, 95
+%_%    4510, RYBARIK, Ivo, CZ, 1, 92
+%_%    4617, DOUDA, Tomas, CZ, 4, 179
+%_% +210119, SHEVCHUK, Viktor, UKR, 1, 107
+
+
+%Round 1
+
+  4510 (12)<(52)   4617 B
+  4509 (14)<(50)   4506 B
+
+
+%Round 2
+
+  4617 (37)>(27)   4509 B
+210119 (54)>(10)   4510 B
+
+
+%Round 3
+
+  4509 (43)>(21) 210119 B
+  4506 (25)<(39)   4617 B
+
+
+%Round 4
+
+210119 (19)<(45)   4506 B
+  4510 (53)>(11)   4509 B
+
+
+%Round 5
+
+  4506 (47)>(17)   4510 B
+  4617 (51)>(13) 210119 B

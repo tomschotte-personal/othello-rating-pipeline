@@ -1,0 +1,32 @@
+%%Tournament: 2011_Shikoku_expert_game
+%%Country: Japan
+%%Date: 13/02/2011
+%%Sender: Hiroyuki Iwata
+
+%_%   6807, WAKU, you, J, 3.0, 104
+%_%  10351, TOKUMARU, kikuchi, J, 2.0, 108
+%_%  10579, KUNISHIGE, yuta, J, 2.0, 108
+%_%  12209, KAWAKAMI, yoshiyasu, J, 2.0, 101
+%_%  11231, OHMORI, yasunori, J, 1.0, 94
+%_%  11357, TOYOTA, hiroshi, J, 1.0, 94
+%_%  11560, NISHIWAKI, shingo, J, 1.0, 79
+%_%   6977, OKAMURA, hiroaki, J, 0.0, 79
+
+%Round 1
+  6807 (33)>(31)   6977 
+ 10351 (47)>(17)  11560 
+ 12209 (37)>(27)  10579 
+ 11231 (35)>(29)  11357 
+
+%Round 2
+  6807 (36)>(28)  12209 
+ 10351 (32)>(31)  11231 
+ 10579 (42)>(22)   6977 
+ 11357 (40)>(24)  11560 
+
+%Round 3
+  6807 (35)>(29)  10351 
+ 12209 (36)>(28)  11231 
+ 10579 (39)>(25)  11357 
+ 11560 (38)>(26)   6977 
+

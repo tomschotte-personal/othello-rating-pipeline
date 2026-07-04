@@ -1,0 +1,41 @@
+%%Tournament: Selection junior Le Rheu 2008
+%%Country: France
+%%Date: 24/05/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/06/06 11:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3793, ROUSSET, Gabriel, F,  5, 233
+%_%    3524, POIRIER, Thibault, F,  4, 181
+%_%    3728, POIRIER, Antoine, F,  3, 163
+%_%    3794, GAUDAIRE, Arthur, F,  2, 166
+%_%    3834, FOLLIET, Pierre, F,  1, 97
+
+
+
+%Round: 1
+
+  3834 (26)<(38)   3728 B
+  3793 (48)>(16)   3524 B
+
+%Round: 2
+
+  3794 (12)<(52)   3793 B
+  3524 (54)>(10)   3834 B
+
+%Round: 3
+
+  3728 (26)<(38)   3524 B
+  3834 (12)<(52)   3794 B
+
+%Round: 4
+
+  3793 (55)>(09)   3834 B
+  3794 (31)<(33)   3728 B
+
+%Round: 5
+
+  3524 (33)>(31)   3794 B
+  3728 (26)<(38)   3793 B

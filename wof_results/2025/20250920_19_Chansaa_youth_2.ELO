@@ -1,0 +1,62 @@
+%%Tournament: Chansaa 19, Youth 10-14 Ranked
+%%Country: Mongolia
+%%Date: 20/09/2025
+%%Sender: KHUYAGBAATAR Buyanzaya
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  440543, ULZIIDELGER, Delger-Uils, MNG, 5, 213, 983
+%_%  440764, TSERENBAT, Orgil, MNG, 4, 191, 808
+%_%  440698, ERDENEBAYAR, Lkhagvasuren, MNG, 3, 206, 999
+%_%  440691, GAN-ERDENE, Gan-Och, MNG, 3, 162, 967
+%_%  441033, BOHBAT, Munkhbat, MNG, 3, 193, 673
+%_%  440539, ALTANSHAGAI, Bilguun, MNG, 2, 155, 814
+%_%  440204, ERDENEMUNKH, Mandakh, MNG, 2, 168, 871
+%_%  440669, BATDELGER, Erkhembayar, MNG, 1, 107, 675
+%_%  440549, TULGA, Tenuun, MNG, 1, 98, 553
+%_%  440668, NARANBAYAR, Anudari, MNG, 1, 107, 393
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/379
+
+%Round: 1
+
+440549 (06)<(58) 440539  B
+440691 (47)>(17) 440669  B
+441033 (40)>(24) 440204  B
+440698 (53)>(11) 440668  B
+440764 (15)<(49) 440543  B
+
+%Round: 2
+
+440668 (23)<(41) 440549  B
+440669 (12)<(52) 440764  B
+440204 (31)<(33) 440691  B
+440539 (35)>(29) 441033  B
+440543 (37)>(27) 440698  B
+
+%Round: 3
+
+440668 (34)>(30) 440204  B
+440698 (42)>(22) 440669  B
+440549 (18)<(46) 441033  B
+440764 (49)>(15) 440539  B
+440691 (15)<(49) 440543  B
+
+%Round: 4
+
+440669 (39)>(25) 440668  B
+440204 (36)>(28) 440549  B
+440539 (25)<(39) 440691  B
+440764 (39)>(25) 440698  B
+440543 (36)>(28) 441033  B
+
+%Round: 5
+
+440691 (28)<(36) 440764  B
+440539 (22)<(42) 440543  B
+440698 (59)>(05) 440549  B
+441033 (50)>(14) 440668  B
+440669 (17)<(47) 440204  B

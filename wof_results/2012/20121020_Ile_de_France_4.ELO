@@ -1,0 +1,44 @@
+%%Tournament: Ile de France 4
+%%Country: FRA
+%%Date: 20/10/2012
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2012/10/20 20:25
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 252, 2105
+%_%    3518, DELAUNAY, Arnaud, FRA,  4, 224, 2188
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 155, 1901
+%_%    3600, BENOIT, Serge, FRA,  2, 114, 1371
+%_%    3734, CLUZON, Gilles, FRA,  1, 95, 1351
+
+
+
+%Round: 1
+
+  3600 (04)<(60)      2  B
+  3734 (15)<(49)     45  B
+
+%Round: 2
+
+  3518 (63)>(01)   3734  B
+    45 (51)>(13)   3600  B
+
+%Round: 3
+
+     2 (60)>(04)     45  B
+  3600 (20)<(44)   3518  B
+
+%Round: 4
+
+  3734 (27)<(37)   3600  B
+  3518 (24)<(40)      2  B
+
+%Round: 5
+
+    45 (11)<(53)   3518  B
+     2 (52)>(12)   3734  B
+
+
+%%Added results

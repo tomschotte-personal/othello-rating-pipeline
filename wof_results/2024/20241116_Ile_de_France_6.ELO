@@ -1,0 +1,46 @@
+%%Tournament: Ile de France 6
+%%Country: France
+%%Date: 16/11/2024
+%%Sender: LAZARD Emmanuel
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA, 5, 226, 1834
+%_%      11, LAZARD, Emmanuel, FRA, 4, 208, 1945
+%_%       2, TASTET, Marc, FRA, 3, 169, 1974
+%_%     228, BUSUTTIL, Michel, FRA, 3, 154, 1282
+%_%      45, ANDRIANI, Bintsa, FRA, 2, 143, 1647
+%_%    3734, CLUZON, Gilles, FRA, 2, 145, 1045
+%_%   50127, HUGOT, Nicolas, FRA, 1, 75, -
+
+%Round: 1
+
+     2 (24)<(40)   3598  B
+   228 (41)>(23)   3734  B
+    45 (21)<(43)     11  B
+
+%Round: 2
+
+    11 (42)>(22)    228  B
+  3598 (50)>(14)  50127  B
+  3734 (20)<(44)     45  B
+
+%Round: 3
+
+ 50127 (16)<(48)    228  B
+    45 (30)<(34)      2  B
+  3598 (35)>(29)     11  B
+
+%Round: 4
+
+   228 (11)<(53)   3598  B
+    11 (46)>(18)      2  B
+ 50127 (10)<(54)   3734  B
+
+%Round: 5
+
+  3598 (48)>(16)     45  B
+  3734 (16)<(48)     11  B
+     2 (61)>(03)  50127  B

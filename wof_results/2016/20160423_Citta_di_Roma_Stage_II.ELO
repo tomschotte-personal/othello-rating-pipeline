@@ -1,0 +1,39 @@
+%%Tournament: Citta di Roma 2016 - II Tappa
+%%Country: Italy
+%%Date: 23/04/2016
+%%Sender: Chiara Gigliucci
+%%Creator: Giuseppe Chiarulli ( 20/06/2016 22:47 )
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3111, SCOGNAMIGLIO, Paolo, I, 4, 160
+%_%   148, ORTIZ, George, AUS, 3, 132
+%_%  3019, DIODATI, Michele, I, 2, 143
+%_%  3062, CAVIOLA, Leonardo, I, 2, 130
+%_%  2884, VECCHI, Maria Serena, I, 2, 140
+%_% 40097, CACCIATORE, Alessandro, I, 2, 133
+%_% 40112, TERRIBILI, Susanna, I, 1, 92
+%_% 40050, TERRIBILI, Cristina, I, 0, 74
+
+%Round 1 
+  2884 (15)<(49)   3111  B
+   148 (49)>(15)  40050  B
+ 40097 (17)<(47)   3019  B
+  3062 (41)>(23)  40112  B
+
+%Round 2 
+  3111 (49)>(15)   3062  B
+  3019 (25)<(39)    148  B
+ 40112 (11)<(53)   2884  B
+ 40050 (18)<(46)  40097  B
+
+%Round 3 
+   148 (26)<(38)   3111  B
+  2884 (23)<(41)   3019  B
+  3062 (38)>(26)  40097  B
+ 40112 (38)>(26)  40050  B
+
+%Round 4 
+  3111 (34)>(30)   3019  B
+  3062 (28)<(36)    148  B
+ 40097 (44)>(20)  40112  B
+ 40050 (15)<(49)   2884  B

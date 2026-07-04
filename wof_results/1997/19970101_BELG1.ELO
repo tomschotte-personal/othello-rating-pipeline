@@ -1,0 +1,19 @@
+%%Tournament: tournoi belge
+%%Country: Belgium
+%%Date: 01/01/1997
+%%Sender: Emmanuel.Lazard
+
+298 <  178
+2721 < 2752
+
+2752 <  298
+ 178 <  321
+
+ 298 <  321
+2721 <  178
+
+ 321 > 2721
+ 178 > 2752
+
+2721 <  298
+2752 <  321

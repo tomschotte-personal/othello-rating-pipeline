@@ -1,0 +1,57 @@
+%%Tournament: 1st Avezzano AQ
+%%Country: Italy
+%%Date: 04/05/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40258, BOSCO, Marco, ITA, 4, 191, -1052
+%_%   +40331, Vitale, Mario, ITA, 3, 146, -
+%_%   +40332, Ciociola, Damiana, ITA, 3, 167, -
+%_%   40097, CACCIATORE, Alessandro, ITA, 2.5, 147, 996
+%_%   +40333, Colucci, Patrizio, ITA, 2.5, 119, -
+%_%   +40334, Serafini, Francesca, ITA, 2, 126, -
+%_%   +40335, Angelosante, Cristina, ITA, 2, 122, -
+%_%   +40336, Leonardi, Matteo, ITA, 2, 122, -
+%_%   +40337, Vernarelli, Sofia, ITA, 1, 112, -
+%_%   +40338, Di Berardino, Giuseppe, ITA, 1, 80, -
+%_%   +40339, Vernarelli, Romolo, ITA, 1, 106, -
+%_%   +40340, Germani, Maria Teresa, ITA, 0, 98, -
+
+%Round: 1
+
+ 40097 (54)>(10)  40336  B
+ 40335 (12)<(52)  40334  B
+ 40339 (16)<(48)  40332  B
+ 40337 (29)<(35)  40333  B
+ 40331 (47)>(17)  40338  B
+ 40340 (20)<(44)  40258  B
+
+%Round: 2
+
+ 40336 (35)>(29)  40340  B
+ 40338 (38)>(26)  40339  B
+ 40337 (21)<(43)  40335  B
+ 40258 (57)>(07)  40333  B
+ 40334 (20)<(44)  40331  B
+ 40332 (27)<(37)  40097  B
+
+%Round: 3
+
+ 40339 (31)<(33)  40337  B
+ 40340 (18)<(46)  40332  B
+ 40335 (49)>(15)  40338  B
+ 40333 (45)>(19)  40334  B
+ 40331 (41)>(23)  40336  B
+ 40097 (24)<(40)  40258  B
+
+%Round: 4
+
+ 40258 (50)>(14)  40331  B
+ 40333 (32)=(32)  40097  B
+ 40332 (46)>(18)  40335  B
+ 40334 (35)>(29)  40337  B
+ 40336 (54)>(10)  40338  B
+ 40340 (31)<(33)  40339  B

@@ -1,0 +1,57 @@
+%%Tournament: 1st Daejeon Othello Open
+%%Country: Korea
+%%Date: 20/03/2016
+%%Sender: Joungmok OH
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/03/24 23:47
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   30035, SHIN, Dukchul, KOR,  4, 205, 1822
+%_%   30102, SOHR, Jaeyoung, KOR,  4, 182, 0
+%_%   35131, SHIN, Donghyeon, KOR,  3.5, 176, 992
+%_%   35130, SHIN, Dongmyung, KOR,  3, 159, 925
+%_%   30036, KIM, Seongchan, KOR,  2.5, 175, 1521
+%_%   30103, HAN, Junho, KOR,  2, 178, 0
+%_%   30039, KIM, Sunghyeon, KOR,  1, 117, 1602
+%_%   30043, NAM, Sungwoo, KOR,  0, 88, 0
+
+
+
+%Round: 1
+
+ 30036 (33)>(31)  30103  B
+ 30039 (10)<(54)  35131  B
+ 30043 (24)<(40)  30102  B
+ 30035 (30)<(34)  35130  B
+
+%Round: 2
+
+ 30039 (45)>(19)  30043  B
+ 30102 (42)>(22)  35130  B
+ 35131 (32)=(32)  30036  B
+ 30103 (23)<(41)  30035  B
+
+%Round: 3
+
+ 35130 (45)>(19)  30039  B
+ 30035 (50)>(14)  35131  B
+ 30043 (06)<(58)  30103  B
+ 30036 (27)<(37)  30102  B
+
+%Round: 4
+
+ 30102 (22)<(42)  30035  B
+ 30103 (43)>(21)  30039  B
+ 35130 (37)>(27)  30036  B
+ 35131 (33)>(31)  30043  B
+
+%Round: 5
+
+ 30036 (56)>(08)  30043  B
+ 35131 (43)>(21)  35130  B
+ 30102 (41)>(23)  30103  B
+ 30039 (22)<(42)  30035  B
+
+
+%%Added results

@@ -1,0 +1,49 @@
+%%Tournament: 2nd Oudenaarde Othello Open C
+%%Country: Belgium
+%%Date: 24/08/2025
+%%Sender: SCHOTTE Tom
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  270073, VOLVERT, Romain, BEL, 4, 204, 625
+%_%  270032, SCHOTTE, Sander, BEL, 4, 222, 571
+%_%  270060, DEMOOR, Myrthe, BEL, 4, 182, 168
+%_%  270074, BURNAY, Sacha, BEL, 3, 158, 206
+%_%  270086, ROOS, Stan, BEL, 2, 138, 224
+%_%  270109, ROOS, Lars, BEL, 2, 108, -48
+%_%  270072, DEMOOR, Thycho, BEL, 1, 108, 71
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/291
+
+%Round: 1
+
+270074 (48)>(16) 270086  B
+270060 (38)>(26) 270072  B
+270032 (18)<(46) 270073  B
+
+%Round: 2
+
+270073 (51)>(13) 270074  B
+270109 (10)<(54) 270060  B
+270086 (14)<(50) 270032  B
+
+%Round: 3
+
+270032 (49)>(15) 270074  B
+270072 (18)<(46) 270109  B
+270060 (41)>(23) 270073  B
+
+%Round: 4
+
+270060 (15)<(49) 270032  B
+270073 (52)>(12) 270109  B
+270072 (18)<(46) 270086  B
+
+%Round: 5
+
+270109 (08)<(56) 270032  B
+270086 (30)<(34) 270060  B
+270074 (50)>(14) 270072  B

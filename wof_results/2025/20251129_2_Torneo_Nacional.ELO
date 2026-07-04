@@ -1,0 +1,118 @@
+%%Tournament: 2 Torneo Nacional
+%%Country: Guatemala
+%%Date: 29/11/2025
+%%Sender: ATAMANOV Dmitry
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  +620000, Carrillo Guarchaj, Juan Raul, GTM, 5, 211, -
+%_%  +620001, Chub Quib, Maria Vanesa, GTM, 4, 191, -
+%_%  +620002, Brayan Omar, Xe Batz, GTM, 4, 222, -
+%_%  +620003, Sam Itz, Allys Mayerli Ixchel, GTM, 4, 182, -
+%_%  +620004, Delgado Ramirez, Eidan Manuel, GTM, 4, 192, -
+%_%  +620005, Ixchel Bolom Ceto, Matilde, GTM, 3, 198, -
+%_%  +620006, Orellana Lopez, Leonard Steve, GTM, 3, 202, -
+%_%  +620007, Madelin Melisa, Vasquez Vicente, GTM, 3, 159, -
+%_%  +620008, Lopez Rivera, Viviana, GTM, 3, 154, -
+%_%  +620009, Jazmin del Rosario, Jimenez perez, GTM, 3, 192, -
+%_%  +620010, Maria Daniela, Ajcip Morales, GTM, 3, 172, -
+%_%  +620011, Fancisca Judith, Cac Gonzalez, GTM, 3, 153, -
+%_%  +620012, Keily Mariela, Vasquez Garcia, GTM, 2.5, 173, -
+%_%  +620013, Ical Pop, Alvaro Gustavo, GTM, 2, 176, -
+%_%  +620014, Castillo, Maria Fernanda, GTM, 2, 176, -
+%_%  +620015, Arroyo Vicente, Aylin Nazaret, GTM, 2, 136, -
+%_%  +620016, Armira Elias, Marvin Isaias, GTM, 2, 144, -
+%_%  +620017, Bresani Victoriano, Diaz Diaz, GTM, 2, 171, -
+%_%  +620018, Sanchez Cabrera, Sofia Regina, GTM, 2, 158, -
+%_%  +620019, Anthony, Munguia Cante, GTM, 2, 152, -
+%_%  +620020, Najera Aldana, Marlin  Marianela, GTM, 2, 137, -
+%_%  +620021, Ical, Angelina Graciela, GTM, 1.5, 141, -
+%_%  +620022, Castillo, Maria Gabriela, GTM, 1, 143, -
+%_%  +620023, Sergio Santiago, Tiul tzalam, GTM, 1, 85, -
+%_%  +620024, Alex Anival, Carraza Velis, GTM, 1, 88, -
+%_%  +620025, Yenilinn  Iveth, Mayen Herrera, GTM, 0, 52, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/438
+
+%Round: 1
+
+620006 (59)>(05) 620024  B
+620004 (53)>(11) 620023  B
+620001 (42)>(22) 620016  B
+620025 (14)<(50) 620018  B
+620007 (24)<(40) 620003  B
+620008 (48)>(16) 620010  B
+620012 (20)<(44) 620005  B
+620022 (08)<(56) 620013  B
+620014 (24)<(40) 620000  B
+620017 (31)<(33) 620011  B
+620020 (00)<(64) 620002  B
+620009 (19)<(45) 620015  B
+620021 (13)<(51) 620019  B
+
+%Round: 2
+
+620017 (42)>(22) 620020  B
+620016 (34)>(30) 620022  B
+620010 (40)>(24) 620021  B
+620024 (07)<(57) 620009  B
+620023 (39)>(25) 620025  B
+620014 (22)<(42) 620007  B
+620000 (35)>(29) 620012  B
+620011 (20)<(44) 620008  B
+620015 (18)<(46) 620001  B
+620003 (39)>(25) 620018  B
+620005 (53)>(11) 620004  B
+620019 (10)<(54) 620002  B
+620013 (20)<(44) 620006  B
+
+%Round: 3
+
+620015 (40)>(24) 620010  B
+620022 (28)<(36) 620011  B
+620012 (34)>(30) 620014  B
+620025 (13)<(51) 620020  B
+620021 (44)>(20) 620024  B
+620007 (37)>(27) 620019  B
+620004 (40)>(24) 620016  B
+620018 (41)>(23) 620017  B
+620009 (45)>(19) 620013  B
+620002 (55)>(09) 620023  B
+620001 (47)>(17) 620005  B
+620008 (18)<(46) 620003  B
+620006 (26)<(38) 620000  B
+
+%Round: 4
+
+620010 (48)>(16) 620017  B
+620023 (06)<(58) 620012  B
+620020 (32)=(32) 620021  B
+620014 (64)>(00) 620025  B
+620024 (51)>(13) 620022  B
+620016 (44)>(20) 620019  B
+620013 (52)>(12) 620015  B
+620011 (21)<(43) 620004  B
+620007 (37)>(27) 620009  B
+620018 (22)<(42) 620006  B
+620005 (55)>(09) 620008  B
+620003 (24)<(40) 620001  B
+620000 (50)>(14) 620002  B
+
+%Round: 5
+
+620018 (20)<(44) 620010  B
+620012 (32)=(32) 620020  B
+620021 (28)<(36) 620014  B
+620019 (44)>(20) 620023  B
+620017 (59)>(05) 620024  B
+620015 (21)<(43) 620011  B
+620009 (44)>(20) 620016  B
+620008 (35)>(29) 620013  B
+620004 (45)>(19) 620007  B
+620006 (31)<(33) 620003  B
+620002 (35)>(29) 620005  B
+620001 (16)<(48) 620000  B
+620022 (64)>(00) 620025  B

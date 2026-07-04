@@ -1,0 +1,29 @@
+%%Tournament: Linkoping tournament
+%%Country: Sweden
+%%Date: 06/05/1995
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+1303 > 1350
+1301 > 1424
+
+%%Round: 2
+
+1313 < 1303
+1350 < 1301
+
+%%Round: 3
+
+1424 > 1350
+1301 > 1313
+
+%%Round: 4
+
+1303 > 1301
+1313 < 1424
+
+%%Round: 5
+
+1350 < 1313
+1424 < 1303

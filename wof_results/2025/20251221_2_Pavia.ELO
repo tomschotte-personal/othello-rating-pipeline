@@ -1,0 +1,60 @@
+%%Tournament: IT_LOC_2025_2nd_tournament_Pavia
+%%Country: Italy
+%%Date: 21/12/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40346, SALVO, Michele, ITA, 4, 187, 1516
+%_%    2855, BIANCHI, Paolo, ITA, 3, 181, 1476
+%_%   40186, RIBALDONE, Marco, ITA, 3, 177, 1437
+%_%   40102, OTTONELLO, Piera, ITA, 3, 146, 661
+%_%  +40451, Fontana, Alessandro, ITA, 2, 133, -
+%_%   40254, FONTANA, Francesco, ITA, 2, 133, 590
+%_%   40347, SALVO, Alberto, ITA, 2, 117, -
+%_%   40253, FONTANA, Bruno, ITA, 2, 94, 763
+%_%  +40452, Ribaldone, Anna, ITA, 1, 121, -
+%_%   40255, GUMINA, Stefania, ITA, 1, 91, -
+%_%  +40453, Salvo, Pietro, ITA, 1, 92, -
+%_%  +40454, Motta, Silvia, ITA, 0, 64, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/402
+
+%Round: 1
+
+ 40346 (45)>(19)  40451  B
+  2855 (60)>(04)  40255   B
+ 40454 (12)<(52)  40186   B
+ 40253 (38)>(26)  40452  B
+ 40347 (20)<(44)  40102   B
+ 40254 (53)>(11)  40453  B
+
+%Round: 2
+
+ 40453 (21)<(43)  40451  B
+ 40255 (17)<(47)  40347   B
+ 40452 (52)>(12)  40454  B
+ 40253 (07)<(57)  40346   B
+ 40102 (12)<(52)   2855   B
+ 40186 (44)>(20)  40254   B
+
+%Round: 3
+
+ 40454 (30)<(34)  40453  B
+ 40451 (48)>(16)  40255   B
+ 40347 (40)>(24)  40452  B
+ 40254 (15)<(49)  40102   B
+  2855 (53)>(11)  40253   B
+ 40346 (37)>(27)  40186   B
+
+%Round: 4
+
+ 40346 (48)>(16)   2855   B
+ 40102 (41)>(23)  40451  B
+ 40186 (54)>(10)  40347   B
+ 40453 (26)<(38)  40253   B
+ 40452 (19)<(45)  40254   B
+ 40255 (54)>(10)  40454  B

@@ -1,0 +1,28 @@
+%%Tournament: Nahariya Open (beginners)
+%%Country: Israel
+%%Date: 28/11/2020
+%%Sender: Leonid Shifman
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  +200061, BOGDANOV, Eldar, ISR,  3, 156
+%_%  +200062, BOGDANOV, Alsu, ISR,  2, 92
+%_%  +200063, SMAGIN, Michael,  ISR,  1, 89
+%_%  +200064, PATRIK, Konstantin,  ISR,  0, 47
+
+
+
+%Round: 1
+
+200062 (48)>(16) 200063  B
+200061 (41)>(23) 200064  B
+
+%Round: 2
+
+200062 (04)<(60) 200061  B
+200063 (52)>(12) 200064  B
+
+%Round: 3
+
+200064 (16)<(48) 200062  B
+200061 (43)>(21) 200063  B
+

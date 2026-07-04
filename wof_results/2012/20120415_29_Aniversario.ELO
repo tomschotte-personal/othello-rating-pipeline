@@ -1,0 +1,53 @@
+%%Tournament: Torneo 29 Aniversario
+%%Country: Argentina
+%%Date: 15/04/2012
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       650, OLIVARES, Daniel, ARG, 4, 218
+%_%      4168, LISNOVSKY, Marcelo, ARG, 4,197
+%_%      4167, COELLO, Alejandro, ARG, 4, 189
+%_%      4166 , LUCIOLI, Juan Pablo, ARG, 3,197    
+%_%    280033, PELLIZZARI, Maximiliano, ARG, 3,197
+%_%   +280037, SAGRERA, Diego, ARG, 3, 139
+%_%      4157, ITURBIDE, Paula, ARG, 2, 130
+%_%    280035, NAKASONE, David, ARG, 2, 126
+%_%   +280038, COHEN, Mercedes, ARG, 2, 95
+%_%    280034, SEIFERT, Max, ARG, 2, 94  
+%_%   +280039, CZERNIZER, Eduardo, ARG, 1, 18
+
+
+%Round 1
+   650 (44)>(20)   4168  B
+280034 (15)<(49)   4166  B
+  4167 (57)>(07) 280038  B
+280039 (00)<(64) 280033  B
+  4157 (36)>(28) 280035  B
+
+%Round 2
+280033 (18)<(46)    650  B
+  4166 (53)>(11)   4157  B
+280037 (24)<(40)   4167  B
+  4168 (52)>(12) 280039  B
+280038 (18)<(46) 280034  B
+
+%Round 3
+   650 (13)<(51)   4166  B
+  4167 (21)<(43)   4168  B
+280034 (16)<(48) 280033  B
+  4157 (47)>(17) 280037  B
+280035 (58)>(06) 280038  B
+
+%Round 4
+  4166 (27)<(37)   4167  B
+280033 (37)>(27) 280035  B
+  4168 (35)>(29)   4157  B
+280039 (06)<(58)    650  B
+280037 (47)>(17) 280034  B
+
+%Round 5
+  4168 (47)>(17)   4166  B
+  4167 (34)>(30) 280033  B
+   650 (57)>(07)   4157  B
+280035 (13)<(51) 280037  B
+280038 (64)>(00) 280039  B

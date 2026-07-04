@@ -1,0 +1,63 @@
+%%Tournament: Norrkoping_2014
+%%Country: Sweden
+%%Date: 26/04/2014
+%%Sender: Benkt Steentoft
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/04/27 11:29
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1454, FRONMARK, Marcus, SWE,  6, 287, 2041
+%_%    1513, ASPENRYD, Henry, SWE,  6, 268, 1970
+%_%    1577, ODSELL, Caroline, SWE,  5, 261, 1957
+%_%    1301, STEENTOFT, Benkt, SWE,  5, 237, 1731
+%_%    1375, STENBERG, Veronica, SWE,  3, 222, 1809
+%_%    1493, JOHANSSON, Erik, SWE,  2, 184, 1549
+%_%    1520, LARSSON, Benny, SWE,  1, 165, 1695
+
+
+
+%Round: 1
+
+  1577 (53)>(11)   1375  B
+  1493 (21)<(43)   1513  B
+  1301 (40)>(24)   1520  B
+
+%Round: 2
+
+  1454 (63)>(01)   1493  B
+  1520 (27)<(37)   1577  B
+  1513 (28)<(36)   1301  B
+
+%Round: 3
+
+  1375 (50)>(14)   1520  B
+  1301 (27)<(37)   1454  B
+  1577 (26)<(38)   1513  B
+
+%Round: 4
+
+  1493 (28)<(36)   1301  B
+  1513 (35)>(29)   1375  B
+  1454 (36)>(28)   1577  B
+
+%Round: 5
+
+  1520 (16)<(48)   1513  B
+  1577 (38)>(26)   1493  B
+  1375 (21)<(43)   1454  B
+
+%Round: 6
+
+  1301 (25)<(39)   1577  B
+  1454 (40)>(24)   1520  B
+  1493 (24)<(40)   1375  B
+
+%Round: 7
+
+  1513 (36)>(28)   1454  B
+  1375 (31)<(33)   1301  B
+  1520 (20)<(44)   1493  B
+
+
+%%Added results

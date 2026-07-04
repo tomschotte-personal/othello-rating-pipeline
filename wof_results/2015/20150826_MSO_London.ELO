@@ -1,0 +1,50 @@
+%%Tournament: MSO London
+%%Country: Great-Britain
+%%Date: 26/08/2015
+%%Sender: Vidar Aas
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/10/18 12:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    1800, AAS, Vidar, NOR,  5, 260, 1805
+%_%    2006, ARNOLD, Roy, GBR,  4, 246, 1459
+%_% +100031, HAYWARD, Julia, GBR,  3, 144, 0
+%_% +100032, KERSHAW, Raymond, GBR,  1, 110, 0
+%_%  100021, HAVERY, Andrew, GBR,  1, 107, 0
+%_% +100033, TAYLOR, William, GBR,  1, 93, 0
+
+
+
+%Round: 1
+
+100032 (06)<(58)   2006  B
+  1800 (61)>(03) 100021  B
+100033 (25)<(39) 100031  B
+
+%Round: 2
+
+  1800 (49)>(15) 100032  B
+100033 (00)<(64)   2006  B
+100031 (35)>(29) 100021  B
+
+%Round: 3
+
+100032 (33)>(31) 100033  B
+100021 (12)<(52)   2006  B
+100031 (18)<(46)   1800  B
+
+%Round: 4
+
+  2006 (21)<(43)   1800  B
+100021 (30)<(34) 100033  B
+100031 (39)>(25) 100032  B
+
+%Round: 5
+
+  2006 (51)>(13) 100031  B
+100032 (31)<(33) 100021  B
+  1800 (61)>(03) 100033  B
+
+
+%%Added results

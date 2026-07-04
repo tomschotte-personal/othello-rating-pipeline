@@ -1,0 +1,74 @@
+%%Tournament: XIII Copa de Othello - Indaiatuba
+%%Country: Brazil
+%%Date: 18/08/2018
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/02/01 02:08
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290000, SILVA, Fabricio, BRA,  4, 223, 1908
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  3, 173, 1373
+%_%  290043, TUBERO, Jesualdo, BRA,  3, 156, 987
+%_%  290025, CORREIA JR., Moises, BRA,  3, 137, 1150
+%_%  290015, FREITAS, Alexandre, BRA,  3, 124, 1032
+%_%  290013, FRITSCH, Evans, BRA,  2, 180, 945
+%_% +290180, MUSSI Eduardo, Gonzalez, BRA,  2, 141, 0
+%_%  290028, DE OLIVEIRA, Edmilson, BRA,  2, 137, 868
+%_%  290074, HIGASHI, Lais Emily, BRA,  2, 122, 529
+%_% +290182, PEREIRA Tercio, Berti, BRA,  2, 118, 0
+%_%  290051, CORREIA, Rafael Augusto P., BRA,  1.5, 126, 839
+%_%  290274, LU, Hsiu Joan, BRA,  1.5, 107, 740
+%_%  290089, VALIM, Sergio H. Dos S., BRA,  1, 91, -863
+%_%  290200, COSTA, Ruama Quezia Santos, BRA,  1, 90, 498
+%_% +290181, BERTI Luana, Casagrande, BRA,  1, 71, 0
+%_% +290177, SILVA Rebeca, Maria, BRA,  0, 52, 0
+
+
+
+%Round: 1
+
+290000 (55)>(09) 290274  B
+290028 (17)<(47) 290174  B
+290013 (64)>(00) 290200  B
+290177 (13)<(51) 290025  B
+290015 (42)>(22) 290180  B
+290181 (01)<(63) 290043  B
+290051 (56)>(08) 290182  B
+290089 (08)<(56) 290074  B
+
+%Round: 2
+
+290043 (08)<(56) 290000  B
+290174 (29)<(35) 290015  B
+290074 (05)<(59) 290013  B
+290025 (46)>(18) 290051  B
+290274 (58)>(06) 290181  B
+290180 (23)<(41) 290028  B
+290200 (24)<(40) 290089  B
+290182 (46)>(18) 290177  B
+
+%Round: 3
+
+290000 (57)>(07) 290025  B
+290013 (26)<(38) 290015  B
+290089 (17)<(47) 290174  B
+290028 (23)<(41) 290043  B
+290051 (32)=(32) 290274  B
+290200 (17)<(47) 290074  B
+290177 (06)<(58) 290180  B
+290181 (32)=(32) 290182  B
+
+%Round: 4
+
+290015 (09)<(55) 290000  B
+290174 (50)>(14) 290074  B
+290025 (33)>(31) 290013  B
+290043 (44)>(20) 290051  B
+290274 (08)<(56) 290028  B
+290180 (38)>(26) 290089  B
+290177 (15)<(49) 290200  B
+290181 (32)=(32) 290182  B
+
+
+%%Added results

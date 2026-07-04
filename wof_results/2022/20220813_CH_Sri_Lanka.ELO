@@ -1,0 +1,41 @@
+%%Tournament: 1st Sri Lanka Championship
+%%Country: Sri Lanka
+%%Date: 13/08/2022
+%%Sender: BeSt
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/08/13 13:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   70017, CZYMARA, Andreas, DEU,  6, 300, 1355
+%_% +  9030, Dissanayake, Thakshi, LKA,  4, 174, 0
+%_% +  9066, Sankalpana, Sithu, LKA,  2, 150, 0
+
+
+
+%Round: 1
+
+  9030 (12)<(52)  70017  B
+
+%Round: 2
+
+  9066 (25)<(39)   9030  B
+
+%Round: 3
+
+ 70017 (54)>(10)   9066  B
+
+%Round: 4
+
+ 70017 (58)>(06)   9030  B
+
+%Round: 5
+
+  9030 (37)>(27)   9066  B
+
+%Round: 6
+
+  9066 (08)<(56)  70017  B
+
+
+%%Added results

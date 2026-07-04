@@ -1,0 +1,54 @@
+%%Tournament: Singapore Master Series
+%%Country: Singapore
+%%Date: 26/12/2020
+%%Sender: Alex Koh
+
+% Tournament Results
+%        ID, Family_Name, Firstname, COUNTRY, Rank
+%_%  250001, Koh, Bo Xiang, SGP, 1
+%_%  250003, Koh, Bo Chao Alex, SGP, 2
+%_%  250006, Leong, Chee Kit, SGP, 3-4
+%_%  250120, Wirawan, Daniel, SGP
+%_%  250191, Lim, Chan Way, SGP, 5-8
+%_%  250280, Muhammad, Abduh, SGP
+%_%  250174, Samuel, Henry Kurniawan, SGP
+%_%  250147, Sia, Cheng Yong, SGP
+
+%Group A Round 1
+%B               %W
+250003 (44)>(20) 250174  B
+250120 (52)>(12) 250280  B
+
+%Group A Round 2 B
+%B               %W
+250003 (33)>(31) 250120  B
+250174 (44)>(20) 250280  B
+
+%Group A Round 3 B
+%B               %W
+250280 (17)<(47) 250003  B
+250174 (11)<(53) 250120  B
+
+%Group B Round 1 B
+%B               %W
+250001 (41)>(23) 250006  B
+250147 (25)<(39) 250191  B
+
+%Group B Round 2 B
+%B               %W
+250001 (45)>(19) 250147  B
+250006 (41)>(23) 250191  B
+
+%Group B Round 3 B
+%B               %W
+250191 (20)<(44) 250001  B
+250006 (34)>(30) 250147  B
+
+%Semi Finals
+%B               %W
+250003 (41)>(23) 250006  B
+250001 (40)>(24) 250120  B
+
+%Finals
+%B               %W
+250003 (30)<(34) 250001  B

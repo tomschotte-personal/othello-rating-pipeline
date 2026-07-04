@@ -1,0 +1,244 @@
+%%Tournament: 32nd All Japan
+%%Country: Japan
+%%Date: 18/07/2004
+%%Sender: Tom Schotte
+
+
+%%GroupA
+%5502 GOTO, Hiroshi                   %_<2322>
+%5560 TSUJI, Shinji                   %_<2243>
+%11280 SATOMI, Satoshi                 %_<1844>
+%10192 HAMADA, Naoki                   %_<2034>
+
+ 5502 >  5560
+ 5502 > 11280
+ 5502 > 10192
+ 5560 > 11280
+ 5560 > 10192
+11280 > 10192
+
+%%GroupB 2-2-2-0
+%299 MURAKAMI, Takeshi               %_<2337>
+%4014 TOMINAGA, Kenta                 %_<2444>
+%5523 ARAKI, Yasuyuki                 %_<2131>
+%11700 MORISHITA, Masahiro
+
+  299 <  4014
+ 4014 <  5523
+ 5523 <   299
+  299 > 11700
+ 4014 > 11700
+ 5523 > 11700
+
+%%GroupC
+%6973 KITAGAWA, Kanya                 %_<2106>
+%10585 MATUZAWA, Takashi               %_<1631>
+%651 KITAJIMA, Hideki                %_<2133>
+%only 3 players
+
+ 6973 > 10585
+ 6973 >   651
+10585 >   651
+
+%%GroupD
+%6830 TAKAHASHI, Kanji                %_<1897>
+%700 NAKAJIMA, Tetsuya               %_<2409>
+%6801 KOUKAWA, Satoshi                %_<2030>
+%11701 HATTORI, Tatsuya
+
+ 6830 >   700
+ 6830 >  6801
+ 6830 > 11701
+  700 >  6801
+  700 > 11701
+ 6801 > 11701
+
+
+%%GroupE
+%10351 TOKUMARU, Kikuchi               %_<2360>
+%5526 UNO, Toshihiro                  %_<1987>
+%698 SUEKUNI, Makoto                 %_<2413>
+%655 TAKIZAWA, Nobuyuki  %_<2174>
+
+10351 >  5526
+10351 >   698
+10351 >   655
+ 5526 >   698
+ 5526 >   655
+  698 >   655
+            
+
+%%GroupF 3-1-1-1
+%5686 IWATA, Hiroyuki                 %_<2281>
+%5680 HAJIME, Watanabe                %_<2306>
+%6843 ITAGAKI, Kenichi                %_<2085>
+%10467 KIUCHI, Hideyuki  %_<2150>
+
+ 5686 >  5680           
+ 5686 >  6843
+ 5686 > 10467
+ 5680 >  6843
+ 6843 > 10467
+10467 >  5680
+
+%%GroupG
+%5563 KURACHI, Takayuki               %_<2073>
+%488 TAKIZAWA, Masaki                %_<2416>
+%5507 TSUCHIDA, Daisuke               %_<2211>
+%10272 TSUCHIYA, Ryosuke               %_<2041>
+
+ 5563 >   488
+ 5563 >  5507
+ 5563 > 10272
+  488 >  5507
+  488 > 10272
+ 5507 > 10272
+
+%%GroupH
+%10985 HARIKAWA, Yuki                  %_<2310>
+%6891 KATORI, Mitihiro                %_<1969>
+%11284 SAWADA, Takehiko                %_<2070>
+%10823 DATE, Yuji                      %_<2015>
+
+10985 >  6891
+10985 > 11284
+10985 > 10823
+ 6891 > 11284
+ 6891 > 10823
+11284 > 10823
+
+
+%%GroupI
+%5530 NODA, Bintatsu                  %_<2161>
+%11302 SUDOU, Mai
+%7044 HOSHI, Ryuichi                  %_<1996>
+%5515 KOMAGATA, Masayuki              %_<2181>
+
+ 5530 > 11302
+ 5530 >  7044
+ 5530 >  5515
+11302 >  7044
+11302 >  5515
+ 7044 >  5515
+
+%%GroupJ
+%300 TAMENORI, Hideshi               %_<2458>
+%5584 OSHIMIZU, Takanori              %_<2178>
+%5559 KAWARADA, Yuichi                %_<2230>
+%11321 TAKASAKI, Yutaro                %_<2391>
+
+  300 >  5584
+  300 >  5559
+  300 > 11321
+ 5584 >  5559
+ 5584 > 11321
+ 5559 > 11321
+
+%%GroupK
+%6868 SASAKI, Sohei                   %_<2299>
+%11158 MIGAMO, Shinya                  %_<2101>
+%11337 TANAKA, Keisuke                 %_<2090>
+%10326 KADOWAKI, Toshiaki              %_<1773>
+
+ 6868 > 11158
+ 6868 > 11337
+ 6868 > 10326
+11158 > 11337
+11158 > 10326
+11337 > 10326
+
+%%GroupL
+%7077 ISHIZAKI, Hikaru                %_<2258>
+%6822 YAMADA, Yuichi                  %_<2234>
+%11271 SATO, Keisuke                   %_<1812>
+%11177 MURAMATSU, Daishi               %_<2180>
+
+ 7077 >  6822
+ 7077 > 11271
+ 7077 > 11177
+ 6822 > 11271
+ 6822 > 11177
+11271 > 11177
+
+%%GroupM
+%578 SAKAGUCHI, Kazuhiro             %_<2222>
+%6954 OGURI, Kenji                    %_<1898>
+%11467 TANINO, Takahashi
+%6860 MIYAZAKI, Yuji                  %_<2311>
+
+  578 >  6954
+  578 > 11467
+  578 >  6860
+ 6954 > 11467
+ 6954 >  6860
+11467 >  6860
+
+%%GroupN
+%6970 KUDASHOU, Takahiro              %_<2251>
+%5524 NAGAO, Hiroto                   %_<2183>
+%6805 SAKA, Hiroshi                   %_<2151>
+%5562 HOSHINO, Yoshihiro              %_<2102>
+
+ 6970 >  5524
+ 6970 >  6805
+ 6970 >  5562
+ 5524 >  6805
+ 5524 >  5562
+ 6805 >  5562
+
+%%GroupO
+%5522 TSUCHIDA, Eiji                  %_<2271>
+%10749 HAMAMOTO, Kazuhiro              %_<1689>
+%10680 IGARASHI, Jun                   %_<2143>
+%5699 YOSHIYUKI, Suganuma             %_<2026>
+
+ 5522 > 10749
+ 5522 > 10680
+ 5522 >  5699
+10749 > 10680
+10749 >  5699
+10680 >  5699
+
+%%GroupP
+%10127 OKUDA, Hiroyuki                 %_<2034>
+%11422 YOSHIYUKI, Shingo               %_<2057>
+%10277 FUJITA, Mitusnori               %_<1715>
+%10070 KAMEMOTO, Osamu                 %_<2211>
+
+10127 > 11422
+10127 > 10277
+10127 > 10070
+11422 > 10277
+11422 > 10070
+10277 > 10070
+
+%1/8 finals
+10351 >  6973
+ 5563 <  6830
+  300 >   299
+ 6970 <  5530
+ 6868 <   578
+ 5502 >  5522
+ 7077 > 10985
+10127 >  5686
+
+
+%1/4 finals
+10351 <  6830
+  300 >  5530
+  578 >  5502
+ 7077 > 10127
+
+%1/2 finals
+ 6830 <   300
+  578 >  7077
+
+%finals
+  700 >   578
+
+%3-8
+ 6830 <  7077
+10351 >  5530
+ 5502 > 10127
+10351 >  5502
+ 5530 < 10127

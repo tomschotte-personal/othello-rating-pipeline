@@ -1,0 +1,38 @@
+%%Tournament: 29th Kanagawa All Japan Preliminaries Women
+%%Country: Japan
+%%Date: 11/06/2001
+%%Sender: Tom Schotte
+
+%Round1
+  5504 >    600 
+  5521 >   5500 
+   502 >  12446 
+
+%Round2
+  5504 >   5521 
+   600 >  12446 
+   502 >   5500 
+
+%Round3
+  5521 >  12446 
+   600 >    502 
+  5500 >   5504 
+
+%Round4
+  5504 >    502 
+  5521 >    600 
+  5500 >  12446 
+
+%Round5
+  5504 >  12446 
+  5521 >    502 
+   600 >   5500 
+
+
+%players
+%13 5504	kinoshita	hisako
+%14 5521	hamada	kikue
+%15 600	takeda	kyoko
+%16 5500	furusaki	yoko
+%17 502	ishii	masami
+%18 12446	trinita	ayako

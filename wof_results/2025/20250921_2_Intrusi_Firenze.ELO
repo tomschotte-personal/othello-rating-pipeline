@@ -1,0 +1,46 @@
+%%Tournament: Torneo NON Categoria
+%%Country: Italy
+%%Date: 21/09/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40229, FOSCHI, Tommaso, ITA, 6, 274, 1683
+%_%   40086, FOSCHI, Damiano, ITA, 4, 236, 1649
+%_%    3062, CAVIOLA, Leonardo, ITA, 1, 137, 1461
+%_%   40162, BAIELLI, Rodolfo, ITA, 1, 121, 1585
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/368
+
+%Round: 1
+
+ 40162 (14)<(50)  40229  B
+  3062 (20)<(44)  40086  B
+
+%Round: 2
+
+ 40086 (23)<(41)  40229  B
+  3062 (39)>(25)  40162  B
+
+%Round: 3
+
+ 40229 (45)>(19)   3062  B
+ 40162 (16)<(48)  40086  B
+
+%Round: 4
+
+ 40162 (41)>(23)   3062   B
+ 40229 (40)>(24)  40086   B
+
+%Round: 5
+
+ 40229 (54)>(10)  40162  B
+ 40086 (48)>(16)   3062  B
+
+%Round: 6
+
+  3062 (20)<(44)  40229  B
+ 40086 (49)>(15)  40162  B

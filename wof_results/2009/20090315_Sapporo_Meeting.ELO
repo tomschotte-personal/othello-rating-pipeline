@@ -1,0 +1,35 @@
+%%Tournament: Sapporo_Meeting
+%%Country: Japan
+%%Date: 15/03/2009
+%%Sender: Ryuichi Hoshi
+
+%_%   6870, KIYOYUKI, kenji, J, 3.0, 169
+%_%   5582, TAKENOBU, kousuke, J, 3.0, 133
+%_%   7018, OKABAYASHI, noguchi, J, 2.0, 177
+%_%   6868, SASAKI, sohei, J, 2.0, 151
+%_%  10480, NISHIMURA, tomoaki, J, 2.0, 138
+
+%Round 1
+  7018 (52) > (12)  10480
+  6870 (45) > (19)   5582
+
+%Round 2
+  5582 (33) > (31)   6868
+  6870 (35) > (29)   7018
+
+%Round 3
+  7018 (39) > (25)   6868
+  6870 (43) > (21)  10480
+
+%Round 4
+ 10480 (41) > (23)   6868
+  5582 (34) > (30)   7018
+
+%Round 5
+  6868 (35) > (29)   6870
+  5582 (47) > (17)  10480
+
+%Round 6
+  6868 (37) > (27)   7018
+ 10480 (47) > (17)   6870
+

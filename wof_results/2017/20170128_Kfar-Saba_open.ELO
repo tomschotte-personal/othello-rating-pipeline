@@ -1,0 +1,38 @@
+%%Tournament: Kfar-Saba open
+%%Country: Israel
+%%Date: 28/01/2017
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    885, SHIFMAN, Ilya, IL, 5, 244
+%_%    200003, MARGALIOT, Michael, IL, 4, 217
+%_%    880, SHIFMAN, Leonid, IL, 3, 207
+%_%    200018, YOSIFOVICH, Danielle, IL,†2,†92
+%_%    200012, FABIAN, Asaf, IL,†1,†116
+%_%    200010, SHIFMAN, Michael, IL, 0, 84
+
+
+%Round 1
+200018 (09)<(55)    885  B
+200010 (17)<(47)    880  B
+200012 (19)<(45) 200003  B
+
+%Round 2
+200018 (42)>(22) 200010  B
+   880 (44)>(20) 200012  B
+   885 (36)>(28) 200003  B
+
+%Round 3
+200012 (28)<(36) 200018  B
+200010 (07)<(57)    885  B
+200003 (39)>(25)    880  B
+
+%Round 4
+200018 (05)<(59) 200003  B
+200010 (20)<(44) 200012  B
+   885 (37)>(27)    880  B
+
+%Round 5
+   880 (64)>(00) 200018  B
+200003 (46)>(18) 200010  B
+200012 (05)<(59)    885  B

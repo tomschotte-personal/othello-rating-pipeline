@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 2
+%%Country: France
+%%Date: 21/02/2015
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/03/11 22:45
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3518, DELAUNAY, Arnaud, FRA,  4, 217, 2160
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  4, 195, 1994
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 174, 1852
+%_%   50071, CORBINEAU, Georges, FRA,  3, 151, 1310
+%_%    3600, BENOIT, Serge, FRA,  2.5, 165, 1402
+%_%   50072, YONNET-LONDONO BAENA, Ruben, FRA,  2, 107, 0
+%_% +  9025, TOUCHENE, Foued, DZA,  1.5, 151, 0
+
+
+
+%Round: 1
+
+  3600 (32)=(32)   9025  B
+  3518 (49)>(15)  50071  B
+  3598 (16)<(48)     45  B
+
+%Round: 2
+
+    45 (22)<(42)   3600  B
+ 50072 (04)<(60)   3518  B
+  9025 (21)<(43)   3598  B
+
+%Round: 3
+
+ 50071 (10)<(54)     45  B
+  3600 (26)<(38)   3518  B
+  3598 (53)>(11)  50072  B
+
+%Round: 4
+
+    45 (35)>(29)   9025  B
+  3518 (21)<(43)   3598  B
+ 50072 (17)<(47)  50071  B
+
+%Round: 5
+
+  9025 (29)<(35)  50072  B
+  3518 (49)>(15)     45  B
+ 50071 (39)>(25)   3600  B
+
+
+%%Added results

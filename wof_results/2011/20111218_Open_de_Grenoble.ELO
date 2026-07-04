@@ -1,0 +1,48 @@
+%%Tournament: Open de Grenoble
+%%Country: France
+%%Date: 18/12/2011
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/12/18 22:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     839, KASHIWABARA, Takuji, F,  5.5, 260
+%_%      11, LAZARD, Emmanuel, F,  3.5, 234
+%_%     125, MICHEL, Stephane, F,  2, 135
+%_%    3824, NICOLAS, Caroline, F,  1, 139
+
+
+
+%Round: 1
+
+   839 (58)>(06)    125  B
+  3824 (12)<(52)     11  B
+
+%Round: 2
+
+    11 (28)<(36)    839  B
+   125 (48)>(16)   3824  B
+
+%Round: 3
+
+   839 (38)>(26)   3824  B
+    11 (30)<(34)    125  B
+
+%Round: 4
+
+   125 (13)<(51)    839  B
+    11 (52)>(12)   3824  B
+
+%Round: 5
+
+   839 (32)=(32)     11  B
+  3824 (54)>(10)    125  B
+
+%Round: 6
+
+  3824 (19)<(45)    839  B
+   125 (24)<(40)     11  B
+
+
+%%Added results

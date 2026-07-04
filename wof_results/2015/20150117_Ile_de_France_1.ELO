@@ -1,0 +1,65 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 17/01/2015
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/03/12 18:18
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3518, DELAUNAY, Arnaud, FRA,  5, 206, 2160
+%_%       2, TASTET, Marc, FRA,  4, 206, 2110
+%_% + 50075, BERTRANDIAS, Marc, FRA,  3, 200, 0
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 200, 1994
+%_% +  9025, TOUCHENE, Foued, DZA,  3, 186, 0
+%_%      11, LAZARD, Emmanuel, FRA,  3, 174, 1981
+%_%    3734, CLUZON, Gilles, FRA,  2, 153, 1350
+%_%      45, ANDRIANI, Bintsa, FRA,  2, 143, 1852
+%_%    3600, BENOIT, Serge, FRA,  2, 137, 1402
+%_%     228, BUSUTTIL, Michel, FRA,  2, 116, 1350
+%_%   50053, TASTET, Remi, FRA,  1, 79, 0
+
+
+
+%Round: 1
+
+  3598 (64)>(00)   9025  B
+    11 (50)>(14)     45  B
+   228 (02)<(62)      2  B
+  3600 (11)<(53)  50075  B
+  3734 (50)>(14)  50053  B
+
+%Round: 2
+
+     2 (36)>(28)   3598  B
+ 50075 (29)<(35)     11  B
+    45 (57)>(07)   3600  B
+  3518 (39)>(25)   3734  B
+  9025 (62)>(02)    228  B
+
+%Round: 3
+
+ 50053 (11)<(53)      2  B
+  3600 (15)<(49)   9025  B
+  3598 (46)>(18)     45  B
+  3734 (12)<(52)  50075  B
+    11 (25)<(39)   3518  B
+
+%Round: 4
+
+   228 (50)>(14)  50053  B
+     2 (18)<(46)   3518  B
+ 50075 (24)<(40)   3598  B
+  9025 (27)<(37)     11  B
+    45 (38)>(26)   3734  B
+
+%Round: 5
+
+  3518 (42)>(22)   3598  B
+    11 (27)<(37)      2  B
+ 50075 (42)>(22)    228  B
+  9025 (48)>(16)     45  B
+ 50053 (00)<(64)   3600  B
+
+
+%%Added results

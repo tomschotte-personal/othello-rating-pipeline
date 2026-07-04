@@ -1,0 +1,46 @@
+%%Tournament: 168th Kyoto Meeting
+%%Country: Japan
+%%Date: 11/11/2001
+%%Sender: Tom Schotte
+
+%Round1
+11245 > 10008
+5507 > 11799
+5526 > 10009
+10351 > 6929
+
+%Round2
+11245 > 10351
+5507 > 5526
+11799 > 10009
+10008 > 6929
+
+%Round3
+11245 > 5507
+11799 > 5526
+6929 > 10009
+10351 > 10008
+
+%Round4
+11245 > 11799
+5507 > 10351
+5526 > 6929
+10008 > 10009
+
+%Round5
+11799 > 6929
+10351 > 10009
+5526 > 11245
+10008 > 5507
+
+
+
+%players
+%1 OSADA Koji (Japan)[id: 11245]
+%2 TSUCHIDA Daisuke (Japan)[id: 5507]
+%3 HASHIMOTO Yoshiaki (Japan)[id: 11799]
+%4 TOKUMARU Kikuchi (Japan)[id: 10351]
+%5 UNO Toshihiro (Japan)[id: 5526]
+%6 10008	okuda	masashi
+%7 IO Hideo (Japan)[id: 6929]
+%8 TARU Eiichi (Japan)[id: 10009]

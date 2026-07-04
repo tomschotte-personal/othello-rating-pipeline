@@ -1,0 +1,46 @@
+%%Tournament: Oslo Open 2023
+%%Country: Norway
+%%Date: 25/03/2023
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2023/03/25 14:10
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  5, 199, 1898
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3.5, 181, 1802
+%_%  140031, TVEDT, Sverre, NOR,  3.5, 168, 1652
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 143, 1590
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  1, 149, 1198
+
+
+
+%Round: 1
+
+140031 (32)=(32)   2511  B
+  2570 (37)>(27) 140048  B
+
+%Round: 2
+
+  1802 (27)<(37)   2570  B
+140048 (23)<(41) 140031  B
+
+%Round: 3
+
+  2511 (36)>(28) 140048  B
+140031 (41)>(23)   1802  B
+
+%Round: 4
+
+  2570 (50)>(14) 140031  B
+  1802 (20)<(44)   2511  B
+
+%Round: 5
+
+140048 (31)<(33)   1802  B
+  2511 (29)<(35)   2570  B
+
+
+%%Added results
+  2511 (33)>(31)   2570  B
+  1802 (21)<(43) 140031  B

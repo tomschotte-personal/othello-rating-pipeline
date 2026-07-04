@@ -1,0 +1,76 @@
+%%Tournament: 235th Kyoto Meeting
+%%Country: Japan
+%%Date: 08/07/2007
+%%Sender: Tom Schotte
+
+%round1
+6926 > 5524
+10039 > 5579
+5573 > 6927
+5568 > 6940
+6931 > 10021
+6929 > 10022
+6935 > 6938
+
+%round2
+6926 > 6935
+10039 > 5573
+5524 > 5579
+5568 > 6929
+6938 > 10021
+11816 > 6931
+6927 > 10022
+
+%round3
+6926 > 5568
+5524 > 6938
+5573 > 6929
+10021 > 10022
+6931 > 6935
+11816 > 10039
+6927 > 6940
+
+%round4
+6926 > 11816
+10039 > 5568
+5573 > 5524
+5579 > 6938
+6931 > 6927
+6940 > 6935
+6929 > 10021
+
+%round5
+6926 > 5573
+10039 > 6931
+5524 > 11816
+5579 > 6929
+5568 > 6927
+10021 > 6940
+6938 > 10022
+
+%round6
+10039 > 6926
+5524 > 5568
+5573 > 6931
+5579 > 11816
+10021 > 6935
+6938 > 6929
+6940 > 10022
+
+
+%players
+%1 6926	kanai	kyousuke
+%2 10039	morioka	wataru
+%3 5524	nagao	hiroto
+%4 5573	nagayama	hironari
+%5 5579	hata	hayato
+%6 5568	okamoto	kazuki
+%7 10021	hata	ikoma
+%8 6931	obama	satomi
+%9 6938	okamoto	kuwajima
+%10 11816	takahashi	yoshiko
+%11 6940	shutshuke	yuuko
+%12 6927	okamoto	misaki
+%13 6929	io	hideo
+%14 6935	hosoi	shinsuke
+%15 10022	takahashi	hiroki

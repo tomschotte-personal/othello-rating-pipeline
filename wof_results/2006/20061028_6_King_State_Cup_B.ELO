@@ -1,0 +1,85 @@
+%%Tournament: 6th King State Cup B
+%%Country: Japan
+%%Date: 28/10/2006
+%%Sender: Tom Schotte
+
+%round1
+5596 > 5609
+5605 > 11807
+5514 > 5600
+5537 > 11808
+5645 > 5583
+5659 > 5608
+5555 > 11809
+6987 > 10135
+
+%round2
+5596 > 5514
+5605 > 5555
+5537 > 6987
+5645 > 11809
+10135 > 5608
+11807 > 5583
+5609 > 5600
+5620 > 5659
+
+%round3
+5596 > 5605
+5514 > 5609
+5537 > 5645
+5600 > 11809
+10135 > 5555
+5659 > 11807
+5620 > 6987
+5583 > 11808
+
+%round4
+5596 > 5620
+5605 > 10135
+5514 > 5645
+5537 > 5659
+11807 > 5600
+5555 > 5609
+5608 > 11808
+5583 > 6987
+
+%round5
+5596 > 5537
+5605 > 5514
+5645 > 5620
+5600 > 6987
+5659 > 5583
+11807 > 10135
+5555 > 5608
+11808 > 11809
+
+%round6
+5596 > 5659
+5605 > 5537
+5514 > 5620
+5645 > 11807
+5600 > 5555
+10135 > 5583
+5609 > 11808
+5608 > 11809
+
+
+
+%players
+%1 5596	okamoto	akihiko
+%2 5605	ozawa	takumi
+%3 5514	watahiki	kenta
+%4 5537	takanashi	yusuke
+%5 5645	kimura	masashi
+%6 5600	ohtake	kosuke
+%7 10135	hara	yuki
+%8 5659	hamada	atushi
+%9 11807	iwamoto	takuro
+%10 5555	sato	tetsuya
+%11 5609	mori	takahiro
+%12 5620	kobayashi	kasa
+%13 5608	masuda	letaka
+%14 5583	kinoshita	akio
+%15 6987	kinoshita	tsutomu
+%16 11808	hara	ai
+%17 11809	kamiya	yukihiro

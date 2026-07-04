@@ -1,0 +1,53 @@
+%%Tournament: Greve Othello Cup
+%%Country: Denmark
+%%Date: 16/06/2018
+%%Sender: Erik Lund Jensen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/06/30 15:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      93, LUND JENSEN, Erik, DNK,  7, 356, 1975
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  4, 250, 1482
+%_%  220013, HOEGH, Daniel, DNK,  2, 165, 1203
+%_%    1067, NIELSEN, John, DNK,  1, 125, 0
+
+
+
+%Round: 1
+
+220013 (42)>(22)   1067  B
+    93 (47)>(17)   1019  B
+
+%Round: 2
+
+  1019 (54)>(10) 220013  B
+  1067 (07)<(57)     93  B
+
+%Round: 3
+
+220013 (00)<(64)     93  B
+  1019 (41)>(23)   1067  B
+
+%Round: 4
+
+  1067 (37)>(27) 220013  B
+  1019 (23)<(41)     93  B
+
+%Round: 5
+
+220013 (20)<(44)   1019  B
+    93 (55)>(09)   1067  B
+
+%Round: 6
+
+    93 (51)>(13) 220013  B
+  1067 (16)<(48)   1019  B
+
+%Round: 7
+
+  1019 (23)<(41)     93  B
+  1067 (11)<(53) 220013  B
+
+
+%%Added results

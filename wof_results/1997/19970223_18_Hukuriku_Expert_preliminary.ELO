@@ -1,0 +1,83 @@
+%%Tournament: 18th Hokuriku Expert preliminary
+%%Country: Japan
+%%Date: 23/02/1997
+%%Sender: Tom Schotte
+
+%round1
+703 > 5526
+6972 > 11770
+10228 > 11849
+11764 > 11872
+10008 > 10770
+11848 > 10233
+5516 > 11160
+10014 > 360
+
+%round2
+6972 > 703
+10228 > 10008
+11770 > 5526
+11848 > 11764
+10014 > 5516
+10770 > 11849
+10233 > 11872
+360 > 11160
+
+%round3
+703 > 360
+6972 > 10228
+11770 > 10233
+10008 > 11764
+11849 > 5526
+11848 > 10014
+11872 > 11160
+5516 > 10770
+
+%round4
+703 > 10014
+6972 > 11848
+10228 > 10770
+11764 > 10233
+11770 > 5516
+10008 > 11849
+5526 > 11160
+11872 > 360
+
+%round5
+703 > 10228
+6972 > 10008
+11764 > 5516
+11770 > 11848
+11849 > 10233
+5526 > 360
+11872 > 10014
+11160 > 10770
+
+%round6
+703 > 11770
+10228 > 11848
+11764 > 6972
+10008 > 11872
+11849 > 5516
+5526 > 10014
+10770 > 360
+11160 > 10233
+
+
+%players
+%1 703	maeda	kohichi
+%2 6972	miyazaki	toru
+%3 10228	urushihara	yoshihisa
+%4 11764	nakazawa	hirofumi
+%5 11770	itoi	koji
+%6 10008	okuda	masashi
+%7 11849	ueno	kohei
+%8 5526	uno	toshihiro
+%9 11848	sonozaki	hiromichi
+%10 11872	miyazaki	masaharu
+%11 5516	ishikawa	akira
+%12 10014	suzuki	takao
+%13 10770	suzuki	shinichi
+%14 11160	miyazaki	hideo
+%15 10233	sakamoto	hirosi
+%16 360	tamenori	masaru

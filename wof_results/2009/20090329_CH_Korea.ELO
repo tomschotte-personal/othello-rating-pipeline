@@ -1,0 +1,59 @@
+%%Tournament: 12th KoA Championships 2009
+%%Country: Korea
+%%Date: 29/03/2009
+%%Sender: Kyung-Joong Kim (kimkj@sejong.ac.kr) 
+ 
+%%Creator: PAPP 1.32
+%%CreationDate: 2009/03/29 23:11
+ 
+ 
+%Ranking of the 5 players after round 5:
+ 
+%_% ID,  NAME, Firstname, COUNTRY, score, disc-coun
+ 
+%_%   4074,  OH, Joung-mok, {Korea}, 5 pts, [246]
+%_% +30001,  KIM, Hyunshik, {Korea}, 4 pts, [195]
+%_%   7573,  HA, Seungsup,  {Korea}, 3 pts, [197]
+%_% +30002,  HONG, Seokwoo, {Korea}, 2 pts, [126]
+%_% +30000, LEE, Geuncheol, {Korea}, 1 pt ,  [76]
+ 
+   
+   
+%Round: 1
+ 
+ 4074 (47)>(17) 7573 W
+30002 (49)>(15) 30000 W
+ 
+ 
+%Round: 2
+ 
+30001 (45)>(19) 30002 W
+30000 (05)<(59) 4074 W
+ 
+ 
+%Round: 3
+ 
+7573 (64)>(00) 30000 W
+4074 (46)>(18) 30001 W
+ 
+ 
+%Round: 4
+ 
+30002 (10)<(54) 4074 W
+30001 (44)>(20) 7573 W
+ 
+ 
+%Round: 5
+ 
+30000 (16)<(48) 30001 W
+ 7573 (56)>(08) 30002 W
+ 
+ 
+%Finals: 1
+ 
+4074 (34)>(30) 30001 B
+ 
+ 
+%Finals: 2
+ 
+4074 (35)>(29) 30001 W

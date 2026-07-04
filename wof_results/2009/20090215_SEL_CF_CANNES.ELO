@@ -1,0 +1,58 @@
+%%Tournament: Selection de Cannes 2009
+%%Country: France
+%%Date: 15/02/2009
+%%Sender: David Sahli
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/02/15 18:02
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%     544, SAHLI, David, F,  5, 236
+%_%    3501, MARGARIT, Eric, F,  4, 216
+%_%     695, SCHERNO, Dominique, F,  3, 180
+%_%    3660, STAIGRE, Pascal, F,  3, 164
+%_%    3805, SOEUR, Gerald, F,  3, 163
+%_%    3087, SOLDANO, Graziano, I,  2, 150
+%_%    3808, RICHARD, Jordan, F,  2, 148
+%_%    3436, DUSOIR, Corentin, F,  2, 131
+%_%    3783, CATALANOTTI, Alain, F,  1, 92
+
+
+
+%Round: 1
+
+  3087 (24)<(40)   3808 B
+   544 (33)>(31)    695 B
+  3436 (14)<(50)   3501 B
+  3805 (60)>(04)   3660 B
+
+%Round: 2
+
+  3808 (00)<(64)    544 B
+  3501 (54)>(10)   3783 B
+  3660 (47)>(17)   3436 B
+   695 (23)<(41)   3805 B
+
+%Round: 3
+
+   544 (37)>(27)   3660 B
+  3436 (34)>(30)   3808 B
+  3805 (28)<(36)   3501 B
+  3783 (26)<(38)   3087 B
+
+%Round: 4
+
+  3087 (30)<(34)   3805 B
+  3808 (64)>(00)   3783 B
+  3501 (26)<(38)    544 B
+   695 (38)>(26)   3436 B
+
+%Round: 5
+
+  3805 (00)<(64)    544 B
+  3783 (16)<(48)    695 B
+  3501 (50)>(14)   3808 B
+  3660 (46)>(18)   3087 B
+
+
+%%Added results

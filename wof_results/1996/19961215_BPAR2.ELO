@@ -1,0 +1,34 @@
+%%Tournament: Tournoi B de Paris 2
+%%Country: France
+%%Date: 15/12/1996
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+ 824 <  781
+ 830 >  783
+ 275 <  831
+
+%%Round: 2
+
+ 783 >  275
+ 831 <  824
+ 781 >  830
+
+%%Round: 3
+
+ 275 >  824
+ 783 >  781
+ 830 >  831
+
+%%Round: 4
+
+ 781 >  275
+ 824 <  830
+ 831 <  783
+
+%%Round: 5
+
+ 275 <  830
+ 781 >  831
+ 783 <  824

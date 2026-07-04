@@ -1,0 +1,38 @@
+%%Tournament: Labyrinth 1 - 14 gennaio 2004
+%%Country: Italy
+%%Date: 14/01/2004
+%%Sender: Donato Barnaba
+
+
+%_% 2908, FERRANDO, Marco
+%_% 2993, LONGONE, Fabrizio
+%_% +3095, PINATO, Angelo,     {I}
+%_% 2857, MENOZZI, Giuseppe
+%_% 2984, CANU, Massimo
+%_% +3096, RALDI, Walter,     {I}
+
+
+
+%Round: 1
+
+2857 (60)>(04) 2993 B
+3095 (18)<(46) 2908 B
+2984 (64)>(00) 3096 B
+
+%Round: 2
+
+2908 (31)<(32) 2857 B
+2993 (15)<(49) 2984 B
+3096 (28)<(36) 3095 B
+
+%Round: 3
+
+2857 (49)>(15) 2984 B
+3096 (22)<(42) 2908 B
+3095 (22)<(42) 2993 B
+
+%Round: 4
+
+3095 (00)<(64) 2857 B
+2984 (24)<(40) 2908 B
+2993 (53)>(11) 3096 B

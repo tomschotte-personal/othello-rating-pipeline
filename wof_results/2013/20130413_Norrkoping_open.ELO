@@ -1,0 +1,44 @@
+%%Tournament: Norrkoping open
+%%Country: Sweden
+%%Date: 13/04/2013
+%%Sender: Mateusz Sosnowski
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/04/28 11:32
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150009, WETTERGREN, Niklas, SWE,  5, 225, 1958
+%_% +150029, Jorgensen, Andreas, Swe,  4, 207, 0
+%_%    1387, FORSBACK, Lenny, SWE,  3, 147, 1374
+%_%    1563, EILERTSEN, Jonas, SWE,  2, 177, 1615
+%_%    1305, HADDAD, Michel, SWE,  1, 84, 0
+
+
+
+%Round: 1
+
+  1387 (08)<(56) 150029  B
+150009 (35)>(29)   1563  B
+
+%Round: 2
+
+150029 (15)<(49) 150009  B
+  1305 (13)<(51)   1387  B
+
+%Round: 3
+
+150029 (38)>(26)   1563  B
+150009 (52)>(12)   1305  B
+
+%Round: 4
+
+  1563 (31)<(33)   1387  B
+  1305 (06)<(58) 150029  B
+
+%Round: 5
+
+  1563 (51)>(13)   1305  B
+  1387 (15)<(49) 150009  B
+
+
+%%Added results

@@ -1,0 +1,61 @@
+%%Tournament: Cambridge Christmas Tournament 2018
+%%Country: Great-Britain
+%%Date: 01/12/2018
+%%Sender: David Haigh
+
+%%Creator: David Haigh, from information supplied by Imre Leader.
+%%CreationDate: 2018/12/02 14:00
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    79, LEADER, Imre, GBR, 7, ,
+%_%    320, PLOWMAN, Guy, GBR, 6, ,
+%_%    2341, BRAND, Richard, GBR, 5, ,
+%_%    100037, PLOWMAN, Anya, GBR, 3, ,
+%_%    100027, PLOWMAN, Mark, GBR, 3, ,
+%_%    100025, BRAND, Lucy, GBR, 2, ,
+%_%    100042, PLOWMAN, Sophie, GBR, 2, ,
+%_%   +100048, KINGSHOTT, Emily, GBR, 0, ,  
+
+%Round: 1
+100048 < 100042   
+100025 <     79   
+100027 <    320   
+100037 <   2341   
+  
+%Round: 2
+100048 < 100025   
+100027 > 100042   
+100037 <     79   
+  2341 <    320   
+    
+%Round: 3
+100048 < 100027   
+100037 < 100025   
+  2341 > 100042   
+   320 <     79    
+ 
+%Round: 4
+100048 < 100037   
+  2341 > 100027   
+   320 > 100025   
+    79 > 100042 
+     
+%Round: 5
+100048 <   2341   
+   320 > 100037   
+    79 > 100027   
+100042 > 100025   
+    
+%Round: 6
+100048 <    320   
+    79 >   2341   
+100042 < 100037   
+100025 < 100027   
+
+%Round: 7
+100048 <     79   
+100042 <    320   
+100025 <   2341   
+100027 < 100037   
+
+%%Added results

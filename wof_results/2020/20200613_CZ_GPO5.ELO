@@ -1,0 +1,28 @@
+%%Tournament: Czech GPO 5/2020
+%%Country: Czech Republic
+%%Date: 13/06/2020
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4509, RYBARIK, Jan, CZE, 1, 67
+%_%  210176, SLADEK, Vitek, CZE, 3, 148
+%_% +210202, VINOPALOVA, Hana, CZE, 2, 96
+%_% +210203, VINOPAL, Michal, CZE, 0, 73
+
+
+%Round 1
+
+210202 (53)>(11)   4509  B
+210203 (17)<(47) 210176  B
+
+
+%Round 2
+
+  4509 (17)<(47) 210176  B
+210202 (33)>(31) 210203  B
+
+
+%Round 3
+
+210203 (25)<(39)   4509  B
+210176 (54)>(10) 210202  B

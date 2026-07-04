@@ -1,0 +1,101 @@
+%%Tournament: 218th Kyoto Open
+%%Country: Japan
+%%Date: 12/02/2006
+%%Sender: Tom Schotte
+
+%Round1
+698 > 5506
+6919 > 6997
+300 > 6995
+5684 > 5568
+7054 > 10125
+5526 > 10009
+10008 > 6931
+6970 > 5576
+5516 > 6929
+5507 > 5669
+
+%Round2
+698 > 5507
+6919 > 5516
+5669 > 5506
+300 > 5684
+7054 > 10008
+10125 > 6929
+5568 > 6995
+6970 > 5526
+6997 > 6931
+5576 > 10009
+
+%Round3
+698 > 6970
+6919 > 5507
+5669 > 6931
+5684 > 5576
+7054 > 300
+10125 > 5526
+5506 > 6995
+5516 > 5568
+6997 > 10008
+6929 > 10009
+
+%Round4
+698 > 6919
+5669 > 5516
+300 > 6997
+5684 > 7054
+6860 > 6929
+10125 > 6970
+5526 > 5507
+5568 > 5576
+5506 > 10008
+6995 > 6931
+
+%Round5
+698 > 10125
+6919 > 7054
+5669 > 5684
+300 > 5526
+6860 > 5516
+5568 > 6997
+10008 > 10009
+6970 > 5506
+6995 > 5507
+6929 > 5576
+
+%Round6
+698 > 5669
+6919 > 300
+5684 > 10125
+7054 > 5568
+6860 > 6970
+5526 > 6995
+5506 > 6997
+10008 > 6929
+5516 > 5507
+10009 > 6931
+
+
+
+%Players
+%1 698	suekuni	makoto
+%2 6919	fukunaga	kohachi
+%3 5669	nakano	shunsuke
+%4 300	tamenori	hideshi
+%5 5684	shukame	sumiki
+%6 7054	nakamori	hiroki
+%7 6860	miyazaki	yuji
+%8 10125	nakano	takao
+%9 5526	uno	toshihiro
+%10 5568	okamoto	kazuki
+%11 5506	tamaki	suguru
+%12 10008	okuda	masashi
+%13 6970	kudashou	takahiro
+%14 5516	ishikawa	akira
+%15 6995	funakoshi	shogo
+%16 6997	yamazoe	keiji
+%17 5576	takahashi	yoshiko
+%18 6929	io	hideo
+%19 10009	taru	eiichi
+%20 5507	tsuchida	daisuke
+%21 6931	obama	satomi

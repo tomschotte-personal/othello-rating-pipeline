@@ -1,0 +1,31 @@
+%%Tournament: 19_Nagayerama_B
+%%Country: Japan
+%%Date: 19/01/2014
+%%Sender: Hiroyuki Iwata
+
+%_%  12180, OKUNO, masakazu, JPN, 3.0, 152
+%_%  10874, OGAWA, ami, JPN, 3.0, 129
+%_%   5650, KOBAYASHI, nobu, JPN, 2.0, 124
+%_%  12807, TAMURA, masanori, JPN, 1.0, 121
+%_%  11657, OKUNO, masanobu, JPN, 1.0, 114
+
+%Round 1
+ 10874 (38)>(26)   5650 
+ 12807 (53)>(11)  11657 
+
+%Round 2
+ 10874 (35)>(29)  12180 
+  5650 (34)>(30)  11657 
+
+%Round 3
+ 12180 (37)>(27)  12807 
+ 11657 (48)>(16)  10874 
+
+%Round 4
+ 12180 (47)>(17)   5650 
+ 10874 (40)>(24)  12807 
+
+%Round 5
+ 12180 (39)>(25)  11657 
+  5650 (47)>(17)  12807 
+

@@ -1,0 +1,40 @@
+%%Tournament: Citta' di Roma 2017 - Tappa II
+%%Country: Italy
+%%Date: 26/03/2017
+%%Sender: Chiara Gigliucci
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3037, DI MATTEI, Alessandro, I, 4, 232
+%_% 40114, ARCARA, Paolo, I, 3, 166
+%_%    42, PRIVITERA, Biagio, I, 2, 116
+%_% 40097, CACCIATORE, Alessandro, I, 2, 105
+%_%  2884, VECCHI, Maria Serena, I, 2, 127
+%_%  3062, CAVIOLA, Leonardo, I, 2, 113
+%_% 40052, GIGLIUCCI, Chiara, I, 2, 116
+%_% 40048, PANTANI, Ennio, I, 1, 83
+%_% 40047, PANTANI, Antonio, I, 1, 65
+
+
+%Round 1 
+  3037 (63)>(01)   2884  B
+ 40047 (15)<(49)     42  B
+ 40114 (58)>(06)  40048  B
+ 40097 (36)>(28)  40052  B
+
+%Round 2 
+ 40114 (10)<(54)   3037  B
+    42 (33)>(31)  40097  B
+  2884 (18)<(46)   3062  B
+ 40052 (49)>(15)  40047  B
+
+%Round 3 
+  3037 (55)>(09)     42  B
+  3062 (05)<(59)  40114  B
+ 40048 (29)<(35)  40052  B
+ 40097 (05)<(59)   2884  B
+
+%Round 4 
+ 40052 (04)<(60)   3037  B
+    42 (25)<(39)  40114  B
+ 40047 (02)<(62)   3062  B
+  2884 (49)>(15)  40048  B

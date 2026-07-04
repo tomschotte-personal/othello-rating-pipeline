@@ -1,0 +1,51 @@
+%%Tournament: German Championship
+%%Country: Germany
+%%Date: 06/07/2024 - 07/07/2024
+%%Sender: BEYER Guenther
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%    5301, BERG, Matthias, DEU, 6, 279, 2254
+%_%   70002, ROSSLER, Daniel, DEU, 4, 208, 1854
+%_%   70003, BEYER, Guenther, DEU, 2, 149, 1518
+%_%    5324, MURAWSKI, Stefan, DEU, 0, 132, 1431
+
+%Round: 1
+
+  5301 (47)>(17)   5324  B
+ 70003 (25)<(39)  70002  B
+
+%Round: 2
+
+ 70002 (18)<(46)   5301  B
+  5324 (17)<(47)  70003  B
+
+%Round: 3
+
+  5301 (49)>(15)  70003  B
+ 70002 (39)>(25)   5324  B
+
+%Round: 4
+
+  5324 (25)<(39)   5301  B
+ 70002 (50)>(14)  70003  B
+
+%Round: 5
+
+ 70003 (46)>(18)   5324  B
+  5301 (36)>(28)  70002  B
+
+%Round: 6
+
+ 70003 (02)<(62)   5301  B
+  5324 (30)<(34)  70002  B
+
+%%Added results
+
+ 70003 (43)>(21)   5324  B
+  5324 (20)<(44)  70003  B
+ 70002 (34)>(30)   5301  B
+  5301 (43)>(21)  70002  B
+ 70002 (26)<(38)   5301  B

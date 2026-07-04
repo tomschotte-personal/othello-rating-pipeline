@@ -1,0 +1,48 @@
+%%Tournament: London Mind Sports Olympiad
+%%Country: Great-Britain
+%%Date: 24/08/2014
+%%Sender: David Haigh
+
+%%Creator: David Haigh
+%%CreationDate: 2014/08/25 17:36
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   +40103, GUECI, Riccardo, ITA,  3,,
+%_%  +100021, HAVERY, Andrew, GBR,  1,,
+%_%     2349, LANE, George, GBR,  1,,
+%_%     4019, PRIDMORE, Ben, GBR,  5,,
+%_%  +100022, SATHY, Saravanan, GBR,  2,,
+%_%       83, SMITH, Paul, GBR,  3,,
+
+
+%Round: 1
+
+  4019 > 100022  
+ 40103 > 100021 
+    83 >   2349 
+
+%Round: 2
+
+  4019 >  40103  
+    83 > 100022 
+100021 >   2349 
+
+%Round: 3
+
+  4019 >     83  
+  2349 >  40103 
+100022 > 100021 
+
+%Round: 4
+
+  4019 >   2349  
+    83 > 100021 
+ 40103 > 100022 
+
+%Round: 5
+
+  4019 > 100021  
+100022 >   2349 
+ 40103 >     83 
+
+%%Added results

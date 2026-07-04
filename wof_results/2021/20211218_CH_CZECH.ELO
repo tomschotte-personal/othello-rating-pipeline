@@ -1,0 +1,48 @@
+%%Tournament: Czech championship 2021
+%%Country: Czech Republic
+%%Date: 18/12/2021
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZE, 2, 109
+%_% 210175, GURZHIY, Luka, CZE, 0, 51
+%_% 210176, SLADEK, Vitek, CZE, 2, 154
+%_% 210192, JORDANEK, Jakub, CZE, 4, 262
+%_% 210193, CERVENKA, Karel, CZE, 5, 256
+
+
+%Round 1
+
+210193 (53)>(11) 210175  B
+  4509 (25)<(39) 210176  B
+
+
+%Round 2
+
+210175 (21)<(43)   4509  B
+210192 (10)<(54) 210193  B
+
+
+%Round 3
+
+  4509 (08)<(56) 210192  B
+210176 (58)>(06) 210175  B
+
+
+%Round 4
+
+210192 (35)>(29) 210176  B
+210193 (31)<(33)   4509  B
+
+
+%Round 5
+
+210176 (28)<(36) 210193  B
+210175 (13)<(51) 210192  B
+
+
+%Finals
+
+210192 (60)>(04) 210193  B
+210193 (36)>(28) 210192  B
+210192 (22)<(42) 210193  B

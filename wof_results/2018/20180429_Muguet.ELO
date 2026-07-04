@@ -1,0 +1,51 @@
+%%Tournament: Tournoi du Muguet
+%%Country: France
+%%Date: 29/04/2018
+%%Sender: Jacky BRUIANT
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/04/29 17:49
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50075, BERTRANDIAS, Marc, FRA,  5, 231, 1784
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 238, 1786
+%_%   50028, BRUIANT, Jacky, FRA,  3, 181, 1223
+%_%     275, OVION, Jacques, FRA,  3, 132, 1141
+%_%    9058, BOULENGER, Sophie, FRA,  2, 132, 992
+%_%    9061, TIMMERMAN, Jean-Louis, FRA,  2, 132, 1056
+%_%   50097, OVION, Alix-Anne, FRA,  1, 114, 0
+
+
+
+%Round: 1
+
+ 50028 (30)<(34)    275  B
+  9061 (01)<(63)     45  B
+ 50097 (13)<(51)  50075  B
+
+%Round: 2
+
+ 50028 (39)>(25)  50097  B
+    45 (41)>(23)   9058  B
+ 50075 (64)>(00)    275  B
+
+%Round: 3
+
+   275 (41)>(23)   9061  B
+ 50075 (35)>(29)     45  B
+  9058 (21)<(43)  50028  B
+
+%Round: 4
+
+  9061 (50)>(14)   9058  B
+ 50028 (29)<(35)  50075  B
+    45 (58)>(06)  50097  B
+
+%Round: 5
+
+ 50097 (30)<(34)   9058  B
+   275 (17)<(47)     45  B
+ 50075 (46)>(18)   9061  B
+
+
+%%Added results

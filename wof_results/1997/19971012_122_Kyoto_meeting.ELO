@@ -1,0 +1,70 @@
+%%Tournament: 122nd Kyoto Meeting
+%%Country: Japan
+%%Date: 12/10/1997
+%%Sender: Tom Schotte
+
+%Round1
+ 11764 >  12044  
+  5526 >  11845  
+ 11030 >  10020  
+  5516 >  10770  
+ 10008 >   6936  
+ 11753 >  11854  
+ 10009 >   6929  
+
+%Round2
+ 11764 >  11030  
+  5526 >  11753  
+  5516 >  10008  
+  6936 >  10770  
+ 11854 >   6929  
+ 11845 >  10009  
+ 12044 >  10020  
+
+%Round3
+ 11764 >   5526  
+ 11030 >   6929  
+  5516 >  11845  
+  6936 >  11753  
+ 11854 >  10008  
+ 10020 >  10770  
+ 12044 >  10009  
+
+%Round4
+ 11764 >   5516  
+  5526 >  11030  
+ 11854 >   6936  
+ 10020 >  10009  
+ 10008 >  11753  
+ 11845 >  12044  
+ 10770 >   6929  
+
+%Round5
+ 11764 >  11854  
+  5526 >   5516  
+ 11030 >  10008  
+  6936 >  12044  
+ 10020 >  11845  
+ 11753 >   6929  
+ 10770 >  10009  
+
+
+%players
+%1 11764	nakazawa	hirofumi
+%2 5526	uno	toshihiro
+%3 11030	imai	takatoshi
+%4 5516	ishikawa	akira
+%5 6936	tsubouchi	masao
+%6 11854	hirai	toshimitsu
+%7 10020	takahashi	manabu
+%8 10008	okuda	masashi
+%9 11845	wada	masanori
+%10 11753	yokoyama	chiaki
+%11 10770	suzuki	shinichi
+%12 12044	kushiya	satoru
+%13 10009	taru	eiichi
+%14 6929	io	hideo
+
+
+
+

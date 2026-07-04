@@ -1,0 +1,77 @@
+%%Tournament: 113th Kyoto Meeting
+%%Country: Japan
+%%Date: 12/01/1997
+%%Sender: Tom Schotte
+
+%round1
+10008 > 11864
+10770 > 11853
+6972 > 11849
+11626 > 11863
+11869 > 10009
+10041 > 6929
+11844 > 10940
+11765 > 5526
+10014 > 11845
+
+%round2
+10008 > 11869
+10770 > 11765
+6972 > 11844
+11626 > 6929
+5526 > 11849
+11845 > 11863
+10014 > 10041
+11853 > 10009
+
+
+%round3
+10008 > 10014
+6972 > 10770
+11849 > 11765
+11869 > 11626
+5526 > 11853
+11844 > 10041
+6929 > 11863
+11845 > 11864
+
+%round4
+10008 > 6972
+10770 > 5526
+11849 > 10009
+11626 > 11845
+11869 > 10014
+10041 > 11853
+11844 > 6929
+11765 > 11864
+
+%round5
+10008 > 11626
+10770 > 11844
+6972 > 11869
+11849 > 11845
+5526 > 10014
+10041 > 11765
+6929 > 11864
+10009 > 11863
+
+
+%players
+%1 10008	okuda	masashi
+%2 10770	suzuki	shinichi
+%3 6972	miyazaki	toru
+%4 11849	ueno	kohei
+%5 11626	yoshimura	osamu
+%6 11869	doi	masato
+%7 5526	uno	toshihiro
+%8 10041	tatsumi	atsusi
+%9 11844	fujikura	katuya
+%10 6929	io	hideo
+%11 11765	masahiro	maeda
+%12 11845	wada	masanori
+%13 10014	suzuki	takao
+%14 10009	taru	eiichi
+%15 11853	ueno	mitoshi
+%16 11864	nakagawa	ketsu
+%17 11863	kodama	takashi
+%18 10940	asawa	masakazu

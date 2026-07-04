@@ -1,0 +1,21 @@
+%%Tournament: Cambridge Christmas/friendly
+%%Country: Great-Britain
+%%Date: 12/12/2015
+%%Sender: David Haigh
+
+%%Creator: David Haigh (manually)
+%%CreationDate: 2015/21/12 18:30
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      79, LEADER, Imre, GBR,  1, 60,
+%_%    2052, EDMEAD, Garry, GBR,  1, 68, 
+
+%Round: 1
+
+  2052 (40)>(24)     79 
+  
+%Round: 2
+
+    79 (36)>(28)   2052 
+
+%%Added results

@@ -1,0 +1,49 @@
+%%Tournament: Swiss Championships
+%%Country: Switzerland
+%%Date: 15/03/2025
+%%Sender: BERG Matthias
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   50030, JUIGNER, Arthur, CHE, 4, 194, 2233
+%_%    5301, BERG, Matthias, DEU, 3, 189, 2172
+%_%   50067, JUIGNER, Felix, CHE, 3, 162, 2085
+%_%    3024, BORASSI, Michele, CHE, 2, 156, 2389
+%_%  240002, JOYE, Frederic, CHE, 2, 142, 1846
+%_%     839, KASHIWABARA, Takuji, FRA, 1, 117, 2082
+
+%Round: 1
+
+ 50067 (38)>(26)   5301  B
+240002 (19)<(45)   3024  B
+ 50030 (53)>(11)    839  B
+
+%Round: 2
+
+  3024 (27)<(37)  50067  B
+  5301 (42)>(22)  50030  B
+   839 (28)<(36) 240002  B
+
+%Round: 3
+
+   839 (19)<(45)   5301  B
+ 50030 (43)>(21)   3024  B
+240002 (43)>(21)  50067  B
+
+%Round: 4
+
+  5301 (47)>(17) 240002  B
+ 50067 (25)<(39)  50030  B
+  3024 (28)<(36)    839  B
+
+%Round: 5
+
+ 50030 (37)>(27) 240002  B
+  5301 (29)<(35)   3024  B
+   839 (23)<(41)  50067  B
+
+%%Added results
+
+ 50030 (45)>(19)   5301  B

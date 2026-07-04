@@ -1,0 +1,34 @@
+%%Tournament: Tournoi de departage
+%%Country: France
+%%Date: 10/10/2004
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+   2 <  839
+  11 <  433
+
+%%Round: 2
+
+ 433 >    2
+ 839 <   11
+
+%%Round: 3
+
+   2 >   11
+ 433 >  839
+
+%%Round: 4
+
+ 839 <    2
+ 433 >   11
+
+%%Round: 5
+
+   2 <  433
+  11 >  839
+
+%%Round: 6
+
+  11 >    2
+ 839 >  433

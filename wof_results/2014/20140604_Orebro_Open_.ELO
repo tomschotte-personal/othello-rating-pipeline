@@ -1,0 +1,32 @@
+%%Tournament: Orebro Open 
+%%Country: Sweden
+%%Date: 04/06/2014
+%%Sender: Bengt
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2014/06/04 14:03
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150030, NYMAN, Maria, SWE,  3, 116, 0
+%_% +150041, Ramsin, Mikael, SWE,  2, 108, 0
+%_% +150042, Enander, Malin, SWE,  1, 61, 0
+%_% +150043, Gustafsson, Joakim, SWE,  0, 75, 0
+
+
+
+%Round: 1
+
+150030 (36)>(28) 150042  B
+150043 (22)<(42) 150041  B
+
+%Round: 2
+
+150041 (26)<(38) 150030  B
+150042 (33)>(31) 150043  B
+
+%Round: 3
+
+150043 (22)<(42) 150030  B
+
+
+%%Added results

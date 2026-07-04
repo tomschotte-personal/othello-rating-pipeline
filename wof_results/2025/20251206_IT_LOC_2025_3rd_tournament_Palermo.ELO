@@ -1,0 +1,55 @@
+%%Tournament: IT_LOC_2025_3rd_tournament_Palermo
+%%Country: Italy
+%%Date: 06/12/2025
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40103, GUECI, Riccardo, ITA, 4, 201, 1017
+%_%   40291, INTRAVAIA, Salvatore, ITA, 3, 128, 1027
+%_%   40342, TONON, Damiano, ITA, 3, 146, -
+%_%  +40434, Ragona, Giorgia, ITA, 3, 171, -
+%_%   40292, GIACONIA, Giorgio, ITA, 2, 145, -
+%_%   40293, MEGNA, Bart, ITA, 2, 151, 747
+%_%   40295, CORSO, Sergio, ITA, 2, 134, -
+%_%  +40435, Giordano, Felicetta, ITA, 2, 92, -
+%_%  +40436, Mirasola, Francesco, ITA, 1, 66, -
+%_%   40341, TESTAVERDE, Carlo, ITA, 1, 90, -
+%_%  +40437, Di Franco, Carlo, ITA, 1, 84, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/430
+
+%Round: 1
+
+ 40291 (39)>(25)  40292  B
+ 40435 (08)<(56)  40103  B
+ 40436 (33)>(31)  40293  B
+ 40434 (51)>(13)  40295  B
+ 40341 (47)>(17)  40437  B
+
+%Round: 2
+
+ 40295 (40)>(24)  40292  B
+ 40293 (47)>(17)  40435  B
+ 40103 (58)>(06)  40436  B
+ 40342 (42)>(22)  40341  B
+ 40434 (31)<(33)  40291  B
+
+%Round: 3
+
+ 40435 (35)>(29)  40295  B
+ 40437 (17)<(47)  40293  B
+ 40341 (21)<(43)  40434  B
+ 40436 (15)<(49)  40342  B
+ 40291 (18)<(46)  40103  B
+
+%Round: 4
+
+ 40103 (41)>(23)  40342  B
+ 40293 (26)<(38)  40291  B
+ 40437 (18)<(46)  40434  B
+ 40292 (64)>(00)  40341  B
+ 40295 (52)>(12)  40436  B

@@ -1,0 +1,62 @@
+%%Tournament: Louvain-la-Neuve Othello Open
+%%Country: Belgium
+%%Date: 22/02/2015
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/02/22 22:23
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  6, 312, 2085
+%_%    5905, MAY, Michael, BEL,  5, 263, 1628
+%_%    5909, VAN DAMME, Brecht, BEL,  4, 208, 1631
+%_%    2785, VAES, Dimitri, BEL,  3, 247, 1785
+%_%    5908, DARCK, Nancy, BEL,  2, 177, 1399
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  1, 137, 1493
+
+
+
+%Round: 1
+
+  4068 (19)<(45)   2785  B
+  5909 (13)<(51)   2795  B
+  5905 (48)>(16)   5908  B
+
+%Round: 2
+
+  2795 (54)>(10)   4068  B
+  2785 (13)<(51)   5905  B
+  5908 (15)<(49)   5909  B
+
+%Round: 3
+
+  4068 (18)<(46)   5905  B
+  2795 (53)>(11)   5908  B
+  5909 (34)>(30)   2785  B
+
+%Round: 4
+
+  5908 (46)>(18)   4068  B
+  5905 (31)<(33)   5909  B
+  2785 (27)<(37)   2795  B
+
+%Round: 5
+
+  4068 (51)>(13)   5909  B
+  5908 (38)>(26)   2785  B
+  2795 (29)<(35)   5905  B
+
+%Round: 6
+
+  2785 (59)>(05)   4068  B
+  2795 (40)>(24)   5909  B
+  5908 (29)<(35)   5905  B
+
+%Round: 7
+
+  4068 (16)<(48)   2795  B
+  5905 (17)<(47)   2785  B
+  5909 (42)>(22)   5908  B
+
+
+%%Added results

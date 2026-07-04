@@ -1,0 +1,18 @@
+%%Tournament: Czech GPO 3/2008
+%%Country: Czech Republic
+%%Date: 19/04/2008
+%%Sender: DOUDA, Tomas (tdouda AT atlas DOT cz)
+
+%       ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4509, RYBARIK, Jan, CZ, 3, 130
+%_%   4649, BELOHLAVEK, Radek, CZ, 0, 62
+
+
+%Round 1:
+  4649 (20)<(44)   4509 B
+  
+%Round 2:
+  4509 (44)>(20)   4649 B
+  
+%Round 3:
+  4649 (22)<(42)   4509 B

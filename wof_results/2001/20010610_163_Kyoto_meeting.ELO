@@ -1,0 +1,99 @@
+%%Tournament: 163rd Kyoto Meeting
+%%Country: Japan
+%%Date: 10/06/2001
+%%Sender: Tom Schotte
+
+%Round1
+ 11245 >  11753  
+  5516 >  11844  
+ 11799 >  10351  
+  6970 >  10008  
+  6936 >  12045  
+  6930 >  10753  
+  6929 >  10009  
+  5526 >  10014  
+ 10766 >   5507  
+ 11911 >  10122  
+%two players missing
+
+%Round2
+ 10122 >  11753  
+ 11245 >  11911  
+ 11799 >  10766  
+  6936 >   5526  
+  5507 >  10351  
+  6930 >   5516  
+  6929 >   6970  
+ 10014 >  12045  
+ 10009 >  11844  
+ 10008 >  10753  
+ 10227 >  11877  
+
+%Round3
+ 10122 >  10227  
+ 11245 >   6930  
+  5516 >  10766  
+  6970 >  11799  
+  6929 >   6936  
+  5526 >   5507  
+ 11844 >  12045  
+ 10351 >  11877  
+ 10014 >  10009  
+ 11753 >  10753  
+ 11911 >  10008  
+
+%Round4
+ 10122 >   6930  
+ 11245 >   6929  
+  5516 >   5526  
+ 11799 >   6936  
+  6970 >  10014  
+  5507 >  10009  
+ 11844 >  11877  
+ 10351 >  11911  
+ 11753 >  10766  
+ 10008 >  10227  
+%one player left
+
+%Round5
+ 10122 >  11245  
+  5516 >   6970  
+ 11799 >   6929  
+  6936 >  10008  
+  5507 >  10014  
+  6930 >  10351  
+  5526 >  11753  
+ 11844 >  11911  
+ 10766 >  10227  
+ 10753 >  11877  
+%one player left
+
+
+
+%players
+%1 10122	tanino	takumi
+%2 11245	osada	koji
+%3 5516	ishikawa	akira
+%4 11799	hashimoto	yoshiaki
+%5 6970	kudashou	takahiro
+%6 6936	tsubouchi	masao
+%7 5507	tsuchida	daisuke
+%8 6930	nishimine	satoru
+%9 6929	io	hideo
+%10 5526	uno	toshihiro
+%11 11844	fujikura	katuya
+%12 10351	tokumaru	kikuchi
+%13 10766	nishimura	hidemi
+%14 10014	suzuki	takao
+%15 11753	yokoyama	chiaki
+%16 10009	taru	eiichi
+%17 10008	okuda	masashi
+%18 10753	kagotani	hiroto
+%19 11911	yamada	hideyuki
+%20 10227	yokoyama	takako
+%21 11877	saga	hiromi
+%22 12045	suzuki	reika
+
+
+
+

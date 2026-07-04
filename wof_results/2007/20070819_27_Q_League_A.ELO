@@ -1,0 +1,58 @@
+%%Tournament: 27th Q League A
+%%Country: Japan
+%%Date: 19/08/2007
+%%Sender: Tom Schotte
+
+%round1
+7003 > 10304
+5556 > 5553
+10192 > 10194
+10313 > 7009
+
+%round2
+7003 > 5553
+5556 > 10194
+10192 > 10313
+10304 > 7009
+
+%round3
+7003 > 10194
+5556 > 10313
+10192 > 7009
+10304 > 5553
+
+%round4
+7003 > 10313
+10192 > 10304
+7009 > 5556
+10194 > 5553
+
+%round5
+7003 > 7009
+5556 > 10192
+10304 > 10194
+10313 > 5553
+
+%round6
+7003 > 10192
+5556 > 10304
+10313 > 10194
+7009 > 5553
+
+%round7
+7003 > 5556
+10192 > 5553
+10304 > 10313
+10194 > 7009
+
+
+
+%players
+%1 7003	nakano	takanao
+%2 5556	kunou	masakado
+%3 10192	hamada	naoki
+%4 10304	kawarada	sotoshi
+%5 10313	tsubuaki	takaita
+%6 7009	taniguti	eizi
+%7 10194	hirota	zizyunya
+%8 5553	sugimoto	yuki

@@ -1,0 +1,72 @@
+%%Tournament: 21st All Japan women
+%%Country: Japan
+%%Date: 22/08/1993
+%%Sender: Tom Schotte
+
+%round1
+   499 >  12131  
+ 12119 >  12111  
+ 11755 >  11758  
+   652 >  11757  
+  4004 >    600  
+ 11754 >  12112  
+
+%round2
+  5521 >    499  
+ 12119 >   5500  
+ 11755 >  12129  
+   652 >    174  
+  4004 >   5501  
+ 12130 >  11754  
+
+%round3
+   499 >  12111  
+ 12119 >   5521  
+ 11755 >  12130  
+   652 >   4004  
+ 11754 >  12114  
+
+%round4
+   499 >  12130  
+   652 >  12119  
+ 11755 >  12104  
+  4004 >   5500   
+ 11754 >  12129  
+
+%5/6
+  4004 >  12112  
+ 11754 >  12104  
+
+%semi-finals
+   499 >    652  
+ 12119 >  11755  
+
+%play-off
+ 11755 >    652  
+
+%final
+   499 >  12119  
+
+
+
+%players
+%1 499	ohyanagi	masaki
+%2 12119	kamon	aya
+%3 11755	nakazawa	shigeko
+%4 652	horiuchi	keiko
+%5 4004	sano	yoko
+%6 11754	kanno	keiko
+%7 11757	ijichi	mami
+%8 12112	hayasaka	atsuko
+%9 12104	yamazaki	kyoko
+%10 5521	hamada	kikue
+%11 174	tamaie	miki
+%13 600	takeda	kyoko
+%14 12129	furasaki	asako
+%15 5501	tamaie	kotoe
+%18 12111	chatani	shizuko
+%20 5500	furusaki	yoko
+%21 12130	hirayama	sumiko
+%23 12131	chiba	keiko
+%24 12114	enjoji	miwako
+%25 11758	namiki	rie

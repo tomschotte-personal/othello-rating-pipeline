@@ -1,0 +1,54 @@
+%%Tournament: Open Ile de France 2
+%%Country: France
+%%Date: 08/02/2018
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/02/15 22:31
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4.5, 210, 2084
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 194, 1778
+%_%      11, LAZARD, Emmanuel, FRA,  3, 190, 2014
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 167, 1946
+%_%     228, BUSUTTIL, Michel, FRA,  2, 144, 1545
+%_%   50096, LEVY, Marc, FRA,  2, 143, 1511
+%_%   50075, BERTRANDIAS, Marc, FRA,  1.5, 67, 1729
+%_%    3600, BENOIT, Serge, FRA,  1, 93, 1361
+
+
+
+%Round: 1
+
+  3600 (14)<(50)      2  B
+    11 (24)<(40)  50096  B
+   228 (15)<(49)     45  B
+
+%Round: 2
+
+ 50096 (11)<(53)     45  B
+  3600 (07)<(57)     11  B
+     2 (35)>(29)   3598  B
+
+%Round: 3
+
+    11 (52)>(12)    228  B
+  3598 (36)>(28)  50096  B
+    45 (32)=(32)      2  B
+
+%Round: 4
+
+   228 (29)<(35)  50075  B
+ 50096 (48)>(16)   3600  B
+     2 (45)>(19)     11  B
+    45 (28)<(36)   3598  B
+
+%Round: 5
+
+  3598 (26)<(38)     11  B
+ 50096 (16)<(48)      2  B
+  3600 (16)<(48)    228  B
+ 50075 (32)=(32)     45  B
+
+
+%%Added results

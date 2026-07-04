@@ -1,0 +1,65 @@
+%%Tournament: Ile de France 1
+%%Country: France
+%%Date: 30/01/2016
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/02/07 17:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4.5, 205, 2096
+%_%     478, COLLAY, Frederic, FRA,  4, 175, 1907
+%_%      45, ANDRIANI, Bintsa, FRA,  3.5, 181, 1785
+%_%    9025, TOUCHENE, Fouad, DZA,  3, 203, 1596
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 194, 1920
+%_%    3600, BENOIT, Serge, FRA,  3, 162, 1430
+%_%     419, BETIN, Dominique, FRA,  2, 159, 1369
+%_%     228, BUSUTTIL, Michel, FRA,  2, 154, 1370
+%_% + 50085, BOSSOU ALLO, Francoise, FRA,  2, 114, 0
+%_%   50071, CORBINEAU, Georges, FRA,  1.5, 142, 1497
+%_%     275, OVION, Jacques, FRA,  1.5, 111, 1372
+
+
+
+%Round: 1
+
+  9025 (29)<(35)  50071  B
+  3598 (49)>(15)    419  B
+    45 (45)>(19)   3600  B
+     2 (58)>(06)  50085  B
+   275 (09)<(55)    228  B
+
+%Round: 2
+
+ 50071 (29)<(35)      2  B
+  3600 (13)<(51)   9025  B
+   228 (16)<(48)   3598  B
+ 50085 (25)<(39)    275  B
+   478 (39)>(25)     45  B
+
+%Round: 3
+
+   419 (27)<(37)    478  B
+    45 (41)>(23)  50071  B
+  3598 (22)<(42)      2  B
+   275 (23)<(41)   3600  B
+  9025 (47)>(17)    228  B
+
+%Round: 4
+
+  3598 (44)>(20)   9025  B
+ 50085 (02)<(62)    419  B
+ 50071 (32)=(32)    275  B
+   228 (26)<(38)     45  B
+     2 (38)>(26)    478  B
+
+%Round: 5
+
+ 50071 (23)<(41)  50085  B
+   419 (15)<(49)   3600  B
+   478 (33)>(31)   3598  B
+   275 (08)<(56)   9025  B
+    45 (32)=(32)      2  B
+
+
+%%Added results

@@ -1,0 +1,34 @@
+%%Tournament: Belarus championship
+%%Country: Belarus
+%%Date: 13/08/2016
+%%Sender: Uladzimir Khlebnikau
+
+%      ID,       NAME,              Firstname,  COUNTRY, score, disc-count, rating
+%_% 360002, KRYVASHEYEU, Pavel,      BLR, 1,    88,  1513
+%_% 360000, KHLEBNIKAU,  Uladzimir,  BLR, 2,   116,  1965
+%_%  40040, ZHUK,        Katsiaryna, BLR, 1,   133,  1137
+%_% 360001, KRYVASHEYEU, Andrei,     BLR, 4.5, 188,  1375
+%_%     43, PUZZO,       Luigi ,     ITA, 2.5, 179,  1713
+
+%Round 1
+360000 (14)<(50)     43   B
+ 40040 (24)<(40) 360001   B
+
+%Round 2
+360002 (19)<(45) 360000  B
+    43 (55)>(09)  40040  B
+
+%Round 3
+ 40040 (64)>(00) 360002   B
+360001 (32)=(32)     43   B
+
+%Round 4
+360002 (30)<(34) 360001  B
+360000 (42)>(22)  40040  B
+
+%Round 5
+    43 (25)<(39) 360002  B
+360001 (49)>(15) 360000  B
+
+%Final
+    43 (31)<(33) 360001  B

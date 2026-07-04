@@ -1,0 +1,74 @@
+%%Tournament: Oadby Regional
+%%Country: Great-Britain
+%%Date: 13/03/2010
+%%Sender: Geoff Hubbard
+
+%%Notes: The colours are probably wrong for most games.
+%% 	     I've verified anything with a %verified comment 
+%%       The rest have about a 50% chance of being correct.
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/03/21 22:34
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2047, BARRASS, Iain, GB,  6.5, 325
+%_%    4019, PRIDMORE, Ben, GB,  5.5, 308
+%_%    2006, ARNOLD, Roy, GB,  5, 302
+%_%    2042, BURGESS, Andrew, GB,  5, 295
+%_%    2091, ROWE, Stephen, GB,  3, 225
+%_%  100002, STARKEY, Helen, GB,  2, 164
+%_% +100007, BUTLER, Robert, GB,  1, 78
+%_%    2353, CALLADINE, Robert, GB,  0, 75
+
+
+
+%Round: 1
+
+  2047 (32)=(32)   4019 B % verified
+  2042 (44)>(20)   2091 B
+100002 (48)>(16)   2353 B
+
+%Round: 2
+
+  2091 (43)>(21) 100007 W % verified
+  2047 (62)>(02)   2353 B
+  4019 (41)>(23)   2006 B % verified
+  2042 (58)>(06) 100002 B
+
+%Round: 3
+
+  2047 (47)>(17)   2042 B
+  4019 (60)>(04) 100007 W % verified
+  2006 (64)>(00)   2353 B
+  2091 (46)>(18) 100002 B
+
+%Round: 4
+
+  2047 (38)>(26)   2091 W % verified
+  4019 (61)>(03)   2353 W % verified
+  2042 (58)>(06) 100007 B
+  2006 (56)>(08) 100002 B
+
+%Round: 5
+
+  2047 (56)>(08) 100002 B
+  4019 (42)>(22)   2091 B % verified
+  2006 (36)>(28)   2042 B
+100007 (34)>(30)   2353 B
+
+%Round: 6
+
+  2042 (43)>(21)   4019 B % verified
+  2353 (07)<(57)   2091 B % verified
+100002 (63)>(01) 100007 B
+  2006 (26)<(38)   2047 B
+
+%Round: 7
+
+100007 (12)<(52)   2047 B
+100002 (13)<(51)   4019 W % verified
+  2353 (17)<(47)   2042 B
+  2091 (11)<(53)   2006 B
+
+
+%%Added results

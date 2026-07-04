@@ -1,0 +1,38 @@
+%%Tournament: Invierno 2014
+%%Country: Argentina
+%%Date: 07/09/2014
+%%Sender: Daniel Olivares
+
+%               ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       4167, COELLO, Alejandro, ARG, 4, 206
+%_%    280042, VAZQUEZ, German, ARG, 4, 181
+%_%         650, OLIVARES, Daniel, ARG, 3, 204 
+%_%       4168, LISNOVSKY, Marcelo, ARG, 3, 177
+%_%      4157, ITURBIDE, Paula, ARG, 1, 120  
+%_%    280034, SEIFERT, Max, ARG, 0, 72
+
+%Round 1
+  4167 (40)>(24)    650  B
+280042 (38)>(26)   4157  B
+  4168 (49)>(15) 280034  B
+
+%Round 2
+280034 (19)<(45) 280042  B
+  4167 (35)>(29)   4168  B
+   650 (49)>(15)   4157  B
+
+%Round 3
+280042 (37)>(27)   4167  B
+  4157 (49)>(15) 280034  B
+  4168 (11)<(53)    650  B
+
+%Round 4
+   650 (54)>(10) 280034  B
+  4167 (53)>(11)   4157  B
+  4168 (43)>(21) 280042  B
+
+%Round 5
+280034 (13)<(51)   4167  B
+280042 (40)>(24)    650  B
+  4157 (19)<(45)   4168  B
+ 

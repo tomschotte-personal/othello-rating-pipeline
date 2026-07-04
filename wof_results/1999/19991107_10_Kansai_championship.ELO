@@ -1,0 +1,118 @@
+%%Tournament: 10th Kansai championship
+%%Country: Japan
+%%Date: 07/11/1999
+%%Sender: Tom Schotte
+
+%Round1
+  6972 >  10957  
+ 11786 >  10014  
+ 11854 >   5526  
+ 10770 >  11985  
+  6970 >   6980  
+ 10958 >  10008  
+  6824 >   6868  
+   882 >  10233  
+ 10753 >  11882  
+ 10025 >   6806  
+ 11753 >  11030  
+%one player missing
+
+%Round2
+  6972 >  10753  
+ 11854 >  10770  
+  6970 >  11786  
+ 10958 >  11753  
+  6824 >  10041  
+   882 >  10025  
+ 10957 >  10008  
+ 11882 >   6868  
+  6806 >  10014  
+ 11030 >   6980  
+ 10233 >  11985  
+%one player missing
+
+%Round3
+  6972 >   6970  
+ 11786 >  11753  
+ 11854 >    882  
+ 10770 >  11030  
+  5526 >  10753  
+ 10958 >   6824  
+ 10957 >   6806  
+ 10008 >   6980  
+ 11882 >  10041  
+ 10025 >  10233  
+ 10014 >   6868  
+%one player missing
+
+%Round4
+ 11786 >  10957  
+ 11854 >   6972  
+ 10958 >    882  
+  6824 >   5526  
+ 10008 >  10233  
+ 11882 >  10770  
+  6806 >  11030  
+ 10025 >   6970  
+  6868 >   5588  
+ 10041 >   6980  
+ 11753 >  10014  
+ 11985 >  10753  
+
+%Round5
+  6972 >  11882  
+ 11786 >   6824  
+ 11854 >  10958  
+ 10770 >  10025  
+  6970 >   6806  
+  5526 >  11985  
+ 10957 >  11753  
+ 10008 >    882  
+ 10753 >  10233  
+ 11030 >   6868  
+ 10041 >  10014  
+  6980 >   5588  
+
+%Round6
+  6972 >  10958  
+ 11786 >  11854  
+ 10770 >  10957  
+  6970 >  10008  
+  5526 >  11882  
+  6824 >  10025  
+   882 >  11030  
+  6806 >  10041  
+ 10753 >  11753  
+  6868 >  11985  
+ 10014 >   6980  
+  5588 >  10233  
+
+
+%players
+%1 6972	miyazaki	toru
+%2 11786	tanaka	norihiro
+%3 11854	hirai	toshimitsu
+%4 10770	suzuki	shinichi
+%5 6970	kudashou	takahiro
+%6 5526	uno	toshihiro
+%7 10958	fujisawa	yosuke
+%8 6824	kuroda	takuji
+%9 882	ibata	kensuke
+%10 10957	fujisawa	shunsuke
+%11 10008	okuda	masashi
+%12 11882	takamura	kandai
+%13 6806	toshio	sugiyama
+%14 10753	kagotani	hiroto
+%15 10025	nobuhito	yoichi
+%16 6868	sasaki	sohei
+%17 11030	imai	takatoshi
+%18 10041	tatsumi	atsusi
+%19 10014	suzuki	takao
+%20 11753	yokoyama	chiaki
+%21 11985	kubo	sadahiko
+%22 5588	kobayashi	ritsuko
+%23 6980	matsumoto	kazunori
+%24 10233	sakamoto	hirosi
+
+
+

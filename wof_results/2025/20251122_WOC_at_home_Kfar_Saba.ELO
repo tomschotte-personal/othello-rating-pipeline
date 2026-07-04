@@ -1,0 +1,57 @@
+%%Tournament: WOC at home, Kfar Saba
+%%Country: Israel
+%%Date: 22/11/2025
+%%Sender: Ilya Shifman
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2025/11/22 18:19
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  200010, SHIFMAN, Micky, ISR,  5, 248, 1702
+%_%  200040, LAUFER, Shachar, ISR,  4, 188, 1702
+%_%     880, SHIFMAN, Leonid, ISR,  3, 198, 1790
+%_%     885, SHIFMAN, Ilya, ISR,  3, 179, 1823
+%_%  200404, DVIVON, Konstantin, ISR,  2, 179, 1842
+%_%  200003, MARGALIOT, Michael, ISR,  2, 147, 1569
+%_%  200044, DVIVON, Alex, ISR,  1, 89, 0
+%_%  200041, MALKI, Ariel, ISR,  0, 52, 0
+
+
+
+%Round: 1
+
+   885 (48)>(16) 200003  B
+200010 (53)>(11)    880  B
+200404 (56)>(08) 200041  B
+200044 (05)<(59) 200040  B
+
+%Round: 2
+
+200404 (27)<(37)    885  B
+   880 (64)>(00) 200041  B
+200040 (17)<(47) 200010  B
+200003 (50)>(14) 200044  B
+
+%Round: 3
+
+   880 (50)>(14) 200003  B
+200010 (54)>(10)    885  B
+200040 (37)>(27) 200404  B
+200041 (18)<(46) 200044  B
+
+%Round: 4
+
+200044 (14)<(50) 200010  B
+200003 (47)>(17) 200041  B
+   885 (29)<(35) 200040  B
+200404 (15)<(49)    880  B
+
+%Round: 5
+
+200044 (10)<(54) 200404  B
+200010 (44)>(20) 200003  B
+200040 (40)>(24)    880  B
+200041 (09)<(55)    885  B
+
+
+%%Added results

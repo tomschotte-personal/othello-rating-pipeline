@@ -1,0 +1,51 @@
+%%Tournament: Citta' di Roma 2019 - Tappa III
+%%Country: Italy
+%%Date: 03/11/2019
+%%Sender: FNGO
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  3111, SCOGNAMIGLIO, Paolo, ITA, 3.5, 186-70
+%_%  3037, DI MATTEI, Alessandro, ITA, 3.5, 142-114
+%_%   148, ORTIZ, George, ITA, 3, 155-101
+%_% 40083, PACE, Alessandro, ITA, 3, 176-80
+%_%  2818, DI COLA, Severino, ITA, 3, 198-58
+%_%  3023, LAI, Fabrizio, ITA, 2, 141-115
+%_% 40142, DI MURRO, Lorenzo, ITA, 2, 96-160
+%_% 40097, CACCIATORE, Alessandro, ITA, 2, 114-142
+%_% 40052, GIGLIUCCI, Chiara, ITA, 2, 127-129
+%_%  2884, VECCHI, Maria Serena, ITA, 1, 86-170
+%_% 40131, ANDREINI, Alberto, ITA, 1, 76-180
+%_%  3062, CAVIOLA, Leonardo, ITA, 1, 81-175
+%_% 40143, TASSIN, Valerio, ITA, 1, 90-166
+
+%Round 1 
+  3037 (40)>(24)  40052  B
+  2884 (05)<(59)   3111  B
+   148 (44)>(20)   3023  B
+ 40131 (10)<(54)   2818  B
+ 40083 (48)>(16)  40097  B
+ 40143 (31)<(33)   3062  B
+
+%Round 2 
+  2818 (30)<(34)   3037  B
+  3111 (38)>(26)  40083  B
+  3062 (13)<(51)    148  B
+  3023 (50)>(14)  40142  B
+ 40052 (24)<(40)   2884  B
+ 40097 (52)>(12)  40131  B
+
+%Round 3 
+  3037 (32)=(32)   3111  B
+   148 (53)>(11)  40097  B
+  2884 (12)<(52)   2818  B
+ 40083 (56)>(08)  40143  B
+ 40142 (47)>(17)   3062  B
+ 40131 (21)<(43)   3023  B
+
+%Round 4 
+  3111 (57)>(07)    148  B
+  3023 (28)<(36)   3037  B
+  2818 (62)>(02)  40142  B
+  3062 (18)<(46)  40083  B
+ 40097 (35)>(29)   2884  B
+ 40143 (18)<(46)  40052  B

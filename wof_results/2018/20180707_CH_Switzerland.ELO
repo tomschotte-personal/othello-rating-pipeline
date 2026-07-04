@@ -1,0 +1,53 @@
+%%Tournament: Championnat de Suisse
+%%Country: Switzerland
+%%Date: 07/07/2018
+%%Sender: Arthur Juigner
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/07/11 10:01
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   50030, JUIGNER, Arthur, CHE,  5, 205, 2202
+%_%    3024, BORASSI, Michele, ITA,  3, 203, 2156
+%_%     839, KASHIWABARA, Takuji, FRA,  3, 171, 2070
+%_%    3515, BUTIN, Pierre, FRA,  2.5, 138, 1914
+%_% +240002, JOYE, Frederic, CHE,  1, 134, 0
+%_%   50067, JUIGNER, Felix, CHE,  0.5, 109, 1596
+
+
+
+%Round: 1
+
+ 50030 (39)>(25) 240002  B
+ 50067 (20)<(44)   3024  B
+   839 (29)<(35)   3515  B
+
+%Round: 2
+
+  3024 (27)<(37)    839  B
+  3515 (40)>(24) 240002  B
+ 50067 (14)<(50)  50030  B
+
+%Round: 3
+
+   839 (43)>(21)  50067  B
+ 50030 (41)>(23)   3515  B
+240002 (16)<(48)   3024  B
+
+%Round: 4
+
+   839 (25)<(39)  50030  B
+  3515 (08)<(56)   3024  B
+ 50067 (22)<(42) 240002  B
+
+%Round: 5
+
+  3024 (28)<(36)  50030  B
+240002 (27)<(37)    839  B
+  3515 (32)=(32)  50067  B
+
+
+%%Added results
+  3024 (11)<(53)  50030  B
+ 50030 (31)<(33)   3024  B
+  3024 (23)<(41)  50030  B

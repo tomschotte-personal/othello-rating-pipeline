@@ -1,0 +1,50 @@
+%%Tournament: 6th Korea Myungin
+%%Country: Korea
+%%Date: 07/08/2022
+%%Sender: JOUNGMOK OH
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/08/12 21:22
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%   30501, AHN, Taeyoung, KOR,  4, 194, 1844
+%_%   30414, KIM, Taeyeon, KOR,  3, 221, 1729
+%_%   30532, GWAK, Eunwoo, KOR,  3, 206, 2138
+%_% + 30536, YANG, Chanju, KOR,  3, 131, 0
+%_%   30533, GWAK, Yujin, KOR,  2, 148, 1714
+%_% + 30537, CHOI, Minhyeok, KOR,  0, 60, 0
+
+
+
+%Round: 1
+
+ 30501 (33)>(31)  30532  B
+ 30536 (34)>(30)  30533  B
+ 30537 (03)<(61)  30414  B
+
+%Round: 2
+
+ 30533 (15)<(49)  30501  B
+ 30532 (50)>(14)  30537  B
+ 30414 (53)>(11)  30536  B
+
+%Round: 3
+
+ 30501 (45)>(19)  30537  B
+ 30533 (09)<(55)  30414  B
+ 30536 (04)<(60)  30532  B
+
+%Round: 4
+
+ 30414 (28)<(36)  30501  B
+ 30537 (15)<(49)  30536  B
+ 30532 (25)<(39)  30533  B
+
+%Round: 5
+
+ 30501 (31)<(33)  30536  B
+ 30414 (24)<(40)  30532  B
+ 30533 (55)>(09)  30537  B
+
+
+%%Added results

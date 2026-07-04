@@ -1,0 +1,43 @@
+%%Tournament: Kfar-Saba open
+%%Country: Israel
+%%Date: 07/03/2015
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    885, SHIFMAN, Ilya, IL, 4, 235
+%_%    4151, MILLER, Alexey, IL, 4, 202
+%_%    200003, MARGALIOT, Michael, IL, 3, 202
+%_%    4039, RADZIVILOVSKY, Lev, IL, 3, 192
+%_%    880, SHIFMAN, Leonid, IL, 3, 167
+%_%    200010, SHIFMAN, Michael, IL, 2, 99
+%_%    +200011, SHRIEBMAN, Or, IL, 1, 62
+%_%    200009, SHIFMAN, Shani, IL, 0, 59
+
+
+%Round 1
+200003 (41)>(23)    880  B
+  4039 (14)<(50)   4151  B
+200009 (25)<(39) 200011  B
+   885 (59)>(05) 200010  B
+
+%Round 2
+200011 (05)<(59) 200003  B
+  4151 (38)>(26)   4039  B
+   880 (63)>(01) 200009  B
+200010 (07)<(57)   4039  B
+
+%Round 3
+   885 (64)>(00)    880  B
+200003 (21)<(43)   4151  B
+  4039 (46)>(18) 200011  B
+200009 (19)<(45) 200010  B
+
+%Round 4
+  4151 (16)<(48)    880  B
+200003 (31)<(33)    885  B
+200009 (00)<(64)   4039  B
+
+%Round 5
+200010 (09)<(55)   4151  B
+200009 (14)<(50) 200003  B
+   885 (53)>(11)   4039  B

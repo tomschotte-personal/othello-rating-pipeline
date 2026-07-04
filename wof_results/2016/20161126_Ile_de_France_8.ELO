@@ -1,0 +1,64 @@
+%%Tournament: Ile de France 8
+%%Country: France
+%%Date: 26/11/2016
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2016/11/29 21:55
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3518, DELAUNAY, Arnaud, FRA,  5, 253, 2150
+%_%       2, TASTET, Marc, FRA,  4, 188, 2102
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 181, 1972
+%_%     228, BUSUTTIL, Michel, FRA,  3, 166, 1505
+%_%     839, KASHIWABARA, Takuji, FRA,  3, 165, 2169
+%_%    2788, LECAT, Monique, BEL,  2, 139, 1519
+%_%    3600, BENOIT, Serge, FRA,  2, 137, 1549
+%_%     419, BETIN, Dominique, FRA,  2, 125, 1444
+%_%    9025, TOUCHENE, Fouad, DZA,  1, 122, 1647
+%_%     275, OVION, Jacques, FRA,  0, 124, 1249
+
+
+
+%Round: 1
+
+  3600 (41)>(23)    275  B
+  3518 (46)>(18)   9025  B
+  2788 (31)<(33)    419  B
+   839 (11)<(53)   3598  B
+   228 (19)<(45)      2  B
+
+%Round: 2
+
+     2 (42)>(22)    839  B
+   419 (07)<(57)   3518  B
+   275 (31)<(33)   2788  B
+  3598 (46)>(18)   3600  B
+  9025 (15)<(49)    228  B
+
+%Round: 3
+
+  2788 (19)<(45)   3598  B
+   228 (41)>(23)    275  B
+  3518 (46)>(18)      2  B
+  3600 (37)>(27)    419  B
+   839 (35)>(29)   9025  B
+
+%Round: 4
+
+     2 (46)>(18)   2788  B
+  9025 (34)>(30)    275  B
+   228 (43)>(21)   3600  B
+   419 (11)<(53)    839  B
+  3598 (10)<(54)   3518  B
+
+%Round: 5
+
+  3518 (50)>(14)    228  B
+   839 (44)>(20)   3600  B
+  2788 (38)>(26)   9025  B
+   275 (17)<(47)    419  B
+     2 (37)>(27)   3598  B
+
+
+%%Added results

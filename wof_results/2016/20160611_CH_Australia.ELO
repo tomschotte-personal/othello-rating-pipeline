@@ -1,0 +1,42 @@
+%%Tournament: Australian Othello Nationals 2016
+%%Country: Australia
+%%Date: 11/06/2016
+%%Sender: G.Ortiz
+
+%%Creator: PAPP 1.36
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4107, HUGHES, Scott, AUS,  4, 217
+%_%    4113, VINAR, Matt, AUS,  4, 202
+%_%  260020, MILANKOV, Samuel, AUS,  4, 184
+%_%    4145, CAIRNS, Phil, AUS,  2, 147
+%_%  260003, GIRARDO, Robert, AUS,  1, 124
+%_%    4147, GUIBAL, Fab, AUS,  0, 86
+
+%Round: 1
+  4147 (07)<(57)   4107  B
+  4113 (42)>(22) 260003  B
+  4145 (22)<(42) 260020  B
+
+%Round: 2
+260003 (56)>(08)   4147  B
+  4107 (40)>(24)   4145  B
+260020 (47)>(17)   4113  B
+
+%Round: 3
+  4147 (28)<(36)   4145  B
+260003 (18)<(46) 260020  B
+  4113 (46)>(18)   4107  B
+
+%Round: 4
+260020 (33)>(31)   4147  B
+  4145 (19)<(45)   4113  B
+  4107 (54)>(10) 260003  B
+
+%Round: 5
+  4147 (12)<(52)   4113  B
+260020 (16)<(48)   4107  B
+260003 (18)<(46)   4145  B
+
+%%Added results
+% Final  Vinar 46-18 Hughes 
+  4113 (46)>(18)   4107  B

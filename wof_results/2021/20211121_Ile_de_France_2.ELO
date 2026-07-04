@@ -1,0 +1,50 @@
+%%Tournament: Ile_de_France_2
+%%Country: France
+%%Date: 21/11/2021
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2021/11/21 23:26
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  5, 215, 2079
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 185, 1779
+%_%   50096, LEVY, Marc, FRA,  2.5, 161, 1800
+%_%     228, BUSUTTIL, Michel, FRA,  2.5, 143, 1551
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  2, 151, 1949
+%_%    2788, LECAT, Monique, BEL,  0, 105, 1404
+
+
+
+%Round: 1
+
+  2788 (26)<(38)    228  B
+ 50096 (13)<(51)     45  B
+  3598 (23)<(41)      2  B
+
+%Round: 2
+
+    45 (53)>(11)   2788  B
+   228 (38)>(26)   3598  B
+     2 (34)>(30)  50096  B
+
+%Round: 3
+
+  2788 (27)<(37)   3598  B
+    45 (19)<(45)      2  B
+ 50096 (32)=(32)    228  B
+
+%Round: 4
+
+     2 (48)>(16)   2788  B
+  3598 (17)<(47)  50096  B
+   228 (18)<(46)     45  B
+
+%Round: 5
+
+  2788 (25)<(39)  50096  B
+     2 (47)>(17)    228  B
+    45 (16)<(48)   3598  B
+
+
+%%Added results

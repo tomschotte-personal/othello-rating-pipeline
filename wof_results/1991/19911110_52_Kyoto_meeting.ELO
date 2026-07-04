@@ -1,0 +1,73 @@
+%%Tournament: 52nd Kyoto Meeting
+%%Country: Japan
+%%Date: 10/11/1991
+%%Sender: Tom Schotte
+
+%Round1
+11766 > 884
+5526 > 11992
+11770 > 11844
+11106 > 11992
+882 > 10392
+11993 > 10008
+
+%Round2
+11766 > 10008
+11755 > 11992
+11770 > 5526
+882 > 11106
+11993 > 11992
+884 > 10392
+
+%Round3
+5526 > 11755
+11770 > 882
+11106 > 884
+11993 > 11766
+6929 > 11844
+10392 > 10008
+11992  >11992
+
+%Round4
+11766 > 11106
+11755 > 6929
+11770 > 11993
+882 > 5526
+11844 > 11994
+10392 > 11992
+884 > 11992
+
+%Round5
+11766 > 11770
+11755 > 10392
+5526 > 884
+11106 > 6929
+882 > 11993
+11844 > 11992
+10008 > 11994
+
+%Round6
+11766 > 882
+11755 > 11770
+5526 > 11993
+11106 > 11844
+6929 > 11992
+10008 > 884
+11994 > 11992
+
+%players
+%1 11766	matoba	hisanori
+%2 11755	nakazawa	shigeko
+%3 5526	uno	toshihiro
+%4 11770	itoi	koji
+%5 11106	kobayashi	atsushi
+%6 882	ibata	kensuke
+%7 11993	ishibashi	makoto
+%8 6929	io	hideo
+%9 11844	fujikura	katuya
+%10 10392	ichikawa	yukinori
+%11 10008	okuda	masashi
+%12 884	fukui	seiji
+%13 11994	adachi	motoki
+%14 11992	nakazawa	hiromu
+%15 11995	ishibashi	miyuki

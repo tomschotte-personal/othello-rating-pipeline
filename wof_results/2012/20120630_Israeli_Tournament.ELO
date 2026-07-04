@@ -1,0 +1,37 @@
+%%Tournament: Israel Othello open
+%%Country: Israel
+%%Date: 30/06/2012
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4039, RADZIVILOVSKY, Lev, IL, 4, 194
+%_%    4038, GELTZER, Valery, IL, 3, 173
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 3, 173
+%_%    200003, MARGALIOT, Michael, IL, 2, 145
+%_%    885, SHIFMAN, Ilya, IL, 2, 126
+%_%    880, SHIFMAN, Leonid, IL, 1, 149
+
+%Round 1
+   885 (15)<(49)   4038  B
+  4028 (46)>(18) 200003  B
+   880 (30)<(34)   4039  B
+
+%Round 2
+   880 (19)<(45)    885  B
+  4039 (35)>(29) 200003  B
+  4038 (44)>(20)   4028  B
+
+%Round 3
+  4039 (38)>(26)    880  B
+200003 (17)<(47)   4038  B
+   885 (13)<(51)   4039  B
+
+%Round 4
+   880 (28)<(36) 200003  B
+   885 (34)>(30)   4028  B
+  4039 (49)>(15)   4038  B
+
+%Round 5
+  4038 (18)<(46)    880  B
+200003 (45)>(19)    885  B
+  4028 (39)>(25)   4039  B

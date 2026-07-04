@@ -1,0 +1,48 @@
+%%Tournament: Ile de France 4
+%%Country: France
+%%Date: 14/06/2008
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2008/07/19 18:03
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3518, DELAUNAY, Arnaud, F,  5, 245
+%_%    3384, AUZENDE, Frederic, F,  4, 225
+%_%       2, TASTET, Marc, F,  3, 200
+%_%    3600, BENOIT, Serge, F,  3, 136
+%_%    2788, LECAT, Monique, B,  2, 146
+%_%    3734, CLUZON, Gilles, F,  2, 95
+%_%    3778, SAGONA, Eric, F,  1, 113
+
+
+
+%Round: 1
+
+  3518 (64)>(00)   3734 B
+  3778 (23)<(41)   3600 B
+  3384 (41)>(23)   2788 B
+
+%Round: 2
+
+  3734 (45)>(19)   3778 B
+  3600 (20)<(44)   3518 B
+     2 (23)<(41)   3384 B
+
+%Round: 3
+
+  3734 (00)<(64)      2 B
+  3384 (25)<(39)   3518 B
+  2788 (29)<(35)   3600 B
+
+%Round: 4
+
+  3518 (51)>(13)      2 B
+  3778 (27)<(37)   2788 B
+  3600 (00)<(64)   3384 B
+
+%Round: 5
+
+  3384 (54)>(10)   3734 B
+     2 (60)>(04)   3778 B
+  2788 (17)<(47)   3518 B

@@ -1,0 +1,138 @@
+%%Tournament: Clarence Memorial - U.S. Championship
+%%Country: USA
+%%Date: 24/08/2013 - 25/08/2013
+%%Sender: David Parsons
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_%  20000, PETRIC, Vlad, USA, 2.0, 129
+%_%   6438, CAI, Jian, USA, 2.0, 151
+%_%   6403, KATZMAN, Sharon, USA, 0.0, 58
+%_%  20022, HAI, Jerry, USA, 3.0, 303
+%_%   4043, SEELEY, Ben, USA, 9.0, 486
+%_%   5513, TANIDA, Kunihiko, USA, 10.0, 497
+%_%    177, ROSE, Brian, USA, 8.0, 420
+%_%   4089, CHITRA, Yohanes, USA, 3.0, 235
+%_%   6453, PLUMMER, Eugene, USA, 1.0, 104
+%_%   4001, FU, Jacky, Canada, 3.0, 203
+%_% 110000, CARRERA, Galo, Canada, 1.0, 102
+
+%Round 1
+%Tanida 61 Katzman 3 B
+%Seeley 41 Hai 23 B
+%Rose 38 Cai 26 B
+%Fu 53 Petric 11 B
+%Chitra 31 Carrera 33 B
+
+  5513 (61)>(03)   6403 
+  4043 (41)>(23)  20022 
+   177 (38)>(26)   6438 
+  4001 (53)>(11)  20000 
+  4089 (31)<(33) 110000 
+
+%Round 2
+%Tanida 38 Seeley 26 B
+%Hai 39 Cai 25 B
+%Rose 56 Plummer 8 B
+%Fu 52 Carrera 12 B
+%Chitra 45 Petric 19 B
+
+  5513 (38)>(26)   4043 
+ 20022 (39)>(25)   6438 
+   177 (56)>(08)   6453 
+  4001 (52)>(12) 110000 
+  4089 (45)>(19)  20000 
+
+%Round 3
+%Tanida 35 Chitra 28 B
+%Seeley 62 Katzman 2 B
+%Rose 42 Fu 23 B
+%Cai 50 Carrera 14 B
+%Hai 54 Plummer 10 B
+
+  5513 (35)>(28)   4089 
+  4043 (62)>(02)   6403 
+   177 (41)>(23)   4001 
+  6438 (50)>(14) 110000 
+ 20022 (54)>(10)   6453 
+
+%Round 4
+%Tanida 37 Rose 27 B
+%Seeley 49 Petric 15 B
+%Cai 36 Plummer 28 B
+%Fu 42 Hai 22 B
+%Chitra 60 Katzman 4 B
+
+  5513 (37)>(27)    177 
+  4043 (49)>(15)  20000 
+  6438 (36)>(28)   6453 
+  4001 (42)>(22)  20022 
+  4089 (60)>(04)   6403 
+
+%Round 5
+%Tanida 40 Fu 24 B
+%Seeley 36 Rose 28 B
+%Hai 36 Carrera 26 B
+%Chitra 48 Plummer 16 B
+%Petric 37 Katzman 27 B
+
+  5513 (40)>(24)   4001 
+  4043 (36)>(28)    177 
+ 20022 (36)>(26) 110000 
+  4089 (48)>(16)   6453 
+ 20000 (37)>(27)   6403 
+
+%Round 6
+%Tanida 50 Cai 14 B
+%Seeley 55 Fu 9 B
+%Rose 42 Chitra 22 B
+%Petric 47 Carrera 17 B
+%Plummer 42 Katzman 22 B
+
+  5513 (50)>(14)   6438 
+  4043 (55)>(09)   4001 
+   177 (42)>(22)   4089 
+ 20000 (47)>(17) 110000 
+  6453 (42)>(22)   6403 
+
+%Second Day -- Round 1
+%Rose 34 Hai 30 B
+%Tanida 49 Seeley 15 B
+
+   177 (34)>(30)  20022 
+  5513 (49)>(15)   4043 
+
+%Second Day -- Round 2
+%Tanida 46 Rose 18 B
+%Seeley 56 Hai 8 B
+
+  5513 (46)>(18)    177 
+  4043 (56)>(08)  20022 
+
+%Second Day -- Round 3
+%Tanida 42 Hai 22 B
+%Rose 34 Seeley 30 B
+
+  5513 (42)>(22)  20022 
+   177 (34)>(30)   4043 
+
+%Second Day -- Round 4
+%Seeley 41 Tanida 23 B
+%Rose 45 Hai 19 B
+
+  4043 (41)>(23)   5513 
+   177 (45)>(19)  20022 
+
+%Second Day -- Round 5
+%Rose 33 Tanida 31 B
+%Seeley 35 Hai 29 B
+
+   177 (33)>(31)   5513 
+  4043 (35)>(29)  20022 
+
+%Second Day -- Round 6
+%Tanida 45 Hai 19 B
+%Seeley 40 Rose 24 B
+
+  5513 (45)>(19)  20022 
+  4043 (40)>(24)    177 

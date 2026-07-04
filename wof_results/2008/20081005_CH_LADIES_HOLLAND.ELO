@@ -1,0 +1,35 @@
+%%Tournament: Dutch championhsip, Ladies category
+%%Country: Netherlands
+%%Date: 05/10/2008
+%%Sender: Jan de Graaf
+
+% Round 1
+
+  5159 >   5255
+  5214 >   5287
+
+% Round 2
+
+  5287 >   5159
+  5255 <   5214
+
+% Round 3
+
+  5159 >   5214
+  5287 <   5255
+
+% Round 4
+
+  5159 >   5287
+  5255 <   5214
+
+% Round 5
+
+  5255 <   5159
+  5287 >   5214
+
+% Round 6
+
+  5214 <   5159
+  5255 >   5287
+

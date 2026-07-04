@@ -1,0 +1,63 @@
+%%Tournament: Tournoi de Noel
+%%Country: France
+%%Date: 15/12/2019
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/12/15 19:43
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%     839, KASHIWABARA, Takuji, FRA,  5, 226, 2098
+%_%    9025, TOUCHENE, Fouad, DZA,  4, 184, 1567
+%_%       2, TASTET, Marc, FRA,  3, 199, 2079
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 188, 1779
+%_%   50096, LEVY, Marc, FRA,  2, 169, 1800
+%_%     228, BUSUTTIL, Michel, FRA,  2, 154, 1551
+%_%   50075, BERTRANDIAS, Marc, FRA,  2, 147, 1766
+%_%     275, OVION, Jacques, FRA,  2, 129, 1138
+%_%    4058, BOUGEARD, Emmanuel, FRA,  1, 94, 1140
+%_%   50097, OVION, Alix-Anne, FRA,  1, 86, 994
+
+
+
+%Round: 1
+
+ 50075 (15)<(49)    839  B
+  4058 (11)<(53)    228  B
+ 50096 (40)>(24)      2  B
+    45 (26)<(38)   9025  B
+ 50097 (13)<(51)    275  B
+
+%Round: 2
+
+   228 (18)<(46)  50075  B
+  4058 (00)<(64)     45  B
+  9025 (41)>(23)    275  B
+   839 (40)>(24)  50096  B
+     2 (55)>(09)  50097  B
+
+%Round: 3
+
+   839 (42)>(22)   9025  B
+    45 (15)<(49)      2  B
+ 50097 (18)<(46)   4058  B
+   275 (02)<(62)  50075  B
+ 50096 (63)>(01)    228  B
+
+%Round: 4
+
+   275 (41)>(23)   4058  B
+ 50075 (24)<(40)     45  B
+     2 (21)<(43)    839  B
+   228 (58)>(06)  50097  B
+  9025 (43)>(21)  50096  B
+
+%Round: 5
+
+  9025 (40)>(24)    228  B
+   839 (52)>(12)    275  B
+    45 (43)>(21)  50096  B
+  4058 (14)<(50)      2  B
+
+
+%%Added results

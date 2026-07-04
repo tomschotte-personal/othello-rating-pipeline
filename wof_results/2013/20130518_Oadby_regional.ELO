@@ -1,0 +1,44 @@
+%%Tournament: Oadby Regionals 2013
+%%Country: Great-Britain
+%%Date: 18/05/2013
+%%Sender: Steve Rowe
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2013/05/27 22:11
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%      79, LEADER, Imre, GB,  5, 214
+%_%    2047, BARRASS, Iain, GB,  4, 195
+%_%    4019, PRIDMORE, Ben, GB,  3, 179
+%_%    2006, ARNOLD, Roy, GB,  2, 141
+%_%    2091, ROWE, Stephen, GB,  1, 111
+
+
+
+%Round: 1
+
+  2006 (42)>(22)   2091  B
+    79 (35)>(29)   4019  B
+
+%Round: 2
+
+  2091 (23)<(41)   2047  B
+  4019 (35)>(29)   2006  B
+
+%Round: 3
+
+  2006 (15)<(49)     79  B
+  2047 (42)>(22)   4019  B
+
+%Round: 4
+
+    79 (41)>(23)   2047  B
+  4019 (53)>(11)   2091  B
+
+%Round: 5
+
+  2047 (49)>(15)   2006  B
+  2091 (15)<(49)     79  B
+
+
+%%Added results

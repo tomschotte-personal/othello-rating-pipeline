@@ -1,0 +1,29 @@
+%%Tournament: Tournoi Ile de France 5
+%%Country: France
+%%Date: 16/12/2006
+%%Sender: Emmanuel.Lazard
+
+%%Round: 1
+
+3501 > 3518
+  11 > 3598
+
+%%Round: 2
+
+3384 >   11
+3598 > 3501
+
+%%Round: 3
+
+3518 > 3598
+3501 < 3384
+
+%%Round: 4
+
+  11 < 3501
+3384 > 3518
+
+%%Round: 5
+
+3598 > 3384
+3518 <   11

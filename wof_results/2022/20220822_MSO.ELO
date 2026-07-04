@@ -1,0 +1,64 @@
+%%Tournament: Mind Sports Olympiads
+%%Country: Great-Britain
+%%Date: 22/08/2022
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.37
+%%CreationDate: 2022/08/23 00:14
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4, 248, 2068
+%_%   50053, TASTET, Remi, FRA,  4, 186, 1843
+%_%    4019, PRIDMORE, Ben, GBR,  4, 195, 1622
+%_%    3061, DE LEO, Maurizio, ITA,  3, 181, 1466
+%_%   41000, SALERNO, Francesco, ITA,  3, 149, 0
+%_%   40103, GUECI, Riccardo, ITA,  2, 147, 976
+%_%    3082, FARACI, Marco, ITA,  2, 151, 1119
+%_%    2953, ZAMA, Piero, ITA,  2, 126, 1241
+%_% + 41004, CARDELLICCHIO, Cosimo, ITA,  1, 129, 0
+%_%  100055, THOMPSON, Martin, GBR,  0, 88, 0
+
+
+
+%Round: 1
+
+ 50053 (43)>(21)  41000  B
+  2953 (11)<(53)      2  B
+ 41004 (18)<(46)   4019  B
+ 40103 (40)>(24)   3082  B
+100055 (15)<(49)   3061  B
+
+%Round: 2
+
+  3061 (26)<(38)  50053  B
+ 41000 (36)>(28)  41004  B
+  3082 (50)>(14) 100055  B
+     2 (50)>(14)  40103  B
+  4019 (55)>(09)   2953  B
+
+%Round: 3
+
+100055 (18)<(46)   2953  B
+ 41004 (16)<(48)   3061  B
+  4019 (33)>(31)      2  B
+ 50053 (50)>(14)   3082  B
+ 40103 (15)<(49)  41000  B
+
+%Round: 4
+
+  2953 (34)>(30)   3082  B
+ 41004 (36)>(28) 100055  B
+ 50053 (46)>(18)   4019  B
+     2 (59)>(05)  41000  B
+  3061 (37)>(27)  40103  B
+
+%Round: 5
+
+ 41000 (38)>(26)   2953  B
+  3082 (33)>(31)  41004  B
+  4019 (43)>(21)   3061  B
+100055 (13)<(51)  40103  B
+     2 (55)>(09)  50053  B
+
+
+%%Added results

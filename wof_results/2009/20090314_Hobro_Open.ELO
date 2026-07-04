@@ -1,0 +1,41 @@
+%%Tournament: Hobro Open
+%%Country: Denmark
+%%Date: 14/03/2009
+%%Sender: Henry
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/03/24 16:43
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    1040, LARSEN, Caspar Pagh, DK,  6, 240
+%_%    1047, STORM, Henning, DK,  4, 237
+%_%    1098, STORM, Line Kjaergaard, DK,  2, 147
+
+
+
+%Round: 1
+
+  1047 (26)<(38)   1040 B
+
+%Round: 2
+
+  1040 (39)>(25)   1098 B
+
+%Round: 3
+
+  1098 (09)<(55)   1047 B
+
+%Round: 4
+
+  1040 (41)>(23)   1047 B
+
+%Round: 5
+
+  1098 (22)<(42)   1040 B
+
+%Round: 6
+
+  1047 (53)>(11)   1098 B
+
+
+%%Added results

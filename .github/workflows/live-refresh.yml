@@ -1,0 +1,84 @@
+name: Live rating refresh
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      ftd_ids:
+        description: 'FTD tournament IDs (space-separated); overrides the FTD_IDS repo variable'
+        required: false
+        default: ''
+
+concurrency:
+  group: live-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Determine FTD IDs (gate)
+        id: gate
+        env:
+          INPUT_IDS: ${{ inputs.ftd_ids }}
+          VAR_IDS: ${{ vars.FTD_IDS }}
+        run: |
+          IDS="${INPUT_IDS:-$VAR_IDS}"
+          echo "ids=$IDS" >> "$GITHUB_OUTPUT"
+          if [ -z "$IDS" ]; then
+            echo "FTD_IDS empty - live refresh disabled, skipping."
+          else
+            echo "Refreshing FTDs: $IDS"
+          fi
+
+      - name: Checkout pipeline
+        if: steps.gate.outputs.ids != ''
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.gate.outputs.ids != ''
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Playwright
+        if: steps.gate.outputs.ids != ''
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Clone pages repo (worldothellorating)
+        if: steps.gate.outputs.ids != ''
+        env:
+          DEPLOY_KEY: ${{ secrets.PAGES_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$DEPLOY_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git clone git@github.com:tomschotte-personal/worldothellorating.git fide_rating/pages
+
+      - name: Compute live rating
+        if: steps.gate.outputs.ids != ''
+        working-directory: fide_rating
+        run: python shift1800_live.py --refresh ${{ steps.gate.outputs.ids }}
+
+      - name: Generate HTML
+        if: steps.gate.outputs.ids != ''
+        working-directory: fide_rating
+        run: python shift1800_html.py
+
+      - name: Push to pages
+        if: steps.gate.outputs.ids != ''
+        working-directory: fide_rating/pages
+        run: |
+          git config user.name "othello-rating-bot"
+          git config user.email "actions@github.com"
+          git add index.html
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "Live refresh $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)"
+            git push origin main
+          fi

@@ -1,0 +1,58 @@
+%%Tournament: Norwegian Championship 2026
+%%Country: NO
+%%Date: 14/06/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   1878, BOE, Alexander, NO, 5, 204, 1818
+%_% 140059, HAUS, Knut Bjarte, NO, 4, 247, 1931
+%_%   2570, ALBRIGTSEN, Vidar, NO, 3, 176, 1949
+%_% 140031, TVEDT, Sverre, NO, 2, 122, 1712
+%_%   2511, OLSEN HAMMERVIK, Pal, NO, 1, 150, 1843
+%_%   1802, SKOGEN, Tor Birger, NO, 1, 125, 1701
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/580
+
+%Round: 1
+
+ 140059 (47)>(17)   2511  B
+ 140031 (44)>(20)   2570  B
+
+%Round: 2
+
+  1802 (28)<(36) 140059  B
+  1878 (53)>(11) 140031  B
+
+%Round: 3
+
+ 140059 (48)>(16)   1878  B
+  2570 (35)>(29)   2511  B
+ 140031 (25)<(39)   1802  B
+
+%Round: 4
+
+  2570 (40)>(24) 140059  B
+  1878 (35)>(29)   1802  B
+
+%Round: 5
+
+ 140059 (61)>(03) 140031  B
+  1802 (16)<(48)   2511  B
+
+%Round: 6
+
+  2511 (31)<(33)   1878  B
+  1802 (13)<(51)   2570  B
+
+%Round: 7
+
+  1878 (34)>(30)   2570  B
+ 140031 (39)>(25)   2511  B
+
+%Round: F
+
+  1878 (33)>(31) 140059  B

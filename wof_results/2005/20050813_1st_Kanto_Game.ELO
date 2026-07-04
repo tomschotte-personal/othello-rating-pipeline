@@ -1,0 +1,108 @@
+%%Tournament: 1st Kanto Game
+%%Country: Japan
+%%Date: 13/08/2005
+%%Sender: Tom Schotte
+
+%Round1
+   700 >  10985  
+  5530 >   5508  
+  5532 >   6838  
+ 10351 >   5593  
+   299 >   7039  
+   698 >   5589  
+  6814 >   6986  
+  5680 >   6840  
+ 10557 >  11025  
+  5603 >   5563  
+  7092 >   5539  
+
+%Round2
+   700 >  10351  
+ 10985 >   7044  
+  5530 >   5603  
+  5532 >   6814  
+   299 >   7092  
+  5680 >    698  
+  5539 >   7039  
+ 10557 >   6840  
+  5508 >   5563  
+  6986 >   6838  
+ 11025 >   5589  
+
+%Round3
+   700 >   5530  
+ 10985 >   5508  
+ 10351 >  11025  
+   299 >   5532  
+  5680 >  10557  
+  5539 >   6814  
+   698 >   7092  
+  6838 >   5593  
+  5603 >   6986  
+  6840 >   7039  
+  5563 >   7044  
+
+%Round4
+   700 >   5680  
+ 10985 >  11025  
+  5532 >   5530  
+ 10351 >    299  
+  6814 >   7092  
+  5539 >   5603  
+ 10557 >    698  
+  6838 >   5508  
+  5589 >   7044  
+  6840 >   6986  
+  5563 >   5593  
+
+%Round5
+   700 >   5532  
+ 10985 >   5539  
+  5530 >   6840  
+ 10351 >   5680  
+   299 >  10557  
+   698 >   5603  
+  6814 >   6838  
+  5508 >   7039  
+  5589 >   5563  
+ 11025 >   7092  
+  7044 >   5593  
+
+%Round6
+   700 >    299  
+ 10985 >  10351  
+  5530 >  10557  
+  5532 >   5680  
+   698 >   5539  
+  6814 >   5589  
+  5508 >  11025  
+  6838 >   6840  
+  5603 >   5593  
+  6986 >   5563  
+  7044 >   7039  
+
+
+%players
+%1 700	nakajima	tetsuya
+%2 10985	harikawa	yuki
+%3 5530	noda	bintatsu
+%4 5532	enomoto	yasuhiro
+%5 10351	tokumaru	kikuchi
+%6 299	murakami	takeshi
+%7 698	suekuni	makoto
+%8 6814	tachiki	hide
+%9 5680	watanabe	hajime
+%10 5539	yamakawa	takashi
+%11 10557	ito	yuji
+%12 5508	tatsumi	yukiko
+%13 6838	yamaguchi	yoshiaki
+%14 5603	sawaki	yusuke
+%15 5589	nagasaki	hidekazu
+%16 6986	izumi	takashi
+%17 11025	iida	hiroshi
+%18 6840	tanaka	siyuntaro
+%19 7092	kasiwagi	mitsuyoshi
+%20 5563	kurachi	takayuki
+%21 7044	hoshi	ryuichi
+%22 7039	kinoshita	hiroko
+%23 5593	yamamoto	kunisuke

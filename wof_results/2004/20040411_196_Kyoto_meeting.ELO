@@ -1,0 +1,100 @@
+%%Tournament: 196th Kyoto Meeting
+%%Country: Japan
+%%Date: 11/04/2004
+%%Sender: Tom Schotte
+
+%Round1
+6970 > 10038
+10122 > 6929
+7054 > 12037
+10123 > 12039
+10125 > 6936
+5669 > 10007
+10129 > 12038
+7082 > 12040
+10009 > 6995
+%two players missing
+
+%Round2
+5506 > 10123
+6970 > 7054
+10122 > 10129
+10038 > 12038
+6995 > 12039
+10007 > 12040
+5669 > 10009
+6936  >12037
+7082 > 10125
+%two players missing
+
+%Round3
+5506 > 5669
+6970 > 10122
+6860 > 6929
+7054 > 6936
+10123 > 10009
+10125 > 10038
+10007 > 7082
+10129 > 6995
+12038 > 12040
+12039 > 12037
+
+%Round4
+5506 > 6970
+6860 > 12039
+7054 > 7082
+6929 > 6936
+10038 > 6995
+10123 > 10122
+10007 > 10129
+5669 > 10125
+12037 > 12040
+10009 > 12038
+
+%Round5
+5506 > 10007
+6970 > 5669
+6860 > 10038
+10122 > 7082
+7054 > 10123
+6929 > 10009
+6995 > 12040
+10125 > 10129
+6936 > 12039
+12037 > 12038
+
+%Round6
+5506 > 7054
+6970 > 10123
+6860 > 10125
+10122 > 5669
+6929 > 10007
+10038 > 10009
+6995 > 7082
+6936 > 10129
+12038 > 12039
+10008 > 12040
+
+
+%players
+%1 5506	tamaki	suguru
+%2 6970	kudashou	takahiro
+%3 6860	miyazaki	yuji
+%4 10122	tanino	takumi
+%5 7054	nakamori	hiroki
+%6 6929	io	hideo
+%7 10038	wazuki	hiroyuki
+%8 10123	nakamura	shuhei
+%9 6995	funakoshi	shogo
+%10 10125	nakano	takao
+%11 10007	nakamura	yuki
+%12 5669	nakano	shunsuke
+%13 6936	tsubouchi	masao
+%14 10129	eikichi	masanobu
+%15 12037	sasaki	oh
+%16 7082	matsuzaka	katsuhiko
+%17 12038	mikuriya	masahiro
+%18 10009	taru	eiichi
+%19 10008	okuda	masashi
+%20 12039	tsujino	kayo
+%21 12040	murai	yasuhiro

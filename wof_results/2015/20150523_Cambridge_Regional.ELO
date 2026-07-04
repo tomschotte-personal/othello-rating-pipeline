@@ -1,0 +1,43 @@
+%%Tournament: Cambridge Regional
+%%Country: Great-Britain
+%%Date: 23/05/2015
+%%Sender: Roy Arnold
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/05/24 04:40
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      79, LEADER, Imre, GBR,  6, 287, 2188
+%_%    2006, ARNOLD, Roy, GBR,  3, 174, 1483
+%_%  100004, LIGHTMAN, Marie, GBR,  2, 141, 1300
+%_%    2001, STEPHENSON, Ken, GBR,  1, 46, 1253
+
+
+
+%Round: 1
+
+    79 (60)>(04) 100004  B
+  2001 (46)>(18)   2006  B
+
+%Round: 2
+
+    79 (50)>(14)   2006  B
+
+%Round: 3
+
+  2006 (38)>(26) 100004  B
+
+%Round: 4
+
+100004 (15)<(49)     79  B
+
+%Round: 5
+
+  2006 (16)<(48)     79  B
+
+%Round: 6
+
+100004 (16)<(48)   2006  B
+
+
+%%Added results

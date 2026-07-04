@@ -1,0 +1,45 @@
+%%Tournament: Goteborg open 2020
+%%Country: Sweden
+%%Date: 22/02/2020
+%%Sender: kim freiburghaus
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2020/02/22 21:41
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  150016, EKLUND, Oskar, SWE,  4, 223, 2144
+%_%    1511, LJUNGQVIST, Daniel, SWE,  4, 197, 2065
+%_%    1379, MAGNUSSON, Johan, SWE,  3, 168, 1714
+%_%  150060, FREIBURGHAUS, Kim, SWE,  3, 146, 1856
+%_%  150058, RONN, Tommy, SWE,  1, 106, 1222
+
+
+
+%Round: 1
+
+  1511 (45)>(19) 150016  B
+  1379 (24)<(40) 150060  B
+
+%Round: 2
+
+150016 (55)>(09)   1379  B
+150058 (16)<(48)   1511  B
+
+%Round: 3
+
+  1379 (53)>(11) 150058  B
+150060 (08)<(56) 150016  B
+
+%Round: 4
+
+150058 (28)<(36) 150060  B
+  1511 (22)<(42)   1379  B
+
+%Round: 5
+
+150060 (22)<(42)   1511  B
+150016 (53)>(11) 150058  B
+
+
+%%Added results
+150016 (22)<(42)   1511  B

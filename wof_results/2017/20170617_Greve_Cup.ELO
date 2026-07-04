@@ -1,0 +1,56 @@
+%%Tournament: Greve Cup
+%%Country: Denmark
+%%Date: 17/06/2017
+%%Sender: VALLUND Henrik
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/06/17 16:04
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%      92, FELDBORG, Karsten, DNK,  5, 258, 2103
+%_%      96, VALLUND, Henrik, DNK,  4, 222, 1781
+%_%    1025, BADSTED, Palle, DNK,  3, 212, 1666
+%_%    1000, MICHAELSEN, Peter, DNK,  3, 174, 1419
+%_%    1019, AAGAARD-HANSEN, Jens, DNK,  2, 157, 1539
+%_%  220013, HOEGH, Daniel, DNK,  1, 129, 1019
+
+
+
+%Round: 1
+
+  1019 (34)>(30)   1025  B
+220013 (11)<(53)     92  B
+    96 (58)>(06)   1000  B
+
+%Round: 2
+
+    92 (41)>(23)   1019  B
+  1025 (22)<(42)     96  B
+  1000 (35)>(29) 220013  B
+
+%Round: 3
+
+  1019 (24)<(40)     96  B
+    92 (48)>(16)   1000  B
+220013 (11)<(53)   1025  B
+
+%Round: 4
+
+  1000 (55)>(09)   1019  B
+    96 (29)<(35) 220013  B
+  1025 (23)<(41)     92  B
+
+%Round: 5
+
+  1019 (45)>(19) 220013  B
+  1000 (22)<(42)   1025  B
+    92 (30)<(34)     96  B
+
+%Round: 6
+
+    96 (19)<(45)     92  B
+  1019 (22)<(42)   1025  B
+220013 (24)<(40)   1000  B
+
+
+%%Added results

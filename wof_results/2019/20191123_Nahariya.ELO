@@ -1,0 +1,38 @@
+%%Tournament: Nahariya 2019
+%%Country: Israel
+%%Date: 23/11/2019
+%%Sender: Leonid Shifman
+
+%%CreationDate: 2019/11/23 18:16
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, ISR,  2.5, 140
+%_%     885, SHIFMAN, Ilya, ISR,  2.5, 140
+%_%     880, SHIFMAN, Leonid, ISR,  2, 124
+%_%  200010, SHIFMAN, Michael,  ISR,  1, 108
+
+
+
+%Round: 1
+
+  4085 (18)<(46)    880  B
+   885 (49)>(15) 200010  B
+
+%Round: 2
+
+   880 (17)<(47) 200010  B
+  4085 (32)=(32)    885  B
+
+%Round: 3
+
+200010 (23)<(41)   4085  B
+   885 (44)>(20)    880  B
+
+%Round: 4
+
+200010 (23)<(41)    880  B
+   885 (15)<(49)   4085  B
+
+
+%%Added results
+

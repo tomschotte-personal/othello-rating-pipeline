@@ -1,0 +1,50 @@
+%%Tournament: rhone-alpes 1
+%%Country: France
+%%Date: 14/11/2009
+%%Sender: Emmanuel Lazard
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/12/12 12:09
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    3515, BUTIN, Pierre, F,  4, 221
+%_%     839, KASHIWABARA, Takuji, F,  3, 195
+%_%    4051, DOUSSE, Stephane, CH,  3, 165
+%_%     475, LANUIT, Christophe, F,  3, 157
+%_%    1019, AAGAARD-HANSEN, Jens, DK,  1, 111
+%_%     125, MICHEL, Stephane, F,  1, 111
+
+
+
+%Round: 1
+
+   475 (35)>(29)    125 B
+  4051 (29)<(35)    839 B
+  3515 (57)>(07)   1019 B
+
+%Round: 2
+
+   839 (28)<(36)    475 B
+   125 (17)<(47)   3515 B
+  1019 (54)>(10)   4051 B
+
+%Round: 3
+
+   475 (18)<(46)   3515 B
+   839 (62)>(02)   1019 B
+  4051 (39)>(25)    125 B
+
+%Round: 4
+
+  1019 (18)<(46)    475 B
+  3515 (19)<(45)   4051 B
+   125 (06)<(58)    839 B
+
+%Round: 5
+
+   475 (22)<(42)   4051 B
+  1019 (30)<(34)    125 B
+   839 (12)<(52)   3515 B
+
+
+%%Added results

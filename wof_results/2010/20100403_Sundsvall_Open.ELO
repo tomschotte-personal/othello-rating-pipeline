@@ -1,0 +1,50 @@
+%%Tournament: Sundsvall Open
+%%Country: Sweden
+%%Date: 03/04/2010
+%%Sender: Henry Aspenryd
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2010/05/12 20:25
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%  150004, SVENSSON, Robin, S,  4, 212
+%_% +150009, WETTERGREN, Niklas, S,  4, 197
+%_%  150002, SODERSTROM, Stefan, S,  3, 145
+%_%  150001, OTTOSSON, Johan, S,  2, 170
+%_%    6550, NYTORPET, Michael, S,  2, 156
+%_% +150010, WETTERGREN, Robert, S,  0, 80
+
+
+
+%Round: 1
+
+150004 (44)>(20) 150009 B
+  6550 (30)<(34) 150002 B
+150010 (23)<(41) 150001 B
+
+%Round: 2
+
+150002 (21)<(43) 150004 B
+150009 (54)>(10) 150010 B
+150001 (24)<(40)   6550 B
+
+%Round: 3
+
+150004 (61)>(03) 150010 B
+150002 (33)>(31) 150001 B
+  6550 (26)<(38) 150009 B
+
+%Round: 4
+
+150001 (45)>(19) 150004 B
+150010 (23)<(41)   6550 B
+150009 (50)>(14) 150002 B
+
+%Round: 5
+
+150004 (45)>(19)   6550 B
+150001 (29)<(35) 150009 B
+150002 (43)>(21) 150010 B
+
+
+%%Added results

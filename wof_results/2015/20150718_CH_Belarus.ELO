@@ -1,0 +1,26 @@
+%%Tournament: Belarus Championship
+%%Country: Belarus
+%%Date: 18/07/2015
+%%Sender: Uladzimir Khlebnikau
+
+%    ID,     NAME,        Firstname,  COUNTRY, score, disc-count
+%_%  360000, KHLEBNIKAU,  Uladzimir,  BLR,     4,     183
+%_%  360002, KRYVASHEYEU, Pavel,      BLR,     2,     119
+%_%  360001, KRYVASHEYEU, Andrei,     BLR,     1,     110
+%_%  360006, BADYTCHYK,   Dzmitry,    BLR,     0,      36
+
+
+%Round 1
+360002 (33)>(31) 360001  B
+360000 (55)>(09) 360006  B
+
+%Round 2
+360000 (37)>(27) 360002  W
+360001 (55)>(09) 360006  B
+
+%Round 3
+360002 (46)>(18) 360006  W
+360000 (40)>(24) 360001  B
+
+%Final
+360000 (51)>(13) 360002  B

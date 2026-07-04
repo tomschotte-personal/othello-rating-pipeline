@@ -1,0 +1,29 @@
+%%Tournament: Warszawa Open
+%%Country: Poland
+%%Date: 21/05/2011
+%%Sender: Tom Schotte
+
+%Round1
+130011 >   4048 
+130011 >   5737 
+130011 >   5730 
+130011 > 130009 
+130011 >   5755 
+  4048 >   5737 
+  4048 >   5730 
+  4048 > 130009 
+  4048 >   5755 
+  5737 >   5730 
+  5737 > 130009 
+  5737 >   5755 
+  5730 > 130009 
+  5730 >   5755 
+130009 >   5755 
+
+%players
+%1 130011 Bartlomiej Sury
+%2 4048 Roman Kraczyk 4/5
+%3 5737 Lukasz Przywoski 3/5
+%4 5730 Cezary Dominczak 2/5
+%5 130009 Henryk Jaworski 1/5
+%6 5755 Arkadiusz Weglorek 0/5

@@ -1,0 +1,51 @@
+%%Tournament: Tournoi C - Montbard 2015
+%%Country: France
+%%Date: 23/05/2015
+%%Sender: Jean-Pierre Avy
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2015/06/06 17:30
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3801, AVY, Bernadette, FRA,  5, 214, 1020
+%_%    3791, AVY, Jean-Pierre, FRA,  4, 229, 1410
+%_%   50028, BRUIANT, Jacky, FRA,  3, 200, 1466
+%_%    3766, DELGADO, Marie-Louise, FRA,  3, 153, 813
+%_%   50053, TASTET, Remi, FRA,  2, 143, 0
+%_%    3790, CAPLET, Alain, FRA,  2, 107, 807
+%_%   50074, MOLLET, Thierry, FRA,  1, 114, 0
+
+
+
+%Round: 1
+
+ 50028 (43)>(21)   3766  B
+  3790 (03)<(61)   3791  B
+  3801 (55)>(09)  50074  B
+
+%Round: 2
+
+  3791 (34)>(30)  50028  B
+ 50074 (17)<(47)   3790  B
+ 50053 (31)<(33)   3801  B
+
+%Round: 3
+
+  3801 (38)>(26)   3791  B
+  3766 (43)>(21)  50053  B
+ 50028 (59)>(05)   3790  B
+
+%Round: 4
+
+ 50053 (43)>(21)  50074  B
+ 50028 (28)<(36)   3801  B
+  3791 (52)>(12)   3766  B
+
+%Round: 5
+
+  3791 (56)>(08)  50053  B
+  3790 (12)<(52)   3801  B
+ 50074 (27)<(37)   3766  B
+
+
+%%Added results

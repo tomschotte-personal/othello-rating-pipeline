@@ -1,0 +1,35 @@
+%%Tournament: Micky-13 y. o.
+%%Country: Israel
+%%Date: 27/10/2018
+%%Sender: Leonid Shifman
+
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_% 200040, LAUFER, Shachar ISR,  5, 258
+%_% 200048, BASE, Olga, ISR,  4, 208
+%_% 200010, SHIFMAN, Michael, ISR,  3, 196
+%_% 200056, RAISFELD, Ori, ISR,  2, 126
+%_% +200058, HOP, Ofer, ISR,  1, 102
+%_% 200057, RAISFELD, Dani, ISR,  0, 70
+
+%Round: 1
+200058 (05)<(59) 200040  B
+200056 (57)>(07) 200057  B
+
+%Round: 2
+200010 (45)>(19) 200058  B
+200040 (61)>(03) 200056  B
+
+%Round: 3
+200056 (12)<(52) 200010  B
+200057 (09)<(55) 200040  B
+
+%Round: 4
+200010 (51)>(13) 200057  B
+200058 (27)<(37) 200056  B
+
+%Round: 5
+200040 (41)>(23) 200010  B
+200057 (29)<(35) 200058  B
+
+

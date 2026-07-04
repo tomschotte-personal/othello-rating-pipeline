@@ -1,0 +1,44 @@
+%%Tournament: Torneio de Othello 9 de Julho
+%%Country: Brazil
+%%Date: 09/07/2017
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/12/29 23:06
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290000, SILVA, Fabricio, BRA,  5, 243, 2121
+%_%  290007, TAKEMOTO, Jun, BRA,  4, 226, 1856
+%_%  290025, CORREIA JR., Moises, BRA,  2, 133, 0
+%_%  290174, DAIROKUNO, Mitsuru, BRA,  2, 123, 1075
+%_%  290035, JARA, Alfredo Pene, BRA,  2, 115, 0
+
+
+
+%Round: 1
+
+290174 (25)<(39) 290035  B
+290007 (47)>(17) 290025  B
+
+%Round: 2
+
+290035 (01)<(63) 290007  B
+290000 (52)>(12) 290174  B
+
+%Round: 3
+
+290000 (45)>(19) 290025  B
+290174 (04)<(60) 290007  B
+
+%Round: 4
+
+290025 (22)<(42) 290174  B
+290035 (06)<(58) 290000  B
+
+%Round: 5
+
+290007 (16)<(48) 290000  B
+290025 (35)>(29) 290035  B
+
+
+%%Added results

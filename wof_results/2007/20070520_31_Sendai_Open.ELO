@@ -1,0 +1,53 @@
+%%Tournament: 31st Sendai Open
+%%Country: Japan
+%%Date: 20/05/2007
+%%Sender: Tom Schotte
+
+%Round1
+5562 > 7028
+10374 > 6875
+5584 > 7035
+5527 > 6885
+6877 > 11990
+
+%Round2
+5562 > 5527
+10374 > 6877
+5584 > 6885
+6875 > 11990
+7035 > 7028
+
+%Round3
+5562 > 5584
+10374 > 7035
+5527 > 6877
+6875 > 6885
+7028 > 11990
+
+%Round4
+5562 > 7035
+10374 > 5527
+5584 > 11990
+6875 > 7028
+6885 > 6877
+
+%Round5
+5562 > 7035
+10374 > 5527
+5584 > 11990
+6875 > 7028
+6885 > 6877
+
+
+%players
+%1 5562	hoshino	yoshihiro
+%2 10374	takeda	seizi
+%3 5584	oshimizu	takanori
+%4 5527	goto	masahiro
+%5 6875	kudou	hiroyoshi
+%6 7035	sasaki	keisuke
+%7 6877	yamamoto	noriaki
+%8 7028	ooba	kazuyoshi
+%9 6885	hanzawa	satiko
+%10 11990	watahiki	masanori
+

@@ -1,0 +1,42 @@
+%%Tournament: 233rd Kyoto Meeting
+%%Country: Japan
+%%Date: 13/05/2007
+%%Sender: Tom Schotte
+
+%round1
+6803 > 6929
+5568 > 10022
+6972 > 5526
+
+%round2
+6803 > 5526
+5568 > 6972
+6929 > 10022
+
+%round3
+6803 > 5568
+5526 > 10022
+6972 > 6929
+
+%round4
+6803 > 6972
+5568 > 5526
+6929 > 10022
+
+%round5
+6803 > 10022
+5568 > 6929
+5526 > 6972
+
+%round6
+5568 > 6803
+5526 > 6929
+6972 > 10022
+
+%players
+%1 6803	haga	kazutoshi
+%2 5568	okamoto	kazuki
+%3 5526	uno	toshihiro
+%4 6972	miyazaki	toru
+%5 6929	io	hideo
+%6 10022	takahashi	hiroki

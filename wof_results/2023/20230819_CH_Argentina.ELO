@@ -1,0 +1,38 @@
+%%Tournament: Campeonato Argentino
+%%Country: Argentina
+%%Date: 19/08/2023
+%%Sender: Daniel Olivares
+
+%    ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%   4168, LISNOVSKY, Marcelo, ARG, 4, 203
+%_%   4157, ITURBIDE, Paula, ARG, 4, 181
+%_%    692, COLL, Pablo, ARG, 3, 178
+%_%    650, OLIVARES, Daniel, ARG, 2, 160
+%_% 280031, THIERER, Sebastián, ARG, 2, 151
+%_% 280038, COHEN, Mercedes, ARG, 0, 87
+
+
+%Round 1
+280031 (45)>(19) 280038  B
+   692 (25)<(39)   4168  B
+  4157 (27)<(37)    650  B
+
+%Round 2
+280038 (16)<(48)    650  B
+  4168 (28)<(36)   4157  B
+280031 (30)<(34)    692  B
+
+%Round 3
+   692 (49)>(15) 280038  B
+  4157 (40)>(24) 280031  B
+   650 (23)<(41)   4168  B
+
+%Round 4
+280031 (37)>(27)    650  B
+280038 (18)<(46)   4168  B
+   692 (31)<(33)   4157  B
+
+%Round 5
+  4168 (49)>(15) 280031  B
+  4157 (45)>(19) 280038  B
+   650 (25)<(39)    692  B

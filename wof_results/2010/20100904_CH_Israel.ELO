@@ -1,0 +1,38 @@
+%%Tournament: Israeli championship
+%%Country: Israel
+%%Date: 04/09/2010
+%%Sender: Leonid Shifman
+
+%      ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    4085, MALNEV, Andrey, IL, 5, 240
+%_%    4028, RADZIVILOVSKY, Pavel, IL, 3, 190
+%_%    880, SHIFMAN, Leonid, IL, 3, 192
+%_%    200003, MARGALIOT, Michael, IL, 3, 165
+%_%    4151, MILLER, Alexey, IL, 3, 145
+%_%    4040, RADZIVILOVSKY, Irena, IL, 2, 141
+%_%    200004, KAPLAN, Irena, IL, 1, 52
+
+%Round 1
+200003 (48)>(16)   4028 B
+  4085 (54)>(10)   4151 B
+200004 (11)<(53)   4040 B
+
+%Round 2
+  4040 (17)<(47) 200003 B
+   880 (21)<(43)   4085 B
+  4028 (64)>(00) 200004 B
+
+%Round 3
+  4085 (43)>(21) 200003 B
+  4151 (41)>(23)   4040 B
+   880 (24)<(40)   4028 B
+
+%Round 4
+  4028 (21)<(43)   4085 B
+200003 (16)<(48)   4151 B
+200004 (01)<(63)    880 B
+
+%Round 5
+  4085 (57)>(07) 200004 B
+  4040 (15)<(49)   4028 B
+  4151 (13)<(51)    880 B

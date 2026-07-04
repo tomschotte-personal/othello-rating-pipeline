@@ -1,0 +1,38 @@
+%%Tournament: Shinagawa championship elite
+%%Country: Japan
+%%Date: 08/07/2005
+%%Sender: Tom Schotte
+
+%round1
+10351 < 5513
+5530 > 300
+698 > 700
+
+%round2
+10351 > 698
+5530 > 700
+300 > 5513
+
+%round3
+10351 > 5530
+300 > 698
+700 > 5513
+
+%round4
+10351 > 700
+698 > 5513
+
+%round5
+5530 > 698
+700 > 300
+
+%round6
+10351 > 300
+5530 > 5513
+
+%1. 10351	tokumaru	kikuchi
+%2. 5530	noda	bintatsu 
+%3. 698	suekuni	makoto
+%4. 300	tamenori	hideshi
+%5. 700	nakajima	tetsuya 
+%6. 5513	tanida	kunihiko

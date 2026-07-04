@@ -1,0 +1,73 @@
+%%Tournament: Prequalificatif de Grenoble
+%%Country: France
+%%Date: 24/06/2023 - 25/06/2023
+%%Sender: Takuji
+
+%%Creator: PAPP 1.37.1
+%%CreationDate: 2023/08/28 15:53
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3515, BUTIN, Pierre, FRA,  8, 410, 1947
+%_%     839, KASHIWABARA, Takuji, FRA,  7, 364, 2096
+%_%       2, TASTET, Marc, FRA,  6, 342, 2011
+%_%   50096, LEVY, Marc, FRA,  5, 299, 1795
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 265, 1771
+
+
+
+%Round: 1
+
+   839 (35)>(29)      2  B
+    45 (24)<(40)  50096  B
+
+%Round: 2
+
+  3515 (55)>(09)     45  B
+ 50096 (40)>(24)    839  B
+
+%Round: 3
+
+     2 (53)>(11)  50096  B
+   839 (30)<(34)   3515  B
+
+%Round: 4
+
+    45 (15)<(49)    839  B
+  3515 (36)>(28)      2  B
+
+%Round: 5
+
+ 50096 (25)<(39)   3515  B
+     2 (28)<(36)     45  B
+
+%Round: 6
+
+     2 (35)>(29)    839  B
+ 50096 (22)<(42)     45  B
+
+%Round: 7
+
+    45 (18)<(46)   3515  B
+   839 (36)>(28)  50096  B
+
+%Round: 8
+
+ 50096 (20)<(44)      2  B
+  3515 (31)<(33)    839  B
+
+%Round: 9
+
+   839 (48)>(16)     45  B
+     2 (06)<(58)   3515  B
+
+%Round: 10
+
+  3515 (31)<(33)  50096  B
+    45 (25)<(39)      2  B
+
+
+%%Added results
+   839 (30)<(34)   3515  B
+  3515 (31)<(33)    839  B
+   839 (33)>(31)   3515  B
+ 50096 (28)<(36)      2  B

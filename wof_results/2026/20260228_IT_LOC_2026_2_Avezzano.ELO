@@ -1,0 +1,56 @@
+%%Tournament: IT LOC 2026 2nd tournament Avezzano
+%%Country: Italy
+%%Date: 28/02/2026
+%%Sender: null
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   40332, CIOCIOLA, Damiana, ITA, 3, 127, -
+%_%   40445, RELLA, Tommaso, ITA, 3, 136, -
+%_%   40097, CACCIATORE, Alessandro, ITA, 2, 124, 510
+%_%  +40485, Falbo, Benito, ITA, 2, 120, -
+%_%   40337, VERNARELLI, Sofia, ITA, 2, 117, -
+%_%  +40486, Gagliardi, Fernardo, ITA, 2, 115, -
+%_%   40335, ANGELOSANTE, Cristina, ITA, 2, 106, -
+%_%  +40487, Vernarelli, Giulia, ITA, 1, 91, -
+%_%   40333, COLUCCI, Patrizio, ITA, 1, 61, 444
+%_%  +40488, Vitale, Raffaele, ITA, 1, 82, -
+%_%  +40489, Vernarelli, Alessia, ITA, 1, 83, -
+%_%  +40490, Mariani, Beatrice, ITA, 1, 57, -
+%_%  +40491, Sorgi, Antonio, ITA, 0, 57, -
+%_%  +430016, Hordiienko, Irina, UKR, 0, 68, -
+%_%__________
+%_% Classical tournament
+%_% See: https://flipthedisc.com/live/461
+
+%Round: 1
+
+ 40097 (50)>(14)  40490  B
+ 430016 (30)<(34)  40488  B
+ 40487 (24)<(40)  40486  B
+ 40485 (43)>(21)  40489  B
+ 40337 (18)<(46)  40332  B
+ 40335 (53)>(11)  40491  B
+ 40333 (12)<(52)  40445  B
+
+%Round: 2
+
+ 40491 (29)<(35)  40337  B
+ 40489 (15)<(49)  40333  B
+ 40490 (03)<(61)  40487  B
+ 40486 (50)>(14)  430016  B
+ 40488 (18)<(46)  40097  B
+ 40445 (45)>(19)  40485  B
+ 40332 (45)>(19)  40335  B
+
+%Round: 3
+
+ 430016 (24)<(40)  40490  B
+ 40333 (00)<(64)  40337  B
+ 40335 (34)>(30)  40488  B
+ 40485 (58)>(06)  40487  B
+ 40097 (28)<(36)  40332  B
+ 40445 (39)>(25)  40486  B
+ 40489 (47)>(17)  40491  B

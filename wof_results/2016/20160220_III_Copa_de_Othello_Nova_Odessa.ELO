@@ -1,0 +1,93 @@
+%%Tournament: III Copa de Othello - Nova Odessa
+%%Country: Brazil
+%%Date: 20/02/2016
+%%Sender: Moises Correia Jr
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/02/06 08:43
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%  290043, TUBERO, Jesualdo, BRA,  4, 171, 0
+%_%  290168, PAIE CORREIA, Vitor, BRA,  4, 163, 0
+%_% +290132, PIMENTA, Ketlyn, BRA,  3, 173, 0
+%_% +290169, CARDOSO Vitor, Souza, BRA,  3, 159, 0
+%_% +290115, RIBEIRO Gleber, Antonio, BRA,  3, 152, 0
+%_% +290127, VENANCIO Jose, Carlos, BRA,  3, 162, 0
+%_% +290139, CAVALHEIRO Lucas, Dorighello, BRA,  3, 160, 0
+%_%  290051, CORREIA, Rafael Augusto P., BRA,  2, 160, 0
+%_% +290107, PIMENTA, Emerson, BRA,  2, 137, 0
+%_%  290033, RODRIGUES JR., Lucio, BRA,  2, 156, 0
+%_%  290045, KLAVA, Lourdes Maria, BRA,  2, 130, 0
+%_% +290097, MODANEZ Camilo, Augusto, BRA,  2, 115, 0
+%_% +290121, RODRIGUES Jailson dos, Santos, BRA,  2, 121, 0
+%_% +290131, PIMENTA, Kaylon, BRA,  2, 120, 0
+%_% +290095, FERRAZ Antonio, Batista, BRA,  2, 115, 0
+%_% +290128, FIGUEIRA, Jose, BRA,  2, 116, 0
+%_%  290032, PIO DE ARAUJO, Victor, BRA,  1.5, 132, 0
+%_%  290042, CORREIA, Lucas Augusto P., BRA,  1.5, 120, 0
+%_% +290129, SOUSA Jose, Gabriel, BRA,  1, 108, 0
+%_% +290152, SILVA Paulo, Henrique, BRA,  1, 88, 0
+%_% +290162, DINIZ, Suzana, BRA,  1, 92, 0
+%_% +290158, FERRAZ Rodrigo, Aparecido, BRA,  1, 70, 0
+%_%  290031, CEORLIN, Gilberto, BRA,  0, 56, 0
+
+
+
+%Round: 1
+
+290168 (36)>(28) 290129  B
+290131 (28)<(36) 290095  B
+290097 (38)>(26) 290132  B
+290045 (31)<(33) 290169  B
+290107 (39)>(25) 290139  B
+290042 (40)>(24) 290031  B
+290115 (36)>(28) 290033  B
+290152 (14)<(50) 290121  B
+290043 (37)>(27) 290051  B
+290158 (11)<(53) 290127  B
+290128 (50)>(14) 290162  B
+
+%Round: 2
+
+290121 (05)<(59) 290168  B
+290095 (10)<(54) 290043  B
+290127 (20)<(44) 290097  B
+290169 (51)>(13) 290128  B
+290042 (18)<(46) 290107  B
+290032 (30)<(34) 290115  B
+290031 (13)<(51) 290139  B
+290129 (26)<(38) 290152  B
+290033 (20)<(44) 290131  B
+290132 (54)>(10) 290158  B
+290051 (27)<(37) 290045  B
+
+%Round: 3
+
+290168 (35)>(29) 290107  B
+290097 (13)<(51) 290115  B
+290043 (39)>(25) 290169  B
+290045 (40)>(24) 290095  B
+290139 (40)>(24) 290121  B
+290152 (17)<(47) 290127  B
+290128 (34)>(30) 290042  B
+290131 (34)>(30) 290032  B
+290162 (16)<(48) 290132  B
+290033 (53)>(11) 290031  B
+290051 (50)>(14) 290129  B
+
+%Round: 4
+
+290115 (31)<(33) 290168  B
+290107 (23)<(41) 290043  B
+290139 (44)>(20) 290097  B
+290169 (50)>(14) 290131  B
+290127 (42)>(22) 290045  B
+290132 (45)>(19) 290128  B
+290095 (45)>(19) 290152  B
+290121 (42)>(22) 290162  B
+290158 (09)<(55) 290033  B
+290032 (32)=(32) 290042  B
+290031 (08)<(56) 290051  B
+
+
+%%Added results

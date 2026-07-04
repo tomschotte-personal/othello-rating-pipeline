@@ -1,0 +1,51 @@
+%%Tournament: Ile de France 3
+%%Country: France
+%%Date: 01/06/2013
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2013/10/16 19:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    3518, DELAUNAY, Arnaud, FRA,  5, 222, 2209
+%_%      45, ANDRIANI, Bintsa, FRA,  4, 185, 1753
+%_%    3841, LEBLANC, Aurelien, FRA,  3, 190, 1986
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  3, 188, 1949
+%_%    2788, LECAT, Monique, BEL,  2, 133, 1569
+%_%    5908, DARCK, Nancy, BEL,  2, 114, 1540
+%_%    3600, BENOIT, Serge, FRA,  1, 128, 1332
+
+
+
+%Round: 1
+
+  2788 (26)<(38)     45  B
+  5908 (02)<(62)   3518  B
+  3841 (47)>(17)   3598  B
+
+%Round: 2
+
+  3598 (44)>(20)   5908  B
+    45 (35)>(29)   3841  B
+  3518 (50)>(14)   3600  B
+
+%Round: 3
+
+  3600 (18)<(46)   3598  B
+  3518 (40)>(24)     45  B
+  3841 (47)>(17)   2788  B
+
+%Round: 4
+
+  2788 (36)>(28)   3600  B
+    45 (48)>(16)   5908  B
+  3598 (31)<(33)   3518  B
+
+%Round: 5
+
+  5908 (36)>(28)   3600  B
+  3598 (50)>(14)   2788  B
+  3518 (37)>(27)   3841  B
+
+
+%%Added results

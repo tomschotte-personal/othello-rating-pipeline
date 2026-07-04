@@ -1,0 +1,47 @@
+%%Tournament: Giochi Sforzeschi - Milano
+%%Country: Italy
+%%Date: 10/12/2005
+%%Sender: Donato Barnaba
+
+
+%_%   407, BARNABA, Donato
+%_%   3024, BORASSI, Michele
+%_%   3005, PALLADINO, Domenico
+%_%   2903, BERSAGLIERI, Daniela
+%_% 3110, TROMBETTONI, Andrea   
+%_%   3061, DE LEO, Maurizio
+%_%   3081, REALE, Francesco
+%_%   2930, BAGGIO, Giuseppe
+%_%   3082, FARACI, Marco
+%_%   3056, SARANGA, Roberto
+
+
+
+%Round: 1
+
+ 407 (40)>(24) 3081 B
+2903 (00)<(64) 3024 B
+3005 (48)>(16) 3082 B
+3056 (47)>(17) 3061 B
+
+%Round: 2
+
+ 407 (45)>(19) 3005 B
+3024 (60)>(04) 3056 B
+3061 (35)>(29) 2930 B
+3081 (25)<(39) 3082 B
+3110 (25)<(39) 2903 B
+
+%Round: 3
+
+3024 (34)>(30)  407 B
+3005 (45)>(19) 3056 B
+3082 (24)<(40) 3061 B
+2930 (10)<(54) 2903 B
+
+%Round: 4
+
+3005 (16)<(48) 3024 B
+3061 (01)<(63)  407 B
+2903 (49)>(15) 3081 B
+3082 (50)>(14) 2930 B

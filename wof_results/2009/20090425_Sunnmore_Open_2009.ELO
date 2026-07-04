@@ -1,0 +1,69 @@
+%%Tournament: Sunnmore Open 2009
+%%Country: Norway
+%%Date: 25/04/2009
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2009/04/27 22:13
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%    2570, ALBRIGTSEN, Vidar, N, 10, 513
+%_%    2557, ESTBERGER, Mats, N,  7, 421
+%_%    2577, SAWALA, Rita, N,  5.5, 334
+%_%    1802, SKOGEN, Tor Birger, N,  4, 348
+%_%    2571, AARHUS, Jan Gunnar, N,  3.5, 304
+
+
+
+%Round: 1
+
+  1802 (34)>(30)   2577 B
+  2557 (21)<(43)   2570 B
+
+%Round: 2
+
+  2571 (25)<(39)   2557 B
+  2570 (37)>(27)   1802 B
+
+%Round: 3
+
+  2577 (27)<(37)   2570 B
+  1802 (21)<(43)   2571 B
+
+%Round: 4
+
+  2557 (39)>(25)   1802 B
+  2571 (22)<(42)   2577 B
+
+%Round: 5
+
+  2570 (52)>(12)   2571 B
+  2577 (00)<(64)   2557 B
+
+%Round: 6
+
+  2577 (34)>(30)   1802 B
+  2570 (50)>(14)   2557 B
+
+%Round: 7
+
+  2557 (53)>(11)   2571 B
+  1802 (18)<(46)   2570 B
+
+%Round: 8
+
+  2570 (64)>(00)   2577 B
+  2571 (23)<(41)   1802 B
+
+%Round: 9
+
+  1802 (24)<(40)   2557 B
+  2577 (32)=(32)   2571 B
+
+%Round: 10
+
+  2571 (08)<(56)   2570 B
+  2557 (23)<(41)   2577 B
+
+
+%%Added results

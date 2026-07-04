@@ -1,0 +1,51 @@
+%%Tournament: Tournoi de Noel 2011
+%%Country: France
+%%Date: 10/12/2011
+%%Sender: Marc Tastet
+
+%%Creator: PAPP 1.33
+%%CreationDate: 2011/12/11 00:15
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+%_%       2, TASTET, Marc, F,  5, 200
+%_%    3515, BUTIN, Pierre, F,  4, 220
+%_%   50030, JUIGNER, Arthur, F,  3, 164
+%_%    3839, RUBIO, Celine, F,  2, 163
+%_%    3734, CLUZON, Gilles, F,  2, 150
+%_%    3600, BENOIT, Serge, F,  2, 144
+%_%     419, BETIN, Dominique, F,  2, 119
+
+
+
+%Round: 1
+
+ 50030 (42)>(22)    419  B
+  3515 (44)>(20)   3734  B
+     2 (42)>(22)   3839  B
+
+%Round: 2
+
+  3600 (22)<(42)   3515  B
+ 50030 (24)<(40)      2  B
+   419 (21)<(43)   3734  B
+
+%Round: 3
+
+     2 (35)>(29)   3515  B
+  3734 (24)<(40)   3600  B
+  3839 (29)<(35)  50030  B
+
+%Round: 4
+
+  3600 (22)<(42)      2  B
+   419 (36)>(28)   3839  B
+  3515 (41)>(23)  50030  B
+
+%Round: 5
+
+  3734 (23)<(41)      2  B
+  3839 (44)>(20)   3600  B
+  3515 (64)>(00)    419  B
+
+
+%%Added results

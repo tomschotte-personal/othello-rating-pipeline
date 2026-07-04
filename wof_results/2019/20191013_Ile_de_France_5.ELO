@@ -1,0 +1,64 @@
+%%Tournament: Ile de France 5
+%%Country: France
+%%Date: 13/10/2019
+%%Sender: Serge Benoit
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2019/12/08 15:40
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA,  4, 231, 2084
+%_%    9025, TOUCHENE, Fouad, DZA,  4, 210, 1738
+%_%    3518, DELAUNAY, Arnaud, FRA,  4, 185, 2085
+%_%      45, ANDRIANI, Bintsa, FRA,  3, 227, 1805
+%_%    3600, BENOIT, Serge, FRA,  3, 154, 1367
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA,  2, 194, 1960
+%_%   50115, ROBERT, Dominique, FRA,  2, 142, 1121
+%_%     275, OVION, Jacques, FRA,  1, 115, 1093
+%_%   50097, OVION, Alix-Anne, FRA,  1, 90, 51
+%_%   50110, ROUSSELLE, Yolande, FRA,  1, 52, 544
+
+
+
+%Round: 1
+
+ 50097 (40)>(24)    275  B
+  3598 (30)<(34)   3518  B
+    45 (15)<(49)      2  B
+ 50110 (07)<(57)  50115  B
+  3600 (19)<(45)   9025  B
+
+%Round: 2
+
+  3518 (59)>(05)  50097  B
+ 50115 (16)<(48)   3598  B
+    45 (63)>(01)  50110  B
+   275 (17)<(47)   3600  B
+  9025 (15)<(49)      2  B
+
+%Round: 3
+
+ 50110 (09)<(55)    275  B
+  3598 (27)<(37)   9025  B
+  3600 (49)>(15)  50115  B
+ 50097 (00)<(64)     45  B
+     2 (64)>(00)   3518  B
+
+%Round: 4
+
+ 50115 (49)>(15)  50097  B
+  3518 (34)>(30)     45  B
+ 50110 (01)<(63)   3598  B
+     2 (31)<(33)   3600  B
+   275 (10)<(54)   9025  B
+
+%Round: 5
+
+  9025 (59)>(05)  50115  B
+  3600 (06)<(58)   3518  B
+ 50097 (30)<(34)  50110  B
+  3598 (26)<(38)      2  B
+    45 (55)>(09)    275  B
+
+
+%%Added results
