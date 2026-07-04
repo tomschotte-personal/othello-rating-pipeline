@@ -62,29 +62,36 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git clone git@github.com:tomschotte-personal/worldothellorating.git fide_rating/pages
 
-      - name: Compute live rating
+      # GitHub's cron scheduler is unreliable (observed gaps of 1-2h on a 15-min
+      # cron). Each run therefore LOOPS for ~65 minutes, refreshing every ~6 min.
+      # Combined with the concurrency group (queued, not cancelled), even an
+      # hourly-throttled cron yields continuous coverage.
+      - name: Refresh loop (~65 min, every ~6 min)
         if: steps.gate.outputs.ids != ''
         working-directory: fide_rating
-        run: python shift1800_live.py --refresh ${{ steps.gate.outputs.ids }}
-
-      - name: Generate HTML
-        if: steps.gate.outputs.ids != ''
-        working-directory: fide_rating
-        run: python shift1800_html.py
-
-      - name: Push to pages
-        if: steps.gate.outputs.ids != ''
-        working-directory: fide_rating/pages
         run: |
-          git config user.name "othello-rating-bot"
-          git config user.email "actions@github.com"
-          git add index.html
-          if git diff --cached --quiet; then
-            echo "No changes to publish."
-          else
-            git commit -m "Live refresh $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)"
-            git push origin main
-          fi
+          git config --global user.name "othello-rating-bot"
+          git config --global user.email "actions@github.com"
+          DEADLINE=$(( $(date +%s) + 65*60 ))
+          ITER=0
+          while [ "$(date +%s)" -lt "$DEADLINE" ]; do
+            ITER=$((ITER+1))
+            echo "=== iteration $ITER — $(date -u '+%H:%M:%S UTC') ==="
+            python shift1800_live.py --refresh ${{ steps.gate.outputs.ids }} || echo "compute failed — retrying next iteration"
+            python shift1800_html.py || echo "html failed — retrying next iteration"
+            (
+              cd pages
+              git add index.html
+              if git diff --cached --quiet; then
+                echo "No changes to publish."
+              else
+                git commit -m "Live refresh $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)"
+                git push origin main || (git pull --rebase origin main && git push origin main)
+              fi
+            )
+            [ "$(date +%s)" -lt "$DEADLINE" ] && sleep 240
+          done
+          echo "Loop finished after $ITER iterations."
 
       - name: Commit enriched FTD caches back
         if: steps.gate.outputs.ids != ''
