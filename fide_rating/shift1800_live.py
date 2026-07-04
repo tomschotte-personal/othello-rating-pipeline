@@ -608,7 +608,9 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
     players.sort(key=lambda p: -p['rating'])
 
     output = {
-        'ref_date': datetime.now().strftime('%Y-%m-%d %H:%M'),
+        # Stamp in Brussels time regardless of runner timezone (GitHub Actions = UTC)
+        'ref_date': __import__('datetime').datetime.now(
+            __import__('zoneinfo').ZoneInfo('Europe/Brussels')).strftime('%Y-%m-%d %H:%M'),
         'baseline_date': BASELINE_DATE.strftime('%Y-%m-%d'),
         'tournament_id': ','.join(str(t[0]) for t in tournament_ids),
         'tournament_name': ec_name or 'Live',
