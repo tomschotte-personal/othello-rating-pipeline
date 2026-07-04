@@ -21,7 +21,7 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 
 
-BASE = 'C:/Claude/o_dan'
+BASE = os.path.dirname(os.path.abspath(__file__))  # repo root (portable)
 ZIPS_DIR = os.path.join(BASE, 'wof_zips')
 EXTRACT_DIR = os.path.join(BASE, 'wof_results')
 JOUEURS = os.path.join(BASE, 'joueurs.txt')
