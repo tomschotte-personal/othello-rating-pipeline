@@ -155,6 +155,27 @@ def fetch_tournament_full(tournament_id):
     }
 
 
+def _merge_tournament_data(old, new):
+    """Union previously-cached rounds with a fresh fetch. Round-button clicks in
+    the Playwright fetch are flaky — a fetch that only captured round N must not
+    lose rounds captured by earlier fetches. Fresh data wins per round (results
+    fill in); missing rounds are retained from the cache."""
+    merged = {}
+    for rd in (old.get('rounds') or []):
+        merged[rd.get('currentRound')] = rd
+    for rd in (new.get('rounds') or []):
+        merged[rd.get('currentRound')] = rd
+    out = dict(new)
+    out['rounds'] = sorted(merged.values(), key=lambda rd: rd.get('currentRound') or 0)
+    if len(old.get('players_list') or []) > len(new.get('players_list') or []):
+        out['players_list'] = old['players_list']
+    if not out.get('standings'):
+        out['standings'] = old.get('standings') or []
+    if not out.get('info'):
+        out['info'] = old.get('info') or {}
+    return out
+
+
 def fetch_or_load_tournament(tournament_id, force_refresh=False):
     """Fetch tournament from FTD or load cached copy.
 
@@ -164,9 +185,16 @@ def fetch_or_load_tournament(tournament_id, force_refresh=False):
     if force_refresh or not os.path.exists(cache):
         try:
             d = fetch_tournament_full(tournament_id)
+            if os.path.exists(cache):
+                try:
+                    with open(cache, encoding='utf-8') as f:
+                        old = json.load(f)
+                    d = _merge_tournament_data(old, d)
+                except Exception:
+                    pass
             with open(cache, 'w', encoding='utf-8') as f:
                 json.dump(d, f, ensure_ascii=False)
-            print(f'  Cached {cache}')
+            print(f'  Cached {cache} ({len(d.get("rounds") or [])} rounds after merge)')
         except Exception as e:
             if os.path.exists(cache):
                 print(f'  Refresh of {tournament_id} failed ({str(e)[:80]}) — using cached copy')

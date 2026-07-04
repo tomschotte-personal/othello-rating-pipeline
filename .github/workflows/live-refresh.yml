@@ -14,6 +14,9 @@ concurrency:
   group: live-refresh
   cancel-in-progress: false
 
+permissions:
+  contents: write   # commit enriched tournament_*.json caches back
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -80,5 +83,19 @@ jobs:
             echo "No changes to publish."
           else
             git commit -m "Live refresh $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)"
+            git push origin main
+          fi
+
+      - name: Commit enriched FTD caches back
+        if: steps.gate.outputs.ids != ''
+        run: |
+          git config user.name "othello-rating-bot"
+          git config user.email "actions@github.com"
+          git add tournament_*.json
+          if git diff --cached --quiet; then
+            echo "Caches unchanged."
+          else
+            git commit -m "Update FTD caches ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git pull --rebase origin main
             git push origin main
           fi
