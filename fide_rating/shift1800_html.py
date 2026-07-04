@@ -950,7 +950,56 @@ tBtn.addEventListener('click', (e) => {{
 document.addEventListener('click', (e) => {{
     if (!tPanel.contains(e.target) && e.target !== tBtn) tPanel.classList.remove('open');
 }});
+
+// Persist filter state across page reloads (the site republishes every few
+// minutes during live events — a reload must not clear the user's filters).
+const PERSISTED_FILTERS = ['search', 'continent-filter', 'country-filter',
+                           'hide-prov', 'only-active', 'only-active-week'];
+function saveFilters() {{
+    try {{
+        const st = {{}};
+        PERSISTED_FILTERS.forEach(id => {{
+            const el = document.getElementById(id);
+            if (!el) return;
+            st[id] = (el.type === 'checkbox') ? el.checked : el.value;
+        }});
+        localStorage.setItem('wor-filters', JSON.stringify(st));
+    }} catch (e) {{ /* private browsing etc. */ }}
+}}
+function restoreFilters() {{
+    try {{
+        const st = JSON.parse(localStorage.getItem('wor-filters') || '{{}}');
+        PERSISTED_FILTERS.forEach(id => {{
+            if (!(id in st)) return;
+            const el = document.getElementById(id);
+            if (!el) return;
+            if (el.type === 'checkbox') el.checked = !!st[id];
+            else el.value = st[id];
+        }});
+    }} catch (e) {{}}
+}}
+PERSISTED_FILTERS.forEach(id => {{
+    const el = document.getElementById(id);
+    if (el) el.addEventListener(el.type === 'checkbox' || el.tagName === 'SELECT' ? 'change' : 'input', saveFilters);
+}});
+restoreFilters();
 render();
+// Second pass for the selects: their <option>s only exist after the first
+// render, so re-apply persisted values now (continent first — the country
+// dropdown's contents depend on it — then country, re-rendering as needed).
+try {{
+    const st = JSON.parse(localStorage.getItem('wor-filters') || '{{}}');
+    const cofEl = document.getElementById('continent-filter');
+    if (st['continent-filter'] && cofEl.value !== st['continent-filter']) {{
+        cofEl.value = st['continent-filter'];
+        if (cofEl.value === st['continent-filter']) render();
+    }}
+    const cfEl = document.getElementById('country-filter');
+    if (st['country-filter'] && cfEl.value !== st['country-filter']) {{
+        cfEl.value = st['country-filter'];
+        if (cfEl.value === st['country-filter']) render();
+    }}
+}} catch (e) {{}}
 </script>
 </div>
 </body>
