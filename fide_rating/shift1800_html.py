@@ -864,13 +864,17 @@ function render() {{
         if (continentVal && CONTINENT[p.c] !== continentVal) return;
         if (country && p.c !== country) return;
         if (hideProv && p.pr) return;
-        if (onlyActive) {{
+        // Participants of a currently-tracked live tournament are 'active'
+        // by definition — even before their first game result lands (their
+        // last_played / log only update once a game finishes).
+        const isLiveParticipant = !!(p.tournaments && p.tournaments.length);
+        if (onlyActive && !isLiveParticipant) {{
             // 'Active this month' = the player has at least one game in the
             // current snapshot's log (monthly) or tournament log (yearly).
             const hasLog = (p.log && p.log.length) || (p.tl && p.tl.length);
             if (!hasLog) return;
         }}
-        if (onlyActiveWeek) {{
+        if (onlyActiveWeek && !isLiveParticipant) {{
             // 'Active now' = last_played within 3 days of snap.ref_date/date
             if (!p.l || !weekCutoff || p.l < weekCutoff) return;
         }}
