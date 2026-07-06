@@ -2,7 +2,9 @@ name: Live rating refresh
 
 on:
   schedule:
-    - cron: '4,19,34,49 * * * *'
+    # Weekends only (Sat/Sun) — tournaments rarely run on weekdays. For a
+    # weekday event, use workflow_dispatch (manual run) instead.
+    - cron: '4,19,34,49 * * * 6,0'
   workflow_dispatch:
     inputs:
       ftd_ids:
@@ -74,21 +76,31 @@ jobs:
           git config --global user.email "actions@github.com"
           DEADLINE=$(( $(date +%s) + 65*60 ))
           ITER=0
+          PREV_HASH=""
           while [ "$(date +%s)" -lt "$DEADLINE" ]; do
             ITER=$((ITER+1))
             echo "=== iteration $ITER — $(date -u '+%H:%M:%S UTC') ==="
             python shift1800_live.py --refresh ${{ steps.gate.outputs.ids }} || echo "compute failed — retrying next iteration"
-            python shift1800_html.py || echo "html failed — retrying next iteration"
-            (
-              cd pages
-              git add index.html
-              if git diff --cached --quiet; then
-                echo "No changes to publish."
-              else
-                git commit -m "Live refresh $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)"
-                git push origin main || (git pull --rebase origin main && git push origin main)
-              fi
-            )
+            # Skip publish when the underlying data hasn't changed (only the
+            # ref_date timestamp differs). Prevents commit/deploy spam when a
+            # tournament is idle or already finished.
+            DATA_HASH=$(jq -S 'del(.ref_date)' world_fide_live_shift1800.json 2>/dev/null | sha256sum | cut -d' ' -f1 || echo "nohash-$ITER")
+            if [ "$DATA_HASH" = "$PREV_HASH" ]; then
+              echo "Data unchanged since last iteration — skipping publish."
+            else
+              PREV_HASH="$DATA_HASH"
+              python shift1800_html.py || echo "html failed — retrying next iteration"
+              (
+                cd pages
+                git add index.html
+                if git diff --cached --quiet; then
+                  echo "No changes to publish."
+                else
+                  git commit -m "Live refresh $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)"
+                  git push origin main || (git pull --rebase origin main && git push origin main)
+                fi
+              )
+            fi
             [ "$(date +%s)" -lt "$DEADLINE" ] && sleep 240
           done
           echo "Loop finished after $ITER iterations."
