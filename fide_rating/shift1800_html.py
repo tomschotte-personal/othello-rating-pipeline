@@ -178,9 +178,18 @@ if os.path.exists(live_path):
     for p in live_slim:
         for g in p.get('log', []):
             opp_ids_needed.add(g['o'])
+    # Dropdown display label: '<MONTH> LIVE' — the live overlay covers the month
+    # following the baseline date (e.g. baseline 2026-06-30 → 'JULY LIVE').
+    from datetime import datetime as _dt, timedelta as _td
+    try:
+        _base = _dt.strptime(live.get('baseline_date', '')[:10], '%Y-%m-%d')
+        _live_label = (_base + _td(days=1)).strftime('%B').upper() + ' LIVE'
+    except (ValueError, TypeError):
+        _live_label = 'LIVE'
     snapshots.append({
         'date': 'LIVE',
         'live': True,
+        'month_label': _live_label,
         'tournament_name': live.get('tournament_name', ''),
         'tournament_id': live.get('tournament_id'),
         'ec_games_played': live.get('ec_games_played', 0),
@@ -507,7 +516,7 @@ function repopulateDropdown() {{
         const s = SNAPSHOTS[i];
         const opt = document.createElement('option');
         opt.value = i;
-        opt.textContent = s.live ? `LIVE — ${{s.tournament_name || 'Live'}}` : s.date;
+        opt.textContent = s.live ? (s.month_label || 'LIVE') : s.date;
         dateSelect.appendChild(opt);
     }}
     dateSelect.value = snapIdx;
