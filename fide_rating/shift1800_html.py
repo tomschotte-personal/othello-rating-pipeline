@@ -372,6 +372,7 @@ td.rating {{ text-align: right; font-weight: 700; font-variant-numeric: tabular-
 .diff-down {{ color: #c53030; font-weight: 600; }}
 .diff-flat {{ color: #cbd5e0; }}
 .diff-new {{ color: #3182ce; font-weight: 700; font-size: 11px; }}
+.diff-ret {{ color: #dd6b20; font-weight: 700; font-size: 11px; }}
 .diff-cell {{ position: relative; cursor: help; }}
 .diff-cell:hover .tip {{ display: block; }}
 .tip {{
@@ -701,12 +702,32 @@ function diffCells(pid, currR, currRank, prevLookup, log, tl) {{
     if (!prevLookup) return '<td class="num diff-flat">-</td><td class="num diff-flat">-</td>';
     const prev = prevLookup[pid];
     if (!prev) {{
-        // New player: show games tooltip without rating-delta columns
-        const tip = (log && log.length) ? buildTooltip(log, true) : '';
-        if (tip) {{
-            return `<td class="num diff-cell diff-new">NEW${{tip}}</td><td class="num diff-new">NEW</td>`;
+        // Distinguish RETURNING players (rated in ANY earlier snapshot, then
+        // dropped off via the 38-month inactivity rule) from genuinely NEW ones.
+        const series = HISTORY[pid];
+        let lastR = null, lastIdx = -1;
+        if (series) {{
+            for (let i = snapIdx - 1; i >= 0; i--) {{
+                if (series[i] != null) {{ lastR = series[i]; lastIdx = i; break; }}
+            }}
         }}
-        return '<td class="num diff-new">NEW</td><td class="num diff-new">NEW</td>';
+        const tip = (log && log.length) ? buildTooltip(log, true) : '';
+        if (lastR !== null) {{
+            // RETURNING: DRating shows the delta vs their last rated appearance
+            const dr = currR - lastR;
+            const rCls = dr > 0.5 ? 'diff-up' : (dr < -0.5 ? 'diff-down' : 'diff-flat');
+            const rStr = Math.abs(dr) >= 0.5 ? (dr > 0 ? '+' : '') + dr.toFixed(1) : '0';
+            const rTitle = ` title="vs last rated appearance (${{HISTORY_LABELS[lastIdx]}})"`;
+            const rCell = tip
+                ? `<td class="num diff-cell ${{rCls}}"${{rTitle}}>${{rStr}}${{tip}}</td>`
+                : `<td class="num ${{rCls}}"${{rTitle}}>${{rStr}}</td>`;
+            return rCell + `<td class="num diff-ret" title="Returning player — rated before, inactive in the previous list">RET</td>`;
+        }}
+        const nTitle = ' title="First appearance in the rating list"';
+        if (tip) {{
+            return `<td class="num diff-cell diff-new"${{nTitle}}>NEW${{tip}}</td><td class="num diff-new"${{nTitle}}>NEW</td>`;
+        }}
+        return `<td class="num diff-new"${{nTitle}}>NEW</td><td class="num diff-new"${{nTitle}}>NEW</td>`;
     }}
     const dr = currR - prev.r;
     const rCls = dr > 0.5 ? 'diff-up' : (dr < -0.5 ? 'diff-down' : 'diff-flat');
@@ -719,7 +740,7 @@ function diffCells(pid, currR, currRank, prevLookup, log, tl) {{
         : `<td class="num ${{rCls}}">${{rStr}}</td>`;
     let kCell;
     if (prev.rank === null || prev.rank === undefined) {{
-        kCell = `<td class="num diff-new" title="Returning player">RET</td>`;
+        kCell = `<td class="num diff-ret" title="Returning player — rated before, inactive in the previous list">RET</td>`;
     }} else {{
         const dk = prev.rank - currRank;
         const kCls = dk > 0 ? 'diff-up' : (dk < 0 ? 'diff-down' : 'diff-flat');
