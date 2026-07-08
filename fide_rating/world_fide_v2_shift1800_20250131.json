@@ -24198,17 +24198,6 @@
       ]
     },
     {
-      "id": 40243,
-      "rating": 1855.2,
-      "initial": 1855.2,
-      "games_played": 4,
-      "firstname": "Marziano",
-      "surname": "FARINA",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2024-10-27"
-    },
-    {
       "id": 15482,
       "rating": 1855.2,
       "initial": 1856.4,
@@ -25981,6 +25970,17 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2023-06-23"
+    },
+    {
+      "id": 40243,
+      "rating": 1846.4,
+      "initial": 1846.4,
+      "games_played": 4,
+      "firstname": "Marziano",
+      "surname": "FARINA",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2024-10-27"
     },
     {
       "id": 15407,

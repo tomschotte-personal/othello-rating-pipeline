@@ -1,7 +1,7 @@
 {
   "ref_date": "2026-04-30",
   "algorithm": "FIDE Elo (two-pass bootstrap, causal)",
-  "total_games": 416772,
+  "total_games": 416778,
   "total_rated": 15651,
   "total_active": 4287,
   "players": [
@@ -165,21 +165,10 @@
       "last_played": "2026-03-15"
     },
     {
-      "id": 5546,
-      "rating": 2448.7,
-      "initial": 1796.5,
-      "games_played": 1187,
-      "firstname": "Yasushi",
-      "surname": "NAGANO",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-03-15"
-    },
-    {
       "id": 5539,
-      "rating": 2446.7,
+      "rating": 2449.3,
       "initial": 1778.3,
-      "games_played": 1773,
+      "games_played": 1774,
       "firstname": "Takashi",
       "surname": "YAMAKAWA",
       "country": "JPN",
@@ -210,18 +199,36 @@
         {
           "d": "2026-04-25",
           "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15404,
+          "s": 1.0,
+          "dr": 2.64
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
           "o": 15583,
           "s": 1.0,
-          "dr": 2.3
+          "dr": 2.27
         },
         {
           "d": "2026-04-25",
           "t": "20260425_2026_Tokyo_expert_games",
           "o": 15042,
           "s": 0.0,
-          "dr": -8.04
+          "dr": -8.06
         }
       ]
+    },
+    {
+      "id": 5546,
+      "rating": 2448.7,
+      "initial": 1796.5,
+      "games_played": 1187,
+      "firstname": "Yasushi",
+      "surname": "NAGANO",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-03-15"
     },
     {
       "id": 50030,
@@ -528,9 +535,9 @@
     },
     {
       "id": 5655,
-      "rating": 2395.1,
+      "rating": 2388.2,
       "initial": 1827.3,
-      "games_played": 1044,
+      "games_played": 1045,
       "firstname": "Tetsu",
       "surname": "SATANI",
       "country": "JPN",
@@ -571,6 +578,13 @@
           "o": 15583,
           "s": 1.0,
           "dr": 2.91
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15404,
+          "s": 0.0,
+          "dr": -6.87
         }
       ]
     },
@@ -771,54 +785,6 @@
       "last_played": "2025-08-02"
     },
     {
-      "id": 15202,
-      "rating": 2355.5,
-      "initial": 1796.9,
-      "games_played": 449,
-      "firstname": "Ryutaro",
-      "surname": "OGURA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-25",
-      "log": [
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 15042,
-          "s": 0.0,
-          "dr": -13.34
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 5513,
-          "s": 1.0,
-          "dr": 4.16
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 10557,
-          "s": 1.0,
-          "dr": 8.78
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 14458,
-          "s": 1.0,
-          "dr": 3.14
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 15567,
-          "s": 1.0,
-          "dr": 6.5
-        }
-      ]
-    },
-    {
       "id": 5700,
       "rating": 2347.0,
       "initial": 1957.5,
@@ -863,6 +829,61 @@
           "o": 130038,
           "s": 1.0,
           "dr": 0.58
+        }
+      ]
+    },
+    {
+      "id": 15202,
+      "rating": 2343.3,
+      "initial": 1796.9,
+      "games_played": 450,
+      "firstname": "Ryutaro",
+      "surname": "OGURA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-25",
+      "log": [
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15042,
+          "s": 0.0,
+          "dr": -13.34
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 5513,
+          "s": 1.0,
+          "dr": 4.16
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 10557,
+          "s": 1.0,
+          "dr": 8.78
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 14458,
+          "s": 1.0,
+          "dr": 3.14
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15567,
+          "s": 1.0,
+          "dr": 6.5
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15404,
+          "s": 0.0,
+          "dr": -12.23
         }
       ]
     },
@@ -1591,6 +1612,61 @@
       "last_played": "2026-03-14"
     },
     {
+      "id": 15404,
+      "rating": 2297.0,
+      "initial": 1723.4,
+      "games_played": 308,
+      "firstname": "Tomoki",
+      "surname": "OTAKA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-25",
+      "log": [
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 5539,
+          "s": 0.0,
+          "dr": -5.27
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 13486,
+          "s": 0.0,
+          "dr": -9.94
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 5655,
+          "s": 1.0,
+          "dr": 13.73
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 14458,
+          "s": 1.0,
+          "dr": 4.37
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15202,
+          "s": 1.0,
+          "dr": 12.23
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15583,
+          "s": 1.0,
+          "dr": 7.91
+        }
+      ]
+    },
+    {
       "id": 14102,
       "rating": 2296.6,
       "initial": 1871.8,
@@ -1940,6 +2016,89 @@
       "last_played": "2025-05-04"
     },
     {
+      "id": 13486,
+      "rating": 2289.0,
+      "initial": 1711.0,
+      "games_played": 856,
+      "firstname": "Rintaro",
+      "surname": "NAKAMURA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-25",
+      "log": [
+        {
+          "d": "2026-04-05",
+          "t": "20260405_11_Yokohama_challenge",
+          "o": 6843,
+          "s": 0.0,
+          "dr": -16.32
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_11_Yokohama_challenge",
+          "o": 7054,
+          "s": 0.0,
+          "dr": -9.82
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_11_Yokohama_challenge",
+          "o": 5567,
+          "s": 1.0,
+          "dr": 7.05
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_11_Yokohama_challenge",
+          "o": 16361,
+          "s": 1.0,
+          "dr": 2.03
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_11_Yokohama_challenge",
+          "o": 14499,
+          "s": 0.0,
+          "dr": -8.53
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 5655,
+          "s": 0.0,
+          "dr": -6.51
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 5513,
+          "s": 1.0,
+          "dr": 6.35
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 12341,
+          "s": 1.0,
+          "dr": 11.65
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15404,
+          "s": 1.0,
+          "dr": 9.94
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15583,
+          "s": 1.0,
+          "dr": 8.37
+        }
+      ]
+    },
+    {
       "id": 80000,
       "rating": 2287.2,
       "initial": 1986.8,
@@ -2165,82 +2324,6 @@
       "last_played": "2026-03-15"
     },
     {
-      "id": 13486,
-      "rating": 2279.3,
-      "initial": 1711.0,
-      "games_played": 855,
-      "firstname": "Rintaro",
-      "surname": "NAKAMURA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-25",
-      "log": [
-        {
-          "d": "2026-04-05",
-          "t": "20260405_11_Yokohama_challenge",
-          "o": 6843,
-          "s": 0.0,
-          "dr": -16.32
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_11_Yokohama_challenge",
-          "o": 7054,
-          "s": 0.0,
-          "dr": -9.82
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_11_Yokohama_challenge",
-          "o": 5567,
-          "s": 1.0,
-          "dr": 7.05
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_11_Yokohama_challenge",
-          "o": 16361,
-          "s": 1.0,
-          "dr": 2.03
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_11_Yokohama_challenge",
-          "o": 14499,
-          "s": 0.0,
-          "dr": -8.53
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 5655,
-          "s": 0.0,
-          "dr": -6.51
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 5513,
-          "s": 1.0,
-          "dr": 6.35
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 12341,
-          "s": 1.0,
-          "dr": 11.65
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 15583,
-          "s": 1.0,
-          "dr": 8.65
-        }
-      ]
-    },
-    {
       "id": 5549,
       "rating": 2278.1,
       "initial": 1768.2,
@@ -2283,17 +2366,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2025-11-30"
-    },
-    {
-      "id": 15404,
-      "rating": 2274.0,
-      "initial": 1723.4,
-      "games_played": 302,
-      "firstname": "Tomoki",
-      "surname": "OTAKA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-03-29"
     },
     {
       "id": 13892,
@@ -3636,7 +3708,7 @@
     },
     {
       "id": 15042,
-      "rating": 2228.2,
+      "rating": 2228.3,
       "initial": 1851.2,
       "games_played": 640,
       "firstname": "Kanaharu",
@@ -3720,7 +3792,7 @@
           "t": "20260425_2026_Tokyo_expert_games",
           "o": 5539,
           "s": 1.0,
-          "dr": 16.08
+          "dr": 16.13
         },
         {
           "d": "2026-04-25",
@@ -4021,10 +4093,21 @@
       "last_played": "2025-12-28"
     },
     {
+      "id": 5012,
+      "rating": 2212.4,
+      "initial": 1835.1,
+      "games_played": 1316,
+      "firstname": "Albert",
+      "surname": "KORTENDIJK",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2025-06-22"
+    },
+    {
       "id": 15583,
-      "rating": 2218.6,
+      "rating": 2211.5,
       "initial": 1823.8,
-      "games_played": 688,
+      "games_played": 689,
       "firstname": "Yuta",
       "surname": "MEISHO",
       "country": "JPN",
@@ -4120,7 +4203,7 @@
           "t": "20260425_2026_Tokyo_expert_games",
           "o": 5539,
           "s": 0.0,
-          "dr": -4.59
+          "dr": -4.54
         },
         {
           "d": "2026-04-25",
@@ -4141,48 +4224,44 @@
           "t": "20260425_2026_Tokyo_expert_games",
           "o": 13486,
           "s": 0.0,
-          "dr": -8.65
+          "dr": -8.37
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15404,
+          "s": 0.0,
+          "dr": -7.91
         },
         {
           "d": "2026-04-25",
           "t": "20260425_2026_Tokyo_expert_games",
           "o": 5513,
           "s": 1.0,
-          "dr": 6.71
+          "dr": 6.91
         },
         {
           "d": "2026-04-29",
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 13721,
           "s": 0.5,
-          "dr": -6.65
+          "dr": -6.53
         },
         {
           "d": "2026-04-29",
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 12340,
           "s": 1.0,
-          "dr": 1.84
+          "dr": 1.91
         },
         {
           "d": "2026-04-29",
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 12340,
           "s": 1.0,
-          "dr": 1.8
+          "dr": 1.87
         }
       ]
-    },
-    {
-      "id": 5012,
-      "rating": 2212.4,
-      "initial": 1835.1,
-      "games_played": 1316,
-      "firstname": "Albert",
-      "surname": "KORTENDIJK",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2025-06-22"
     },
     {
       "id": 14236,
@@ -8087,8 +8166,19 @@
       "last_played": "2026-03-15"
     },
     {
+      "id": 7118,
+      "rating": 2089.5,
+      "initial": 1784.0,
+      "games_played": 184,
+      "firstname": "Le",
+      "surname": "KANG",
+      "country": "CHN",
+      "provisional": false,
+      "last_played": "2026-01-17"
+    },
+    {
       "id": 5513,
-      "rating": 2089.6,
+      "rating": 2089.4,
       "initial": 1945.8,
       "games_played": 1636,
       "firstname": "Kunihiko",
@@ -8172,20 +8262,9 @@
           "t": "20260425_2026_Tokyo_expert_games",
           "o": 15583,
           "s": 0.0,
-          "dr": -6.71
+          "dr": -6.91
         }
       ]
-    },
-    {
-      "id": 7118,
-      "rating": 2089.5,
-      "initial": 1784.0,
-      "games_played": 184,
-      "firstname": "Le",
-      "surname": "KANG",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2026-01-17"
     },
     {
       "id": 16370,
@@ -9477,89 +9556,6 @@
       "last_played": "2026-03-15"
     },
     {
-      "id": 14458,
-      "rating": 2051.0,
-      "initial": 1666.3,
-      "games_played": 1088,
-      "firstname": "Taketora",
-      "surname": "MIYAMOTO",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-25",
-      "log": [
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 13536,
-          "s": 0.0,
-          "dr": -6.09
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 15919,
-          "s": 1.0,
-          "dr": 6.1
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16596,
-          "s": 1.0,
-          "dr": 2.63
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 15076,
-          "s": 0.0,
-          "dr": -8.46
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 15261,
-          "s": 0.0,
-          "dr": -10.24
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 15584,
-          "s": 0.0,
-          "dr": -11.47
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 5513,
-          "s": 1.0,
-          "dr": 12.86
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 15042,
-          "s": 1.0,
-          "dr": 14.94
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 15567,
-          "s": 1.0,
-          "dr": 15.15
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_2026_Tokyo_expert_games",
-          "o": 15202,
-          "s": 0.0,
-          "dr": -3.14
-        }
-      ]
-    },
-    {
       "id": 6951,
       "rating": 2050.4,
       "initial": 1869.2,
@@ -9757,6 +9753,96 @@
           "o": 15076,
           "s": 1.0,
           "dr": 12.26
+        }
+      ]
+    },
+    {
+      "id": 14458,
+      "rating": 2046.6,
+      "initial": 1666.3,
+      "games_played": 1089,
+      "firstname": "Taketora",
+      "surname": "MIYAMOTO",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-25",
+      "log": [
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 13536,
+          "s": 0.0,
+          "dr": -6.09
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 15919,
+          "s": 1.0,
+          "dr": 6.1
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16596,
+          "s": 1.0,
+          "dr": 2.63
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 15076,
+          "s": 0.0,
+          "dr": -8.46
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 15261,
+          "s": 0.0,
+          "dr": -10.24
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 15584,
+          "s": 0.0,
+          "dr": -11.47
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 5513,
+          "s": 1.0,
+          "dr": 12.86
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15042,
+          "s": 1.0,
+          "dr": 14.94
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15567,
+          "s": 1.0,
+          "dr": 15.15
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15202,
+          "s": 0.0,
+          "dr": -3.14
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_2026_Tokyo_expert_games",
+          "o": 15404,
+          "s": 0.0,
+          "dr": -4.37
         }
       ]
     },
@@ -11891,7 +11977,7 @@
     },
     {
       "id": 14647,
-      "rating": 2011.6,
+      "rating": 2011.7,
       "initial": 1793.2,
       "games_played": 53,
       "firstname": "Shota",
@@ -16857,7 +16943,7 @@
     },
     {
       "id": 13721,
-      "rating": 1936.1,
+      "rating": 1936.0,
       "initial": 1838.9,
       "games_played": 543,
       "firstname": "Masayuki",
@@ -16990,7 +17076,7 @@
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 15583,
           "s": 0.5,
-          "dr": 6.65
+          "dr": 6.53
         },
         {
           "d": "2026-04-29",
@@ -25442,17 +25528,6 @@
       "last_played": "2025-10-04"
     },
     {
-      "id": 40243,
-      "rating": 1855.2,
-      "initial": 1855.2,
-      "games_played": 4,
-      "firstname": "Marziano",
-      "surname": "FARINA",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2024-10-27"
-    },
-    {
       "id": 441309,
       "rating": 1855.2,
       "initial": 1855.2,
@@ -27019,6 +27094,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-10-05"
+    },
+    {
+      "id": 40243,
+      "rating": 1846.4,
+      "initial": 1846.4,
+      "games_played": 4,
+      "firstname": "Marziano",
+      "surname": "FARINA",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2024-10-27"
     },
     {
       "id": 3060,
@@ -33558,8 +33644,30 @@
       "last_played": "2025-11-29"
     },
     {
-      "id": 12340,
+      "id": 580016,
       "rating": 1813.5,
+      "initial": 1825.5,
+      "games_played": 11,
+      "firstname": "Elif",
+      "surname": "OZCELIK",
+      "country": "TUR",
+      "provisional": true,
+      "last_played": "2023-12-16"
+    },
+    {
+      "id": 440784,
+      "rating": 1813.5,
+      "initial": 1813.5,
+      "games_played": 5,
+      "firstname": "Enkhbold",
+      "surname": "BATBAYAR",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2024-05-10"
+    },
+    {
+      "id": 12340,
+      "rating": 1813.4,
       "initial": 1759.1,
       "games_played": 444,
       "firstname": "Kokujin",
@@ -33636,38 +33744,16 @@
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 15583,
           "s": 0.0,
-          "dr": -1.84
+          "dr": -1.91
         },
         {
           "d": "2026-04-29",
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 15583,
           "s": 0.0,
-          "dr": -1.8
+          "dr": -1.87
         }
       ]
-    },
-    {
-      "id": 580016,
-      "rating": 1813.5,
-      "initial": 1825.5,
-      "games_played": 11,
-      "firstname": "Elif",
-      "surname": "OZCELIK",
-      "country": "TUR",
-      "provisional": true,
-      "last_played": "2023-12-16"
-    },
-    {
-      "id": 440784,
-      "rating": 1813.5,
-      "initial": 1813.5,
-      "games_played": 5,
-      "firstname": "Enkhbold",
-      "surname": "BATBAYAR",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2024-05-10"
     },
     {
       "id": 5519,

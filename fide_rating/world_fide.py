@@ -48,7 +48,7 @@ def collect_all_games_global_chrono(exclude_pids=None):
     skipped = 0
     for root, _, files in os.walk(EXTRACT_DIR):
         for fname in files:
-            if not fname.endswith('.ELO'):
+            if not fname.lower().endswith('.elo'):
                 continue
             path = os.path.join(root, fname)
             files_processed += 1
@@ -81,7 +81,7 @@ def get_program_ids(joueurs=None):
     seen = set()
     for root, _, files in os.walk(EXTRACT_DIR):
         for fname in files:
-            if not fname.endswith('.ELO'):
+            if not fname.lower().endswith('.elo'):
                 continue
             _, file_games = parse_elo_file(os.path.join(root, fname))
             for a, b, _ in file_games:

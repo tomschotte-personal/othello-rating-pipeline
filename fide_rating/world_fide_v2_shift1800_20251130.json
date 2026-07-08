@@ -16833,7 +16833,7 @@
     },
     {
       "id": 14647,
-      "rating": 2011.6,
+      "rating": 2011.7,
       "initial": 1793.2,
       "games_played": 53,
       "firstname": "Shota",
@@ -33214,17 +33214,6 @@
       "last_played": "2025-10-04"
     },
     {
-      "id": 40243,
-      "rating": 1855.2,
-      "initial": 1855.2,
-      "games_played": 4,
-      "firstname": "Marziano",
-      "surname": "FARINA",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2024-10-27"
-    },
-    {
       "id": 15750,
       "rating": 1855.2,
       "initial": 1784.1,
@@ -34924,6 +34913,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-10-05"
+    },
+    {
+      "id": 40243,
+      "rating": 1846.4,
+      "initial": 1846.4,
+      "games_played": 4,
+      "firstname": "Marziano",
+      "surname": "FARINA",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2024-10-27"
     },
     {
       "id": 16343,
@@ -78456,7 +78456,7 @@
     },
     {
       "id": 15910,
-      "rating": 1386.2,
+      "rating": 1386.3,
       "initial": 1581.6,
       "games_played": 59,
       "firstname": "Rei",

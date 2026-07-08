@@ -28493,47 +28493,6 @@
       ]
     },
     {
-      "id": 40243,
-      "rating": 1855.2,
-      "initial": 1855.2,
-      "games_played": 4,
-      "firstname": "Marziano",
-      "surname": "FARINA",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2024-10-27",
-      "log": [
-        {
-          "d": "2024-10-27",
-          "t": "20241027_Nocera_Inferiore",
-          "o": 40241,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_Nocera_Inferiore",
-          "o": 40246,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_Nocera_Inferiore",
-          "o": 40247,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_Nocera_Inferiore",
-          "o": 40245,
-          "s": 1.0,
-          "dr": 0.0
-        }
-      ]
-    },
-    {
       "id": 15750,
       "rating": 1855.2,
       "initial": 1784.1,
@@ -29784,6 +29743,47 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2023-06-23"
+    },
+    {
+      "id": 40243,
+      "rating": 1846.4,
+      "initial": 1846.4,
+      "games_played": 4,
+      "firstname": "Marziano",
+      "surname": "FARINA",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2024-10-27",
+      "log": [
+        {
+          "d": "2024-10-27",
+          "t": "20241027_Nocera_Inferiore",
+          "o": 40241,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_Nocera_Inferiore",
+          "o": 40246,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_Nocera_Inferiore",
+          "o": 40247,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_Nocera_Inferiore",
+          "o": 40245,
+          "s": 1.0,
+          "dr": 0.0
+        }
+      ]
     },
     {
       "id": 15407,

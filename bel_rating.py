@@ -271,7 +271,7 @@ def build_tournament_snapshots(min_year=2025, custom_path=None, allowed_ids=None
     by_date = defaultdict(list)
     for root, _, files in os.walk(EXTRACT_DIR):
         for fname in files:
-            if not fname.endswith('.ELO'):
+            if not fname.lower().endswith('.elo'):
                 continue
             path = os.path.join(root, fname)
             name = country = date = None
@@ -357,7 +357,7 @@ def collect_tournament_standings(snapshot_date_iso, snapshot_country, allowed_id
     # Walk WOF .ELO files
     for root, _, files in os.walk(EXTRACT_DIR):
         for fname in files:
-            if not fname.endswith('.ELO'):
+            if not fname.lower().endswith('.elo'):
                 continue
             path = os.path.join(root, fname)
             file_date_str = None
@@ -557,7 +557,7 @@ def collect_all_games(joueurs, allowed_ids):
     files_with_dates = 0
     for root, _, files in os.walk(EXTRACT_DIR):
         for fname in files:
-            if not fname.endswith('.ELO'):
+            if not fname.lower().endswith('.elo'):
                 continue
             path = os.path.join(root, fname)
             files_processed += 1

@@ -563,7 +563,7 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
     post_baseline = []
     for root, _, files in os.walk(EXTRACT_DIR):
         for fname in files:
-            if not fname.endswith('.ELO'): continue
+            if not fname.lower().endswith('.elo'): continue
             try: dt = datetime.strptime(fname[:8], '%Y%m%d')
             except ValueError: continue
             if dt > BASELINE_DATE:

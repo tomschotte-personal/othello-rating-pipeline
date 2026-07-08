@@ -69369,6 +69369,17 @@
       ]
     },
     {
+      "id": 15433,
+      "rating": 1856.2,
+      "initial": 1856.2,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28"
+    },
+    {
       "id": 60065,
       "rating": 1856.0,
       "initial": 1856.0,
@@ -69378,17 +69389,6 @@
       "country": "CHN",
       "provisional": true,
       "last_played": "2021-10-16"
-    },
-    {
-      "id": 15433,
-      "rating": 1856.0,
-      "initial": 1856.0,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28"
     },
     {
       "id": 15495,
