@@ -1,0 +1,33 @@
+%%Tournament: 107_Sapporo_open
+%%Country: Japan
+%%Date: 28/06/2026
+%%Sender: WOF rating committee (from othello.gr.jp scrape)
+
+%_%  16133, MATSURA, yoichiro, JPN, 4.5, 209
+%_%   5581, TAKAHASHI, satomi, JPN, 4.0, 207
+%_%   6868, SASAKI, sohei, JPN, 3.5, 268
+%_%  11174, MOROKAWA, eiichi, JPN, 0.0, 84
+
+%Round 1
+  16133 (35)>(29)    5581 
+   6868 (64)>(00)   11174 
+
+%Round 2
+   6868 (32)=(32)   16133 
+   5581 (45)>(19)   11174 
+
+%Round 3
+  16133 (41)>(23)   11174 
+   6868 (61)>(03)    5581 
+
+%Round 4
+   5581 (45)>(19)   16133 
+   6868 (49)>(15)   11174 
+
+%Round 5
+  16133 (33)>(31)    6868 
+   5581 (52)>(12)   11174 
+
+%Round 6
+  16133 (49)>(15)   11174 
+   5581 (33)>(31)    6868 
