@@ -1,0 +1,50 @@
+%%Tournament: 5th Nocera Inferiore - SA
+%%Country: IT
+%%Date: 04/07/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   2851, ROMANO, Benedetto, ITA, 4, 207, 1849
+%_%  40245, IOVANE, Diego, ITA, 3, 158, 775
+%_%  40241, SAVARESE, Michele, ITA, 2, 135, 1163
+%_%  40225, BERRUTO, Giuseppe, ITA, 2, 118, 1350
+%_%   3062, CAVIOLA, Leonardo, ITA, 2, 96, 1541
+%_%  40244, ALATI, Anna, ITA, 1, 100, 757
+%_%  40243, FARINA, Marziano, ITA, 1, 74, 1070
+%_%  40148, MARALDI, Simone, ITA, 1, 62, 1085
+%_%  40286, GRIMALDI, Lino, ITA, 0, 47, 659
+%_%  40248, LAMBIASE, Giuseppe, ITA, 0, 27, 615
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/573
+
+%Round: 1
+
+ 40248 (07)<(57)  40241  B
+ 40286 (11)<(53)  40225  B
+ 40244 (20)<(44)   3062  B
+ 40245 (14)<(50)   2851  B
+
+%Round: 2
+
+ 40241 (23)<(41)  40225  B
+  2851 (53)>(11)  40148  B
+ 40248 (20)<(44)  40244  B
+ 40286 (16)<(48)  40245  B
+
+%Round: 3
+
+ 40225 (24)<(40)   2851  B
+ 40148 (12)<(52)   3062  B
+ 40243 (30)<(34)  40241  B
+ 40245 (53)>(11)  40244  B
+
+%Round: 4
+
+  3062 (00)<(64)   2851  B
+ 40241 (21)<(43)  40245  B
+ 40286 (20)<(44)  40243  B
+ 40244 (25)<(39)  40148  B

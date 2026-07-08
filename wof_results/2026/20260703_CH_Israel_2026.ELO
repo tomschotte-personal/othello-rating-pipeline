@@ -1,0 +1,52 @@
+%%Tournament: Israeli National Championship
+%%Country: IL
+%%Date: 03/07/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 200404, DVIVON, Konstantin, ISR, 4, 231, 1873
+%_%    880, SHIFMAN, Leonid, ISR, 3, 183, 1825
+%_% 200040, LAUFER, Shachar, ISR, 3, 169, 1757
+%_% 200010, SHIFMAN, Micky, ISR, 2, 146, 1726
+%_%    885, SHIFMAN, Ilya, ISR, 2, 119, 1800
+%_% 200044, DVIVON, Alex, ISR, 2, 96, 1006
+%_% 200402, TROYANOVSKIY, Aria, ISR, 1, 85, 1073
+%_% 200041, MALKI, Ariel, ISR, 0, 59, 735
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/591
+
+%Round: 1
+
+ 200041 (19)<(45) 200402  B
+   880 (31)<(33) 200040  B
+ 200044 (02)<(62) 200404  B
+
+%Round: 2
+
+ 200010 (54)>(10) 200402  B
+ 200040 (17)<(47)    885  B
+ 200404 (31)<(33)    880  B
+ 200044 (41)>(23) 200041  B
+
+%Round: 3
+
+   885 (47)>(17) 200010  B
+ 200402 (08)<(56) 200404  B
+ 200040 (53)>(11) 200044  B
+
+%Round: 4
+
+ 200404 (48)>(16)    885  B
+ 200010 (28)<(36) 200040  B
+ 200041 (00)<(64)    880  B
+
+%Round: 5
+
+ 200040 (30)<(34) 200404  B
+   885 (09)<(55)    880  B
+ 200402 (22)<(42) 200044  B
+ 200010 (47)>(17) 200041  B
