@@ -1781,7 +1781,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 10083,
           "s": 1.0,
-          "dr": 5.04
+          "dr": 5.03
         },
         {
           "d": "2026-04-19",
@@ -4885,7 +4885,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 16102,
           "s": 1.0,
-          "dr": 1.6
+          "dr": 1.59
         },
         {
           "d": "2026-04-11",
@@ -7619,7 +7619,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 16102,
           "s": 1.0,
-          "dr": 2.36
+          "dr": 2.35
         },
         {
           "d": "2026-04-19",
@@ -7633,7 +7633,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 14499,
           "s": 0.0,
-          "dr": -5.04
+          "dr": -5.03
         }
       ]
     },
@@ -9434,7 +9434,7 @@
     },
     {
       "id": 5643,
-      "rating": 2055.0,
+      "rating": 2054.9,
       "initial": 1719.5,
       "games_played": 989,
       "firstname": "Joichiro",
@@ -10126,7 +10126,7 @@
     },
     {
       "id": 14160,
-      "rating": 2039.1,
+      "rating": 2039.0,
       "initial": 1768.7,
       "games_played": 206,
       "firstname": "Yuuta",
@@ -12236,7 +12236,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 16102,
           "s": 1.0,
-          "dr": 3.41
+          "dr": 3.4
         },
         {
           "d": "2026-04-19",
@@ -14477,17 +14477,6 @@
       "last_played": "2024-05-05"
     },
     {
-      "id": 12265,
-      "rating": 1973.9,
-      "initial": 1707.1,
-      "games_played": 222,
-      "firstname": "Yukihiro",
-      "surname": "KUNIO",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-03-15"
-    },
-    {
       "id": 15420,
       "rating": 1973.9,
       "initial": 1891.5,
@@ -14497,6 +14486,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-09-28"
+    },
+    {
+      "id": 12265,
+      "rating": 1973.8,
+      "initial": 1707.1,
+      "games_played": 222,
+      "firstname": "Yukihiro",
+      "surname": "KUNIO",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-03-15"
     },
     {
       "id": 440410,
@@ -16749,7 +16749,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 13882,
           "s": 1.0,
-          "dr": 5.97
+          "dr": 5.95
         },
         {
           "d": "2026-04-11",
@@ -17396,7 +17396,7 @@
     },
     {
       "id": 16294,
-      "rating": 1928.7,
+      "rating": 1928.6,
       "initial": 1755.4,
       "games_played": 123,
       "firstname": "Ryuhei",
@@ -17410,7 +17410,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16102,
           "s": 0.0,
-          "dr": -14.43
+          "dr": -14.44
         },
         {
           "d": "2026-04-05",
@@ -17452,7 +17452,7 @@
           "t": "20260425_2026_East_Kanto_expert_games",
           "o": 16214,
           "s": 0.0,
-          "dr": -10.6
+          "dr": -10.59
         },
         {
           "d": "2026-04-25",
@@ -18134,7 +18134,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16102,
           "s": 1.0,
-          "dr": 4.46
+          "dr": 4.44
         },
         {
           "d": "2026-04-05",
@@ -18196,7 +18196,7 @@
           "t": "20260425_2026_East_Kanto_expert_games",
           "o": 16294,
           "s": 1.0,
-          "dr": 10.6
+          "dr": 10.59
         },
         {
           "d": "2026-04-25",
@@ -19228,7 +19228,7 @@
     },
     {
       "id": 7002,
-      "rating": 1908.6,
+      "rating": 1908.5,
       "initial": 1914.4,
       "games_played": 574,
       "firstname": "Yoichi",
@@ -19947,8 +19947,19 @@
       "last_played": "2025-06-08"
     },
     {
+      "id": 420083,
+      "rating": 1898.0,
+      "initial": 1853.9,
+      "games_played": 41,
+      "firstname": "Pin Hsi",
+      "surname": "LIN",
+      "country": "TWN",
+      "provisional": false,
+      "last_played": "2025-11-13"
+    },
+    {
       "id": 15593,
-      "rating": 1898.1,
+      "rating": 1898.0,
       "initial": 1798.1,
       "games_played": 359,
       "firstname": "Ibuki",
@@ -20056,17 +20067,6 @@
           "dr": -12.39
         }
       ]
-    },
-    {
-      "id": 420083,
-      "rating": 1898.0,
-      "initial": 1853.9,
-      "games_played": 41,
-      "firstname": "Pin Hsi",
-      "surname": "LIN",
-      "country": "TWN",
-      "provisional": false,
-      "last_played": "2025-11-13"
     },
     {
       "id": 4004,
@@ -20643,7 +20643,7 @@
     },
     {
       "id": 16585,
-      "rating": 1891.0,
+      "rating": 1890.9,
       "initial": 1830.0,
       "games_played": 12,
       "firstname": "Daiki",
@@ -22687,7 +22687,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 13882,
           "s": 1.0,
-          "dr": 7.39
+          "dr": 7.37
         },
         {
           "d": "2026-04-11",
@@ -22722,7 +22722,7 @@
     },
     {
       "id": 16362,
-      "rating": 1873.5,
+      "rating": 1873.4,
       "initial": 1931.8,
       "games_played": 64,
       "firstname": "Ryosuke",
@@ -22750,7 +22750,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16125,
           "s": 0.0,
-          "dr": -12.27
+          "dr": -12.29
         },
         {
           "d": "2026-04-05",
@@ -22764,7 +22764,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16601,
           "s": 1.0,
-          "dr": 4.33
+          "dr": 4.34
         },
         {
           "d": "2026-04-05",
@@ -24090,7 +24090,7 @@
           "t": "20260425_2026_Hokuriku_Kinki_expert_games",
           "o": 16071,
           "s": 0.0,
-          "dr": -10.73
+          "dr": -10.74
         },
         {
           "d": "2026-04-25",
@@ -24509,7 +24509,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16125,
           "s": 1.0,
-          "dr": 18.62
+          "dr": 18.58
         },
         {
           "d": "2026-04-05",
@@ -25848,8 +25848,30 @@
       "last_played": "2025-03-15"
     },
     {
+      "id": 440471,
+      "rating": 1853.5,
+      "initial": 1816.2,
+      "games_played": 18,
+      "firstname": "Anar",
+      "surname": "TUVSHINBAYAR",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2023-04-15"
+    },
+    {
+      "id": 440905,
+      "rating": 1853.5,
+      "initial": 1853.5,
+      "games_played": 7,
+      "firstname": "Enkhmunkhtulga",
+      "surname": "AMGALANBAATAR",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2025-01-18"
+    },
+    {
       "id": 15482,
-      "rating": 1853.6,
+      "rating": 1853.5,
       "initial": 1856.4,
       "games_played": 205,
       "firstname": "Tetsuya",
@@ -25901,28 +25923,6 @@
           "dr": 10.48
         }
       ]
-    },
-    {
-      "id": 440471,
-      "rating": 1853.5,
-      "initial": 1816.2,
-      "games_played": 18,
-      "firstname": "Anar",
-      "surname": "TUVSHINBAYAR",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2023-04-15"
-    },
-    {
-      "id": 440905,
-      "rating": 1853.5,
-      "initial": 1853.5,
-      "games_played": 7,
-      "firstname": "Enkhmunkhtulga",
-      "surname": "AMGALANBAATAR",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2025-01-18"
     },
     {
       "id": 15542,
@@ -27431,173 +27431,6 @@
       "last_played": "2025-06-28"
     },
     {
-      "id": 16103,
-      "rating": 1843.9,
-      "initial": 1685.2,
-      "games_played": 148,
-      "firstname": "Shun",
-      "surname": "KOBAYASHI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-29",
-      "log": [
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16102,
-          "s": 0.0,
-          "dr": -11.49
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 15884,
-          "s": 1.0,
-          "dr": 11.39
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 15952,
-          "s": 1.0,
-          "dr": 8.71
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16125,
-          "s": 1.0,
-          "dr": 10.29
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16294,
-          "s": 1.0,
-          "dr": 12.57
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16387,
-          "s": 0.5,
-          "dr": 0.78
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 5513,
-          "s": 0.0,
-          "dr": -3.31
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 12648,
-          "s": 0.0,
-          "dr": -1.06
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 13882,
-          "s": 1.0,
-          "dr": 8.66
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 15584,
-          "s": 1.0,
-          "dr": 14.08
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16102,
-          "s": 1.0,
-          "dr": 8.45
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16147,
-          "s": 1.0,
-          "dr": 7.59
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 14499,
-          "s": 0.0,
-          "dr": -1.4
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 14591,
-          "s": 0.0,
-          "dr": -3.09
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 16102,
-          "s": 0.0,
-          "dr": -12.24
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 12612,
-          "s": 1.0,
-          "dr": 7.72
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 13266,
-          "s": 1.0,
-          "dr": 3.03
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 13882,
-          "s": 1.0,
-          "dr": 7.37
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 5653,
-          "s": 0.0,
-          "dr": -11.27
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 5653,
-          "s": 0.0,
-          "dr": -10.63
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 15919,
-          "s": 0.0,
-          "dr": -9.74
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 5584,
-          "s": 1.0,
-          "dr": 17.14
-        }
-      ]
-    },
-    {
       "id": 40439,
       "rating": 1843.8,
       "initial": 1843.8,
@@ -27673,6 +27506,173 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2023-10-21"
+    },
+    {
+      "id": 16103,
+      "rating": 1843.8,
+      "initial": 1685.2,
+      "games_played": 148,
+      "firstname": "Shun",
+      "surname": "KOBAYASHI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-29",
+      "log": [
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16102,
+          "s": 0.0,
+          "dr": -11.51
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 15884,
+          "s": 1.0,
+          "dr": 11.39
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 15952,
+          "s": 1.0,
+          "dr": 8.71
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16125,
+          "s": 1.0,
+          "dr": 10.27
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16294,
+          "s": 1.0,
+          "dr": 12.57
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16387,
+          "s": 0.5,
+          "dr": 0.79
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 5513,
+          "s": 0.0,
+          "dr": -3.31
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 12648,
+          "s": 0.0,
+          "dr": -1.06
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 13882,
+          "s": 1.0,
+          "dr": 8.64
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 15584,
+          "s": 1.0,
+          "dr": 14.08
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16102,
+          "s": 1.0,
+          "dr": 8.43
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16147,
+          "s": 1.0,
+          "dr": 7.59
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 14499,
+          "s": 0.0,
+          "dr": -1.4
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 14591,
+          "s": 0.0,
+          "dr": -3.09
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 16102,
+          "s": 0.0,
+          "dr": -12.25
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 12612,
+          "s": 1.0,
+          "dr": 7.72
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 13266,
+          "s": 1.0,
+          "dr": 3.03
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 13882,
+          "s": 1.0,
+          "dr": 7.36
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 5653,
+          "s": 0.0,
+          "dr": -11.27
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 5653,
+          "s": 0.0,
+          "dr": -10.63
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 15919,
+          "s": 0.0,
+          "dr": -9.74
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 5584,
+          "s": 1.0,
+          "dr": 17.14
+        }
+      ]
     },
     {
       "id": 16410,
@@ -27937,7 +27937,7 @@
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 16102,
           "s": 0.0,
-          "dr": -12.61
+          "dr": -12.62
         }
       ]
     },
@@ -28857,7 +28857,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 16102,
           "s": 0.0,
-          "dr": -12.87
+          "dr": -12.88
         },
         {
           "d": "2026-04-29",
@@ -30168,7 +30168,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16102,
           "s": 1.0,
-          "dr": 7.11
+          "dr": 7.09
         },
         {
           "d": "2026-04-05",
@@ -30680,8 +30680,30 @@
       "last_played": "2025-02-15"
     },
     {
+      "id": 40191,
+      "rating": 1828.2,
+      "initial": 1828.2,
+      "games_played": 4,
+      "firstname": "Domenico",
+      "surname": "GAGLIARDI",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2024-01-27"
+    },
+    {
+      "id": 15970,
+      "rating": 1828.2,
+      "initial": 1745.6,
+      "games_played": 17,
+      "firstname": "Taiga",
+      "surname": "SHIMIZU",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2025-09-13"
+    },
+    {
       "id": 16071,
-      "rating": 1828.3,
+      "rating": 1828.2,
       "initial": 1814.7,
       "games_played": 97,
       "firstname": "Nakanan",
@@ -30758,7 +30780,7 @@
           "t": "20260425_2026_Hokuriku_Kinki_expert_games",
           "o": 16497,
           "s": 1.0,
-          "dr": 10.73
+          "dr": 10.74
         },
         {
           "d": "2026-04-25",
@@ -30775,28 +30797,6 @@
           "dr": -14.05
         }
       ]
-    },
-    {
-      "id": 40191,
-      "rating": 1828.2,
-      "initial": 1828.2,
-      "games_played": 4,
-      "firstname": "Domenico",
-      "surname": "GAGLIARDI",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2024-01-27"
-    },
-    {
-      "id": 15970,
-      "rating": 1828.2,
-      "initial": 1745.6,
-      "games_played": 17,
-      "firstname": "Taiga",
-      "surname": "SHIMIZU",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2025-09-13"
     },
     {
       "id": 15625,
@@ -32015,17 +32015,6 @@
       "last_played": "2023-06-23"
     },
     {
-      "id": 16105,
-      "rating": 1820.8,
-      "initial": 1846.7,
-      "games_played": 53,
-      "firstname": "Taichi",
-      "surname": "KOIZUMI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-03-15"
-    },
-    {
       "id": 440734,
       "rating": 1820.7,
       "initial": 1820.7,
@@ -32105,6 +32094,17 @@
       "country": "DNK",
       "provisional": false,
       "last_played": "2026-03-21"
+    },
+    {
+      "id": 16105,
+      "rating": 1820.7,
+      "initial": 1846.7,
+      "games_played": 53,
+      "firstname": "Taichi",
+      "surname": "KOIZUMI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-03-15"
     },
     {
       "id": 15961,
@@ -32239,17 +32239,6 @@
       "last_played": "2025-06-28"
     },
     {
-      "id": 16541,
-      "rating": 1819.8,
-      "initial": 1819.8,
-      "games_played": 5,
-      "firstname": "Taro",
-      "surname": "KAWABE",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2026-02-08"
-    },
-    {
       "id": 60320,
       "rating": 1819.7,
       "initial": 1819.7,
@@ -32317,7 +32306,7 @@
     },
     {
       "id": 5545,
-      "rating": 1819.2,
+      "rating": 1819.1,
       "initial": 1799.7,
       "games_played": 3837,
       "firstname": "Manabu",
@@ -32359,7 +32348,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 13882,
           "s": 1.0,
-          "dr": 6.51
+          "dr": 6.5
         },
         {
           "d": "2026-04-19",
@@ -32401,7 +32390,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 13882,
           "s": 0.0,
-          "dr": -12.68
+          "dr": -12.69
         },
         {
           "d": "2026-04-26",
@@ -32450,7 +32439,7 @@
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 16102,
           "s": 1.0,
-          "dr": 8.64
+          "dr": 8.62
         },
         {
           "d": "2026-04-29",
@@ -33087,61 +33076,6 @@
       "last_played": "2024-06-30"
     },
     {
-      "id": 16125,
-      "rating": 1815.8,
-      "initial": 1820.7,
-      "games_played": 103,
-      "firstname": "Naoki",
-      "surname": "SHABE",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-05",
-      "log": [
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 12023,
-          "s": 0.0,
-          "dr": -13.8
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16103,
-          "s": 0.0,
-          "dr": -10.29
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 15883,
-          "s": 1.0,
-          "dr": 8.45
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16362,
-          "s": 1.0,
-          "dr": 12.27
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16601,
-          "s": 1.0,
-          "dr": 5.64
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16387,
-          "s": 0.0,
-          "dr": -9.31
-        }
-      ]
-    },
-    {
       "id": 14072,
       "rating": 1815.7,
       "initial": 1794.9,
@@ -33199,7 +33133,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 16102,
           "s": 1.0,
-          "dr": 8.92
+          "dr": 8.91
         },
         {
           "d": "2026-04-29",
@@ -33260,6 +33194,61 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2025-06-08"
+    },
+    {
+      "id": 16125,
+      "rating": 1815.1,
+      "initial": 1820.7,
+      "games_played": 103,
+      "firstname": "Naoki",
+      "surname": "SHABE",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-05",
+      "log": [
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 12023,
+          "s": 0.0,
+          "dr": -13.78
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16103,
+          "s": 0.0,
+          "dr": -10.27
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 15883,
+          "s": 1.0,
+          "dr": 8.48
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16362,
+          "s": 1.0,
+          "dr": 12.29
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16601,
+          "s": 1.0,
+          "dr": 5.66
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16387,
+          "s": 0.0,
+          "dr": -9.29
+        }
+      ]
     },
     {
       "id": 440720,
@@ -39536,8 +39525,19 @@
       "last_played": "2025-06-02"
     },
     {
-      "id": 14258,
+      "id": 15006,
       "rating": 1786.7,
+      "initial": 1749.3,
+      "games_played": 39,
+      "firstname": "Kaori",
+      "surname": "SATO",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2023-05-04"
+    },
+    {
+      "id": 14258,
+      "rating": 1786.6,
       "initial": 1660.2,
       "games_played": 281,
       "firstname": "Shigemi",
@@ -39586,20 +39586,9 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16585,
           "s": 0.0,
-          "dr": -9.02
+          "dr": -9.01
         }
       ]
-    },
-    {
-      "id": 15006,
-      "rating": 1786.7,
-      "initial": 1749.3,
-      "games_played": 39,
-      "firstname": "Kaori",
-      "surname": "SATO",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2023-05-04"
     },
     {
       "id": 320078,
@@ -41200,8 +41189,53 @@
       "last_played": "2025-05-04"
     },
     {
-      "id": 16147,
+      "id": 40322,
       "rating": 1779.8,
+      "initial": 1779.8,
+      "games_played": 7,
+      "firstname": "Gioia",
+      "surname": "CORSI",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2026-02-07"
+    },
+    {
+      "id": 441040,
+      "rating": 1779.8,
+      "initial": 1766.5,
+      "games_played": 14,
+      "firstname": "Todgerel",
+      "surname": "NYAMDAVAA",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2026-04-25",
+      "log": [
+        {
+          "d": "2026-04-25",
+          "t": "20260425_21_Chansaa_youth_1",
+          "o": 441041,
+          "s": 0.0,
+          "dr": -16.77
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_21_Chansaa_youth_1",
+          "o": 441957,
+          "s": 0.0,
+          "dr": -16.97
+        },
+        {
+          "d": "2026-04-25",
+          "t": "20260425_21_Chansaa_youth_1",
+          "o": 441964,
+          "s": 1.0,
+          "dr": 13.25
+        }
+      ]
+    },
+    {
+      "id": 16147,
+      "rating": 1779.7,
       "initial": 1731.9,
       "games_played": 98,
       "firstname": "Wakana",
@@ -41285,7 +41319,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 16102,
           "s": 1.0,
-          "dr": 10.62
+          "dr": 10.61
         },
         {
           "d": "2026-04-11",
@@ -41293,51 +41327,6 @@
           "o": 16361,
           "s": 1.0,
           "dr": 12.63
-        }
-      ]
-    },
-    {
-      "id": 40322,
-      "rating": 1779.8,
-      "initial": 1779.8,
-      "games_played": 7,
-      "firstname": "Gioia",
-      "surname": "CORSI",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2026-02-07"
-    },
-    {
-      "id": 441040,
-      "rating": 1779.8,
-      "initial": 1766.5,
-      "games_played": 14,
-      "firstname": "Todgerel",
-      "surname": "NYAMDAVAA",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2026-04-25",
-      "log": [
-        {
-          "d": "2026-04-25",
-          "t": "20260425_21_Chansaa_youth_1",
-          "o": 441041,
-          "s": 0.0,
-          "dr": -16.77
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_21_Chansaa_youth_1",
-          "o": 441957,
-          "s": 0.0,
-          "dr": -16.97
-        },
-        {
-          "d": "2026-04-25",
-          "t": "20260425_21_Chansaa_youth_1",
-          "o": 441964,
-          "s": 1.0,
-          "dr": 13.25
         }
       ]
     },
@@ -41608,7 +41597,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 13882,
           "s": 1.0,
-          "dr": 17.54
+          "dr": 17.51
         },
         {
           "d": "2026-04-19",
@@ -41669,6 +41658,17 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2025-06-08"
+    },
+    {
+      "id": 16541,
+      "rating": 1778.5,
+      "initial": 1778.5,
+      "games_played": 5,
+      "firstname": "Taro",
+      "surname": "KAWABE",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2026-02-08"
     },
     {
       "id": 280002,
@@ -42412,166 +42412,6 @@
       "last_played": "2024-06-22"
     },
     {
-      "id": 16102,
-      "rating": 1775.1,
-      "initial": 1656.4,
-      "games_played": 154,
-      "firstname": "Keima",
-      "surname": "KOBAYASHI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-29",
-      "log": [
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 14932,
-          "s": 0.0,
-          "dr": -7.11
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 15875,
-          "s": 0.0,
-          "dr": -4.46
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 15884,
-          "s": 1.0,
-          "dr": 13.82
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 15885,
-          "s": 1.0,
-          "dr": 8.88
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16103,
-          "s": 1.0,
-          "dr": 11.49
-        },
-        {
-          "d": "2026-04-05",
-          "t": "20260405_19_Yokohama_open",
-          "o": 16294,
-          "s": 1.0,
-          "dr": 14.43
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 13536,
-          "s": 0.0,
-          "dr": -1.6
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 6833,
-          "s": 1.0,
-          "dr": 7.98
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 10782,
-          "s": 1.0,
-          "dr": 10.37
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16104,
-          "s": 1.0,
-          "dr": 5.66
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16103,
-          "s": 0.0,
-          "dr": -8.45
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16147,
-          "s": 0.0,
-          "dr": -10.62
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 5520,
-          "s": 0.0,
-          "dr": -3.41
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 10083,
-          "s": 0.0,
-          "dr": -2.36
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 14072,
-          "s": 0.0,
-          "dr": -8.92
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 5650,
-          "s": 1.0,
-          "dr": 7.7
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 15026,
-          "s": 1.0,
-          "dr": 12.87
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 16103,
-          "s": 1.0,
-          "dr": 12.24
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 5545,
-          "s": 0.0,
-          "dr": -8.64
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 14141,
-          "s": 0.0,
-          "dr": -14.45
-        },
-        {
-          "d": "2026-04-29",
-          "t": "20260429_2026_Kita_Kanto_expert_games",
-          "o": 15919,
-          "s": 1.0,
-          "dr": 12.61
-        }
-      ]
-    },
-    {
       "id": 40463,
       "rating": 1775.0,
       "initial": 1775.0,
@@ -42774,6 +42614,166 @@
       "country": "TWN",
       "provisional": true,
       "last_played": "2024-06-01"
+    },
+    {
+      "id": 16102,
+      "rating": 1774.7,
+      "initial": 1656.4,
+      "games_played": 154,
+      "firstname": "Keima",
+      "surname": "KOBAYASHI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-29",
+      "log": [
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 14932,
+          "s": 0.0,
+          "dr": -7.09
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 15875,
+          "s": 0.0,
+          "dr": -4.44
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 15884,
+          "s": 1.0,
+          "dr": 13.83
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 15885,
+          "s": 1.0,
+          "dr": 8.9
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16103,
+          "s": 1.0,
+          "dr": 11.51
+        },
+        {
+          "d": "2026-04-05",
+          "t": "20260405_19_Yokohama_open",
+          "o": 16294,
+          "s": 1.0,
+          "dr": 14.44
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 13536,
+          "s": 0.0,
+          "dr": -1.59
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 6833,
+          "s": 1.0,
+          "dr": 8.0
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 10782,
+          "s": 1.0,
+          "dr": 10.39
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16104,
+          "s": 1.0,
+          "dr": 5.68
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16103,
+          "s": 0.0,
+          "dr": -8.43
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16147,
+          "s": 0.0,
+          "dr": -10.61
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 5520,
+          "s": 0.0,
+          "dr": -3.4
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 10083,
+          "s": 0.0,
+          "dr": -2.35
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 14072,
+          "s": 0.0,
+          "dr": -8.91
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 5650,
+          "s": 1.0,
+          "dr": 7.71
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 15026,
+          "s": 1.0,
+          "dr": 12.88
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 16103,
+          "s": 1.0,
+          "dr": 12.25
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 5545,
+          "s": 0.0,
+          "dr": -8.62
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 14141,
+          "s": 0.0,
+          "dr": -14.44
+        },
+        {
+          "d": "2026-04-29",
+          "t": "20260429_2026_Kita_Kanto_expert_games",
+          "o": 15919,
+          "s": 1.0,
+          "dr": 12.62
+        }
+      ]
     },
     {
       "id": 580019,
@@ -43223,7 +43223,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16102,
           "s": 0.0,
-          "dr": -27.64
+          "dr": -27.67
         },
         {
           "d": "2026-04-05",
@@ -44550,7 +44550,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 16102,
           "s": 0.0,
-          "dr": -10.37
+          "dr": -10.39
         },
         {
           "d": "2026-04-11",
@@ -51925,103 +51925,6 @@
       "last_played": "2025-03-22"
     },
     {
-      "id": 13882,
-      "rating": 1736.6,
-      "initial": 1703.2,
-      "games_played": 378,
-      "firstname": "Yuto",
-      "surname": "MATSUBARA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-04-19",
-      "log": [
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 13772,
-          "s": 0.0,
-          "dr": -2.24
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16596,
-          "s": 1.0,
-          "dr": 8.58
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16600,
-          "s": 1.0,
-          "dr": 8.48
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 14459,
-          "s": 0.0,
-          "dr": -5.97
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16103,
-          "s": 0.0,
-          "dr": -8.66
-        },
-        {
-          "d": "2026-04-11",
-          "t": "20260411_178_Shinagawa_open",
-          "o": 16361,
-          "s": 0.0,
-          "dr": -7.39
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 5545,
-          "s": 0.0,
-          "dr": -6.51
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 11576,
-          "s": 0.0,
-          "dr": -8.77
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 5545,
-          "s": 1.0,
-          "dr": 12.68
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 13266,
-          "s": 1.0,
-          "dr": 4.82
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 16103,
-          "s": 0.0,
-          "dr": -7.37
-        },
-        {
-          "d": "2026-04-19",
-          "t": "20260419_2026_East_Kanto_expert_games",
-          "o": 16104,
-          "s": 0.0,
-          "dr": -13.5
-        }
-      ]
-    },
-    {
       "id": 441012,
       "rating": 1736.6,
       "initial": 1739.9,
@@ -52130,6 +52033,103 @@
       "country": "CHN",
       "provisional": true,
       "last_played": "2026-01-30"
+    },
+    {
+      "id": 13882,
+      "rating": 1736.1,
+      "initial": 1703.2,
+      "games_played": 378,
+      "firstname": "Yuto",
+      "surname": "MATSUBARA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-04-19",
+      "log": [
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 13772,
+          "s": 0.0,
+          "dr": -2.24
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16596,
+          "s": 1.0,
+          "dr": 8.6
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16600,
+          "s": 1.0,
+          "dr": 8.5
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 14459,
+          "s": 0.0,
+          "dr": -5.95
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16103,
+          "s": 0.0,
+          "dr": -8.64
+        },
+        {
+          "d": "2026-04-11",
+          "t": "20260411_178_Shinagawa_open",
+          "o": 16361,
+          "s": 0.0,
+          "dr": -7.37
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 5545,
+          "s": 0.0,
+          "dr": -6.5
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 11576,
+          "s": 0.0,
+          "dr": -8.75
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 5545,
+          "s": 1.0,
+          "dr": 12.69
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 13266,
+          "s": 1.0,
+          "dr": 4.83
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 16103,
+          "s": 0.0,
+          "dr": -7.36
+        },
+        {
+          "d": "2026-04-19",
+          "t": "20260419_2026_East_Kanto_expert_games",
+          "o": 16104,
+          "s": 0.0,
+          "dr": -13.49
+        }
+      ]
     },
     {
       "id": 440605,
@@ -53014,7 +53014,7 @@
           "t": "20260425_2026_Hokuriku_Kinki_expert_games",
           "o": 10020,
           "s": 0.0,
-          "dr": -13.78
+          "dr": -13.77
         },
         {
           "d": "2026-04-25",
@@ -54680,7 +54680,7 @@
           "t": "20260425_2026_Hokuriku_Kinki_expert_games",
           "o": 15668,
           "s": 0.0,
-          "dr": -24.1
+          "dr": -24.11
         },
         {
           "d": "2026-04-25",
@@ -55299,7 +55299,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16125,
           "s": 0.0,
-          "dr": -8.45
+          "dr": -8.48
         },
         {
           "d": "2026-04-05",
@@ -57012,7 +57012,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 16102,
           "s": 0.0,
-          "dr": -7.98
+          "dr": -8.0
         },
         {
           "d": "2026-04-29",
@@ -58686,7 +58686,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16125,
           "s": 1.0,
-          "dr": 13.8
+          "dr": 13.78
         },
         {
           "d": "2026-04-05",
@@ -59015,7 +59015,7 @@
     },
     {
       "id": 16448,
-      "rating": 1700.1,
+      "rating": 1700.0,
       "initial": 1730.9,
       "games_played": 28,
       "firstname": "Yuta",
@@ -60094,7 +60094,7 @@
     },
     {
       "id": 12954,
-      "rating": 1693.9,
+      "rating": 1693.8,
       "initial": 1770.8,
       "games_played": 32,
       "firstname": "Ryuichi",
@@ -62363,17 +62363,6 @@
       "last_played": "2025-06-02"
     },
     {
-      "id": 16061,
-      "rating": 1676.9,
-      "initial": 1671.1,
-      "games_played": 17,
-      "firstname": "Nijika",
-      "surname": "KASHIMA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2026-03-15"
-    },
-    {
       "id": 16230,
       "rating": 1676.9,
       "initial": 1676.9,
@@ -62410,6 +62399,17 @@
           "dr": 0.0
         }
       ]
+    },
+    {
+      "id": 16061,
+      "rating": 1676.8,
+      "initial": 1671.1,
+      "games_played": 17,
+      "firstname": "Nijika",
+      "surname": "KASHIMA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2026-03-15"
     },
     {
       "id": 440803,
@@ -62511,8 +62511,19 @@
       "last_played": "2024-08-17"
     },
     {
-      "id": 15885,
+      "id": 16049,
       "rating": 1675.7,
+      "initial": 1654.1,
+      "games_played": 47,
+      "firstname": "Noshin",
+      "surname": "KADOHARU",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-06-30"
+    },
+    {
+      "id": 15885,
+      "rating": 1675.6,
       "initial": 1609.0,
       "games_played": 67,
       "firstname": "Atsumasa",
@@ -62554,7 +62565,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16102,
           "s": 0.0,
-          "dr": -8.88
+          "dr": -8.9
         },
         {
           "d": "2026-04-05",
@@ -62564,17 +62575,6 @@
           "dr": -5.72
         }
       ]
-    },
-    {
-      "id": 16049,
-      "rating": 1675.7,
-      "initial": 1654.1,
-      "games_played": 47,
-      "firstname": "Noshin",
-      "surname": "KADOHARU",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-06-30"
     },
     {
       "id": 410031,
@@ -62990,7 +62990,7 @@
     },
     {
       "id": 16470,
-      "rating": 1673.0,
+      "rating": 1672.9,
       "initial": 1718.2,
       "games_played": 42,
       "firstname": "Kana",
@@ -63624,7 +63624,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 5694,
           "s": 0.5,
-          "dr": -0.97
+          "dr": -0.98
         },
         {
           "d": "2026-04-05",
@@ -63638,7 +63638,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16601,
           "s": 1.0,
-          "dr": 10.9
+          "dr": 10.91
         },
         {
           "d": "2026-04-05",
@@ -63673,7 +63673,7 @@
           "t": "20260411_178_Shinagawa_open",
           "o": 16102,
           "s": 0.0,
-          "dr": -5.66
+          "dr": -5.68
         },
         {
           "d": "2026-04-11",
@@ -63729,7 +63729,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 13882,
           "s": 1.0,
-          "dr": 13.5
+          "dr": 13.49
         },
         {
           "d": "2026-04-29",
@@ -64029,7 +64029,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 16102,
           "s": 0.0,
-          "dr": -7.7
+          "dr": -7.71
         }
       ]
     },
@@ -65262,8 +65262,28 @@
       "last_played": "2024-04-20"
     },
     {
-      "id": 11174,
+      "id": 441964,
       "rating": 1644.4,
+      "initial": 1644.4,
+      "games_played": 6,
+      "firstname": "Altanjiguur",
+      "surname": "GANJARGAL",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2026-04-25",
+      "log": [
+        {
+          "d": "2026-04-25",
+          "t": "20260425_21_Chansaa_youth_1",
+          "o": 441040,
+          "s": 0.0,
+          "dr": 0.0
+        }
+      ]
+    },
+    {
+      "id": 11174,
+      "rating": 1644.3,
       "initial": 1746.2,
       "games_played": 82,
       "firstname": "Eiichi",
@@ -65292,26 +65312,6 @@
           "o": 16504,
           "s": 0.0,
           "dr": -2.49
-        }
-      ]
-    },
-    {
-      "id": 441964,
-      "rating": 1644.4,
-      "initial": 1644.4,
-      "games_played": 6,
-      "firstname": "Altanjiguur",
-      "surname": "GANJARGAL",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2026-04-25",
-      "log": [
-        {
-          "d": "2026-04-25",
-          "t": "20260425_21_Chansaa_youth_1",
-          "o": 441040,
-          "s": 0.0,
-          "dr": 0.0
         }
       ]
     },
@@ -66443,7 +66443,7 @@
           "t": "20260429_2026_Kita_Kanto_expert_games",
           "o": 16102,
           "s": 1.0,
-          "dr": 14.45
+          "dr": 14.44
         },
         {
           "d": "2026-04-29",
@@ -67381,7 +67381,7 @@
     },
     {
       "id": 16316,
-      "rating": 1579.5,
+      "rating": 1579.4,
       "initial": 1755.5,
       "games_played": 25,
       "firstname": "Daiki",
@@ -67537,7 +67537,7 @@
           "t": "20260405_19_Yokohama_open",
           "o": 16104,
           "s": 0.5,
-          "dr": 0.97
+          "dr": 0.98
         },
         {
           "d": "2026-04-05",
@@ -67926,7 +67926,7 @@
           "t": "20260419_2026_East_Kanto_expert_games",
           "o": 13882,
           "s": 0.0,
-          "dr": -4.82
+          "dr": -4.83
         },
         {
           "d": "2026-04-19",
@@ -68117,7 +68117,7 @@
           "t": "20260425_2026_Hokuriku_Kinki_expert_games",
           "o": 15945,
           "s": 1.0,
-          "dr": 13.78
+          "dr": 13.77
         },
         {
           "d": "2026-04-25",
