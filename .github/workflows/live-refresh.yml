@@ -28,13 +28,24 @@ jobs:
         env:
           INPUT_IDS: ${{ inputs.ftd_ids }}
           VAR_IDS: ${{ vars.FTD_IDS }}
+          VAR_UNTIL: ${{ vars.FTD_UNTIL }}
         run: |
           IDS="${INPUT_IDS:-$VAR_IDS}"
+          # FTD_UNTIL (UTC, e.g. 2026-07-11T18:00): time-based auto-off.
+          # A manual dispatch with explicit IDs bypasses it.
+          if [ -n "$IDS" ] && [ -n "$VAR_UNTIL" ] && [ -z "$INPUT_IDS" ]; then
+            NOW=$(date -u '+%Y-%m-%dT%H:%M')
+            if [[ "$NOW" > "$VAR_UNTIL" ]]; then
+              echo "Past FTD_UNTIL ($VAR_UNTIL UTC) - live tracking window closed."
+              IDS=""
+            fi
+          fi
           echo "ids=$IDS" >> "$GITHUB_OUTPUT"
+          echo "until=$VAR_UNTIL" >> "$GITHUB_OUTPUT"
           if [ -z "$IDS" ]; then
-            echo "FTD_IDS empty - live refresh disabled, skipping."
+            echo "Live refresh disabled, skipping."
           else
-            echo "Refreshing FTDs: $IDS"
+            echo "Refreshing FTDs: $IDS (until: ${VAR_UNTIL:-unbounded})"
           fi
 
       - name: Checkout pipeline
@@ -75,6 +86,15 @@ jobs:
           git config --global user.name "othello-rating-bot"
           git config --global user.email "actions@github.com"
           DEADLINE=$(( $(date +%s) + 65*60 ))
+          # Respect FTD_UNTIL mid-run: don't loop past the tracking window.
+          UNTIL="${{ steps.gate.outputs.until }}"
+          if [ -n "$UNTIL" ]; then
+            UNTIL_TS=$(date -u -d "$UNTIL" +%s 2>/dev/null || echo 0)
+            if [ "$UNTIL_TS" -gt 0 ] && [ "$UNTIL_TS" -lt "$DEADLINE" ]; then
+              DEADLINE=$UNTIL_TS
+              echo "Loop deadline capped at FTD_UNTIL: $UNTIL UTC"
+            fi
+          fi
           ITER=0
           PREV_HASH=""
           while [ "$(date +%s)" -lt "$DEADLINE" ]; do
