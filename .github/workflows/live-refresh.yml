@@ -31,41 +31,60 @@ jobs:
           VAR_UNTIL: ${{ vars.FTD_UNTIL }}
         run: |
           IDS="${INPUT_IDS:-$VAR_IDS}"
+          MODE="live"
           # FTD_UNTIL (UTC, e.g. 2026-07-11T18:00): time-based auto-off.
           # A manual dispatch with explicit IDs bypasses it.
           if [ -n "$IDS" ] && [ -n "$VAR_UNTIL" ] && [ -z "$INPUT_IDS" ]; then
             NOW=$(date -u '+%Y-%m-%dT%H:%M')
             if [[ "$NOW" > "$VAR_UNTIL" ]]; then
-              echo "Past FTD_UNTIL ($VAR_UNTIL UTC) - live tracking window closed."
-              IDS=""
+              echo "Past FTD_UNTIL ($VAR_UNTIL UTC) - tracking window closed."
+              MODE="finalize"   # one-time: convert tracked FTDs to permanent .ELO
             fi
+          fi
+          if [ -z "$IDS" ]; then
+            MODE="skip"
+            echo "No FTD_IDS - live refresh disabled, skipping."
           fi
           echo "ids=$IDS" >> "$GITHUB_OUTPUT"
           echo "until=$VAR_UNTIL" >> "$GITHUB_OUTPUT"
-          if [ -z "$IDS" ]; then
-            echo "Live refresh disabled, skipping."
-          else
-            echo "Refreshing FTDs: $IDS (until: ${VAR_UNTIL:-unbounded})"
-          fi
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          echo "Mode: $MODE  IDs: $IDS  Until: ${VAR_UNTIL:-unbounded}"
 
       - name: Checkout pipeline
-        if: steps.gate.outputs.ids != ''
+        if: steps.gate.outputs.mode != 'skip'
         uses: actions/checkout@v4
 
+      # After the tracking window closes we finalize ONCE (convert tracked FTDs
+      # to permanent .ELO files). The marker file records which window was
+      # already finalized so later cron runs exit cheaply.
+      - name: Check finalize marker
+        id: fin
+        if: steps.gate.outputs.mode == 'finalize'
+        run: |
+          WANT="${{ steps.gate.outputs.ids }}@${{ steps.gate.outputs.until }}"
+          HAVE=$(cat .ftd_finalized 2>/dev/null || echo "")
+          if [ "$WANT" = "$HAVE" ]; then
+            echo "done=true" >> "$GITHUB_OUTPUT"
+            echo "Window already finalized ($HAVE)."
+          else
+            echo "done=false" >> "$GITHUB_OUTPUT"
+            echo "Finalize needed for: $WANT"
+          fi
+
       - name: Set up Python
-        if: steps.gate.outputs.ids != ''
+        if: steps.gate.outputs.mode == 'live' || (steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true')
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Install Playwright
-        if: steps.gate.outputs.ids != ''
+        if: steps.gate.outputs.mode == 'live' || (steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true')
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
       - name: Clone pages repo (worldothellorating)
-        if: steps.gate.outputs.ids != ''
+        if: steps.gate.outputs.mode == 'live' || (steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true')
         env:
           DEPLOY_KEY: ${{ secrets.PAGES_DEPLOY_KEY }}
         run: |
@@ -75,12 +94,36 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git clone git@github.com:tomschotte-personal/worldothellorating.git fide_rating/pages
 
+      - name: Finalize tracking window (convert FTDs to permanent .ELO)
+        if: steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true'
+        run: |
+          git config --global user.name "othello-rating-bot"
+          git config --global user.email "actions@github.com"
+          cd fide_rating
+          for TID in ${{ steps.gate.outputs.ids }}; do
+            python -c "from ftd_to_elo import convert; convert($TID, synthetic_ids=True)" \
+              || echo "convert $TID failed - its cache remains for manual handling"
+          done
+          # Recompute + publish once WITHOUT the FTD overlay (the new .ELO files
+          # now carry those games via the post-baseline overlay).
+          python shift1800_live.py || true
+          python shift1800_html.py || true
+          (
+            cd pages
+            git add index.html
+            git diff --cached --quiet || (git commit -m "Finalize live window $(date -u '+%Y-%m-%d %H:%M UTC')" && git push origin main)
+          )
+          cd ..
+          echo "${{ steps.gate.outputs.ids }}@${{ steps.gate.outputs.until }}" > .ftd_finalized
+          git add .ftd_finalized wof_results tournament_*.json
+          git diff --cached --quiet || (git commit -m "Finalize window: permanent .ELO for FTDs ${{ steps.gate.outputs.ids }}" && git pull --rebase origin main && git push origin main)
+
       # GitHub's cron scheduler is unreliable (observed gaps of 1-2h on a 15-min
       # cron). Each run therefore LOOPS for ~65 minutes, refreshing every ~6 min.
       # Combined with the concurrency group (queued, not cancelled), even an
       # hourly-throttled cron yields continuous coverage.
       - name: Refresh loop (~65 min, every ~6 min)
-        if: steps.gate.outputs.ids != ''
+        if: steps.gate.outputs.mode == 'live'
         working-directory: fide_rating
         run: |
           git config --global user.name "othello-rating-bot"
@@ -126,7 +169,7 @@ jobs:
           echo "Loop finished after $ITER iterations."
 
       - name: Commit enriched FTD caches back
-        if: steps.gate.outputs.ids != ''
+        if: steps.gate.outputs.mode == 'live'
         run: |
           git config user.name "othello-rating-bot"
           git config user.email "actions@github.com"
