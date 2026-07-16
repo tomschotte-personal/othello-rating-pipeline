@@ -9,33 +9,33 @@
 %_%  12712, URANO, kento, JPN, 5.0, 0
 %_%   5606, TSUKAMOTO, kazuma, JPN, 5.0, 0
 %_%   5655, SATANI, tetsu, JPN, 5.0, 0
+%_%   5524, NAGAO, hiroto, JPN, 5.0, 0
 %_%  15715, KIMURA, kohiroshi, JPN, 5.0, 0
 %_%    700, NAKAJIMA, tetsuya, JPN, 4.0, 0
 %_%   5584, OSHIMIZU, takanori, JPN, 4.0, 0
-%_%   5524, NAGAO, hiroto, JPN, 4.0, 0
+%_%   5540, NAKANO, jo, JPN, 4.0, 0
 %_%   5537, TAKANASHI, yusuke, JPN, 4.0, 0
 %_%  13454, SAJI, kouya, JPN, 4.0, 0
 %_%  13698, ITO, azumi, JPN, 4.0, 0
+%_%  12221, ABE, yura, JPN, 4.0, 0
 %_%  14236, TSUCHIKANE, hiroshi, JPN, 4.0, 0
 %_%  13486, NAKAMURA, rintaro, JPN, 4.0, 0
 %_%  10625, SHIMIZU, naoki, JPN, 4.0, 0
 %_%  14160, HASHIMOTO, yuuta, JPN, 4.0, 0
+%_%   7054, NAKAMORI, hiroki, JPN, 4.0, 0
 %_%  14235, TSUCHIKANE, rinku, JPN, 4.0, 0
 %_%  13694, KUMATSU, miyu, JPN, 3.0, 0
 %_%  14101, ITO, kenshun, JPN, 3.0, 0
-%_%   5540, NAKANO, jo, JPN, 3.0, 0
 %_%  15663, HARADA, shota, JPN, 3.0, 0
-%_%  12221, ABE, yura, JPN, 3.0, 0
 %_%  10855, KIYONOBU, kenta, JPN, 3.0, 0
 %_%  15202, HISAHIRO, tatsutarou, JPN, 3.0, 0
-%_%   7054, NAKAMORI, hiroki, JPN, 3.0, 0
+%_%   5538, ITO, junya, JPN, 3.0, 0
 %_%  14702, UMEDA, yuwa, JPN, 2.0, 0
 %_%  12917, SANO, kaoru, JPN, 1.0, 0
 %_%  15567, TOMITA, yo, JPN, 1.0, 0
 %_%  15778, FUJIMATSU, kouhei, JPN, 1.0, 0
 %_%  15042, KOMATSU, kanaharu, JPN, 1.0, 0
 %_%   5539, YAMAKAWA, takashi, JPN, 1.0, 0
-%_%   5538, ITO, junya, JPN, 1.0, 0
 %_%  15425, YAMAMOTO, yuta, JPN, 1.0, 0
 %_%   5661, KURAHASHI, satoshi, JPN, 0.0, 0
 %_%  10890, SUZUKI, yuuta, JPN, 0.0, 0
@@ -43,6 +43,7 @@
 %_%  13536, IKEDA, ryousuke, JPN, 0.0, 0
 %_%  10820, ASOU, daisuke, JPN, 0.0, 0
 %_%  12466, YOSHINO, toru, JPN, 0.0, 0
+%_%  12265, KUNIO, yukihiro, JPN, 0.0, 0
 %_%   5502, GOTO, hiroshi, JPN, 0.0, 0
 %_%  10083, AIHARA, shigeaki, JPN, 0.0, 0
 %_%  11939, MIYAGAWA, keigo, JPN, 0.0, 0
@@ -56,14 +57,19 @@
 %_%    655, TAKIZAWA, nobuyuki, JPN, 0.0, 0
 %_%  13371, NODA, yuna, JPN, 0.0, 0
 %_%  14499, TOKIWA, shuto, JPN, 0.0, 0
+%_%  14870, SHIUMI, tsutomu, JPN, 0.0, 0
 %_%  15723, MATSUMOTO, kota, JPN, 0.0, 0
 %_%  16012, KIKUCHI, seiten, JPN, 0.0, 0
 %_%  12126, HASEGAWA, takeshi, JPN, 0.0, 0
 %_%  15593, MATSUDA, ibuki, JPN, 0.0, 0
 %_%  15375, SAEKI, tsubasa, JPN, 0.0, 0
 %_%  14591, TANIHARA, hinata, JPN, 0.0, 0
+%_%  14763, OKUDAIRA, akio, JPN, 0.0, 0
+%_%   7047, UMEZAWA, yoshinori, JPN, 0.0, 0
+%_%  10684, SASAKI, kousuke, JPN, 0.0, 0
 %_%  15932, HONJO, yoshitaka, JPN, 0.0, 0
 %_%  14915, ONO, taiga, JPN, 0.0, 0
+%_%    299, MURAKAMI, takeshi, JPN, 0.0, 0
 
 %Round: 1
 
@@ -77,10 +83,12 @@
   10625 (33)>(31)  13772  B
     700 (33)>(31)   5520  B
   13698 (33)>(31)  13371  B
+   5540 (33)>(31)  14870  B
   13486 (33)>(31)   6860  B
   13454 (33)>(31)  12126  B
   15202 (33)>(31)  15593  B
    7054 (33)>(31)  14591  B
+   5538 (33)>(31)   7047  B
   15425 (33)>(31)  14160  B
   14235 (33)>(31)   5539  B
   15778 (33)>(31)  12221  B
@@ -91,6 +99,7 @@
    5577 (33)>(31)   5661  B
   12712 (33)>(31)   5584  B
   15715 (33)>(31)  12466  B
+   5524 (33)>(31)  12265  B
    5539 (33)>(31)   5655  B
    5606 (33)>(31)  10820  B
   10625 (33)>(31)  13361  B
@@ -103,6 +112,7 @@
   13486 (33)>(31)   7054  B
   10855 (33)>(31)  14235  B
   13454 (33)>(31)    655  B
+  12221 (33)>(31)    299  B
   14236 (33)>(31)  16012  B
 
 %Round: 3
@@ -123,6 +133,7 @@
    5540 (33)>(31)  15042  B
    5584 (33)>(31)  10083  B
    7054 (33)>(31)  15593  B
+   5538 (33)>(31)  10684  B
   14160 (33)>(31)  15932  B
   14235 (33)>(31)  14915  B
   14236 (33)>(31)    655  B
@@ -181,6 +192,7 @@
   10855 (33)>(31)  15042  B
   13454 (33)>(31)  14499  B
   15202 (33)>(31)    655  B
+   7054 (33)>(31)  14763  B
   15567 (33)>(31)   5538  B
   14160 (33)>(31)   6860  B
   14702 (33)>(31)  14235  B
