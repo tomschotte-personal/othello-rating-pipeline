@@ -17,12 +17,21 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: write   # commit enriched tournament_*.json caches back
+  contents: write   # commit enriched tournament_*.json caches + .ftd_auto back
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout pipeline
+        uses: actions/checkout@v4
+
+      # Tracking windows come from three sources, in priority order:
+      #   1. workflow_dispatch input (manual, bypasses FTD_UNTIL)
+      #   2. FTD_IDS / FTD_UNTIL repo variables (manual arm)
+      #   3. .ftd_auto committed file "ids|until" (armed by the weekend sweep)
+      # With no window at all, weekend daytime runs sweep FTD for tournaments
+      # starting today and arm automatically.
       - name: Determine FTD IDs (gate)
         id: gate
         env:
@@ -31,60 +40,84 @@ jobs:
           VAR_UNTIL: ${{ vars.FTD_UNTIL }}
         run: |
           IDS="${INPUT_IDS:-$VAR_IDS}"
+          UNTIL="$VAR_UNTIL"
+          if [ -z "$IDS" ] && [ -f .ftd_auto ]; then
+            IDS=$(cut -d'|' -f1 .ftd_auto)
+            UNTIL=$(cut -d'|' -f2 .ftd_auto)
+            echo "Auto-armed window from .ftd_auto: $IDS until $UNTIL"
+          fi
           MODE="live"
-          # FTD_UNTIL (UTC, e.g. 2026-07-11T18:00): time-based auto-off.
-          # A manual dispatch with explicit IDs bypasses it.
-          if [ -n "$IDS" ] && [ -n "$VAR_UNTIL" ] && [ -z "$INPUT_IDS" ]; then
-            NOW=$(date -u '+%Y-%m-%dT%H:%M')
-            if [[ "$NOW" > "$VAR_UNTIL" ]]; then
-              echo "Past FTD_UNTIL ($VAR_UNTIL UTC) - tracking window closed."
+          NOW=$(date -u '+%Y-%m-%dT%H:%M')
+          # Window end (UTC): time-based auto-off. A manual dispatch with
+          # explicit IDs bypasses it.
+          if [ -n "$IDS" ] && [ -n "$UNTIL" ] && [ -z "$INPUT_IDS" ]; then
+            if [[ "$NOW" > "$UNTIL" ]]; then
               MODE="finalize"   # one-time: convert tracked FTDs to permanent .ELO
             fi
           fi
+          # A window the marker says is already finalized is CLOSED: fall
+          # through to the sweep/skip decision instead of exiting on the
+          # finalize path forever (stale FTD_IDS variable scenario).
+          if [ "$MODE" = "finalize" ] && [ "$(cat .ftd_finalized 2>/dev/null)" = "$IDS@$UNTIL" ]; then
+            echo "Window $IDS@$UNTIL already finalized - treating as no active window."
+            IDS=""
+            UNTIL=""
+            MODE="live"
+          fi
           if [ -z "$IDS" ]; then
             MODE="skip"
-            echo "No FTD_IDS - live refresh disabled, skipping."
+            DOW=$(date -u +%u)
+            HOUR=$((10#$(date -u +%H)))
+            if { [ "$DOW" = 6 ] || [ "$DOW" = 7 ]; } && [ "$HOUR" -ge 5 ] && [ "$HOUR" -le 15 ]; then
+              MODE="sweep"
+              echo "No active window - weekend daytime, sweeping FTD for live events."
+            else
+              echo "No FTD window and outside sweep hours - skipping."
+            fi
           fi
           echo "ids=$IDS" >> "$GITHUB_OUTPUT"
-          echo "until=$VAR_UNTIL" >> "$GITHUB_OUTPUT"
+          echo "until=$UNTIL" >> "$GITHUB_OUTPUT"
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
-          echo "Mode: $MODE  IDs: $IDS  Until: ${VAR_UNTIL:-unbounded}"
-
-      - name: Checkout pipeline
-        if: steps.gate.outputs.mode != 'skip'
-        uses: actions/checkout@v4
-
-      # After the tracking window closes we finalize ONCE (convert tracked FTDs
-      # to permanent .ELO files). The marker file records which window was
-      # already finalized so later cron runs exit cheaply.
-      - name: Check finalize marker
-        id: fin
-        if: steps.gate.outputs.mode == 'finalize'
-        run: |
-          WANT="${{ steps.gate.outputs.ids }}@${{ steps.gate.outputs.until }}"
-          HAVE=$(cat .ftd_finalized 2>/dev/null || echo "")
-          if [ "$WANT" = "$HAVE" ]; then
-            echo "done=true" >> "$GITHUB_OUTPUT"
-            echo "Window already finalized ($HAVE)."
-          else
-            echo "done=false" >> "$GITHUB_OUTPUT"
-            echo "Finalize needed for: $WANT"
-          fi
+          echo "Mode: $MODE  IDs: $IDS  Until: ${UNTIL:-unbounded}"
 
       - name: Set up Python
-        if: steps.gate.outputs.mode == 'live' || (steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true')
+        if: steps.gate.outputs.mode != 'skip'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Install Playwright
-        if: steps.gate.outputs.mode == 'live' || (steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true')
+        if: steps.gate.outputs.mode != 'skip'
         run: |
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
+      - name: Sweep FTD for tournaments starting today
+        id: sweep
+        if: steps.gate.outputs.mode == 'sweep'
+        run: |
+          git config --global user.name "othello-rating-bot"
+          git config --global user.email "actions@github.com"
+          cd fide_rating
+          RESULT=$(python ftd_sweep.py | grep -E '^(ARM|NONE)' | tail -1 || echo NONE)
+          cd ..
+          echo "Sweep result: $RESULT"
+          if [[ "$RESULT" == ARM* ]]; then
+            IDS=$(echo "$RESULT" | sed -E 's/^ARM ids=(.*) until=.*/\1/')
+            UNTIL=$(echo "$RESULT" | sed -E 's/^.* until=//')
+            echo "$IDS|$UNTIL" > .ftd_auto
+            git add .ftd_auto tournament_*.json
+            git commit -m "Auto-arm live window: FTD $IDS until $UNTIL UTC"
+            git pull --rebase origin main && git push origin main
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            echo "ids=$IDS" >> "$GITHUB_OUTPUT"
+            echo "until=$UNTIL" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Clone pages repo (worldothellorating)
-        if: steps.gate.outputs.mode == 'live' || (steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true')
+        if: steps.gate.outputs.mode == 'live' || steps.gate.outputs.mode == 'finalize' || steps.sweep.outputs.found == 'true'
         env:
           DEPLOY_KEY: ${{ secrets.PAGES_DEPLOY_KEY }}
         run: |
@@ -95,7 +128,7 @@ jobs:
           git clone git@github.com:tomschotte-personal/worldothellorating.git fide_rating/pages
 
       - name: Finalize tracking window (convert FTDs to permanent .ELO)
-        if: steps.gate.outputs.mode == 'finalize' && steps.fin.outputs.done != 'true'
+        if: steps.gate.outputs.mode == 'finalize'
         run: |
           git config --global user.name "othello-rating-bot"
           git config --global user.email "actions@github.com"
@@ -115,7 +148,8 @@ jobs:
           )
           cd ..
           echo "${{ steps.gate.outputs.ids }}@${{ steps.gate.outputs.until }}" > .ftd_finalized
-          git add .ftd_finalized wof_results tournament_*.json
+          rm -f .ftd_auto
+          git add -A
           git diff --cached --quiet || (git commit -m "Finalize window: permanent .ELO for FTDs ${{ steps.gate.outputs.ids }}" && git pull --rebase origin main && git push origin main)
 
       # GitHub's cron scheduler is unreliable (observed gaps of 1-2h on a 15-min
@@ -123,19 +157,24 @@ jobs:
       # Combined with the concurrency group (queued, not cancelled), even an
       # hourly-throttled cron yields continuous coverage.
       - name: Refresh loop (~65 min, every ~6 min)
-        if: steps.gate.outputs.mode == 'live'
+        if: steps.gate.outputs.mode == 'live' || steps.sweep.outputs.found == 'true'
         working-directory: fide_rating
         run: |
           git config --global user.name "othello-rating-bot"
           git config --global user.email "actions@github.com"
-          DEADLINE=$(( $(date +%s) + 65*60 ))
-          # Respect FTD_UNTIL mid-run: don't loop past the tracking window.
+          IDS="${{ steps.gate.outputs.ids }}"
           UNTIL="${{ steps.gate.outputs.until }}"
+          if [ -z "$IDS" ]; then
+            IDS="${{ steps.sweep.outputs.ids }}"
+            UNTIL="${{ steps.sweep.outputs.until }}"
+          fi
+          DEADLINE=$(( $(date +%s) + 65*60 ))
+          # Respect the window end mid-run: don't loop past it.
           if [ -n "$UNTIL" ]; then
             UNTIL_TS=$(date -u -d "$UNTIL" +%s 2>/dev/null || echo 0)
             if [ "$UNTIL_TS" -gt 0 ] && [ "$UNTIL_TS" -lt "$DEADLINE" ]; then
               DEADLINE=$UNTIL_TS
-              echo "Loop deadline capped at FTD_UNTIL: $UNTIL UTC"
+              echo "Loop deadline capped at window end: $UNTIL UTC"
             fi
           fi
           ITER=0
@@ -143,7 +182,7 @@ jobs:
           while [ "$(date +%s)" -lt "$DEADLINE" ]; do
             ITER=$((ITER+1))
             echo "=== iteration $ITER — $(date -u '+%H:%M:%S UTC') ==="
-            python shift1800_live.py --refresh ${{ steps.gate.outputs.ids }} || echo "compute failed — retrying next iteration"
+            python shift1800_live.py --refresh $IDS || echo "compute failed — retrying next iteration"
             # Skip publish when the underlying data hasn't changed (only the
             # ref_date timestamp differs). Prevents commit/deploy spam when a
             # tournament is idle or already finished.
@@ -169,7 +208,7 @@ jobs:
           echo "Loop finished after $ITER iterations."
 
       - name: Commit enriched FTD caches back
-        if: steps.gate.outputs.mode == 'live'
+        if: steps.gate.outputs.mode == 'live' || steps.sweep.outputs.found == 'true'
         run: |
           git config user.name "othello-rating-bot"
           git config user.email "actions@github.com"
