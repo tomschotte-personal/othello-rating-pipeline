@@ -67,12 +67,13 @@ jobs:
           if [ -z "$IDS" ]; then
             MODE="skip"
             DOW=$(date -u +%u)
-            HOUR=$((10#$(date -u +%H)))
-            if { [ "$DOW" = 6 ] || [ "$DOW" = 7 ]; } && [ "$HOUR" -ge 5 ] && [ "$HOUR" -le 15 ]; then
+            # Sweep on any weekend run (events start as early as ~00:30 UTC for
+            # Asia), and on any manual dispatch regardless of weekday.
+            if [ "$DOW" = 6 ] || [ "$DOW" = 7 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
               MODE="sweep"
-              echo "No active window - weekend daytime, sweeping FTD for live events."
+              echo "No active window - sweeping FTD listing for live events."
             else
-              echo "No FTD window and outside sweep hours - skipping."
+              echo "No FTD window and not a weekend/manual run - skipping."
             fi
           fi
           echo "ids=$IDS" >> "$GITHUB_OUTPUT"
