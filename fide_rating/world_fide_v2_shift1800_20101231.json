@@ -11898,8 +11898,8 @@
     },
     {
       "id": 10629,
-      "rating": 1819.1,
-      "initial": 1819.1,
+      "rating": 1818.9,
+      "initial": 1818.9,
       "games_played": 5,
       "firstname": "Akira",
       "surname": "SUGIYAMA",
@@ -18982,8 +18982,8 @@
     },
     {
       "id": 10456,
-      "rating": 1754.2,
-      "initial": 1754.2,
+      "rating": 1754.3,
+      "initial": 1754.3,
       "games_played": 5,
       "firstname": "Tsumori",
       "surname": "KAJIAWA",
@@ -23865,6 +23865,17 @@
       "last_played": "2009-11-15"
     },
     {
+      "id": 11815,
+      "rating": 1709.7,
+      "initial": 1709.7,
+      "games_played": 6,
+      "firstname": "Nobuhide",
+      "surname": "YOSHIMOTO",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2007-11-11"
+    },
+    {
       "id": 200006,
       "rating": 1709.6,
       "initial": 1709.6,
@@ -23874,17 +23885,6 @@
       "country": "ISR",
       "provisional": true,
       "last_played": "2010-04-17"
-    },
-    {
-      "id": 11815,
-      "rating": 1709.6,
-      "initial": 1709.6,
-      "games_played": 6,
-      "firstname": "Nobuhide",
-      "surname": "YOSHIMOTO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2007-11-11"
     },
     {
       "id": 10810,
