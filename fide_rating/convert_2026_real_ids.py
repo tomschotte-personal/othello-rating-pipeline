@@ -40,6 +40,35 @@ TARGETS = [
     (68553, '2026-06-28', '297_Kawagoe_ranking_games'),
     (68571, '2026-07-05', '134_Kanagawa_open'),
     (68573, '2026-07-05', '134_Kanagawa_open_general'),
+    # 19 Apr - 17 May gap (official JOA->WOF delivery stopped 2026-04-12)
+    (66843, '2026-04-19', '144_Sendai_open'),
+    (66853, '2026-04-19', '67_Nagoya_open'),
+    (66860, '2026-04-19', '67_Nagoya_open_kyu'),
+    (66871, '2026-04-19', '239_Nagareyama_open'),
+    (67152, '2026-04-25', '135_Nagareyama_B'),
+    (67163, '2026-04-25', '7_Osaka_endurance_1', ('＜第一部＞', '＜第二部＞')),
+    (67163, '2026-04-25', '7_Osaka_endurance_2', ('＜第二部＞', None)),
+    (67182, '2026-04-25', '32_Shinagawa_super_league'),
+    (67189, '2026-04-26', '105_Sapporo_open'),
+    (67201, '2026-04-26', '2026_Master_open'),
+    (67204, '2026-04-26', '296_Kawagoe_ranking_games'),
+    (67366, '2026-04-29', '3_Koyama_open'),
+    (67494, '2026-05-03', '17_Hyogo_Toryumon'),
+    (67497, '2026-05-03', '17_Hyogo_super_league'),
+    (67516, '2026-05-03', '126_Q_league'),
+    (67525, '2026-05-04', '7_Iwata_endurance_morning', ('午前の部', '午後の部')),
+    (67525, '2026-05-04', '7_Iwata_endurance_afternoon', ('午後の部', None)),
+    (67533, '2026-05-04', '1_Kyoto_Kiyomizu_challenge_cup'),
+    (67536, '2026-05-04', '36_Kyoto_open'),
+    (67551, '2026-05-05', '240_Nagareyama_open'),
+    (67565, '2026-05-05', '11_Shinagawa_trio', ('【１番手成績】', None)),
+    (67731, '2026-05-06', '16_Tokyo_open'),
+    (67663, '2026-05-09', '60_Niigata_challenge_cup'),
+    (67700, '2026-05-10', '49_Higashi_Hiroshima_open'),
+    (67813, '2026-05-17', '136_Nagareyama_B'),
+    (67827, '2026-05-17', '2026_Kawagoe_kisei', ('棋聖戦（', '女王戦（')),
+    (67827, '2026-05-17', '2026_Kawagoe_joou', ('女王戦（', '予選（')),
+    (67827, '2026-05-17', '2026_Kawagoe_kisei_prelim', ('予選（', None)),
     # 18-20 July weekend. Article 68820 carries TWO sections: the open and the
     # 1st Tokai Junior (which doubles as Fukuroi Open B-class) - split them.
     (68820, '2026-07-18', '28_Fukuroi_open', (None, '第１回東海ジュニアオセロ大会（兼ふくろいオープンＢ級）')),
@@ -115,13 +144,26 @@ def guess_translation(kanji):
 
 NON_RATED_MARKERS = ('レーティング非参入', 'レーティング対象外', 'レート不算入')
 
+PREFECTURES = set('北海道 青森 岩手 宮城 秋田 山形 福島 茨城 栃木 群馬 埼玉 千葉 東京 神奈川 '
+                  '新潟 富山 石川 福井 山梨 長野 岐阜 静岡 愛知 三重 滋賀 京都 大阪 兵庫 奈良 '
+                  '和歌山 鳥取 島根 岡山 広島 山口 徳島 香川 愛媛 高知 福岡 佐賀 長崎 熊本 '
+                  '大分 宮崎 鹿児島 沖縄'.split())
+
 def real_player(s):
     s = s.strip()
     if not s or len(s) > 30:
         return False
     if not plausible_abbr(s):
         return False
-    if re.search(r'初出場|回目|不戦|前回|小学|権利|\?', s):
+    if re.search(r'初出場|初参加|回目|不戦|前回|小学|権利|\?', s):
+        return False
+    if re.fullmatch(r'\d+石|[０-９0-9]+級|[一二三四五六七八九十]*段', s):
+        return False
+    if s in PREFECTURES:
+        return False
+    # concatenated-surname artifacts from misaligned columns (e.g. 長谷武斎藤):
+    # a multi-char surname immediately followed by more kanji without a space
+    if ' ' not in s and re.match(r'^(長谷武|長谷川|瀬々倉|伊勢田|小木曽)[一-鿿]', s):
         return False
     return bool(re.search(r'[一-鿿ぁ-ヿ]', s)) or bool(re.fullmatch(r'[A-Za-z_ ]{4,}', s))
 

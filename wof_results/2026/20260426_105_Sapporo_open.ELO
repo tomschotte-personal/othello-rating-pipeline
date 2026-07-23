@@ -1,0 +1,42 @@
+%%Tournament: 105_Sapporo_open
+%%Country: Japan
+%%Date: 26/04/2026
+%%Sender: WOF rating committee (othello.gr.jp scrape; ids 17121+ = WOF block for new JP players)
+
+%_%   5581, TAKAHASHI, satomi, JPN, 6.0, 272
+%_%   6868, SASAKI, sohei, JPN, 3.0, 189
+%_%  16133, MATSURA, yoichiro, JPN, 3.0, 165
+%_%  13907, TATENO, yuuya, JPN, 2.5, 139
+%_%   7018, OKABAYASHI, noguchi, JPN, 2.0, 175
+%_%  15892, YAMAMOTO, sora, JPN, 1.0, 88
+%_%  10555, ISHII, kentarou, JPN, 0.5, 124
+
+%Round 1
+   5581 (49)>(15)   15892 
+   6868 (32)=(32)   16133 
+   7018 (39)>(25)   10555 
+
+%Round 2
+   5581 (56)>(08)   13907 
+   6868 (38)>(26)    7018 
+  16133 (32)=(32)   10555 
+
+%Round 3
+   5581 (37)>(27)    6868 
+  16133 (38)>(26)    7018 
+  13907 (46)>(18)   15892 
+
+%Round 4
+   5581 (45)>(19)   16133 
+   6868 (32)=(32)   13907 
+  15892 (47)>(17)   10555 
+
+%Round 5
+   5581 (40)>(24)    7018 
+   6868 (60)>(04)   15892 
+  13907 (33)>(31)   10555 
+
+%Round 6
+   5581 (45)>(19)   10555 
+  16133 (44)>(20)   13907 
+   7018 (60)>(04)   15892 

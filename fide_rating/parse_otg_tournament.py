@@ -35,6 +35,8 @@ def plausible_abbr(t):
         return True
     if re.fullmatch(r'[+\-±\d/.,]+', t):
         return False
+    if re.fullmatch(r'\d+石', t):        # disc-count totals like "188石"
+        return False
     return bool(_JPLAT.search(t))
 
 
