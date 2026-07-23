@@ -18,7 +18,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 OUT_DIR = 'C:/Claude/o_dan/wof_results/2026'
 REF = 'C:/Users/schotte/OneDrive - TomTom/Documents/Othello/Japan/20260608_JapanesePlayers_translated.xlsx'
 XLSX_OUT = 'C:/Users/schotte/OneDrive - TomTom/Documents/Othello/Japan/20260722_NewPlayers2026.xlsx'
-ID_START = 170121   # WOF block for 2026 newcomers (Lazard, 2026-07-22)
+ID_START = 17121    # WOF block for 2026 newcomers (Lazard: 17000-17120 = backfill, 17121+ = 2026)
 
 TARGETS = [
     (67928, '2026-05-23', '27_Fukuroi_open'),
@@ -291,7 +291,7 @@ for entry in TARGETS:
         f'%%Tournament: {tname}',
         '%%Country: Japan',
         f'%%Date: {date_dmy}',
-        '%%Sender: WOF rating committee (othello.gr.jp scrape; ids 170121+ = WOF block for new JP players)',
+        '%%Sender: WOF rating committee (othello.gr.jp scrape; ids 17121+ = WOF block for new JP players)',
         '',
     ]
     for p in sorted_players:
