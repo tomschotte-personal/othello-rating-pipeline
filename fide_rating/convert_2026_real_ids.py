@@ -40,6 +40,18 @@ TARGETS = [
     (68553, '2026-06-28', '297_Kawagoe_ranking_games'),
     (68571, '2026-07-05', '134_Kanagawa_open'),
     (68573, '2026-07-05', '134_Kanagawa_open_general'),
+    # 18-20 July weekend. Article 68820 carries TWO sections: the open and the
+    # 1st Tokai Junior (which doubles as Fukuroi Open B-class) - split them.
+    (68820, '2026-07-18', '28_Fukuroi_open', (None, '第１回東海ジュニアオセロ大会（兼ふくろいオープンＢ級）')),
+    (68820, '2026-07-18', '1_Tokai_junior_Fukuroi_B', ('第１回東海ジュニアオセロ大会（兼ふくろいオープンＢ級）', None)),
+    (68848, '2026-07-18', '181_Shinagawa_seaside_open'),
+    (68868, '2026-07-19', '147_Sendai_open'),
+    (68874, '2026-07-19', '51_Higashi_Hiroshima_open'),
+    (68893, '2026-07-19', '8_Toyama_open'),
+    (68900, '2026-07-19', '8_Toyama_open_B'),
+    (68902, '2026-07-19', '2_Nagareyama_Kawagoe_team'),
+    (68930, '2026-07-20', '137_Nagareyama_B'),
+    (68934, '2026-07-20', '100_Tatebayashi_open'),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===
@@ -68,8 +80,13 @@ kanji_map['洪家威'] = (420062, 'HUNG', 'jia wei')
 kanji_map['何秋'] = (60247, 'HO', 'yin chau')
 kanji_map['ローズ ブライアン'] = (177, 'ROSE', 'brian')
 kanji_map['アンソニー'] = (250005, 'GOH', 'jun jie anthony')
+# Same-person variants found via romanization collision check (2026-07-23):
+kanji_map['井上 航汰'] = (16506, 'INOUE', 'kota')      # roster spells 井上航太
+kanji_map['鹿島 虹花'] = (16061, 'KASHIMA', 'nijika')  # roster spells 鹿嶋虹花
+kanji_map['ゴー アンソニー'] = (250005, 'GOH', 'jun jie anthony')  # katakana full form
+kanji_map['Anthony'] = (250005, 'GOH', 'jun jie anthony')          # bare form (Tatebayashi)
 
-VARIANTS = {'髙':'高','澤':'沢','邊':'辺','邉':'辺','齋':'斎','齊':'斉','﨑':'崎','條':'条'}
+VARIANTS = {'髙':'高','澤':'沢','邊':'辺','邉':'辺','齋':'斎','齊':'斉','﨑':'崎','條':'条','嶋':'島'}
 def clean_name(s):
     s = re.sub(r'[\s　]+', ' ', s.strip())
     tokens = s.split(' ')
@@ -162,7 +179,9 @@ def get_article(article_id, url):
 
 total_games = 0
 skipped = []
-for article_id, date_iso, tname in TARGETS:
+for entry in TARGETS:
+    article_id, date_iso, tname = entry[:3]
+    section = entry[3] if len(entry) > 3 else None
     url = f'https://www.othello.gr.jp/competition_result/{article_id}'
     print(f'\n=== {article_id} — {tname} ({date_iso}) ===', flush=True)
     try:
@@ -171,6 +190,12 @@ for article_id, date_iso, tname in TARGETS:
         print(f'  FETCH FAILED: {e}')
         skipped.append((tname, f'fetch: {e}'))
         continue
+    if section:
+        s_mark, e_mark = section
+        i0 = text.find(s_mark) if s_mark else 0
+        i1 = text.find(e_mark) if e_mark else len(text)
+        text = text[max(i0, 0):(i1 if i1 >= 0 else len(text))]
+        print(f'  section slice: {len(text)} chars')
     marker = next((m for m in NON_RATED_MARKERS if m in text), None)
     if marker:
         print(f'  SKIPPED: non-rated ({marker})')

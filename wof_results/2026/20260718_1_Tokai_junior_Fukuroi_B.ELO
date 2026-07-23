@@ -1,0 +1,36 @@
+%%Tournament: 1_Tokai_junior_Fukuroi_B
+%%Country: Japan
+%%Date: 18/07/2026
+%%Sender: WOF rating committee (othello.gr.jp scrape; ids 170121+ = WOF block for new JP players)
+
+%_%  15779, FUJITA, mahiro, JPN, 5.0, 276
+%_%  10091, FUJITA, shouta, JPN, 4.0, 197
+%_% 170159, TSUJI, yuna, JPN, 3.0, 175
+%_% 170122, YAMAMOTO, naoki, JPN, 2.0, 178
+%_%  10089, FUJITA, toshiko, JPN, 1.0, 73
+%_% 170160, YAMAMOTO, nozomi, JPN, 0.0, 61
+
+%Round 1
+  15779 (57)>(07)  170122 
+  10091 (58)>(06)  170160 
+ 170159 (64)>(00)   10089 
+
+%Round 2
+  15779 (60)>(04)   10091 
+ 170159 (33)>(31)  170122 
+  10089 (45)>(19)  170160 
+
+%Round 3
+  15779 (48)>(16)  170159 
+  10091 (44)>(20)   10089 
+ 170122 (47)>(17)  170160 
+
+%Round 4
+  15779 (56)>(08)   10089 
+  10091 (35)>(29)  170122 
+ 170159 (54)>(10)  170160 
+
+%Round 5
+  15779 (55)>(09)  170160 
+  10091 (56)>(08)  170159 
+ 170122 (64)>(00)   10089 
