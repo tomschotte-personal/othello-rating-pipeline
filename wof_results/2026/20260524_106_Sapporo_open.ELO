@@ -1,47 +1,34 @@
 %%Tournament: 106_Sapporo_open
 %%Country: Japan
 %%Date: 24/05/2026
-%%Sender: WOF rating committee (from othello.gr.jp scrape)
+%%Sender: WOF rating committee (othello.gr.jp scrape; ids 170121+ = WOF block for new JP players)
 
-%_%   6872, NOZAKI, jyunetsu, JPN, 7.0, 323
-%_%   6868, SASAKI, sohei, JPN, 7.0, 321
-%_%   5582, TAKENOBU, kosuke, JPN, 5.0, 268
-%_%  16133, MATSURA, yoichiro, JPN, 4.0, 341
-%_%   5581, TAKAHASHI, satomi, JPN, 1.0, 255
-%_% ??????, 0, , JPN, 0.0, 28
+%_%   6868, SASAKI, sohei, JPN, 4.0, 182
+%_%   6872, NOZAKI, jyunetsu, JPN, 3.0, 152
+%_%  16133, MATSURA, yoichiro, JPN, 2.0, 173
+%_%   5582, TAKENOBU, kosuke, JPN, 2.0, 118
+%_%   5581, TAKAHASHI, satomi, JPN, 1.0, 143
 
 %Round 1
    6868 (43)>(21)    6872 
-  16133 (41)>(23)    5582 
   16133 (41)>(23)    5582 
 
 %Round 2
    6868 (36)>(28)   16133 
    5582 (43)>(21)    5581 
-   6872 (40)>(24)   16133 
-   6868 (36)>(28)   16133 
-   5582 (43)>(21)    5581 
 
 %Round 3
    6868 (36)>(28)    5581 
-   6872 (35)>(29)    5581 
    6872 (35)>(29)   16133 
-   6868 (36)>(28)    5581 
 
 %Round 4
    5582 (34)>(30)    6868 
-   5582 (34)>(30)    6868 
-   5582 (50)>(14)    6872 
    5581 (50)>(14)    6872 
 
 %Round 5
    6872 (46)>(18)    5582 
-   6872 (46)>(18)    5581 
-  16133 (48)>(16)    5581 
   16133 (48)>(16)    5581 
 
 %Round 6
-   6868 (37)>(27)   16133 
-   6872 (36)>(28)  ?????? 
    6868 (37)>(27)   16133 
    6872 (36)>(28)    5581 
