@@ -55,14 +55,17 @@ def collect_all_games_global_chrono(exclude_pids=None):
             tournament = fname[:-4]
             date_str, file_games = parse_elo_file(path)
             dt = parse_date(date_str) if date_str else None
-            for a, b, res in file_games:
+            for seq, (a, b, res) in enumerate(file_games):
                 if a in exclude_pids or b in exclude_pids:
                     skipped += 1
                     continue
-                games.append({'date': dt, 'a': a, 'b': b, 'result': res, 't': tournament})
+                games.append({'date': dt, 'a': a, 'b': b, 'result': res, 't': tournament, 'seq': seq})
     suffix = f' (skipped {skipped} games involving {len(exclude_pids)} excluded IDs)' if exclude_pids else ''
     print(f'  Processed {files_processed} .ELO files, {len(games)} games{suffix}')
-    games.sort(key=lambda g: (g['date'] or datetime.min, g['a'], g['b']))
+    # Sort by date, then keep each tournament's games contiguous and in FILE
+    # ORDER (= round order). The old key sorted same-day games by player id,
+    # which scrambled round order (e.g. playoff games processed before Swiss).
+    games.sort(key=lambda g: (g['date'] or datetime.min, g['t'], g['seq']))
     return games
 
 
