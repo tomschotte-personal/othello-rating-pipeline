@@ -13,7 +13,7 @@ DATES = [
     '2024-12-31', '2025-01-31', '2025-02-28', '2025-03-31', '2025-04-30',
     '2025-05-31', '2025-06-30', '2025-07-31', '2025-08-31', '2025-09-30',
     '2025-10-31', '2025-11-30', '2025-12-31', '2026-01-31', '2026-02-28',
-    '2026-03-31', '2026-04-30', '2026-05-31', '2026-06-30',
+    '2026-03-31', '2026-04-30', '2026-05-31', '2026-06-30', '2026-07-31',
 ]
 
 # Yearly mode: year-end snapshots 2010-2025, plus current published snapshot for in-progress year.
@@ -21,7 +21,7 @@ DATES_YEARLY = [
     '2010-12-31', '2011-12-31', '2012-12-31', '2013-12-31', '2014-12-31',
     '2015-12-31', '2016-12-31', '2017-12-31', '2018-12-31', '2019-12-31',
     '2020-12-31', '2021-12-31', '2022-12-31', '2023-12-31', '2024-12-31',
-    '2025-12-31', '2026-06-30',
+    '2025-12-31', '2026-07-31',
 ]
 
 COUNTRY_TO_CONTINENT = {
@@ -294,6 +294,59 @@ for d in DATES_YEARLY:
         'total_active': data['total_active'],
         'players': slim_players,
     })
+
+# Overlay the LIVE ratings onto the LAST yearly snapshot, so the yearly view
+# includes the live differences between monthly cuts (post-baseline games are
+# merged into the year-to-date tournament log too).
+if live_meta is not None or os.path.exists(live_path):
+    try:
+        _live_players = live['players']
+    except NameError:
+        _live_players = []
+    if _live_players and snapshots_yearly:
+        _last = snapshots_yearly[-1]
+        _live_by_id = {p['id']: p for p in _live_players}
+
+        def _merge_live_log(sp, lp):
+            extra = lp.get('log') or []
+            if not extra:
+                return
+            by_t = {row['t']: row for row in sp.get('tl', [])}
+            for g in extra:
+                t = g['t']
+                row = by_t.setdefault(t, {'t': t, 'd': g['d'], 'w': 0, 'l': 0,
+                                          'dr_': 0, 'dr': 0.0})
+                row['dr'] = round(row['dr'] + g['dr'], 1)
+                s = g['s']
+                if s == 1: row['w'] += 1
+                elif s == 0: row['l'] += 1
+                else: row['dr_'] += 1
+            rows = sorted(by_t.values(), key=lambda x: x['d'], reverse=True)
+            sp['tl'] = rows
+
+        _seen = set()
+        for sp in _last['players']:
+            lp = _live_by_id.get(sp['id'])
+            if not lp:
+                continue
+            _seen.add(sp['id'])
+            if abs((lp.get('rating') or sp['r']) - sp['r']) > 0.049:
+                sp['r'] = round(lp['rating'], 1)
+                sp['g'] = lp.get('games_played', sp['g'])
+                sp['l'] = lp.get('last_played', sp['l'])
+                _merge_live_log(sp, lp)
+        # players whose first rated games happened after the yearly cut
+        for pid, lp in _live_by_id.items():
+            if pid in _seen or lp.get('rating') is None or not lp.get('log'):
+                continue
+            sp = {'id': pid, 'r': round(lp['rating'], 1),
+                  'fn': lp.get('firstname', ''), 'sn': (lp.get('surname') or '').title(),
+                  'c': lp.get('country', ''), 'g': lp.get('games_played', 0),
+                  'pr': 1 if lp.get('provisional') else 0,
+                  'l': lp.get('last_played', '')}
+            _merge_live_log(sp, lp)
+            _last['players'].append(sp)
+
 # Refresh name lookup to include any opponents only seen in yearly logs
 for pid in opp_ids_needed:
     if pid in name_lookup: continue
