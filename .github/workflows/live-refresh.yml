@@ -109,7 +109,22 @@ jobs:
             echo "$IDS|$UNTIL" > .ftd_auto
             git add .ftd_auto tournament_*.json
             git commit -m "Auto-arm live window: FTD $IDS until $UNTIL UTC"
-            git pull --rebase origin main && git push origin main
+            # Persisting the window is CRITICAL: without the pushed .ftd_auto
+            # the finalize step never fires and the events vanish after the
+            # weekend (happened 2026-07-25: pull --rebase died on stray
+            # unstaged files and the &&-chain swallowed it under set -e).
+            git status --short
+            git checkout -- . || true      # drop stray modifications
+            if ! git pull --rebase origin main; then
+              echo "::error::pull --rebase failed - retrying with stash"
+              git rebase --abort || true
+              git stash -u || true
+              git pull --rebase origin main
+            fi
+            if ! git push origin main; then
+              echo "::error::PUSH FAILED - live window NOT persisted, finalize will not run!"
+              exit 1
+            fi
             echo "found=true" >> "$GITHUB_OUTPUT"
             echo "ids=$IDS" >> "$GITHUB_OUTPUT"
             echo "until=$UNTIL" >> "$GITHUB_OUTPUT"
