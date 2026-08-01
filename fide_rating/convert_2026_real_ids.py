@@ -81,6 +81,11 @@ TARGETS = [
     (68902, '2026-07-19', '2_Nagareyama_Kawagoe_team'),
     (68930, '2026-07-20', '137_Nagareyama_B'),
     (68934, '2026-07-20', '100_Tatebayashi_open'),
+    # 26 July (published after our 22 July scrape)
+    (69130, '2026-07-26', '64_Hokkaido_open'),
+    (69133, '2026-07-26', '61_Niigata_challenge_cup'),
+    (69147, '2026-07-26', '242_Nagareyama_open'),
+    (69204, '2026-07-26', '298_Kawagoe_ranking_games'),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===
