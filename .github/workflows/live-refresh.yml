@@ -233,6 +233,11 @@ jobs:
             echo "Caches unchanged."
           else
             git commit -m "Update FTD caches ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            # The refresh loop leaves regenerated JSONs unstaged; they'd make
+            # pull --rebase fail (exit 128 -> red run). Discard them first —
+            # they're derived artifacts, rebuilt on every run.
+            git checkout -- . || true
+            git clean -fd fide_rating/pages >/dev/null 2>&1 || true
             git pull --rebase origin main
             git push origin main
           fi
