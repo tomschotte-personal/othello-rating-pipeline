@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-08-02 19:41",
+  "ref_date": "2026-08-03 02:19",
   "baseline_date": "2026-07-31",
   "tournament_id": "",
   "tournament_name": "Live",
   "ec_games_played": 191,
   "ec_rounds": 0,
-  "total_active": 4227,
+  "total_active": 4222,
   "players": [
     {
       "id": 13841,
@@ -17749,17 +17749,6 @@
       "ec": 0
     },
     {
-      "id": 7701,
-      "rating": 1844.2,
-      "games_played": 22,
-      "firstname": "Elsa",
-      "surname": "WAN",
-      "country": "SGP",
-      "provisional": true,
-      "last_played": "2023-06-04",
-      "ec": 0
-    },
-    {
       "id": 90010,
       "rating": 1844.2,
       "games_played": 25,
@@ -18445,17 +18434,6 @@
       "country": "IRN",
       "provisional": true,
       "last_played": "2025-07-31",
-      "ec": 0
-    },
-    {
-      "id": 250152,
-      "rating": 1838.5,
-      "games_played": 34,
-      "firstname": "Chee Chin",
-      "surname": "CHU",
-      "country": "SGP",
-      "provisional": false,
-      "last_played": "2023-06-04",
       "ec": 0
     },
     {
@@ -32709,17 +32687,6 @@
       "ec": 0
     },
     {
-      "id": 15657,
-      "rating": 1758.7,
-      "games_played": 7,
-      "firstname": "Sakura",
-      "surname": "IDENO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-06-04",
-      "ec": 0
-    },
-    {
       "id": 15945,
       "rating": 1758.7,
       "games_played": 152,
@@ -45143,17 +45110,6 @@
       "ec": 0
     },
     {
-      "id": 250295,
-      "rating": 1670.5,
-      "games_played": 7,
-      "firstname": "Kang Liang",
-      "surname": "WU",
-      "country": "SGP",
-      "provisional": true,
-      "last_played": "2023-06-04",
-      "ec": 0
-    },
-    {
       "id": 16230,
       "rating": 1670.5,
       "games_played": 4,
@@ -47945,17 +47901,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2026-06-27",
-      "ec": 0
-    },
-    {
-      "id": 15807,
-      "rating": 1618.9,
-      "games_played": 7,
-      "firstname": "Choji",
-      "surname": "TAKANO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-06-04",
       "ec": 0
     },
     {
