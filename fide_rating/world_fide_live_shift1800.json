@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-08-03 02:19",
+  "ref_date": "2026-08-08 18:58",
   "baseline_date": "2026-07-31",
   "tournament_id": "",
   "tournament_name": "Live",
-  "ec_games_played": 191,
+  "ec_games_played": 239,
   "ec_rounds": 0,
-  "total_active": 4222,
+  "total_active": 4226,
   "players": [
     {
       "id": 13841,
@@ -286,16 +286,18 @@
     },
     {
       "id": 5301,
-      "rating": 2405.6,
-      "games_played": 1318,
+      "rating": 2407.2,
+      "games_played": 1330,
       "firstname": "Matthias",
       "surname": "BERG",
       "country": "DEU",
       "provisional": false,
-      "last_played": "2026-08-01",
+      "last_played": "2026-08-08",
       "ec": 1,
       "tournaments": [
-        "EGP_Mulhouse"
+        "EGP_Mulhouse",
+        "Blitz_European_Summer_Camp_friendly",
+        "1st_European_Summercamp_open"
       ],
       "log": [
         {
@@ -400,6 +402,102 @@
           "o": 839,
           "s": 1.0,
           "dr": 3.65,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.09,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": -6.69,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 0.31,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 0.0,
+          "dr": -8.89,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 1.0,
+          "dr": 0.32,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 1.0,
+          "dr": 2.13,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 1.0,
+          "dr": 3.68,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 79,
+          "s": 1.0,
+          "dr": 3.53,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921060,
+          "s": 1.0,
+          "dr": 0.31,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 2,
+          "s": 1.0,
+          "dr": 3.91,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 3598,
+          "s": 1.0,
+          "dr": 1.67,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50053,
+          "s": 1.0,
+          "dr": 1.28,
           "r": 0
         }
       ]
@@ -692,6 +790,216 @@
       "provisional": false,
       "last_played": "2026-06-13",
       "ec": 0
+    },
+    {
+      "id": 2,
+      "rating": 2325.0,
+      "games_played": 3377,
+      "firstname": "Marc",
+      "surname": "TASTET",
+      "country": "FRA",
+      "provisional": false,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "EGP_Mulhouse",
+        "Blitz_European_Summer_Camp_friendly",
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 148,
+          "s": 1.0,
+          "dr": 4.52,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40052,
+          "s": 1.0,
+          "dr": 1.86,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -7.39,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2884,
+          "s": 1.0,
+          "dr": 1.64,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -5.84,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 50053,
+          "s": 1.0,
+          "dr": 3.86,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 839,
+          "s": 1.0,
+          "dr": 10.82,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 140068,
+          "s": 1.0,
+          "dr": 2.95,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 45,
+          "s": 1.0,
+          "dr": 2.61,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40038,
+          "s": 1.0,
+          "dr": 7.08,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -17.59,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -5.88,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 1.0,
+          "dr": 3.9,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 1.0,
+          "dr": 13.39,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 1.0,
+          "dr": 6.82,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 1.0,
+          "dr": 10.01,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.32,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 1.0,
+          "dr": 0.99,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 0.98,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 3598,
+          "s": 1.0,
+          "dr": 5.11,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 104,
+          "s": 1.0,
+          "dr": 2.55,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -7.82,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 79,
+          "s": 1.0,
+          "dr": 9.27,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.31,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 92,
@@ -1150,17 +1458,6 @@
       "ec": 0
     },
     {
-      "id": 79,
-      "rating": 2295.2,
-      "games_played": 2104,
-      "firstname": "Imre",
-      "surname": "LEADER",
-      "country": "GBR",
-      "provisional": false,
-      "last_played": "2026-07-11",
-      "ec": 0
-    },
-    {
       "id": 5071,
       "rating": 2292.3,
       "games_played": 2458,
@@ -1260,6 +1557,119 @@
       "ec": 0
     },
     {
+      "id": 79,
+      "rating": 2283.8,
+      "games_played": 2116,
+      "firstname": "Imre",
+      "surname": "LEADER",
+      "country": "GBR",
+      "provisional": false,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "Blitz_European_Summer_Camp_friendly",
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 1.0,
+          "dr": 7.02,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 1.0,
+          "dr": 1.05,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.31,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": -10.01,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 1.1,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 1.0,
+          "dr": 4.28,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -7.36,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -7.07,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50053,
+          "s": 1.0,
+          "dr": 4.44,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921060,
+          "s": 1.0,
+          "dr": 1.13,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 2,
+          "s": 0.0,
+          "dr": -9.27,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 104,
+          "s": 1.0,
+          "dr": 3.03,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 4501,
       "rating": 2283.4,
       "games_played": 941,
@@ -1280,118 +1690,6 @@
       "provisional": false,
       "last_played": "2026-07-12",
       "ec": 0
-    },
-    {
-      "id": 2,
-      "rating": 2279.2,
-      "games_played": 3365,
-      "firstname": "Marc",
-      "surname": "TASTET",
-      "country": "FRA",
-      "provisional": false,
-      "last_played": "2026-08-01",
-      "ec": 1,
-      "tournaments": [
-        "EGP_Mulhouse"
-      ],
-      "log": [
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 148,
-          "s": 1.0,
-          "dr": 4.52,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40052,
-          "s": 1.0,
-          "dr": 1.86,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 5301,
-          "s": 0.0,
-          "dr": -7.39,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2884,
-          "s": 1.0,
-          "dr": 1.64,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 3037,
-          "s": 0.0,
-          "dr": -5.84,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 50053,
-          "s": 1.0,
-          "dr": 3.86,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 839,
-          "s": 1.0,
-          "dr": 10.82,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 140068,
-          "s": 1.0,
-          "dr": 2.95,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 45,
-          "s": 1.0,
-          "dr": 2.61,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40038,
-          "s": 1.0,
-          "dr": 7.08,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40346,
-          "s": 0.0,
-          "dr": -17.59,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 3037,
-          "s": 0.0,
-          "dr": -5.88,
-          "r": 0
-        }
-      ]
     },
     {
       "id": 13694,
@@ -2595,110 +2893,6 @@
       "ec": 0
     },
     {
-      "id": 40038,
-      "rating": 2188.3,
-      "games_played": 331,
-      "firstname": "Carlo",
-      "surname": "AFFATIGATO",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
-      "ec": 1,
-      "tournaments": [
-        "EGP_Mulhouse"
-      ],
-      "log": [
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 5301,
-          "s": 0.0,
-          "dr": -5.56,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 50053,
-          "s": 0.5,
-          "dr": -4.93,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40088,
-          "s": 1.0,
-          "dr": 1.61,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40346,
-          "s": 0.0,
-          "dr": -16.38,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 3598,
-          "s": 1.0,
-          "dr": 9.5,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2841,
-          "s": 0.5,
-          "dr": -4.94,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 9921051,
-          "s": 1.0,
-          "dr": 1.91,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 3037,
-          "s": 0.0,
-          "dr": -4.0,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 70017,
-          "s": 1.0,
-          "dr": 2.83,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2,
-          "s": 0.0,
-          "dr": -7.08,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 45,
-          "s": 1.0,
-          "dr": 4.31,
-          "r": 0
-        }
-      ]
-    },
-    {
       "id": 420027,
       "rating": 2188.0,
       "games_played": 45,
@@ -3506,6 +3700,167 @@
       "ec": 0
     },
     {
+      "id": 40038,
+      "rating": 2141.7,
+      "games_played": 338,
+      "firstname": "Carlo",
+      "surname": "AFFATIGATO",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-08-07",
+      "ec": 1,
+      "tournaments": [
+        "EGP_Mulhouse",
+        "Blitz_European_Summer_Camp_friendly"
+      ],
+      "log": [
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -5.56,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 50053,
+          "s": 0.5,
+          "dr": -4.93,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 1.61,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -16.38,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 3598,
+          "s": 1.0,
+          "dr": 9.5,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2841,
+          "s": 0.5,
+          "dr": -4.94,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 9921051,
+          "s": 1.0,
+          "dr": 1.91,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -4.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 70017,
+          "s": 1.0,
+          "dr": 2.83,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2,
+          "s": 0.0,
+          "dr": -7.08,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 45,
+          "s": 1.0,
+          "dr": 4.31,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 0.0,
+          "dr": -7.02,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.61,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": -6.82,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 2.07,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 0.0,
+          "dr": -13.38,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -4.26,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 0.0,
+          "dr": -17.76,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 7159,
       "rating": 2141.3,
       "games_played": 59,
@@ -3803,17 +4158,95 @@
       "ec": 0
     },
     {
+      "id": 5085,
+      "rating": 2127.9,
+      "games_played": 640,
+      "firstname": "Ralph",
+      "surname": "REIJNDERS",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-07-11",
+      "ec": 0
+    },
+    {
+      "id": 1302,
+      "rating": 2127.4,
+      "games_played": 757,
+      "firstname": "Nils",
+      "surname": "BERNER",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-06-13",
+      "ec": 0
+    },
+    {
+      "id": 5513,
+      "rating": 2126.9,
+      "games_played": 1658,
+      "firstname": "Kunihiko",
+      "surname": "TANIDA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-07-25",
+      "ec": 0
+    },
+    {
+      "id": 14235,
+      "rating": 2126.1,
+      "games_played": 1032,
+      "firstname": "Link",
+      "surname": "TSUCHIGANE",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-07-12",
+      "ec": 0
+    },
+    {
+      "id": 2570,
+      "rating": 2125.6,
+      "games_played": 439,
+      "firstname": "Vidar",
+      "surname": "ALBRIGTSEN",
+      "country": "NOR",
+      "provisional": false,
+      "last_played": "2026-06-14",
+      "ec": 0
+    },
+    {
+      "id": 12218,
+      "rating": 2125.0,
+      "games_played": 723,
+      "firstname": "Yuta",
+      "surname": "KUROGI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-02-01",
+      "ec": 0
+    },
+    {
+      "id": 13941,
+      "rating": 2124.9,
+      "games_played": 227,
+      "firstname": "Satoya",
+      "surname": "KITAJIMA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2025-07-13",
+      "ec": 0
+    },
+    {
       "id": 3598,
-      "rating": 2129.7,
-      "games_played": 1250,
+      "rating": 2124.8,
+      "games_played": 1254,
       "firstname": "Thierry",
       "surname": "LEVY-ABEGNOLI",
       "country": "FRA",
       "provisional": false,
-      "last_played": "2026-08-01",
+      "last_played": "2026-08-08",
       "ec": 1,
       "tournaments": [
-        "EGP_Mulhouse"
+        "EGP_Mulhouse",
+        "1st_European_Summercamp_open"
       ],
       "log": [
         {
@@ -3903,85 +4336,40 @@
           "s": 1.0,
           "dr": 1.08,
           "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 2,
+          "s": 0.0,
+          "dr": -5.11,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.95,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -3.35,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 2.61,
+          "r": 0
         }
       ]
-    },
-    {
-      "id": 5085,
-      "rating": 2127.9,
-      "games_played": 640,
-      "firstname": "Ralph",
-      "surname": "REIJNDERS",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-07-11",
-      "ec": 0
-    },
-    {
-      "id": 1302,
-      "rating": 2127.4,
-      "games_played": 757,
-      "firstname": "Nils",
-      "surname": "BERNER",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
-      "ec": 0
-    },
-    {
-      "id": 5513,
-      "rating": 2126.9,
-      "games_played": 1658,
-      "firstname": "Kunihiko",
-      "surname": "TANIDA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-07-25",
-      "ec": 0
-    },
-    {
-      "id": 14235,
-      "rating": 2126.1,
-      "games_played": 1032,
-      "firstname": "Link",
-      "surname": "TSUCHIGANE",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-07-12",
-      "ec": 0
-    },
-    {
-      "id": 2570,
-      "rating": 2125.6,
-      "games_played": 439,
-      "firstname": "Vidar",
-      "surname": "ALBRIGTSEN",
-      "country": "NOR",
-      "provisional": false,
-      "last_played": "2026-06-14",
-      "ec": 0
-    },
-    {
-      "id": 12218,
-      "rating": 2125.0,
-      "games_played": 723,
-      "firstname": "Yuta",
-      "surname": "KUROGI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-02-01",
-      "ec": 0
-    },
-    {
-      "id": 13941,
-      "rating": 2124.9,
-      "games_played": 227,
-      "firstname": "Satoya",
-      "surname": "KITAJIMA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2025-07-13",
-      "ec": 0
     },
     {
       "id": 5559,
@@ -4939,6 +5327,208 @@
       "provisional": false,
       "last_played": "2026-07-18",
       "ec": 0
+    },
+    {
+      "id": 50053,
+      "rating": 2070.8,
+      "games_played": 453,
+      "firstname": "Remi",
+      "surname": "TASTET",
+      "country": "FRA",
+      "provisional": false,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "EGP_Mulhouse",
+        "Blitz_European_Summer_Camp_friendly",
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -1.64,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40038,
+          "s": 0.5,
+          "dr": 4.93,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 70017,
+          "s": 1.0,
+          "dr": 5.53,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 45,
+          "s": 0.0,
+          "dr": -12.17,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 148,
+          "s": 1.0,
+          "dr": 10.79,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2,
+          "s": 0.0,
+          "dr": -3.86,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 3.96,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40052,
+          "s": 1.0,
+          "dr": 6.72,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -2.22,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 839,
+          "s": 0.0,
+          "dr": -3.4,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2884,
+          "s": 1.0,
+          "dr": 4.77,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": -3.9,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 4.23,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 1.0,
+          "dr": 4.15,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 1.0,
+          "dr": 17.79,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 1.0,
+          "dr": 13.38,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 0.0,
+          "dr": -4.28,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 1.23,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 1.21,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 79,
+          "s": 0.0,
+          "dr": -4.44,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 104,
+          "s": 1.0,
+          "dr": 7.79,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 3.49,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -2.57,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 14890,
@@ -6018,110 +6608,6 @@
       "provisional": false,
       "last_played": "2025-12-13",
       "ec": 0
-    },
-    {
-      "id": 50053,
-      "rating": 2032.7,
-      "games_played": 441,
-      "firstname": "Remi",
-      "surname": "TASTET",
-      "country": "FRA",
-      "provisional": false,
-      "last_played": "2026-08-01",
-      "ec": 1,
-      "tournaments": [
-        "EGP_Mulhouse"
-      ],
-      "log": [
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 3037,
-          "s": 0.0,
-          "dr": -1.64,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40038,
-          "s": 0.5,
-          "dr": 4.93,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 70017,
-          "s": 1.0,
-          "dr": 5.53,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 45,
-          "s": 0.0,
-          "dr": -12.17,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 148,
-          "s": 1.0,
-          "dr": 10.79,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2,
-          "s": 0.0,
-          "dr": -3.86,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40088,
-          "s": 1.0,
-          "dr": 3.96,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40052,
-          "s": 1.0,
-          "dr": 6.72,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 5301,
-          "s": 0.0,
-          "dr": -2.22,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 839,
-          "s": 0.0,
-          "dr": -3.4,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2884,
-          "s": 1.0,
-          "dr": 4.77,
-          "r": 0
-        }
-      ]
     },
     {
       "id": 15704,
@@ -8086,6 +8572,54 @@
       "provisional": false,
       "last_played": "2023-07-19",
       "ec": 0
+    },
+    {
+      "id": 104,
+      "rating": 1978.6,
+      "games_played": 82,
+      "firstname": "Elie",
+      "surname": "CALI",
+      "country": "FRA",
+      "provisional": false,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 2,
+          "s": 0.0,
+          "dr": -2.55,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50053,
+          "s": 0.0,
+          "dr": -7.79,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921060,
+          "s": 1.0,
+          "dr": 5.32,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 79,
+          "s": 0.0,
+          "dr": -3.03,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 60060,
@@ -24390,6 +24924,126 @@
       "ec": 0
     },
     {
+      "id": 9921057,
+      "rating": 1800.0,
+      "games_played": 7,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-07",
+      "ec": 1,
+      "tournaments": [
+        "Blitz_European_Summer_Camp_friendly"
+      ],
+      "log": [
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921060,
+      "rating": 1800.0,
+      "games_played": 4,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 5301,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 79,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 104,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 40314,
       "rating": 1800.0,
       "games_played": 4,
@@ -26478,6 +27132,111 @@
       "provisional": true,
       "last_played": "2025-01-25",
       "ec": 0
+    },
+    {
+      "id": 9921056,
+      "rating": 1787.8,
+      "games_played": 11,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "Blitz_European_Summer_Camp_friendly",
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50127,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921060,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50127,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50053,
+          "s": 0.0,
+          "dr": -6.98,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 3598,
+          "s": 0.0,
+          "dr": -5.23,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 440563,
@@ -48421,6 +49180,200 @@
       "ec": 0
     },
     {
+      "id": 50127,
+      "rating": 1602.3,
+      "games_played": 88,
+      "firstname": "Nicolas",
+      "surname": "HUGOT",
+      "country": "FRA",
+      "provisional": false,
+      "last_played": "2026-08-08",
+      "ec": 1,
+      "tournaments": [
+        "EGP_Mulhouse",
+        "Blitz_European_Summer_Camp_friendly",
+        "1st_European_Summercamp_open"
+      ],
+      "log": [
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40052,
+          "s": 0.0,
+          "dr": -2.87,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 148,
+          "s": 1.0,
+          "dr": 18.87,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2884,
+          "s": 0.0,
+          "dr": -3.59,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 9921051,
+          "s": 0.0,
+          "dr": -4.57,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 70003,
+          "s": 0.0,
+          "dr": -2.34,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40088,
+          "s": 0.0,
+          "dr": -4.94,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 90,
+          "s": 1.0,
+          "dr": 12.23,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 3598,
+          "s": 0.0,
+          "dr": -0.77,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -1.66,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -2.14,
+          "r": 0
+        },
+        {
+          "d": "2026-08-01",
+          "t": "20260801_EGP_Mulhouse",
+          "o": 70017,
+          "s": 0.0,
+          "dr": -3.4,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 5301,
+          "s": 0.0,
+          "dr": -0.17,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 40038,
+          "s": 0.0,
+          "dr": -0.61,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 79,
+          "s": 0.0,
+          "dr": -0.31,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921057,
+          "s": 1.0,
+          "dr": 15.6,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 2,
+          "s": 0.0,
+          "dr": -0.32,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 9921056,
+          "s": 0.0,
+          "dr": -4.71,
+          "r": 0
+        },
+        {
+          "d": "2026-08-07",
+          "t": "20260807_Blitz_European_Summer_Camp_friendly",
+          "o": 50053,
+          "s": 0.0,
+          "dr": -1.23,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 50053,
+          "s": 0.0,
+          "dr": -1.21,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 9921056,
+          "s": 1.0,
+          "dr": 15.44,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 3598,
+          "s": 0.0,
+          "dr": -0.95,
+          "r": 0
+        },
+        {
+          "d": "2026-08-08",
+          "t": "20260808_1st_European_Summercamp_open",
+          "o": 2,
+          "s": 0.0,
+          "dr": -0.31,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 280098,
       "rating": 1601.7,
       "games_played": 7,
@@ -48822,110 +49775,6 @@
       "provisional": false,
       "last_played": "2026-07-05",
       "ec": 0
-    },
-    {
-      "id": 50127,
-      "rating": 1581.0,
-      "games_played": 77,
-      "firstname": "Nicolas",
-      "surname": "HUGOT",
-      "country": "FRA",
-      "provisional": false,
-      "last_played": "2026-08-01",
-      "ec": 1,
-      "tournaments": [
-        "EGP_Mulhouse"
-      ],
-      "log": [
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40052,
-          "s": 0.0,
-          "dr": -2.87,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 148,
-          "s": 1.0,
-          "dr": 18.87,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2884,
-          "s": 0.0,
-          "dr": -3.59,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 9921051,
-          "s": 0.0,
-          "dr": -4.57,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 70003,
-          "s": 0.0,
-          "dr": -2.34,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40088,
-          "s": 0.0,
-          "dr": -4.94,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 90,
-          "s": 1.0,
-          "dr": 12.23,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 3598,
-          "s": 0.0,
-          "dr": -0.77,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 2841,
-          "s": 0.0,
-          "dr": -1.66,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 40346,
-          "s": 0.0,
-          "dr": -2.14,
-          "r": 0
-        },
-        {
-          "d": "2026-08-01",
-          "t": "20260801_EGP_Mulhouse",
-          "o": 70017,
-          "s": 0.0,
-          "dr": -3.4,
-          "r": 0
-        }
-      ]
     },
     {
       "id": 220063,

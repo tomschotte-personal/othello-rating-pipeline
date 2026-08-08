@@ -1,0 +1,56 @@
+%%Tournament: 1st European Summercamp open
+%%Country: WO
+%%Date: 08/08/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   5301, BERG, Matthias, DEU, 5, 231, 2243
+%_%      2, TASTET, Marc, FRA, 4, 206, 2057
+%_%  50053, TASTET, Remi, FRA, 3, 191, 1783
+%_%     79, LEADER, Imre, GBR, 3, 185, 2098
+%_%   3598, LEVY-ABEGNOLI, Thierry, FRA, 2, 154, 1958
+%_%    104, CALI, Elie, FRA, 1, 108, 1930
+%_% 9921060, TRINE, Paul-Andre, BEL, 1, 89, 0
+%_%  50127, HUGOT, Nicolas, FRA, 1, 66, 965
+%_% 9921056, CALI, Remi, FRA, 0, 50, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/616
+
+%Round: 1
+
+  3598 (31)<(33)      2  B
+ 50127 (09)<(55)  50053  B
+ 9921056 (15)<(49) 9921060  B
+    79 (20)<(44)   5301  B
+
+%Round: 2
+
+ 9921060 (01)<(63)   5301  B
+     2 (40)>(24)    104  B
+ 50053 (19)<(45)     79  B
+ 9921056 (26)<(38)  50127  B
+
+%Round: 3
+
+  5301 (36)>(28)      2  B
+    79 (50)>(14) 9921060  B
+ 50127 (17)<(47)   3598  B
+   104 (30)<(34)  50053  B
+
+%Round: 4
+
+  5301 (47)>(17)   3598  B
+     2 (43)>(21)     79  B
+ 50053 (60)>(04) 9921056  B
+ 9921060 (25)<(39)    104  B
+
+%Round: 5
+
+ 50053 (23)<(41)   5301  B
+     2 (62)>(02)  50127  B
+   104 (15)<(49)     79  B
+  3598 (59)>(05) 9921056  B
