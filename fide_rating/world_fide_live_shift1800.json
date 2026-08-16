@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-08-08 18:58",
+  "ref_date": "2026-08-16 17:21",
   "baseline_date": "2026-07-31",
   "tournament_id": "",
   "tournament_name": "Live",
-  "ec_games_played": 239,
+  "ec_games_played": 263,
   "ec_rounds": 0,
-  "total_active": 4226,
+  "total_active": 4230,
   "players": [
     {
       "id": 13841,
@@ -20872,17 +20872,6 @@
       "ec": 0
     },
     {
-      "id": 15630,
-      "rating": 1825.9,
-      "games_played": 6,
-      "firstname": "Arisa",
-      "surname": "LIM",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-06-17",
-      "ec": 0
-    },
-    {
       "id": 441980,
       "rating": 1825.8,
       "games_played": 21,
@@ -23520,17 +23509,6 @@
       "ec": 0
     },
     {
-      "id": 16149,
-      "rating": 1808.2,
-      "games_played": 9,
-      "firstname": "Masato",
-      "surname": "ETO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2025-08-30",
-      "ec": 0
-    },
-    {
       "id": 15427,
       "rating": 1808.2,
       "games_played": 29,
@@ -23539,6 +23517,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2023-10-22",
+      "ec": 0
+    },
+    {
+      "id": 16149,
+      "rating": 1808.2,
+      "games_played": 9,
+      "firstname": "Masato",
+      "surname": "ETO",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2025-08-30",
       "ec": 0
     },
     {
@@ -25037,6 +25026,534 @@
           "d": "2026-08-08",
           "t": "20260808_1st_European_Summercamp_open",
           "o": 104,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921072,
+      "rating": 1800.0,
+      "games_played": 4,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921074,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921077,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921073,
+      "rating": 1800.0,
+      "games_played": 4,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921079,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921080,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921076,
+      "rating": 1800.0,
+      "games_played": 7,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921077,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921072,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921074,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921073,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921079,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921077,
+      "rating": 1800.0,
+      "games_played": 4,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921072,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921074,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921080,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921078,
+      "rating": 1800.0,
+      "games_played": 7,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921073,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921080,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921072,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921079,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921074,
+      "rating": 1800.0,
+      "games_played": 5,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921072,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921079,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921077,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921075,
+      "rating": 1800.0,
+      "games_played": 7,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921080,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921079,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921074,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921079,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921080,
+      "rating": 1800.0,
+      "games_played": 4,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921073,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921077,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921079,
+      "rating": 1800.0,
+      "games_played": 6,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-08-15",
+      "ec": 1,
+      "tournaments": [
+        "Iran_Provincial_Othello_Championship-Hormozgan"
+      ],
+      "log": [
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921074,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921073,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921078,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921076,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-08-15",
+          "t": "20260815_Iran_Provincial_Othello_Championship-Hormozgan",
+          "o": 9921075,
           "s": 0.0,
           "dr": 0.0,
           "r": 0
@@ -26768,17 +27285,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2026-07-05",
-      "ec": 0
-    },
-    {
-      "id": 220045,
-      "rating": 1790.3,
-      "games_played": 45,
-      "firstname": "Isaac",
-      "surname": "FRANTZEN GYLLENSTEEN",
-      "country": "DNK",
-      "provisional": false,
-      "last_played": "2023-06-17",
       "ec": 0
     },
     {
@@ -33085,17 +33591,6 @@
       "ec": 0
     },
     {
-      "id": 441229,
-      "rating": 1760.2,
-      "games_played": 6,
-      "firstname": "Batnyam",
-      "surname": "MUNGUNSHAGAI",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2025-09-20",
-      "ec": 0
-    },
-    {
       "id": 290616,
       "rating": 1760.2,
       "games_played": 5,
@@ -33115,6 +33610,17 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2024-01-12",
+      "ec": 0
+    },
+    {
+      "id": 441229,
+      "rating": 1760.2,
+      "games_played": 6,
+      "firstname": "Batnyam",
+      "surname": "MUNGUNSHAGAI",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2025-09-20",
       "ec": 0
     },
     {
@@ -38487,17 +38993,6 @@
       "country": "ITA",
       "provisional": true,
       "last_played": "2025-10-25",
-      "ec": 0
-    },
-    {
-      "id": 15718,
-      "rating": 1727.4,
-      "games_played": 6,
-      "firstname": "Sohajime",
-      "surname": "HONDA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-06-11",
       "ec": 0
     },
     {
@@ -44628,17 +45123,6 @@
       "ec": 0
     },
     {
-      "id": 15643,
-      "rating": 1683.1,
-      "games_played": 6,
-      "firstname": "Tsubasa",
-      "surname": "ITO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-06-11",
-      "ec": 0
-    },
-    {
       "id": 16492,
       "rating": 1682.8,
       "games_played": 7,
@@ -46837,17 +47321,6 @@
       "ec": 0
     },
     {
-      "id": 620025,
-      "rating": 1656.1,
-      "games_played": 5,
-      "firstname": "Mayen Herrera",
-      "surname": "YENILINN IVETH",
-      "country": "GTM",
-      "provisional": true,
-      "last_played": "2025-11-29",
-      "ec": 0
-    },
-    {
       "id": 60337,
       "rating": 1656.1,
       "games_played": 5,
@@ -46856,6 +47329,17 @@
       "country": "CHN",
       "provisional": true,
       "last_played": "2026-01-17",
+      "ec": 0
+    },
+    {
+      "id": 620025,
+      "rating": 1656.1,
+      "games_played": 5,
+      "firstname": "Mayen Herrera",
+      "surname": "YENILINN IVETH",
+      "country": "GTM",
+      "provisional": true,
+      "last_played": "2025-11-29",
       "ec": 0
     },
     {
@@ -48913,17 +49397,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-08-11",
-      "ec": 0
-    },
-    {
-      "id": 15780,
-      "rating": 1612.7,
-      "games_played": 6,
-      "firstname": "Keita",
-      "surname": "NISHIMOTO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-06-17",
       "ec": 0
     },
     {
