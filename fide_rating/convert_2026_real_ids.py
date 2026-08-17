@@ -16,7 +16,7 @@ from parse_otg_tournament import fetch_article_text, parse_tournament, plausible
 sys.stdout.reconfigure(encoding='utf-8')
 
 OUT_DIR = 'C:/Claude/o_dan/wof_results/2026'
-REF = 'C:/Users/schotte/OneDrive - TomTom/Documents/Othello/Japan/20260608_JapanesePlayers_translated.xlsx'
+REF = 'C:/Users/schotte/OneDrive - TomTom/Documents/Othello/Japan/20260817_JapanesePlayers.xlsx'
 XLSX_OUT = 'C:/Users/schotte/OneDrive - TomTom/Documents/Othello/Japan/20260722_NewPlayers2026.xlsx'
 ID_START = 17121    # WOF block for 2026 newcomers (Lazard: 17000-17120 = backfill, 17121+ = 2026)
 
@@ -133,6 +133,7 @@ kanji_map['井上 航汰'] = (16506, 'INOUE', 'kota')      # roster spells 井�
 kanji_map['鹿島 虹花'] = (16061, 'KASHIMA', 'nijika')  # roster spells 鹿嶋虹花
 kanji_map['ゴー アンソニー'] = (250005, 'GOH', 'jun jie anthony')  # katakana full form
 kanji_map['Anthony'] = (250005, 'GOH', 'jun jie anthony')          # bare form (Tatebayashi)
+kanji_map['西村俊範'] = (17004, 'NISHIMURA', 'toshinori')  # double-registered; 17195 retired
 
 VARIANTS = {'髙':'高','澤':'沢','邊':'辺','邉':'辺','齋':'斎','齊':'斉','﨑':'崎','條':'条','嶋':'島'}
 def clean_name(s):
