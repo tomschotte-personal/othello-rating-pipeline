@@ -86,6 +86,20 @@ TARGETS = [
     (69133, '2026-07-26', '61_Niigata_challenge_cup'),
     (69147, '2026-07-26', '242_Nagareyama_open'),
     (69204, '2026-07-26', '298_Kawagoe_ranking_games'),
+    # August (verified 2026-08-17)
+    (69301, '2026-08-02', '40_Kawasaki_open_elementary'),
+    (69311, '2026-08-02', '40_Kawasaki_open'),
+    (69567, '2026-08-09', '127_Q_league'),
+    (69575, '2026-08-09', '243_Nagareyama_open'),
+    (69604, '2026-08-09', '2_Kyoto_endurance_1', ('＜第一部＞', '＜第二部＞')),
+    (69604, '2026-08-09', '2_Kyoto_endurance_2', ('＜第二部＞', None)),
+    (69703, '2026-08-15', '182_Shinagawa_seaside_open'),
+    (69706, '2026-08-15', '2026_Akashi_Obon_open'),
+    (69716, '2026-08-15', '10_Akashi_challenge_cup'),
+    (69755, '2026-08-16', '148_Sendai_open'),
+    (69760, '2026-08-16', '138_Nagareyama_B'),
+    (69762, '2026-08-16', '8_Iwata_endurance_morning', ('午前の部', '午後の部')),
+    (69762, '2026-08-16', '8_Iwata_endurance_afternoon', ('午後の部', None)),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===

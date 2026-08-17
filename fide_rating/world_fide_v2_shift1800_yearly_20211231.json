@@ -43413,17 +43413,6 @@
       "last_played": "2019-11-03"
     },
     {
-      "id": 15433,
-      "rating": 1735.5,
-      "initial": 1735.5,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28"
-    },
-    {
       "id": 441006,
       "rating": 1735.4,
       "initial": 1735.4,
@@ -43444,6 +43433,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2019-06-15"
+    },
+    {
+      "id": 15433,
+      "rating": 1735.3,
+      "initial": 1735.3,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28"
     },
     {
       "id": 440445,

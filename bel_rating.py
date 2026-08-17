@@ -21,7 +21,7 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 
 
-BASE = os.path.dirname(os.path.abspath(__file__))  # repo root (portable)
+BASE = 'C:/Claude/o_dan'
 ZIPS_DIR = os.path.join(BASE, 'wof_zips')
 EXTRACT_DIR = os.path.join(BASE, 'wof_results')
 JOUEURS = os.path.join(BASE, 'joueurs.txt')
@@ -84,6 +84,12 @@ def parse_joueurs():
                     'firstname': m.group(3).strip(),
                     'country': current_country,
                 }
+    # Display-name overrides (kept across joueurs.txt updates from WOF).
+    # 270091: WOF lists "RINE Pat"; same person prefers "Paul-Andre Trine"
+    # (merged 2026-08-17, formerly synthetic 9921060 at the 2026 Summercamp).
+    if 270091 in players:
+        players[270091]['surname'] = 'TRINE'
+        players[270091]['firstname'] = 'Paul-Andre'
     return players
 
 

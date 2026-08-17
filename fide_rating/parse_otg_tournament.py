@@ -37,6 +37,10 @@ def plausible_abbr(t):
         return False
     if re.fullmatch(r'\d+石', t):        # disc-count totals like "188石"
         return False
+    # trailing annotation tokens on league opponent lines ("前回3位", "初参加"):
+    # letting these through shifts ALL opponents by one round (WOF id 7713 bug)
+    if re.search(r'前回|初参加|初出場|回目', t) or re.fullmatch(r'.*\d+位', t):
+        return False
     return bool(_JPLAT.search(t))
 
 
