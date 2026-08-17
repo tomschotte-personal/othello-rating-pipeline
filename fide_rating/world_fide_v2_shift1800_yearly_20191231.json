@@ -80741,7 +80741,7 @@
           "t": "20190324_40_Meijin",
           "o": 12740,
           "s": 0.0,
-          "dr": -7.77
+          "dr": -7.76
         },
         {
           "d": "2019-03-30",
@@ -133146,7 +133146,7 @@
           "t": "20190224_2019_Hokkaido_expert_games",
           "o": 10368,
           "s": 1.0,
-          "dr": 7.62
+          "dr": 7.61
         },
         {
           "d": "2019-02-24",
@@ -165537,7 +165537,7 @@
           "t": "20190324_40_Meijin",
           "o": 14585,
           "s": 1.0,
-          "dr": 7.77
+          "dr": 7.76
         },
         {
           "d": "2019-04-20",
@@ -183098,20 +183098,9 @@
       ]
     },
     {
-      "id": 14795,
-      "rating": 1922.3,
-      "initial": 1922.3,
-      "games_played": 5,
-      "firstname": "Ooki",
-      "surname": "HAYAKAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2018-11-11"
-    },
-    {
       "id": 15198,
-      "rating": 1922.2,
-      "initial": 1922.2,
+      "rating": 1922.4,
+      "initial": 1922.4,
       "games_played": 6,
       "firstname": "Kiya",
       "surname": "MIYAZAWA",
@@ -183162,6 +183151,17 @@
           "dr": 0.0
         }
       ]
+    },
+    {
+      "id": 14795,
+      "rating": 1922.3,
+      "initial": 1922.3,
+      "games_played": 5,
+      "firstname": "Ooki",
+      "surname": "HAYAKAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2018-11-11"
     },
     {
       "id": 13972,
@@ -193226,6 +193226,61 @@
       "last_played": "2017-11-26"
     },
     {
+      "id": 15284,
+      "rating": 1904.5,
+      "initial": 1904.5,
+      "games_played": 6,
+      "firstname": "Kana",
+      "surname": "EBISAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-11-09",
+      "log": [
+        {
+          "d": "2019-11-09",
+          "t": "20191109_143_Chiyarenshi_open",
+          "o": 15053,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-11-09",
+          "t": "20191109_143_Chiyarenshi_open",
+          "o": 15339,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-11-09",
+          "t": "20191109_143_Chiyarenshi_open",
+          "o": 15298,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-11-09",
+          "t": "20191109_143_Chiyarenshi_open",
+          "o": 15202,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-11-09",
+          "t": "20191109_143_Chiyarenshi_open",
+          "o": 15404,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-11-09",
+          "t": "20191109_143_Chiyarenshi_open",
+          "o": 15141,
+          "s": 0.0,
+          "dr": 0.0
+        }
+      ]
+    },
+    {
       "id": 11950,
       "rating": 1904.5,
       "initial": 1792.4,
@@ -193396,61 +193451,6 @@
           "o": 14763,
           "s": 1.0,
           "dr": 10.16
-        }
-      ]
-    },
-    {
-      "id": 15284,
-      "rating": 1904.4,
-      "initial": 1904.4,
-      "games_played": 6,
-      "firstname": "Kana",
-      "surname": "EBISAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-11-09",
-      "log": [
-        {
-          "d": "2019-11-09",
-          "t": "20191109_143_Chiyarenshi_open",
-          "o": 15053,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-11-09",
-          "t": "20191109_143_Chiyarenshi_open",
-          "o": 15339,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-11-09",
-          "t": "20191109_143_Chiyarenshi_open",
-          "o": 15298,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-11-09",
-          "t": "20191109_143_Chiyarenshi_open",
-          "o": 15202,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-11-09",
-          "t": "20191109_143_Chiyarenshi_open",
-          "o": 15404,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-11-09",
-          "t": "20191109_143_Chiyarenshi_open",
-          "o": 15141,
-          "s": 0.0,
-          "dr": 0.0
         }
       ]
     },
@@ -194267,7 +194267,7 @@
           "t": "20190331_75_Sapporo_open",
           "o": 14311,
           "s": 1.0,
-          "dr": 9.24
+          "dr": 9.25
         },
         {
           "d": "2019-03-31",
@@ -224080,7 +224080,7 @@
           "t": "20191015_29_Burijn_open",
           "o": 120097,
           "s": 1.0,
-          "dr": 4.85
+          "dr": 4.84
         },
         {
           "d": "2019-10-15",
@@ -235048,7 +235048,7 @@
     },
     {
       "id": 13221,
-      "rating": 1855.2,
+      "rating": 1855.3,
       "initial": 1805.5,
       "games_played": 360,
       "firstname": "Hajime",
@@ -305787,7 +305787,7 @@
           "t": "20191006_24_Yamanashi_open",
           "o": 15198,
           "s": 0.0,
-          "dr": -4.75
+          "dr": -4.74
         },
         {
           "d": "2019-10-27",
@@ -306067,7 +306067,7 @@
           "t": "20191201_34_Kawasaki_open",
           "o": 14989,
           "s": 0.0,
-          "dr": -10.84
+          "dr": -10.85
         },
         {
           "d": "2019-12-01",
@@ -341797,6 +341797,47 @@
       "last_played": "2016-11-06"
     },
     {
+      "id": 15433,
+      "rating": 1735.4,
+      "initial": 1735.4,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28",
+      "log": [
+        {
+          "d": "2019-12-28",
+          "t": "20191228_151_Shinagawa_open",
+          "o": 11726,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-12-28",
+          "t": "20191228_151_Shinagawa_open",
+          "o": 14647,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-12-28",
+          "t": "20191228_151_Shinagawa_open",
+          "o": 13266,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-12-28",
+          "t": "20191228_151_Shinagawa_open",
+          "o": 12668,
+          "s": 0.0,
+          "dr": 0.0
+        }
+      ]
+    },
+    {
       "id": 13773,
       "rating": 1735.3,
       "initial": 1722.4,
@@ -342257,47 +342298,6 @@
           "o": 13703,
           "s": 1.0,
           "dr": 19.01
-        }
-      ]
-    },
-    {
-      "id": 15433,
-      "rating": 1735.3,
-      "initial": 1735.3,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28",
-      "log": [
-        {
-          "d": "2019-12-28",
-          "t": "20191228_151_Shinagawa_open",
-          "o": 11726,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-12-28",
-          "t": "20191228_151_Shinagawa_open",
-          "o": 14647,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-12-28",
-          "t": "20191228_151_Shinagawa_open",
-          "o": 13266,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-12-28",
-          "t": "20191228_151_Shinagawa_open",
-          "o": 12668,
-          "s": 0.0,
-          "dr": 0.0
         }
       ]
     },
@@ -347145,7 +347145,7 @@
           "t": "20191109_143_Chiyarenshi_open",
           "o": 15284,
           "s": 0.0,
-          "dr": -7.58
+          "dr": -7.57
         },
         {
           "d": "2019-11-09",
@@ -362667,6 +362667,17 @@
       "last_played": "2018-07-29"
     },
     {
+      "id": 14140,
+      "rating": 1709.0,
+      "initial": 1709.0,
+      "games_played": 2,
+      "firstname": "Keiichirou",
+      "surname": "HIRAI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2017-09-17"
+    },
+    {
       "id": 50122,
       "rating": 1708.9,
       "initial": 1708.9,
@@ -362676,17 +362687,6 @@
       "country": "FRA",
       "provisional": true,
       "last_played": "2018-06-03"
-    },
-    {
-      "id": 14140,
-      "rating": 1708.9,
-      "initial": 1708.9,
-      "games_played": 2,
-      "firstname": "Keiichirou",
-      "surname": "HIRAI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2017-09-17"
     },
     {
       "id": 440110,
@@ -370580,6 +370580,61 @@
       "last_played": "2018-01-14"
     },
     {
+      "id": 15213,
+      "rating": 1699.3,
+      "initial": 1699.3,
+      "games_played": 6,
+      "firstname": "Kimiyo",
+      "surname": "YAMASHITA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-07-21",
+      "log": [
+        {
+          "d": "2019-07-21",
+          "t": "20190721_76_Tatebayashi_open",
+          "o": 14745,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-07-21",
+          "t": "20190721_76_Tatebayashi_open",
+          "o": 15165,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-07-21",
+          "t": "20190721_76_Tatebayashi_open",
+          "o": 15276,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-07-21",
+          "t": "20190721_76_Tatebayashi_open",
+          "o": 15187,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-07-21",
+          "t": "20190721_76_Tatebayashi_open",
+          "o": 15089,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2019-07-21",
+          "t": "20190721_76_Tatebayashi_open",
+          "o": 15333,
+          "s": 0.0,
+          "dr": 0.0
+        }
+      ]
+    },
+    {
       "id": 14699,
       "rating": 1699.3,
       "initial": 1707.9,
@@ -371085,7 +371140,7 @@
           "t": "20190908_9_Tsuchiura_B_open",
           "o": 10839,
           "s": 1.0,
-          "dr": 12.0
+          "dr": 11.99
         },
         {
           "d": "2019-09-08",
@@ -371107,61 +371162,6 @@
           "o": 14838,
           "s": 1.0,
           "dr": 8.89
-        }
-      ]
-    },
-    {
-      "id": 15213,
-      "rating": 1699.2,
-      "initial": 1699.2,
-      "games_played": 6,
-      "firstname": "Kimiyo",
-      "surname": "YAMASHITA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-07-21",
-      "log": [
-        {
-          "d": "2019-07-21",
-          "t": "20190721_76_Tatebayashi_open",
-          "o": 14745,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-07-21",
-          "t": "20190721_76_Tatebayashi_open",
-          "o": 15165,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-07-21",
-          "t": "20190721_76_Tatebayashi_open",
-          "o": 15276,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-07-21",
-          "t": "20190721_76_Tatebayashi_open",
-          "o": 15187,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-07-21",
-          "t": "20190721_76_Tatebayashi_open",
-          "o": 15089,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2019-07-21",
-          "t": "20190721_76_Tatebayashi_open",
-          "o": 15333,
-          "s": 0.0,
-          "dr": 0.0
         }
       ]
     },
@@ -383252,6 +383252,17 @@
       ]
     },
     {
+      "id": 14184,
+      "rating": 1684.1,
+      "initial": 1684.1,
+      "games_played": 5,
+      "firstname": "Takuo",
+      "surname": "USUYA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2017-08-27"
+    },
+    {
       "id": 60019,
       "rating": 1684.0,
       "initial": 1684.0,
@@ -383721,17 +383732,6 @@
           "dr": 22.86
         }
       ]
-    },
-    {
-      "id": 14184,
-      "rating": 1683.4,
-      "initial": 1683.4,
-      "games_played": 5,
-      "firstname": "Takuo",
-      "surname": "USUYA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2017-08-27"
     },
     {
       "id": 120096,
@@ -387360,7 +387360,7 @@
           "t": "20190127_74_Sapporo_open",
           "o": 12941,
           "s": 1.0,
-          "dr": 21.95
+          "dr": 21.96
         },
         {
           "d": "2019-01-27",
@@ -388188,7 +388188,7 @@
           "t": "20191015_29_Burijn_open",
           "o": 120072,
           "s": 0.0,
-          "dr": -4.85
+          "dr": -4.84
         },
         {
           "d": "2019-10-15",
@@ -406561,8 +406561,8 @@
     },
     {
       "id": 14141,
-      "rating": 1636.1,
-      "initial": 1636.1,
+      "rating": 1636.2,
+      "initial": 1636.2,
       "games_played": 5,
       "firstname": "Oochi",
       "surname": "HIRAI",
@@ -422040,7 +422040,7 @@
           "t": "20191006_24_Yamanashi_open",
           "o": 15198,
           "s": 0.0,
-          "dr": -5.53
+          "dr": -5.52
         },
         {
           "d": "2019-10-06",
@@ -422743,7 +422743,7 @@
           "t": "20191006_24_Yamanashi_open",
           "o": 120072,
           "s": 0.0,
-          "dr": -6.93
+          "dr": -6.92
         },
         {
           "d": "2019-11-03",

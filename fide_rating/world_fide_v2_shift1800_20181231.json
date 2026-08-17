@@ -48745,7 +48745,7 @@
           "t": "20181014_47_All_Japan_Hokkaido_prelim",
           "o": 6868,
           "s": 1.0,
-          "dr": 10.57
+          "dr": 10.58
         },
         {
           "d": "2018-11-18",
@@ -58183,7 +58183,7 @@
           "t": "20180923_72_Sapporo_open",
           "o": 5582,
           "s": 0.0,
-          "dr": -12.0
+          "dr": -12.01
         },
         {
           "d": "2018-09-23",
@@ -58239,7 +58239,7 @@
           "t": "20181014_47_All_Japan_Hokkaido_prelim",
           "o": 12592,
           "s": 0.0,
-          "dr": -10.57
+          "dr": -10.58
         },
         {
           "d": "2018-11-18",
@@ -67064,7 +67064,7 @@
           "t": "20180923_72_Sapporo_open",
           "o": 6868,
           "s": 1.0,
-          "dr": 12.0
+          "dr": 12.01
         },
         {
           "d": "2018-09-23",
@@ -94061,7 +94061,7 @@
           "t": "20181014_47_All_Japan_Hokkaido_prelim",
           "o": 12941,
           "s": 1.0,
-          "dr": 4.34
+          "dr": 4.35
         },
         {
           "d": "2018-10-14",
@@ -148564,7 +148564,7 @@
           "t": "20180422_69_Sapporo_open",
           "o": 5555,
           "s": 1.0,
-          "dr": 17.86
+          "dr": 17.87
         },
         {
           "d": "2018-04-22",
@@ -280997,7 +280997,7 @@
           "t": "20181014_47_All_Japan_Hokkaido_prelim",
           "o": 5581,
           "s": 0.0,
-          "dr": -4.34
+          "dr": -4.35
         },
         {
           "d": "2018-10-14",
@@ -330687,6 +330687,17 @@
       ]
     },
     {
+      "id": 14140,
+      "rating": 1709.0,
+      "initial": 1709.0,
+      "games_played": 2,
+      "firstname": "Keiichirou",
+      "surname": "HIRAI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2017-09-17"
+    },
+    {
       "id": 14303,
       "rating": 1709.0,
       "initial": 1793.3,
@@ -330862,17 +330873,6 @@
           "dr": 0.0
         }
       ]
-    },
-    {
-      "id": 14140,
-      "rating": 1708.9,
-      "initial": 1708.9,
-      "games_played": 2,
-      "firstname": "Keiichirou",
-      "surname": "HIRAI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2017-09-17"
     },
     {
       "id": 120116,
@@ -345670,7 +345670,7 @@
           "t": "20180211_2018_Hokkaido_expert_games",
           "o": 12941,
           "s": 0.0,
-          "dr": -20.35
+          "dr": -20.34
         },
         {
           "d": "2018-02-11",
@@ -350294,6 +350294,17 @@
       "last_played": "2016-08-06"
     },
     {
+      "id": 14184,
+      "rating": 1684.1,
+      "initial": 1684.1,
+      "games_played": 5,
+      "firstname": "Takuo",
+      "surname": "USUYA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2017-08-27"
+    },
+    {
       "id": 60019,
       "rating": 1684.0,
       "initial": 1684.0,
@@ -350947,17 +350958,6 @@
       "country": "NLD",
       "provisional": true,
       "last_played": "2017-10-17"
-    },
-    {
-      "id": 14184,
-      "rating": 1683.4,
-      "initial": 1683.4,
-      "games_played": 5,
-      "firstname": "Takuo",
-      "surname": "USUYA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2017-08-27"
     },
     {
       "id": 210190,
@@ -369188,8 +369188,8 @@
     },
     {
       "id": 14141,
-      "rating": 1636.1,
-      "initial": 1636.1,
+      "rating": 1636.2,
+      "initial": 1636.2,
       "games_played": 5,
       "firstname": "Oochi",
       "surname": "HIRAI",

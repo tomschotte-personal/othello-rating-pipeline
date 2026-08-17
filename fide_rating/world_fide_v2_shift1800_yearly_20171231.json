@@ -52775,7 +52775,7 @@
           "t": "20170827_63_Sapporo_open",
           "o": 14184,
           "s": 1.0,
-          "dr": 1.7
+          "dr": 1.71
         },
         {
           "d": "2017-08-27",
@@ -131333,7 +131333,7 @@
     },
     {
       "id": 6869,
-      "rating": 1960.1,
+      "rating": 1960.2,
       "initial": 1840.9,
       "games_played": 100,
       "firstname": "Syuntaro",
@@ -180608,7 +180608,7 @@
           "t": "20170827_63_Sapporo_open",
           "o": 14184,
           "s": 1.0,
-          "dr": 5.31
+          "dr": 5.32
         },
         {
           "d": "2017-08-27",
@@ -255372,7 +255372,7 @@
           "t": "20170827_63_Sapporo_open",
           "o": 14184,
           "s": 1.0,
-          "dr": 10.58
+          "dr": 10.6
         },
         {
           "d": "2017-08-27",
@@ -281128,20 +281128,9 @@
       ]
     },
     {
-      "id": 120131,
+      "id": 14140,
       "rating": 1709.0,
       "initial": 1709.0,
-      "games_played": 5,
-      "firstname": "Dylan",
-      "surname": "UIJTHOF",
-      "country": "NLD",
-      "provisional": true,
-      "last_played": "2016-10-11"
-    },
-    {
-      "id": 14140,
-      "rating": 1708.9,
-      "initial": 1708.9,
       "games_played": 2,
       "firstname": "Keiichirou",
       "surname": "HIRAI",
@@ -281164,6 +281153,17 @@
           "dr": 0.0
         }
       ]
+    },
+    {
+      "id": 120131,
+      "rating": 1709.0,
+      "initial": 1709.0,
+      "games_played": 5,
+      "firstname": "Dylan",
+      "surname": "UIJTHOF",
+      "country": "NLD",
+      "provisional": true,
+      "last_played": "2016-10-11"
     },
     {
       "id": 14202,
@@ -292485,6 +292485,54 @@
       "last_played": "2015-07-26"
     },
     {
+      "id": 14184,
+      "rating": 1684.1,
+      "initial": 1684.1,
+      "games_played": 5,
+      "firstname": "Takuo",
+      "surname": "USUYA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2017-08-27",
+      "log": [
+        {
+          "d": "2017-08-27",
+          "t": "20170827_63_Sapporo_open",
+          "o": 14119,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2017-08-27",
+          "t": "20170827_63_Sapporo_open",
+          "o": 6868,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2017-08-27",
+          "t": "20170827_63_Sapporo_open",
+          "o": 5555,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2017-08-27",
+          "t": "20170827_63_Sapporo_open",
+          "o": 14091,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2017-08-27",
+          "t": "20170827_63_Sapporo_open",
+          "o": 12941,
+          "s": 0.0,
+          "dr": 0.0
+        }
+      ]
+    },
+    {
       "id": 13526,
       "rating": 1684.0,
       "initial": 1706.6,
@@ -292575,54 +292623,6 @@
           "d": "2017-10-17",
           "t": "20171017_17_Burijn_open",
           "o": 120182,
-          "s": 0.0,
-          "dr": 0.0
-        }
-      ]
-    },
-    {
-      "id": 14184,
-      "rating": 1683.4,
-      "initial": 1683.4,
-      "games_played": 5,
-      "firstname": "Takuo",
-      "surname": "USUYA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2017-08-27",
-      "log": [
-        {
-          "d": "2017-08-27",
-          "t": "20170827_63_Sapporo_open",
-          "o": 14119,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2017-08-27",
-          "t": "20170827_63_Sapporo_open",
-          "o": 6868,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2017-08-27",
-          "t": "20170827_63_Sapporo_open",
-          "o": 5555,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2017-08-27",
-          "t": "20170827_63_Sapporo_open",
-          "o": 14091,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2017-08-27",
-          "t": "20170827_63_Sapporo_open",
-          "o": 12941,
           "s": 0.0,
           "dr": 0.0
         }
@@ -310364,8 +310364,8 @@
     },
     {
       "id": 14141,
-      "rating": 1636.1,
-      "initial": 1636.1,
+      "rating": 1636.2,
+      "initial": 1636.2,
       "games_played": 5,
       "firstname": "Oochi",
       "surname": "HIRAI",

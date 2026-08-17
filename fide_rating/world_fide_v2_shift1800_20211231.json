@@ -15418,7 +15418,7 @@
           "t": "20211205_80_Niigata_conf",
           "o": 15481,
           "s": 1.0,
-          "dr": 4.78
+          "dr": 4.79
         },
         {
           "d": "2021-12-05",
@@ -19150,6 +19150,17 @@
       "last_played": "2019-06-30"
     },
     {
+      "id": 15198,
+      "rating": 1922.4,
+      "initial": 1922.4,
+      "games_played": 6,
+      "firstname": "Kiya",
+      "surname": "MIYAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-10-06"
+    },
+    {
       "id": 14795,
       "rating": 1922.3,
       "initial": 1922.3,
@@ -19170,17 +19181,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2020-10-17"
-    },
-    {
-      "id": 15198,
-      "rating": 1922.2,
-      "initial": 1922.2,
-      "games_played": 6,
-      "firstname": "Kiya",
-      "surname": "MIYAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-10-06"
     },
     {
       "id": 171000,
@@ -20644,8 +20644,8 @@
     },
     {
       "id": 15284,
-      "rating": 1904.4,
-      "initial": 1904.4,
+      "rating": 1904.5,
+      "initial": 1904.5,
       "games_played": 6,
       "firstname": "Kana",
       "surname": "EBISAWA",
@@ -22008,7 +22008,7 @@
     },
     {
       "id": 10568,
-      "rating": 1889.9,
+      "rating": 1890.0,
       "initial": 1845.6,
       "games_played": 258,
       "firstname": "Yamaji",
@@ -38878,20 +38878,9 @@
       ]
     },
     {
-      "id": 350031,
-      "rating": 1766.8,
-      "initial": 1766.8,
-      "games_played": 5,
-      "firstname": "Januram",
-      "surname": "CHOUDHARY",
-      "country": "IND",
-      "provisional": true,
-      "last_played": "2019-09-07"
-    },
-    {
       "id": 15481,
-      "rating": 1766.8,
-      "initial": 1766.8,
+      "rating": 1766.9,
+      "initial": 1766.9,
       "games_played": 4,
       "firstname": "Yuki",
       "surname": "TANAKA",
@@ -38928,6 +38917,17 @@
           "dr": 0.0
         }
       ]
+    },
+    {
+      "id": 350031,
+      "rating": 1766.8,
+      "initial": 1766.8,
+      "games_played": 5,
+      "firstname": "Januram",
+      "surname": "CHOUDHARY",
+      "country": "IND",
+      "provisional": true,
+      "last_played": "2019-09-07"
     },
     {
       "id": 15518,
@@ -43424,6 +43424,17 @@
       "last_played": "2020-01-18"
     },
     {
+      "id": 15433,
+      "rating": 1735.4,
+      "initial": 1735.4,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28"
+    },
+    {
       "id": 14922,
       "rating": 1735.3,
       "initial": 1772.9,
@@ -43433,17 +43444,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2019-06-15"
-    },
-    {
-      "id": 15433,
-      "rating": 1735.3,
-      "initial": 1735.3,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28"
     },
     {
       "id": 440445,
@@ -48560,8 +48560,8 @@
     },
     {
       "id": 15213,
-      "rating": 1699.2,
-      "initial": 1699.2,
+      "rating": 1699.3,
+      "initial": 1699.3,
       "games_played": 6,
       "firstname": "Kimiyo",
       "surname": "YAMASHITA",

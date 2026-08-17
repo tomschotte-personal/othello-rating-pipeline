@@ -38475,7 +38475,7 @@
           "t": "20221113_19_Kyoto_ranking",
           "o": 16602,
           "s": 1.0,
-          "dr": 5.89
+          "dr": 5.9
         },
         {
           "d": "2022-11-13",
@@ -45870,7 +45870,7 @@
           "t": "20220321_42_Meijin",
           "o": 13818,
           "s": 0.0,
-          "dr": -13.16
+          "dr": -13.17
         },
         {
           "d": "2022-03-21",
@@ -59407,8 +59407,8 @@
     },
     {
       "id": 15284,
-      "rating": 1904.4,
-      "initial": 1904.4,
+      "rating": 1904.5,
+      "initial": 1904.5,
       "games_played": 6,
       "firstname": "Kana",
       "surname": "EBISAWA",
@@ -61397,6 +61397,17 @@
       "last_played": "2020-11-28"
     },
     {
+      "id": 10568,
+      "rating": 1890.0,
+      "initial": 1845.6,
+      "games_played": 258,
+      "firstname": "Yamaji",
+      "surname": "KIMURA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2020-02-16"
+    },
+    {
       "id": 260035,
       "rating": 1890.0,
       "initial": 1831.4,
@@ -61547,17 +61558,6 @@
           "dr": 0.0
         }
       ]
-    },
-    {
-      "id": 10568,
-      "rating": 1889.9,
-      "initial": 1845.6,
-      "games_played": 258,
-      "firstname": "Yamaji",
-      "surname": "KIMURA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2020-02-16"
     },
     {
       "id": 200040,
@@ -68797,7 +68797,7 @@
           "t": "20220321_42_Meijin",
           "o": 14495,
           "s": 1.0,
-          "dr": 13.16
+          "dr": 13.17
         },
         {
           "d": "2022-03-21",
@@ -92949,6 +92949,17 @@
       "last_played": "2020-02-23"
     },
     {
+      "id": 15481,
+      "rating": 1766.9,
+      "initial": 1766.9,
+      "games_played": 4,
+      "firstname": "Yuki",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2021-12-05"
+    },
+    {
       "id": 290250,
       "rating": 1766.8,
       "initial": 1766.8,
@@ -92995,17 +93006,6 @@
           "dr": 0.0
         }
       ]
-    },
-    {
-      "id": 15481,
-      "rating": 1766.8,
-      "initial": 1766.8,
-      "games_played": 4,
-      "firstname": "Yuki",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2021-12-05"
     },
     {
       "id": 15518,
@@ -101466,8 +101466,8 @@
     },
     {
       "id": 15433,
-      "rating": 1735.3,
-      "initial": 1735.3,
+      "rating": 1735.4,
+      "initial": 1735.4,
       "games_played": 4,
       "firstname": "Hayato",
       "surname": "ICHIHIGASHI",

@@ -23949,7 +23949,7 @@
           "t": "20200202_Hokkaido_open_day_2",
           "o": 5660,
           "s": 1.0,
-          "dr": 10.77
+          "dr": 10.76
         },
         {
           "d": "2020-02-02",
@@ -26771,7 +26771,7 @@
           "t": "20200202_Hokkaido_open_day_2",
           "o": 6872,
           "s": 0.0,
-          "dr": -10.77
+          "dr": -10.76
         },
         {
           "d": "2020-02-02",
@@ -35245,6 +35245,17 @@
       "last_played": "2019-06-30"
     },
     {
+      "id": 15198,
+      "rating": 1922.4,
+      "initial": 1922.4,
+      "games_played": 6,
+      "firstname": "Kiya",
+      "surname": "MIYAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-10-06"
+    },
+    {
       "id": 14795,
       "rating": 1922.3,
       "initial": 1922.3,
@@ -35351,17 +35362,6 @@
           "dr": 16.78
         }
       ]
-    },
-    {
-      "id": 15198,
-      "rating": 1922.2,
-      "initial": 1922.2,
-      "games_played": 6,
-      "firstname": "Kiya",
-      "surname": "MIYAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-10-06"
     },
     {
       "id": 350001,
@@ -38151,8 +38151,8 @@
     },
     {
       "id": 15284,
-      "rating": 1904.4,
-      "initial": 1904.4,
+      "rating": 1904.5,
+      "initial": 1904.5,
       "games_played": 6,
       "firstname": "Kana",
       "surname": "EBISAWA",
@@ -41286,7 +41286,7 @@
     },
     {
       "id": 10568,
-      "rating": 1889.9,
+      "rating": 1890.0,
       "initial": 1845.6,
       "games_played": 258,
       "firstname": "Yamaji",
@@ -82098,6 +82098,17 @@
       ]
     },
     {
+      "id": 15433,
+      "rating": 1735.4,
+      "initial": 1735.4,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28"
+    },
+    {
       "id": 14922,
       "rating": 1735.3,
       "initial": 1772.9,
@@ -82107,17 +82118,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2019-06-15"
-    },
-    {
-      "id": 15433,
-      "rating": 1735.3,
-      "initial": 1735.3,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28"
     },
     {
       "id": 440445,
@@ -91302,8 +91302,8 @@
     },
     {
       "id": 15213,
-      "rating": 1699.2,
-      "initial": 1699.2,
+      "rating": 1699.3,
+      "initial": 1699.3,
       "games_played": 6,
       "firstname": "Kimiyo",
       "surname": "YAMASHITA",
