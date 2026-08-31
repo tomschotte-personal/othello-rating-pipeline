@@ -5064,7 +5064,7 @@
           "t": "20240721_17_Ouza_Sen",
           "o": 6970,
           "s": 0.0,
-          "dr": -8.07
+          "dr": -8.08
         },
         {
           "d": "2024-07-21",
@@ -5421,7 +5421,7 @@
     },
     {
       "id": 299,
-      "rating": 2229.8,
+      "rating": 2229.9,
       "initial": 1925.5,
       "games_played": 2608,
       "firstname": "Takeshi",
@@ -14578,6 +14578,17 @@
       "last_played": "2021-12-25"
     },
     {
+      "id": 7192,
+      "rating": 2040.6,
+      "initial": 1896.3,
+      "games_played": 90,
+      "firstname": "Peipei",
+      "surname": "SHI",
+      "country": "CHN",
+      "provisional": false,
+      "last_played": "2024-06-22"
+    },
+    {
       "id": 14955,
       "rating": 2040.4,
       "initial": 1746.9,
@@ -14642,17 +14653,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2024-06-30"
-    },
-    {
-      "id": 7192,
-      "rating": 2040.3,
-      "initial": 1896.3,
-      "games_played": 90,
-      "firstname": "Peipei",
-      "surname": "SHI",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2024-06-22"
     },
     {
       "id": 2047,
@@ -15171,6 +15171,17 @@
       "last_played": "2024-03-17"
     },
     {
+      "id": 7157,
+      "rating": 2027.3,
+      "initial": 1879.6,
+      "games_played": 42,
+      "firstname": "Lanbo",
+      "surname": "LIN",
+      "country": "CHN",
+      "provisional": false,
+      "last_played": "2024-06-22"
+    },
+    {
       "id": 15552,
       "rating": 2027.3,
       "initial": 1956.7,
@@ -15180,17 +15191,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2024-06-30"
-    },
-    {
-      "id": 7157,
-      "rating": 2027.2,
-      "initial": 1879.6,
-      "games_played": 42,
-      "firstname": "Lanbo",
-      "surname": "LIN",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2024-06-22"
     },
     {
       "id": 12328,
@@ -17802,7 +17802,7 @@
           "t": "20240704_CH_Asia_Pacific",
           "o": 260052,
           "s": 1.0,
-          "dr": 3.34
+          "dr": 3.33
         },
         {
           "d": "2024-07-04",
@@ -19278,7 +19278,7 @@
     },
     {
       "id": 60032,
-      "rating": 1962.0,
+      "rating": 1962.1,
       "initial": 1860.5,
       "games_played": 23,
       "firstname": "Lin",
@@ -31886,7 +31886,7 @@
     },
     {
       "id": 60037,
-      "rating": 1822.3,
+      "rating": 1822.4,
       "initial": 1805.1,
       "games_played": 14,
       "firstname": "Zhongyuan",
@@ -33272,6 +33272,17 @@
       "last_played": "2024-05-10"
     },
     {
+      "id": 7185,
+      "rating": 1811.5,
+      "initial": 1857.1,
+      "games_played": 28,
+      "firstname": "Bing",
+      "surname": "WANG",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2021-10-16"
+    },
+    {
       "id": 10438,
       "rating": 1811.4,
       "initial": 1745.4,
@@ -33281,17 +33292,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2023-04-23"
-    },
-    {
-      "id": 7185,
-      "rating": 1811.4,
-      "initial": 1857.1,
-      "games_played": 28,
-      "firstname": "Bing",
-      "surname": "WANG",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2021-10-16"
     },
     {
       "id": 10071,
@@ -36494,17 +36494,6 @@
       "last_played": "2023-06-17"
     },
     {
-      "id": 15754,
-      "rating": 1790.3,
-      "initial": 1790.3,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
-    },
-    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -36525,6 +36514,17 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30"
+    },
+    {
+      "id": 15754,
+      "rating": 1790.2,
+      "initial": 1790.2,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
     },
     {
       "id": 440523,

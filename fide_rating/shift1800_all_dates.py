@@ -38,7 +38,7 @@ DATES = [
     datetime(2025, 10, 31), datetime(2025, 11, 30), datetime(2025, 12, 31),
     datetime(2026, 1, 31), datetime(2026, 2, 28), datetime(2026, 3, 31),
     datetime(2026, 4, 30), datetime(2026, 5, 31), datetime(2026, 6, 30),
-    datetime(2026, 7, 31),
+    datetime(2026, 7, 31), datetime(2026, 8, 31),
 ]
 
 print(f'INITIAL_RATING={world_fide.INITIAL_RATING} PRIOR_RATING={world_fide.PRIOR_RATING}')

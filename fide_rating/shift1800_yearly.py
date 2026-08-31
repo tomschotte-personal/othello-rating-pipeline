@@ -20,7 +20,7 @@ from world_fide import (
     pass1_seed_ratings, bootstrap_initial_ratings, get_program_ids,
 )
 
-YEARLY_DATES = [datetime(y, 12, 31) for y in range(2010, 2026)] + [datetime(2026, 7, 31)]
+YEARLY_DATES = [datetime(y, 12, 31) for y in range(2010, 2026)] + [datetime(2026, 8, 31)]
 
 print(f'INITIAL_RATING={world_fide.INITIAL_RATING} PRIOR_RATING={world_fide.PRIOR_RATING}')
 joueurs = parse_joueurs()

@@ -2134,7 +2134,7 @@
           "t": "20241222_286_Kawagoe_ranking_games",
           "o": 12320,
           "s": 0.0,
-          "dr": -10.66
+          "dr": -10.67
         },
         {
           "d": "2024-12-22",
@@ -2189,7 +2189,7 @@
           "t": "20241222_286_Kawagoe_ranking_games",
           "o": 14236,
           "s": 1.0,
-          "dr": 10.66
+          "dr": 10.67
         },
         {
           "d": "2024-12-22",
@@ -5978,7 +5978,7 @@
     },
     {
       "id": 7192,
-      "rating": 2124.6,
+      "rating": 2124.8,
       "initial": 1896.3,
       "games_played": 111,
       "firstname": "Peipei",
@@ -9547,7 +9547,7 @@
     },
     {
       "id": 7157,
-      "rating": 2027.2,
+      "rating": 2027.3,
       "initial": 1879.6,
       "games_played": 42,
       "firstname": "Lanbo",
@@ -11877,7 +11877,7 @@
     },
     {
       "id": 60059,
-      "rating": 1979.2,
+      "rating": 1979.3,
       "initial": 1942.7,
       "games_played": 24,
       "firstname": "Yake",
@@ -13069,6 +13069,17 @@
       "last_played": "2024-06-22"
     },
     {
+      "id": 60032,
+      "rating": 1962.1,
+      "initial": 1860.5,
+      "games_played": 23,
+      "firstname": "Lin",
+      "surname": "LI",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2024-06-22"
+    },
+    {
       "id": 15508,
       "rating": 1962.1,
       "initial": 1872.3,
@@ -13164,17 +13175,6 @@
           "dr": 6.88
         }
       ]
-    },
-    {
-      "id": 60032,
-      "rating": 1962.0,
-      "initial": 1860.5,
-      "games_played": 23,
-      "firstname": "Lin",
-      "surname": "LI",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2024-06-22"
     },
     {
       "id": 200003,
@@ -20436,6 +20436,17 @@
       "last_played": "2023-11-19"
     },
     {
+      "id": 40052,
+      "rating": 1867.2,
+      "initial": 1720.6,
+      "games_played": 592,
+      "firstname": "Chiara",
+      "surname": "GIGLIUCCI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2024-09-15"
+    },
+    {
       "id": 440504,
       "rating": 1867.1,
       "initial": 1914.1,
@@ -20445,17 +20456,6 @@
       "country": "MNG",
       "provisional": false,
       "last_played": "2024-05-10"
-    },
-    {
-      "id": 40052,
-      "rating": 1867.1,
-      "initial": 1720.6,
-      "games_played": 592,
-      "firstname": "Chiara",
-      "surname": "GIGLIUCCI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2024-09-15"
     },
     {
       "id": 40241,
@@ -30833,17 +30833,6 @@
       "last_played": "2023-06-17"
     },
     {
-      "id": 15754,
-      "rating": 1790.3,
-      "initial": 1790.3,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
-    },
-    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -30864,6 +30853,17 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30"
+    },
+    {
+      "id": 15754,
+      "rating": 1790.2,
+      "initial": 1790.2,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
     },
     {
       "id": 440523,

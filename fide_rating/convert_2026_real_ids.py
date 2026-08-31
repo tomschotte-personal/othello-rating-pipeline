@@ -100,6 +100,14 @@ TARGETS = [
     (69760, '2026-08-16', '138_Nagareyama_B'),
     (69762, '2026-08-16', '8_Iwata_endurance_morning', ('午前の部', '午後の部')),
     (69762, '2026-08-16', '8_Iwata_endurance_afternoon', ('午後の部', None)),
+    # late August (verified 2026-08-31)
+    (69868, '2026-08-22', '5_Nankai_open'),
+    (69882, '2026-08-23', '108_Sapporo_open'),
+    (69892, '2026-08-23', '5_Tsukuba_open'),
+    (69895, '2026-08-23', '47_Sea_of_Japan_open'),
+    (69930, '2026-08-23', '17_Tokyo_open'),
+    # (69981, 17_Kawagoe_pair): PAIR format - no individual games, not ratable
+    (70009, '2026-08-30', '18_Chiba_open'),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===
@@ -203,7 +211,9 @@ if os.path.exists(XLSX_OUT):
             '' if fnm in ('', 'nan') else fnm,
             str(r['kanji']).strip())
     if pinned:
-        next_id = max(v[0] for v in pinned.values()) + 1
+        # only the 17xxx block drives numbering (merged rows like 190185 must not)
+        _blk = [v[0] for v in pinned.values() if 17000 <= v[0] < 100000]
+        next_id = (max(_blk) + 1) if _blk else ID_START
     print(f'Registry pinned: {len(pinned)} players, next id {next_id}')
 
 def id_for_new(kanji, date_iso, tname):

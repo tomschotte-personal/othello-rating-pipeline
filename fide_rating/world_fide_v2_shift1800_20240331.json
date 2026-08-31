@@ -4572,7 +4572,7 @@
           "t": "20240316_44_Meijin_students",
           "o": 440546,
           "s": 1.0,
-          "dr": 3.85
+          "dr": 3.86
         },
         {
           "d": "2024-03-16",
@@ -9161,6 +9161,17 @@
       ]
     },
     {
+      "id": 4100,
+      "rating": 2122.0,
+      "initial": 1922.9,
+      "games_played": 113,
+      "firstname": "Kai",
+      "surname": "CHEN",
+      "country": "CHN",
+      "provisional": false,
+      "last_played": "2021-04-17"
+    },
+    {
       "id": 12341,
       "rating": 2122.0,
       "initial": 1744.7,
@@ -9499,17 +9510,6 @@
           "dr": 7.81
         }
       ]
-    },
-    {
-      "id": 4100,
-      "rating": 2121.4,
-      "initial": 1922.9,
-      "games_played": 113,
-      "firstname": "Kai",
-      "surname": "CHEN",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2021-04-17"
     },
     {
       "id": 70002,
@@ -14624,7 +14624,7 @@
     },
     {
       "id": 20049,
-      "rating": 2039.3,
+      "rating": 2039.4,
       "initial": 1912.9,
       "games_played": 32,
       "firstname": "Abraham",
@@ -18997,6 +18997,17 @@
       "last_played": "2022-03-26"
     },
     {
+      "id": 7192,
+      "rating": 1974.8,
+      "initial": 1896.3,
+      "games_played": 81,
+      "firstname": "Peipei",
+      "surname": "SHI",
+      "country": "CHN",
+      "provisional": false,
+      "last_played": "2023-12-16"
+    },
+    {
       "id": 5621,
       "rating": 1974.7,
       "initial": 1774.9,
@@ -19057,17 +19068,6 @@
           "dr": 4.79
         }
       ]
-    },
-    {
-      "id": 7192,
-      "rating": 1974.4,
-      "initial": 1896.3,
-      "games_played": 81,
-      "firstname": "Peipei",
-      "surname": "SHI",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2023-12-16"
     },
     {
       "id": 170016,
@@ -19849,7 +19849,7 @@
           "t": "20240301_14_Chansaa_youth_2",
           "o": 440102,
           "s": 1.0,
-          "dr": 10.25
+          "dr": 10.24
         }
       ]
     },
@@ -20924,7 +20924,7 @@
           "t": "20240301_14_Chansaa_youth_2",
           "o": 440045,
           "s": 0.0,
-          "dr": -10.25
+          "dr": -10.24
         }
       ]
     },
@@ -25507,7 +25507,7 @@
           "t": "20240316_44_Meijin_students",
           "o": 14499,
           "s": 0.0,
-          "dr": -3.85
+          "dr": -3.86
         },
         {
           "d": "2024-03-16",
@@ -25535,7 +25535,7 @@
           "t": "20240316_44_Meijin_students",
           "o": 440473,
           "s": 1.0,
-          "dr": 8.14
+          "dr": 8.13
         }
       ]
     },
@@ -32140,6 +32140,17 @@
       "last_played": "2022-03-26"
     },
     {
+      "id": 60046,
+      "rating": 1842.7,
+      "initial": 1842.7,
+      "games_played": 7,
+      "firstname": "Nuo",
+      "surname": "CHEN",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2021-04-17"
+    },
+    {
       "id": 350011,
       "rating": 1842.7,
       "initial": 1736.0,
@@ -33241,7 +33252,7 @@
     },
     {
       "id": 440342,
-      "rating": 1835.5,
+      "rating": 1835.6,
       "initial": 1773.9,
       "games_played": 19,
       "firstname": "Erdenebayar",
@@ -33565,7 +33576,7 @@
           "t": "20240301_14_Chansaa_master",
           "o": 440369,
           "s": 1.0,
-          "dr": 15.23
+          "dr": 15.22
         },
         {
           "d": "2024-03-01",
@@ -35308,6 +35319,17 @@
       "last_played": "2024-02-04"
     },
     {
+      "id": 60037,
+      "rating": 1822.4,
+      "initial": 1805.1,
+      "games_played": 14,
+      "firstname": "Zhongyuan",
+      "surname": "WANG",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2021-10-16"
+    },
+    {
       "id": 350041,
       "rating": 1822.4,
       "initial": 1775.1,
@@ -35328,17 +35350,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2024-02-10"
-    },
-    {
-      "id": 60037,
-      "rating": 1822.3,
-      "initial": 1805.1,
-      "games_played": 14,
-      "firstname": "Zhongyuan",
-      "surname": "WANG",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2021-10-16"
     },
     {
       "id": 13145,
@@ -36550,7 +36561,7 @@
           "t": "20240301_14_Chansaa_master",
           "o": 440493,
           "s": 0.0,
-          "dr": -24.32
+          "dr": -24.31
         },
         {
           "d": "2024-03-01",
@@ -37258,6 +37269,17 @@
       "last_played": "2023-06-23"
     },
     {
+      "id": 7185,
+      "rating": 1811.5,
+      "initial": 1857.1,
+      "games_played": 28,
+      "firstname": "Bing",
+      "surname": "WANG",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2021-10-16"
+    },
+    {
       "id": 10438,
       "rating": 1811.4,
       "initial": 1745.4,
@@ -37267,17 +37289,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2023-04-23"
-    },
-    {
-      "id": 7185,
-      "rating": 1811.4,
-      "initial": 1857.1,
-      "games_played": 28,
-      "firstname": "Bing",
-      "surname": "WANG",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2021-10-16"
     },
     {
       "id": 10331,
@@ -37477,7 +37488,7 @@
           "t": "20240316_44_Meijin_students",
           "o": 440546,
           "s": 0.0,
-          "dr": -8.14
+          "dr": -8.13
         }
       ]
     },
@@ -38214,17 +38225,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2023-11-12"
-    },
-    {
-      "id": 60046,
-      "rating": 1804.6,
-      "initial": 1804.6,
-      "games_played": 7,
-      "firstname": "Nuo",
-      "surname": "CHEN",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2021-04-17"
     },
     {
       "id": 2933,
@@ -39097,6 +39097,17 @@
       "last_played": "2023-11-12"
     },
     {
+      "id": 60041,
+      "rating": 1798.2,
+      "initial": 1795.6,
+      "games_played": 14,
+      "firstname": "Minglong",
+      "surname": "ZHANG",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2021-04-17"
+    },
+    {
       "id": 440508,
       "rating": 1798.2,
       "initial": 1798.2,
@@ -39569,17 +39580,6 @@
       "last_played": "2023-07-08"
     },
     {
-      "id": 60041,
-      "rating": 1796.0,
-      "initial": 1795.6,
-      "games_played": 14,
-      "firstname": "Minglong",
-      "surname": "ZHANG",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2021-04-17"
-    },
-    {
       "id": 260003,
       "rating": 1796.0,
       "initial": 1769.2,
@@ -39733,7 +39733,7 @@
           "t": "20240301_14_Chansaa_master",
           "o": 440606,
           "s": 1.0,
-          "dr": 24.32
+          "dr": 24.31
         },
         {
           "d": "2024-03-01",
@@ -40858,17 +40858,6 @@
       "last_played": "2023-06-17"
     },
     {
-      "id": 15754,
-      "rating": 1790.3,
-      "initial": 1790.3,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
-    },
-    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -40944,6 +40933,17 @@
           "dr": 0.0
         }
       ]
+    },
+    {
+      "id": 15754,
+      "rating": 1790.2,
+      "initial": 1790.2,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
     },
     {
       "id": 440523,

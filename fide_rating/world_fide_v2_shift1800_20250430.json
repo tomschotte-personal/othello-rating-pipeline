@@ -6598,7 +6598,7 @@
     },
     {
       "id": 7192,
-      "rating": 2140.3,
+      "rating": 2140.5,
       "initial": 1896.3,
       "games_played": 126,
       "firstname": "Peipei",
@@ -9279,6 +9279,17 @@
       ]
     },
     {
+      "id": 60028,
+      "rating": 2087.1,
+      "initial": 1965.2,
+      "games_played": 53,
+      "firstname": "Xun",
+      "surname": "CHEN",
+      "country": "CHN",
+      "provisional": false,
+      "last_played": "2025-03-22"
+    },
+    {
       "id": 148,
       "rating": 2087.0,
       "initial": 1902.3,
@@ -9339,17 +9350,6 @@
           "dr": 5.01
         }
       ]
-    },
-    {
-      "id": 60028,
-      "rating": 2087.0,
-      "initial": 1965.2,
-      "games_played": 53,
-      "firstname": "Xun",
-      "surname": "CHEN",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2025-03-22"
     },
     {
       "id": 15662,
@@ -11882,7 +11882,7 @@
           "t": "20250420_CH_China_Youth",
           "o": 61015,
           "s": 1.0,
-          "dr": 5.88
+          "dr": 5.87
         },
         {
           "d": "2025-04-20",
@@ -14837,7 +14837,7 @@
     },
     {
       "id": 7157,
-      "rating": 1997.1,
+      "rating": 1997.2,
       "initial": 1879.6,
       "games_played": 48,
       "firstname": "Lanbo",
@@ -15930,7 +15930,7 @@
     },
     {
       "id": 60059,
-      "rating": 1979.2,
+      "rating": 1979.3,
       "initial": 1942.7,
       "games_played": 24,
       "firstname": "Yake",
@@ -17380,7 +17380,7 @@
     },
     {
       "id": 60032,
-      "rating": 1962.0,
+      "rating": 1962.1,
       "initial": 1860.5,
       "games_played": 23,
       "firstname": "Lin",
@@ -21514,7 +21514,7 @@
     },
     {
       "id": 60079,
-      "rating": 1919.4,
+      "rating": 1919.5,
       "initial": 1869.5,
       "games_played": 70,
       "firstname": "Zimo",
@@ -45611,17 +45611,6 @@
       "last_played": "2023-06-17"
     },
     {
-      "id": 15754,
-      "rating": 1790.3,
-      "initial": 1790.3,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
-    },
-    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -45642,6 +45631,17 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30"
+    },
+    {
+      "id": 15754,
+      "rating": 1790.2,
+      "initial": 1790.2,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
     },
     {
       "id": 16147,

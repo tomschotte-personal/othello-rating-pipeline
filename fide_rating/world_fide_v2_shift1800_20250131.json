@@ -4556,7 +4556,7 @@
     },
     {
       "id": 7192,
-      "rating": 2156.1,
+      "rating": 2156.2,
       "initial": 1896.3,
       "games_played": 120,
       "firstname": "Peipei",
@@ -4591,14 +4591,14 @@
           "t": "20250118_Hangzhou_open",
           "o": 61004,
           "s": 1.0,
-          "dr": 4.89
+          "dr": 4.88
         },
         {
           "d": "2025-01-18",
           "t": "20250118_Hangzhou_open",
           "o": 60125,
           "s": 1.0,
-          "dr": 3.9
+          "dr": 3.89
         },
         {
           "d": "2025-01-18",
@@ -7723,7 +7723,7 @@
           "t": "20250118_Hangzhou_open",
           "o": 7192,
           "s": 0.0,
-          "dr": -17.03
+          "dr": -17.02
         }
       ]
     },
@@ -9555,7 +9555,7 @@
     },
     {
       "id": 440463,
-      "rating": 2027.5,
+      "rating": 2027.6,
       "initial": 1864.2,
       "games_played": 62,
       "firstname": "Turbold",
@@ -9617,7 +9617,7 @@
     },
     {
       "id": 7157,
-      "rating": 2027.2,
+      "rating": 2027.3,
       "initial": 1879.6,
       "games_played": 42,
       "firstname": "Lanbo",
@@ -12617,7 +12617,7 @@
     },
     {
       "id": 60059,
-      "rating": 1979.2,
+      "rating": 1979.3,
       "initial": 1942.7,
       "games_played": 24,
       "firstname": "Yake",
@@ -13889,7 +13889,7 @@
     },
     {
       "id": 60032,
-      "rating": 1962.0,
+      "rating": 1962.1,
       "initial": 1860.5,
       "games_played": 23,
       "firstname": "Lin",
@@ -15483,7 +15483,7 @@
           "t": "20250118_Hangzhou_open",
           "o": 7192,
           "s": 0.0,
-          "dr": -4.89
+          "dr": -4.88
         },
         {
           "d": "2025-01-18",
@@ -23417,7 +23417,7 @@
     },
     {
       "id": 40052,
-      "rating": 1867.1,
+      "rating": 1867.2,
       "initial": 1720.6,
       "games_played": 592,
       "firstname": "Chiara",
@@ -24558,7 +24558,7 @@
           "t": "20250111_CZ_GPO1",
           "o": 210221,
           "s": 1.0,
-          "dr": 8.06
+          "dr": 8.05
         },
         {
           "d": "2025-01-11",
@@ -32453,7 +32453,7 @@
           "t": "20250118_Hangzhou_open",
           "o": 7192,
           "s": 0.0,
-          "dr": -5.95
+          "dr": -5.94
         },
         {
           "d": "2025-01-18",
@@ -37047,17 +37047,6 @@
       "last_played": "2023-06-17"
     },
     {
-      "id": 15754,
-      "rating": 1790.3,
-      "initial": 1790.3,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
-    },
-    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -37078,6 +37067,17 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30"
+    },
+    {
+      "id": 15754,
+      "rating": 1790.2,
+      "initial": 1790.2,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
     },
     {
       "id": 440523,
@@ -48802,7 +48802,7 @@
           "t": "20250118_Hangzhou_open",
           "o": 7192,
           "s": 0.0,
-          "dr": -2.8
+          "dr": -2.79
         },
         {
           "d": "2025-01-18",
