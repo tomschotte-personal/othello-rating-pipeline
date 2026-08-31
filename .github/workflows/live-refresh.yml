@@ -2,9 +2,12 @@ name: Live rating refresh
 
 on:
   schedule:
-    # Weekends only (Sat/Sun) — tournaments rarely run on weekdays. For a
-    # weekday event, use workflow_dispatch (manual run) instead.
+    # Weekends (Sat/Sun): frequent, for live tracking.
     - cron: '4,19,34,49 * * * 6,0'
+    # Weekdays: every 2 hours — sweep-only unless a window is armed. Catches
+    # weekday events (Iran nationals on a Thursday, Japan Student Championship
+    # on a Tuesday, the Azabu week) that the weekend-only cron missed entirely.
+    - cron: '9 0-23/2 * * 1-5'
   workflow_dispatch:
     inputs:
       ftd_ids:
@@ -65,16 +68,10 @@ jobs:
             MODE="live"
           fi
           if [ -z "$IDS" ]; then
-            MODE="skip"
-            DOW=$(date -u +%u)
-            # Sweep on any weekend run (events start as early as ~00:30 UTC for
-            # Asia), and on any manual dispatch regardless of weekday.
-            if [ "$DOW" = 6 ] || [ "$DOW" = 7 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-              MODE="sweep"
-              echo "No active window - sweeping FTD listing for live events."
-            else
-              echo "No FTD window and not a weekend/manual run - skipping."
-            fi
+            # No active window: every scheduled or manual run sweeps the FTD
+            # listing (cheap: one page load). Weekday events get caught too.
+            MODE="sweep"
+            echo "No active window - sweeping FTD listing for live events."
           fi
           echo "ids=$IDS" >> "$GITHUB_OUTPUT"
           echo "until=$UNTIL" >> "$GITHUB_OUTPUT"
