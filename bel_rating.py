@@ -21,7 +21,11 @@ from datetime import datetime, timedelta
 from collections import defaultdict
 
 
-BASE = 'C:/Claude/o_dan'
+# Portable: resolve relative to this file so the SAME bel_rating.py works on
+# the laptop (C:/Claude/o_dan) and in the GitHub Actions checkout. NEVER
+# hardcode the Windows path here - a 2026-08 sync of a hardcoded version broke
+# every CI finalize for two weeks (FileNotFoundError on Linux runners).
+BASE = os.path.dirname(os.path.abspath(__file__))
 ZIPS_DIR = os.path.join(BASE, 'wof_zips')
 EXTRACT_DIR = os.path.join(BASE, 'wof_results')
 JOUEURS = os.path.join(BASE, 'joueurs.txt')
