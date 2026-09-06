@@ -75,6 +75,10 @@ if listing is not None:
         n_pl = t.get('players') or 0
         if not tid or tid in done_ids or n_pl < 4:
             continue
+        # XOT events belong to the XOT rating, never the main live list
+        if 'xot' in (t.get('name') or '').lower():
+            print(f'  skip XOT event: {tid} {t.get("name")}', file=sys.stderr)
+            continue
         end_d = end[:10] or start
         if start and start <= str(today) <= max(end_d, start):
             hits.append((int(tid), end))
