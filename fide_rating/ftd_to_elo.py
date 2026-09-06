@@ -41,6 +41,51 @@ def slugify(name):
     return s
 
 
+def _replay_transcript(tr):
+    """Replay an Othello transcript. Returns (black_discs, white_discs) with
+    empties to the winner, or None. Used when FTD carries a full transcript
+    but no recorded result (common for playoff games)."""
+    E, B, W = 0, 1, 2
+    bd = [[E]*8 for _ in range(8)]
+    bd[3][3] = bd[4][4] = W; bd[3][4] = bd[4][3] = B
+    DIRS = [(-1,-1),(-1,0),(-1,1),(0,-1),(0,1),(1,-1),(1,0),(1,1)]
+    def legal(r, c, me):
+        if bd[r][c] != E: return None
+        opp = B if me == W else W
+        flips = []
+        for dr, dc in DIRS:
+            rr, cc, line = r+dr, c+dc, []
+            while 0 <= rr < 8 and 0 <= cc < 8 and bd[rr][cc] == opp:
+                line.append((rr, cc)); rr += dr; cc += dc
+            if line and 0 <= rr < 8 and 0 <= cc < 8 and bd[rr][cc] == me:
+                flips += line
+        return flips or None
+    def has_move(me):
+        return any(legal(r, c, me) for r in range(8) for c in range(8))
+    cur = B
+    for i in range(0, len(tr), 2):
+        mv = tr[i:i+2]
+        try:
+            c = ord(mv[0].lower()) - 97; r = int(mv[1]) - 1
+        except (ValueError, IndexError):
+            return None
+        if not (0 <= r < 8 and 0 <= c < 8): return None
+        f = legal(r, c, cur)
+        if f is None:
+            if not has_move(cur):
+                cur = B if cur == W else W
+                f = legal(r, c, cur)
+            if f is None: return None
+        bd[r][c] = cur
+        for rr, cc in f: bd[rr][cc] = cur
+        cur = B if cur == W else W
+    b = sum(row.count(B) for row in bd); w = sum(row.count(W) for row in bd)
+    emp = 64 - b - w
+    if b > w: b += emp
+    elif w > b: w += emp
+    return b, w
+
+
 def result_glyph_for(p1_score, p2_score):
     if p1_score == p2_score:
         return '='
@@ -119,7 +164,15 @@ def convert(tournament_id, override_date=None, override_filename=None, force_cou
                 continue
             r = p1.get('result')
             if r is None:
-                continue
+                # No recorded result: derive from the transcript when the game
+                # is fully recorded (playoff games often lack the result flag).
+                tr = p1.get('transcript')
+                out = _replay_transcript(tr) if tr and len(tr) >= 100 else None
+                if out is None:
+                    continue
+                b, w = out                     # p1 = Black (validated 157/159)
+                p1 = dict(p1, score=b, result=(2 if b > w else 0 if b < w else 1))
+                r = p1['result']
             id1 = p1.get('id'); id2 = p2.get('id')
             w1 = ftd_to_wof.get(id1); w2 = ftd_to_wof.get(id2)
             if not w1 or not w2:
