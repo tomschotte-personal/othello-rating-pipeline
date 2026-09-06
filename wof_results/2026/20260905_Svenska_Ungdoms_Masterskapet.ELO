@@ -1,0 +1,52 @@
+%%Tournament: Svenska Ungdoms Masterskapet
+%%Country: SE
+%%Date: 05/09/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 150087, ODMARK, Valter, SWE, 5, 236, 616
+%_% 150089, LONNGREN, Astor, SWE, 4, 239, 962
+%_% 150086, ODMARK, Elvira, SWE, 4, 193, 690
+%_% 150094, ODMARK, Ossian, SWE, 2, 150, 632
+%_% 9921214, PERSSON, Sasha, SWE, 1, 117, 0
+%_% 9921213, MATHIAS, Kilian, SWE, 0, 89, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/570
+
+%Round: 1
+
+ 150086 (52)>(12) 9921214  B
+ 9921213 (17)<(47) 150094  B
+ 150089 (55)>(09) 150087  B
+
+%Round: 2
+
+ 150094 (24)<(40) 150086  B
+ 9921214 (15)<(49) 150089  B
+ 150087 (47)>(17) 9921213  B
+
+%Round: 3
+
+ 150089 (23)<(41) 150086  B
+ 150087 (39)>(25) 150094  B
+ 9921213 (11)<(53) 9921214  B
+
+%Round: 4
+
+ 150086 (16)<(48) 150087  B
+ 9921213 (24)<(40) 150089  B
+ 150094 (39)>(25) 9921214  B
+
+%Round: 5
+
+ 150089 (49)>(15) 150094  B
+ 9921214 (12)<(52) 150087  B
+ 150086 (44)>(20) 9921213  B
+
+%Round: F
+
+ 150089 (23)<(41) 150087  B
