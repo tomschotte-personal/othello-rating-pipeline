@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-09-12 14:27",
+  "ref_date": "2026-09-13 19:37",
   "baseline_date": "2026-08-31",
   "tournament_id": "",
   "tournament_name": "Live",
-  "ec_games_played": 62,
+  "ec_games_played": 88,
   "ec_rounds": 0,
-  "total_active": 4290,
+  "total_active": 4287,
   "players": [
     {
       "id": 13841,
@@ -1491,17 +1491,6 @@
       "ec": 0
     },
     {
-      "id": 40229,
-      "rating": 2219.2,
-      "games_played": 84,
-      "firstname": "Tommaso",
-      "surname": "FOSCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-05-17",
-      "ec": 0
-    },
-    {
       "id": 5504,
       "rating": 2219.0,
       "games_played": 521,
@@ -1654,6 +1643,62 @@
       "provisional": false,
       "last_played": "2026-08-16",
       "ec": 0
+    },
+    {
+      "id": 40229,
+      "rating": 2208.8,
+      "games_played": 89,
+      "firstname": "Tommaso",
+      "surname": "FOSCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "3rd_Intrusi_cM_M"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40086,
+          "s": 1.0,
+          "dr": 4.72,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 2841,
+          "s": 1.0,
+          "dr": 4.27,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 3062,
+          "s": 0.5,
+          "dr": -6.34,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40346,
+          "s": 1.0,
+          "dr": 4.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40162,
+          "s": 0.0,
+          "dr": -17.13,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 14007,
@@ -5395,6 +5440,62 @@
       "ec": 0
     },
     {
+      "id": 40086,
+      "rating": 2025.3,
+      "games_played": 286,
+      "firstname": "Damiano",
+      "surname": "FOSCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "3rd_Intrusi_cM_M"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -4.72,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 3062,
+          "s": 1.0,
+          "dr": 9.05,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40162,
+          "s": 1.0,
+          "dr": 7.52,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -10.69,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40346,
+          "s": 1.0,
+          "dr": 9.01,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 16196,
       "rating": 2025.1,
       "games_played": 103,
@@ -5437,6 +5538,62 @@
       "provisional": false,
       "last_played": "2024-08-17",
       "ec": 0
+    },
+    {
+      "id": 2841,
+      "rating": 2022.9,
+      "games_played": 653,
+      "firstname": "Elisabetta",
+      "surname": "VECCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "3rd_Intrusi_cM_M"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40162,
+          "s": 0.0,
+          "dr": -12.31,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -4.27,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40346,
+          "s": 1.0,
+          "dr": 10.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40086,
+          "s": 1.0,
+          "dr": 10.69,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 3062,
+          "s": 1.0,
+          "dr": 9.12,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 440410,
@@ -5786,17 +5943,6 @@
       "ec": 0
     },
     {
-      "id": 40086,
-      "rating": 2015.1,
-      "games_played": 281,
-      "firstname": "Damiano",
-      "surname": "FOSCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-06-07",
-      "ec": 0
-    },
-    {
       "id": 6405,
       "rating": 2015.0,
       "games_played": 124,
@@ -5937,17 +6083,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-05-17",
-      "ec": 0
-    },
-    {
-      "id": 2841,
-      "rating": 2009.6,
-      "games_played": 648,
-      "firstname": "Elisabetta",
-      "surname": "VECCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
       "ec": 0
     },
     {
@@ -6699,17 +6834,6 @@
       "ec": 0
     },
     {
-      "id": 3062,
-      "rating": 1987.6,
-      "games_played": 704,
-      "firstname": "Leonardo",
-      "surname": "CAVIOLA",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-07-04",
-      "ec": 0
-    },
-    {
       "id": 15646,
       "rating": 1987.2,
       "games_played": 126,
@@ -7051,17 +7175,6 @@
       "ec": 0
     },
     {
-      "id": 40346,
-      "rating": 1977.0,
-      "games_played": 97,
-      "firstname": "Michele",
-      "surname": "SALVO",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
-      "ec": 0
-    },
-    {
       "id": 11206,
       "rating": 1976.6,
       "games_played": 131,
@@ -7225,6 +7338,62 @@
       "ec": 0
     },
     {
+      "id": 3062,
+      "rating": 1974.1,
+      "games_played": 709,
+      "firstname": "Leonardo",
+      "surname": "CAVIOLA",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "3rd_Intrusi_cM_M"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -10.31,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40086,
+          "s": 0.0,
+          "dr": -9.05,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40229,
+          "s": 0.5,
+          "dr": 6.34,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40162,
+          "s": 1.0,
+          "dr": 8.55,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -9.12,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 10032,
       "rating": 1974.0,
       "games_played": 556,
@@ -7300,6 +7469,62 @@
       "provisional": true,
       "last_played": "2024-03-02",
       "ec": 0
+    },
+    {
+      "id": 40346,
+      "rating": 1972.8,
+      "games_played": 102,
+      "firstname": "Michele",
+      "surname": "SALVO",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "3rd_Intrusi_cM_M"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 3062,
+          "s": 1.0,
+          "dr": 10.31,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40162,
+          "s": 1.0,
+          "dr": 8.65,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -10.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -4.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40086,
+          "s": 0.0,
+          "dr": -9.01,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 7186,
@@ -9222,6 +9447,62 @@
       "ec": 0
     },
     {
+      "id": 40151,
+      "rating": 1933.7,
+      "games_played": 327,
+      "firstname": "Paolo",
+      "surname": "BARSOTTI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "38th_National_Categoria"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40160,
+          "s": 1.0,
+          "dr": 2.25,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40163,
+          "s": 0.0,
+          "dr": -10.56,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40349,
+          "s": 1.0,
+          "dr": 7.28,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40158,
+          "s": 1.0,
+          "dr": 6.36,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40349,
+          "s": 1.0,
+          "dr": 7.06,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 10831,
       "rating": 1933.4,
       "games_played": 1103,
@@ -9264,6 +9545,62 @@
       "provisional": true,
       "last_played": "2024-02-04",
       "ec": 0
+    },
+    {
+      "id": 40162,
+      "rating": 1932.6,
+      "games_played": 100,
+      "firstname": "Rodolfo",
+      "surname": "BAIELLI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "3rd_Intrusi_cM_M"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 2841,
+          "s": 1.0,
+          "dr": 12.31,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -8.65,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40086,
+          "s": 0.0,
+          "dr": -7.52,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 3062,
+          "s": 0.0,
+          "dr": -8.55,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_3rd_Intrusi_cM_M",
+          "o": 40229,
+          "s": 1.0,
+          "dr": 17.13,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 420055,
@@ -9489,17 +9826,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2023-11-03",
-      "ec": 0
-    },
-    {
-      "id": 40162,
-      "rating": 1927.9,
-      "games_played": 95,
-      "firstname": "Rodolfo",
-      "surname": "BAIELLI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-02-08",
       "ec": 0
     },
     {
@@ -9861,17 +10187,6 @@
       "firstname": "Thierry",
       "surname": "GRELLIER",
       "country": "EST",
-      "provisional": false,
-      "last_played": "2026-05-16",
-      "ec": 0
-    },
-    {
-      "id": 40151,
-      "rating": 1921.3,
-      "games_played": 322,
-      "firstname": "Paolo",
-      "surname": "BARSOTTI",
-      "country": "ITA",
       "provisional": false,
       "last_played": "2026-05-16",
       "ec": 0
@@ -10944,6 +11259,46 @@
       "ec": 0
     },
     {
+      "id": 40163,
+      "rating": 1900.9,
+      "games_played": 101,
+      "firstname": "Sandra",
+      "surname": "PISTOLESI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "38th_National_Categoria"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40179,
+          "s": 1.0,
+          "dr": 4.11,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40151,
+          "s": 1.0,
+          "dr": 10.56,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40158,
+          "s": 0.0,
+          "dr": -13.85,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 60125,
       "rating": 1900.7,
       "games_played": 20,
@@ -10985,17 +11340,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2025-05-11",
-      "ec": 0
-    },
-    {
-      "id": 40163,
-      "rating": 1900.0,
-      "games_played": 98,
-      "firstname": "Sandra",
-      "surname": "PISTOLESI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-02-08",
       "ec": 0
     },
     {
@@ -20466,17 +20810,6 @@
       "ec": 0
     },
     {
-      "id": 40349,
-      "rating": 1816.1,
-      "games_played": 21,
-      "firstname": "Leonardo",
-      "surname": "TURATO",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2026-05-17",
-      "ec": 0
-    },
-    {
       "id": 16460,
       "rating": 1815.9,
       "games_played": 20,
@@ -21652,6 +21985,54 @@
       "provisional": true,
       "last_played": "2023-08-06",
       "ec": 0
+    },
+    {
+      "id": 40349,
+      "rating": 1807.3,
+      "games_played": 25,
+      "firstname": "Leonardo",
+      "surname": "TURATO",
+      "country": "ITA",
+      "provisional": true,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "38th_National_Categoria"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40151,
+          "s": 0.0,
+          "dr": -14.56,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40160,
+          "s": 1.0,
+          "dr": 8.1,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40179,
+          "s": 1.0,
+          "dr": 11.79,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40151,
+          "s": 0.0,
+          "dr": -14.12,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 12180,
@@ -25639,6 +26020,46 @@
       "ec": 0
     },
     {
+      "id": 40158,
+      "rating": 1785.7,
+      "games_played": 102,
+      "firstname": "Carlo",
+      "surname": "LANDINI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "38th_National_Categoria"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40163,
+          "s": 1.0,
+          "dr": 13.85,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40151,
+          "s": 0.0,
+          "dr": -6.36,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40160,
+          "s": 1.0,
+          "dr": 4.36,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 220053,
       "rating": 1785.6,
       "games_played": 53,
@@ -28032,17 +28453,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2026-02-01",
-      "ec": 0
-    },
-    {
-      "id": 40158,
-      "rating": 1773.8,
-      "games_played": 99,
-      "firstname": "Carlo",
-      "surname": "LANDINI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-02-08",
       "ec": 0
     },
     {
@@ -40443,17 +40853,6 @@
       "ec": 0
     },
     {
-      "id": 350061,
-      "rating": 1700.5,
-      "games_played": 13,
-      "firstname": "Vijay",
-      "surname": "SHIYAL",
-      "country": "IND",
-      "provisional": true,
-      "last_played": "2023-07-15",
-      "ec": 0
-    },
-    {
       "id": 16186,
       "rating": 1700.5,
       "games_played": 6,
@@ -41584,17 +41983,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-11-23",
-      "ec": 0
-    },
-    {
-      "id": 15763,
-      "rating": 1691.2,
-      "games_played": 5,
-      "firstname": "Kokorochi",
-      "surname": "INABA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-07-15",
       "ec": 0
     },
     {
@@ -44236,17 +44624,6 @@
       "ec": 0
     },
     {
-      "id": 40179,
-      "rating": 1665.1,
-      "games_played": 34,
-      "firstname": "Edoardo",
-      "surname": "GAZZETTI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-02-08",
-      "ec": 0
-    },
-    {
       "id": 350025,
       "rating": 1664.9,
       "games_played": 41,
@@ -45094,6 +45471,46 @@
       "ec": 0
     },
     {
+      "id": 40179,
+      "rating": 1652.3,
+      "games_played": 37,
+      "firstname": "Edoardo",
+      "surname": "GAZZETTI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "38th_National_Categoria"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40163,
+          "s": 0.0,
+          "dr": -4.11,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40160,
+          "s": 0.5,
+          "dr": -2.81,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40349,
+          "s": 0.0,
+          "dr": -5.9,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 580008,
       "rating": 1652.0,
       "games_played": 11,
@@ -45234,17 +45651,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2024-03-17",
-      "ec": 0
-    },
-    {
-      "id": 350069,
-      "rating": 1649.8,
-      "games_played": 13,
-      "firstname": "Jitendra",
-      "surname": "MAKWANA",
-      "country": "IND",
-      "provisional": true,
-      "last_played": "2023-07-15",
       "ec": 0
     },
     {
@@ -47724,17 +48130,6 @@
       "ec": 0
     },
     {
-      "id": 40160,
-      "rating": 1562.8,
-      "games_played": 92,
-      "firstname": "Ilaria",
-      "surname": "LUZI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-02-08",
-      "ec": 0
-    },
-    {
       "id": 440649,
       "rating": 1562.3,
       "games_played": 13,
@@ -47777,6 +48172,54 @@
       "provisional": false,
       "last_played": "2024-11-17",
       "ec": 0
+    },
+    {
+      "id": 40160,
+      "rating": 1555.0,
+      "games_played": 96,
+      "firstname": "Ilaria",
+      "surname": "LUZI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-09-13",
+      "ec": 1,
+      "tournaments": [
+        "38th_National_Categoria"
+      ],
+      "log": [
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40151,
+          "s": 0.0,
+          "dr": -2.25,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40179,
+          "s": 0.5,
+          "dr": 2.81,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40349,
+          "s": 0.0,
+          "dr": -4.05,
+          "r": 0
+        },
+        {
+          "d": "2026-09-13",
+          "t": "20260913_38th_National_Categoria",
+          "o": 40158,
+          "s": 0.0,
+          "dr": -4.36,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 9921199,

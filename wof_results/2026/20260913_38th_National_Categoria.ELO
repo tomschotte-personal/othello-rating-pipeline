@@ -1,0 +1,51 @@
+%%Tournament: 38th National Categoria
+%%Country: IT
+%%Date: 13/09/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  40151, BARSOTTI, Paolo, ITA, 4, 203, 1515
+%_%  40349, TURATO, Leonardo, ITA, 2, 147, 1197
+%_%  40163, PISTOLESI, Sandra, ITA, 2, 113, 1495
+%_%  40158, LANDINI, Carlo, ITA, 2, 89, 1266
+%_%  40179, GAZZETTI, Edoardo, ITA, 0.5, 77, 915
+%_%  40160, LUZI, Ilaria, ITA, 0.5, 75, 919
+%_%  40186, RIBALDONE, Marco, ITA, 0, 0, 1572
+%_%  40199, GIAMBASTIANI, Adolfo, ITA, 0, 0, 1422
+%_%   2884, VECCHI, Maria Serena, ITA, 0, 0, 1409
+%_%  40159, BANDIERA, Marco, ITA, 0, 0, 1236
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/656
+
+%Round: 1
+
+ 40179 (29)<(35)  40163  B
+ 40151 (49)>(15)  40160  B
+
+%Round: 2
+
+ 40163 (47)>(17)  40151  B
+ 40160 (32)=(32)  40179  B
+
+%Round: 3
+
+ 40163 (31)<(33)  40158  B
+ 40151 (33)>(31)  40349  B
+
+%Round: 4
+
+ 40158 (14)<(50)  40151  B
+ 40160 (06)<(58)  40349  B
+
+%Round: 5
+
+ 40160 (22)<(42)  40158  B
+ 40349 (48)>(16)  40179  B
+
+%Round: 3-4
+
+ 40349 (10)<(54)  40151  B

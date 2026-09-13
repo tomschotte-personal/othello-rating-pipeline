@@ -1,0 +1,48 @@
+%%Tournament: 3rd Intrusi cM M
+%%Country: IT
+%%Date: 13/09/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  40229, FOSCHI, Tommaso, ITA, 3.5, 202, 2012
+%_%  40086, FOSCHI, Damiano, ITA, 3, 176, 1676
+%_%   2841, VECCHI, Elisabetta, ITA, 3, 159, 1689
+%_%  40346, SALVO, Michele, ITA, 2, 140, 1612
+%_%  40162, BAIELLI, Rodolfo, ITA, 2, 139, 1554
+%_%   3062, CAVIOLA, Leonardo, ITA, 1.5, 144, 1558
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/657
+
+%Round: 1
+
+ 40162 (49)>(15)   2841  B
+  3062 (28)<(36)  40346  B
+ 40229 (50)>(14)  40086  B
+
+%Round: 2
+
+ 40346 (42)>(22)  40162  B
+  2841 (11)<(53)  40229  B
+ 40086 (51)>(13)   3062  B
+
+%Round: 3
+
+ 40229 (32)=(32)   3062  B
+  2841 (45)>(19)  40346  B
+ 40162 (13)<(51)  40086  B
+
+%Round: 4
+
+ 40346 (17)<(47)  40229  B
+ 40086 (22)<(42)   2841  B
+  3062 (53)>(11)  40162  B
+
+%Round: 5
+
+ 40229 (20)<(44)  40162  B
+ 40346 (26)<(38)  40086  B
+  2841 (46)>(18)   3062  B
