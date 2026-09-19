@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-09-13 19:37",
+  "ref_date": "2026-09-19 20:51",
   "baseline_date": "2026-08-31",
   "tournament_id": "",
   "tournament_name": "Live",
-  "ec_games_played": 88,
+  "ec_games_played": 137,
   "ec_rounds": 0,
-  "total_active": 4287,
+  "total_active": 4279,
   "players": [
     {
       "id": 13841,
@@ -334,14 +334,75 @@
     },
     {
       "id": 150009,
-      "rating": 2369.2,
-      "games_played": 819,
+      "rating": 2369.8,
+      "games_played": 826,
       "firstname": "Niklas",
       "surname": "WETTERGREN",
       "country": "SWE",
       "provisional": false,
-      "last_played": "2026-06-13",
-      "ec": 0
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
+          "s": 1.0,
+          "dr": 1.46,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 1.0,
+          "dr": 4.19,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 0.0,
+          "dr": -16.18,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1532,
+          "s": 1.0,
+          "dr": 2.01,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1503,
+          "s": 1.0,
+          "dr": 6.04,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 1.0,
+          "dr": 2.75,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 1.0,
+          "dr": 0.36,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 14702,
@@ -1447,17 +1508,6 @@
       "ec": 0
     },
     {
-      "id": 1503,
-      "rating": 2224.5,
-      "games_played": 261,
-      "firstname": "Christopher",
-      "surname": "ANDERSSON",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
-      "ec": 0
-    },
-    {
       "id": 1645,
       "rating": 2224.2,
       "games_played": 213,
@@ -1467,6 +1517,70 @@
       "provisional": false,
       "last_played": "2026-08-01",
       "ec": 0
+    },
+    {
+      "id": 1503,
+      "rating": 2223.5,
+      "games_played": 267,
+      "firstname": "Christopher",
+      "surname": "ANDERSSON",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 0.0,
+          "dr": -12.72,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 1.0,
+          "dr": 0.77,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 1.0,
+          "dr": 2.45,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 0.0,
+          "dr": -6.04,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 1.0,
+          "dr": 6.62,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 1.0,
+          "dr": 7.94,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 30503,
@@ -2950,6 +3064,78 @@
       "ec": 0
     },
     {
+      "id": 1449,
+      "rating": 2135.1,
+      "games_played": 143,
+      "firstname": "Jonas",
+      "surname": "ODMARK",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 1.0,
+          "dr": 3.63,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 1.0,
+          "dr": 1.26,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 1.0,
+          "dr": 16.18,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 1.0,
+          "dr": 7.41,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 1.0,
+          "dr": 9.98,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1532,
+          "s": 0.0,
+          "dr": -14.75,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1503,
+          "s": 0.0,
+          "dr": -7.94,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 7112,
       "rating": 2134.7,
       "games_played": 147,
@@ -3242,6 +3428,78 @@
       ]
     },
     {
+      "id": 1302,
+      "rating": 2127.9,
+      "games_played": 764,
+      "firstname": "Nils",
+      "surname": "BERNER",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1503,
+          "s": 1.0,
+          "dr": 12.72,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 0.0,
+          "dr": -4.19,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150037,
+          "s": 1.0,
+          "dr": 2.38,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 1.0,
+          "dr": 8.68,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 0.0,
+          "dr": -9.98,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 1.0,
+          "dr": 3.59,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 0.0,
+          "dr": -12.69,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 5085,
       "rating": 2127.9,
       "games_played": 640,
@@ -3250,17 +3508,6 @@
       "country": "NLD",
       "provisional": false,
       "last_played": "2026-07-11",
-      "ec": 0
-    },
-    {
-      "id": 1302,
-      "rating": 2127.4,
-      "games_played": 757,
-      "firstname": "Nils",
-      "surname": "BERNER",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
       "ec": 0
     },
     {
@@ -3415,17 +3662,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-07-12",
-      "ec": 0
-    },
-    {
-      "id": 1449,
-      "rating": 2119.3,
-      "games_played": 136,
-      "firstname": "Jonas",
-      "surname": "ODMARK",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
       "ec": 0
     },
     {
@@ -3781,17 +4017,6 @@
       "ec": 0
     },
     {
-      "id": 1459,
-      "rating": 2097.3,
-      "games_played": 502,
-      "firstname": "Daniel",
-      "surname": "TURUNEN",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-05-16",
-      "ec": 0
-    },
-    {
       "id": 650,
       "rating": 2096.6,
       "games_played": 454,
@@ -4021,6 +4246,78 @@
       "provisional": false,
       "last_played": "2026-07-18",
       "ec": 0
+    },
+    {
+      "id": 1459,
+      "rating": 2083.0,
+      "games_played": 509,
+      "firstname": "Daniel",
+      "surname": "TURUNEN",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 0.0,
+          "dr": -12.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150094,
+          "s": 1.0,
+          "dr": 1.15,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
+          "s": 1.0,
+          "dr": 5.8,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 0.0,
+          "dr": -8.68,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921197,
+          "s": 1.0,
+          "dr": 3.27,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1503,
+          "s": 0.0,
+          "dr": -6.62,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150037,
+          "s": 1.0,
+          "dr": 2.88,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 4155,
@@ -4602,6 +4899,78 @@
       "provisional": false,
       "last_played": "2026-05-04",
       "ec": 0
+    },
+    {
+      "id": 1301,
+      "rating": 2057.6,
+      "games_played": 1156,
+      "firstname": "Benkt",
+      "surname": "STEENTOFT",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 1.0,
+          "dr": 12.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150037,
+          "s": 1.0,
+          "dr": 3.95,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1532,
+          "s": 1.0,
+          "dr": 8.48,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 0.0,
+          "dr": -7.41,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
+          "s": 1.0,
+          "dr": 6.87,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 0.0,
+          "dr": -2.75,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 1.0,
+          "dr": 12.69,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 190128,
@@ -5518,17 +5887,6 @@
       "ec": 0
     },
     {
-      "id": 1301,
-      "rating": 2023.7,
-      "games_played": 1149,
-      "firstname": "Benkt",
-      "surname": "STEENTOFT",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
-      "ec": 0
-    },
-    {
       "id": 1358,
       "rating": 2022.9,
       "games_played": 522,
@@ -6083,17 +6441,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-05-17",
-      "ec": 0
-    },
-    {
-      "id": 280056,
-      "rating": 2008.2,
-      "games_played": 38,
-      "firstname": "Alejandro",
-      "surname": "REYES",
-      "country": "URY",
-      "provisional": false,
-      "last_played": "2023-07-16",
       "ec": 0
     },
     {
@@ -7098,6 +7445,70 @@
       "ec": 0
     },
     {
+      "id": 1532,
+      "rating": 1979.7,
+      "games_played": 128,
+      "firstname": "Cecilia",
+      "surname": "NORGREN",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921197,
+          "s": 1.0,
+          "dr": 5.21,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 0.0,
+          "dr": -8.48,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 0.0,
+          "dr": -2.01,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150094,
+          "s": 1.0,
+          "dr": 2.37,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 1.0,
+          "dr": 14.75,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 0.0,
+          "dr": -13.42,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 60059,
       "rating": 1979.3,
       "games_played": 24,
@@ -7117,17 +7528,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-08-09",
-      "ec": 0
-    },
-    {
-      "id": 497,
-      "rating": 1978.7,
-      "games_played": 241,
-      "firstname": "Greg",
-      "surname": "JOHNSON",
-      "country": "CAN",
-      "provisional": false,
-      "last_played": "2023-07-19",
       "ec": 0
     },
     {
@@ -9326,17 +9726,6 @@
       "ec": 0
     },
     {
-      "id": 290233,
-      "rating": 1936.1,
-      "games_played": 12,
-      "firstname": "Anuar",
-      "surname": "HADDAD JR",
-      "country": "BRA",
-      "provisional": true,
-      "last_played": "2023-07-16",
-      "ec": 0
-    },
-    {
       "id": 9919463,
       "rating": 1935.9,
       "games_played": 7,
@@ -9412,6 +9801,78 @@
       "provisional": true,
       "last_played": "2026-04-25",
       "ec": 0
+    },
+    {
+      "id": 1493,
+      "rating": 1934.0,
+      "games_played": 668,
+      "firstname": "Erik",
+      "surname": "JOHANSSON",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 0.0,
+          "dr": -1.46,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150087,
+          "s": 1.0,
+          "dr": 3.9,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 0.0,
+          "dr": -5.8,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 1.0,
+          "dr": 3.44,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 0.0,
+          "dr": -6.87,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150037,
+          "s": 1.0,
+          "dr": 6.05,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921215,
+          "s": 1.0,
+          "dr": 6.49,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 1019,
@@ -9804,17 +10265,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-03-15",
-      "ec": 0
-    },
-    {
-      "id": 1493,
-      "rating": 1928.3,
-      "games_played": 661,
-      "firstname": "Erik",
-      "surname": "JOHANSSON",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
       "ec": 0
     },
     {
@@ -12542,17 +12992,6 @@
       "ec": 0
     },
     {
-      "id": 280075,
-      "rating": 1883.7,
-      "games_played": 14,
-      "firstname": "Agustin",
-      "surname": "PURCIARIELLO",
-      "country": "ARG",
-      "provisional": true,
-      "last_played": "2023-07-16",
-      "ec": 0
-    },
-    {
       "id": 4068,
       "rating": 1883.6,
       "games_played": 459,
@@ -12672,6 +13111,78 @@
       "provisional": true,
       "last_played": "2025-06-07",
       "ec": 0
+    },
+    {
+      "id": 1385,
+      "rating": 1882.8,
+      "games_played": 68,
+      "firstname": "Oscar",
+      "surname": "SINTRING",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 0.0,
+          "dr": -3.63,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921215,
+          "s": 1.0,
+          "dr": 8.46,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921197,
+          "s": 1.0,
+          "dr": 8.23,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1503,
+          "s": 0.0,
+          "dr": -2.45,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150087,
+          "s": 1.0,
+          "dr": 4.84,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 0.0,
+          "dr": -3.59,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1532,
+          "s": 1.0,
+          "dr": 13.42,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 391012,
@@ -15036,17 +15547,6 @@
       "country": "???",
       "provisional": true,
       "last_played": "2026-07-25",
-      "ec": 0
-    },
-    {
-      "id": 1385,
-      "rating": 1857.5,
-      "games_played": 61,
-      "firstname": "Oscar",
-      "surname": "SINTRING",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2024-03-29",
       "ec": 0
     },
     {
@@ -18590,17 +19090,6 @@
       "ec": 0
     },
     {
-      "id": 498,
-      "rating": 1830.0,
-      "games_played": 198,
-      "firstname": "Leslie",
-      "surname": "CAGLEY",
-      "country": "USA",
-      "provisional": false,
-      "last_played": "2023-07-19",
-      "ec": 0
-    },
-    {
       "id": 280094,
       "rating": 1830.0,
       "games_played": 12,
@@ -20048,17 +20537,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-01-26",
-      "ec": 0
-    },
-    {
-      "id": 250297,
-      "rating": 1821.0,
-      "games_played": 6,
-      "firstname": "Wai Yin",
-      "surname": "LOH",
-      "country": "SGP",
-      "provisional": true,
-      "last_played": "2023-07-16",
       "ec": 0
     },
     {
@@ -21767,17 +22245,6 @@
       "ec": 0
     },
     {
-      "id": 280077,
-      "rating": 1808.5,
-      "games_played": 7,
-      "firstname": "Rodolfo",
-      "surname": "KURCHAN",
-      "country": "ARG",
-      "provisional": true,
-      "last_played": "2023-07-16",
-      "ec": 0
-    },
-    {
       "id": 220050,
       "rating": 1808.5,
       "games_played": 120,
@@ -23323,6 +23790,70 @@
       "ec": 0
     },
     {
+      "id": 9921197,
+      "rating": 1800.0,
+      "games_played": 6,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150087,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1532,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150037,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150094,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 9921214,
       "rating": 1800.0,
       "games_played": 5,
@@ -23428,6 +23959,70 @@
           "d": "2026-09-05",
           "t": "20260905_Svenska_Ungdoms_Masterskapet",
           "o": 150086,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921215,
+      "rating": 1800.0,
+      "games_played": 6,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150037,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150087,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150094,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
           "s": 0.0,
           "dr": 0.0,
           "r": 0
@@ -24620,17 +25215,6 @@
       "country": "ISR",
       "provisional": true,
       "last_played": "2026-07-03",
-      "ec": 0
-    },
-    {
-      "id": 110000,
-      "rating": 1792.9,
-      "games_played": 64,
-      "firstname": "Galo",
-      "surname": "CARRERA",
-      "country": "CAN",
-      "provisional": false,
-      "last_played": "2023-07-19",
       "ec": 0
     },
     {
@@ -26968,17 +27552,6 @@
       "country": "NOR",
       "provisional": true,
       "last_played": "2026-01-31",
-      "ec": 0
-    },
-    {
-      "id": 150037,
-      "rating": 1781.7,
-      "games_played": 155,
-      "firstname": "Jimmy",
-      "surname": "SELLING",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-06-13",
       "ec": 0
     },
     {
@@ -30062,6 +30635,70 @@
       "ec": 0
     },
     {
+      "id": 150037,
+      "rating": 1767.4,
+      "games_played": 161,
+      "firstname": "Jimmy",
+      "surname": "SELLING",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921215,
+          "s": 1.0,
+          "dr": 10.53,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1301,
+          "s": 0.0,
+          "dr": -3.95,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1302,
+          "s": 0.0,
+          "dr": -2.38,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921197,
+          "s": 0.0,
+          "dr": -9.59,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
+          "s": 0.0,
+          "dr": -6.05,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 0.0,
+          "dr": -2.88,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 15746,
       "rating": 1767.4,
       "games_played": 16,
@@ -31998,17 +32635,6 @@
       "ec": 0
     },
     {
-      "id": 100070,
-      "rating": 1756.6,
-      "games_played": 8,
-      "firstname": "Andrew",
-      "surname": "MILTON",
-      "country": "GBR",
-      "provisional": true,
-      "last_played": "2025-06-07",
-      "ec": 0
-    },
-    {
       "id": 40440,
       "rating": 1756.6,
       "games_played": 3,
@@ -32017,6 +32643,17 @@
       "country": "ITA",
       "provisional": true,
       "last_played": "2025-12-13",
+      "ec": 0
+    },
+    {
+      "id": 100070,
+      "rating": 1756.6,
+      "games_played": 8,
+      "firstname": "Andrew",
+      "surname": "MILTON",
+      "country": "GBR",
+      "provisional": true,
+      "last_played": "2025-06-07",
       "ec": 0
     },
     {
@@ -33634,17 +34271,6 @@
       "country": "TWN",
       "provisional": true,
       "last_played": "2026-05-30",
-      "ec": 0
-    },
-    {
-      "id": 4026,
-      "rating": 1747.4,
-      "games_played": 20,
-      "firstname": "David",
-      "surname": "MANN",
-      "country": "CAN",
-      "provisional": true,
-      "last_played": "2023-07-19",
       "ec": 0
     },
     {
@@ -41513,17 +42139,6 @@
       "ec": 0
     },
     {
-      "id": 280080,
-      "rating": 1695.3,
-      "games_played": 7,
-      "firstname": "Daiana",
-      "surname": "GIMENEZ",
-      "country": "URU",
-      "provisional": true,
-      "last_played": "2023-07-16",
-      "ec": 0
-    },
-    {
       "id": 440985,
       "rating": 1695.2,
       "games_played": 5,
@@ -42435,70 +43050,6 @@
       "provisional": false,
       "last_played": "2024-05-15",
       "ec": 0
-    },
-    {
-      "id": 150087,
-      "rating": 1687.2,
-      "games_played": 34,
-      "firstname": "Valter",
-      "surname": "ODMARK",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-09-05",
-      "ec": 1,
-      "tournaments": [
-        "Svenska_Ungdoms_Masterskapet"
-      ],
-      "log": [
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150089,
-          "s": 0.0,
-          "dr": -9.09,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 9921213,
-          "s": 1.0,
-          "dr": 30.21,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150094,
-          "s": 1.0,
-          "dr": 9.44,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150086,
-          "s": 1.0,
-          "dr": 14.53,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 9921214,
-          "s": 1.0,
-          "dr": 13.86,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150089,
-          "s": 1.0,
-          "dr": 14.85,
-          "r": 0
-        }
-      ]
     },
     {
       "id": 40249,
@@ -44162,6 +44713,78 @@
       "ec": 0
     },
     {
+      "id": 150058,
+      "rating": 1672.3,
+      "games_played": 219,
+      "firstname": "Tommy",
+      "surname": "RONN",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150094,
+          "s": 1.0,
+          "dr": 9.23,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1449,
+          "s": 0.0,
+          "dr": -1.26,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1503,
+          "s": 0.0,
+          "dr": -0.77,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
+          "s": 0.0,
+          "dr": -3.44,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921215,
+          "s": 1.0,
+          "dr": 14.1,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150087,
+          "s": 1.0,
+          "dr": 10.07,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150009,
+          "s": 0.0,
+          "dr": -0.36,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 441959,
       "rating": 1672.1,
       "games_played": 7,
@@ -44765,6 +45388,119 @@
       "provisional": true,
       "last_played": "2025-05-25",
       "ec": 0
+    },
+    {
+      "id": 150087,
+      "rating": 1663.7,
+      "games_played": 40,
+      "firstname": "Valter",
+      "surname": "ODMARK",
+      "country": "SWE",
+      "provisional": false,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Svenska_Ungdoms_Masterskapet",
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150089,
+          "s": 0.0,
+          "dr": -9.09,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 9921213,
+          "s": 1.0,
+          "dr": 30.21,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150094,
+          "s": 1.0,
+          "dr": 9.44,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150086,
+          "s": 1.0,
+          "dr": 14.53,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 9921214,
+          "s": 1.0,
+          "dr": 13.86,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150089,
+          "s": 1.0,
+          "dr": 14.85,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921197,
+          "s": 0.0,
+          "dr": -6.86,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1493,
+          "s": 0.0,
+          "dr": -3.9,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921215,
+          "s": 0.0,
+          "dr": -6.59,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1385,
+          "s": 0.0,
+          "dr": -4.84,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 0.0,
+          "dr": -10.07,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150094,
+          "s": 1.0,
+          "dr": 8.78,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 350034,
@@ -45940,17 +46676,6 @@
       "ec": 0
     },
     {
-      "id": 150058,
-      "rating": 1644.7,
-      "games_played": 212,
-      "firstname": "Tommy",
-      "surname": "RONN",
-      "country": "SWE",
-      "provisional": false,
-      "last_played": "2026-05-16",
-      "ec": 0
-    },
-    {
       "id": 440852,
       "rating": 1644.4,
       "games_played": 29,
@@ -46963,62 +47688,6 @@
       "ec": 0
     },
     {
-      "id": 150094,
-      "rating": 1618.0,
-      "games_played": 23,
-      "firstname": "Ossian",
-      "surname": "ODMARK",
-      "country": "SWE",
-      "provisional": true,
-      "last_played": "2026-09-05",
-      "ec": 1,
-      "tournaments": [
-        "Svenska_Ungdoms_Masterskapet"
-      ],
-      "log": [
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 9921213,
-          "s": 1.0,
-          "dr": 30.55,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150086,
-          "s": 0.0,
-          "dr": -11.78,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150087,
-          "s": 0.0,
-          "dr": -18.88,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 9921214,
-          "s": 1.0,
-          "dr": 30.55,
-          "r": 0
-        },
-        {
-          "d": "2026-09-05",
-          "t": "20260905_Svenska_Ungdoms_Masterskapet",
-          "o": 150089,
-          "s": 0.0,
-          "dr": -8.75,
-          "r": 0
-        }
-      ]
-    },
-    {
       "id": 14391,
       "rating": 1618.0,
       "games_played": 41,
@@ -47236,17 +47905,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-08-29",
-      "ec": 0
-    },
-    {
-      "id": 280047,
-      "rating": 1612.6,
-      "games_played": 70,
-      "firstname": "Leonardo",
-      "surname": "CHAUFAN",
-      "country": "ARG",
-      "provisional": false,
-      "last_played": "2023-07-16",
       "ec": 0
     },
     {
@@ -47611,6 +48269,111 @@
       "provisional": false,
       "last_played": "2026-05-04",
       "ec": 0
+    },
+    {
+      "id": 150094,
+      "rating": 1594.8,
+      "games_played": 29,
+      "firstname": "Ossian",
+      "surname": "ODMARK",
+      "country": "SWE",
+      "provisional": true,
+      "last_played": "2026-09-19",
+      "ec": 1,
+      "tournaments": [
+        "Svenska_Ungdoms_Masterskapet",
+        "Gottsunda_Open_2026"
+      ],
+      "log": [
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 9921213,
+          "s": 1.0,
+          "dr": 30.55,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150086,
+          "s": 0.0,
+          "dr": -11.78,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150087,
+          "s": 0.0,
+          "dr": -18.88,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 9921214,
+          "s": 1.0,
+          "dr": 30.55,
+          "r": 0
+        },
+        {
+          "d": "2026-09-05",
+          "t": "20260905_Svenska_Ungdoms_Masterskapet",
+          "o": 150089,
+          "s": 0.0,
+          "dr": -8.75,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150058,
+          "s": 0.0,
+          "dr": -18.46,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1459,
+          "s": 0.0,
+          "dr": -2.3,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921215,
+          "s": 1.0,
+          "dr": 30.51,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 1532,
+          "s": 0.0,
+          "dr": -4.75,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 9921197,
+          "s": 0.0,
+          "dr": -10.61,
+          "r": 0
+        },
+        {
+          "d": "2026-09-19",
+          "t": "20260919_Gottsunda_Open_2026",
+          "o": 150087,
+          "s": 0.0,
+          "dr": -17.56,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 15631,
