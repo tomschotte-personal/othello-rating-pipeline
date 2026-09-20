@@ -90,9 +90,13 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
+      # Runs on 'sweep' AND 'live' gates: an event starting later the same day
+      # must be MERGED into the armed window - the Danish Championship
+      # (2026-09-12) was shadowed by the China window and lost because sweeps
+      # paused while a window was armed.
       - name: Sweep FTD for tournaments starting today
         id: sweep
-        if: steps.gate.outputs.mode == 'sweep'
+        if: steps.gate.outputs.mode == 'sweep' || steps.gate.outputs.mode == 'live'
         run: |
           git config --global user.name "othello-rating-bot"
           git config --global user.email "actions@github.com"
@@ -103,6 +107,21 @@ jobs:
           if [[ "$RESULT" == ARM* ]]; then
             IDS=$(echo "$RESULT" | sed -E 's/^ARM ids=(.*) until=.*/\1/')
             UNTIL=$(echo "$RESULT" | sed -E 's/^.* until=//')
+            # Merge with an already-armed window: union of ids, max until
+            GIDS="${{ steps.gate.outputs.ids }}"
+            GUNTIL="${{ steps.gate.outputs.until }}"
+            if [ -n "$GIDS" ]; then
+              IDS=$(echo $GIDS $IDS | tr ' ' '\n' | sort -un | tr '\n' ' ' | sed 's/ $//')
+              if [ -n "$GUNTIL" ] && [[ "$GUNTIL" > "$UNTIL" ]]; then UNTIL="$GUNTIL"; fi
+              if [ "$IDS" = "$GIDS" ] && [ "$UNTIL" = "$GUNTIL" ]; then
+                echo "No new events beyond the armed window."
+                echo "found=true" >> "$GITHUB_OUTPUT"
+                echo "ids=$IDS" >> "$GITHUB_OUTPUT"
+                echo "until=$UNTIL" >> "$GITHUB_OUTPUT"
+                exit 0
+              fi
+              echo "Merging new event(s) into armed window: $IDS until $UNTIL"
+            fi
             echo "$IDS|$UNTIL" > .ftd_auto
             git add .ftd_auto tournament_*.json
             git commit -m "Auto-arm live window: FTD $IDS until $UNTIL UTC"
@@ -175,11 +194,13 @@ jobs:
         run: |
           git config --global user.name "othello-rating-bot"
           git config --global user.email "actions@github.com"
-          IDS="${{ steps.gate.outputs.ids }}"
-          UNTIL="${{ steps.gate.outputs.until }}"
+          # Sweep outputs carry the MERGED window (armed ids + new same-day
+          # hits); fall back to the gate window when the sweep found nothing.
+          IDS="${{ steps.sweep.outputs.ids }}"
+          UNTIL="${{ steps.sweep.outputs.until }}"
           if [ -z "$IDS" ]; then
-            IDS="${{ steps.sweep.outputs.ids }}"
-            UNTIL="${{ steps.sweep.outputs.until }}"
+            IDS="${{ steps.gate.outputs.ids }}"
+            UNTIL="${{ steps.gate.outputs.until }}"
           fi
           DEADLINE=$(( $(date +%s) + 65*60 ))
           # Respect the window end mid-run: don't loop past it.
