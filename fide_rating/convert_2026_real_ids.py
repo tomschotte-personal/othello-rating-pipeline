@@ -108,6 +108,19 @@ TARGETS = [
     (69930, '2026-08-23', '17_Tokyo_open'),
     # (69981, 17_Kawagoe_pair): PAIR format - no individual games, not ratable
     (70009, '2026-08-30', '18_Chiba_open'),
+    # September (verified 2026-09-20)
+    (70119, '2026-09-05', '33_Shinagawa_super_league'),
+    (70080, '2026-09-06', '52_All_Japan_East_Kanto_prelim'),
+    (70110, '2026-09-06', '52_All_Japan_Tokai_prelim'),
+    (70121, '2026-09-06', '7_Shinagawa_first_step'),
+    (70123, '2026-09-06', '135_Kanagawa_open_general'),
+    (70125, '2026-09-06', '135_Kanagawa_open'),
+    (70181, '2026-09-12', '183_Shinagawa_seaside_open'),
+    (70197, '2026-09-13', '52_All_Japan_Niigata_prelim'),
+    (70199, '2026-09-13', '52_All_Japan_Hokkaido_prelim'),
+    (70208, '2026-09-13', '17_Fukushima_challenge_cup'),
+    (70212, '2026-09-13', '52_All_Japan_Ibaraki_prelim'),
+    (70270, '2026-09-20', '52_All_Japan_Hyogo_prelim'),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===
