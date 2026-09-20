@@ -3885,8 +3885,19 @@
       "last_played": "2025-05-25"
     },
     {
+      "id": 93,
+      "rating": 2231.1,
+      "initial": 1879.0,
+      "games_played": 840,
+      "firstname": "Erik",
+      "surname": "LUND",
+      "country": "DNK",
+      "provisional": false,
+      "last_played": "2022-09-09"
+    },
+    {
       "id": 15583,
-      "rating": 2231.2,
+      "rating": 2231.1,
       "initial": 1849.3,
       "games_played": 533,
       "firstname": "Yuta",
@@ -4022,17 +4033,6 @@
           "dr": 5.03
         }
       ]
-    },
-    {
-      "id": 93,
-      "rating": 2231.1,
-      "initial": 1879.0,
-      "games_played": 840,
-      "firstname": "Erik",
-      "surname": "LUND",
-      "country": "DNK",
-      "provisional": false,
-      "last_played": "2022-09-09"
     },
     {
       "id": 13361,
@@ -27395,7 +27395,7 @@
           "t": "20250706_15_Mito_open",
           "o": 14159,
           "s": 1.0,
-          "dr": 2.06
+          "dr": 2.07
         },
         {
           "d": "2025-07-06",
@@ -28185,7 +28185,7 @@
     },
     {
       "id": 15875,
-      "rating": 1865.6,
+      "rating": 1865.5,
       "initial": 1752.8,
       "games_played": 59,
       "firstname": "Akito",
@@ -40286,17 +40286,6 @@
       "last_played": "2025-02-22"
     },
     {
-      "id": 16181,
-      "rating": 1800.7,
-      "initial": 1800.7,
-      "games_played": 7,
-      "firstname": "Torataro",
-      "surname": "KANAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-10-20"
-    },
-    {
       "id": 16214,
       "rating": 1800.7,
       "initial": 1787.4,
@@ -41032,6 +41021,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2023-12-17"
+    },
+    {
+      "id": 16181,
+      "rating": 1795.6,
+      "initial": 1795.6,
+      "games_played": 7,
+      "firstname": "Torataro",
+      "surname": "KANAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-10-20"
     },
     {
       "id": 40253,
@@ -42030,6 +42030,17 @@
       "last_played": "2023-06-17"
     },
     {
+      "id": 15754,
+      "rating": 1790.3,
+      "initial": 1790.3,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -42050,17 +42061,6 @@
       "country": "POL",
       "provisional": true,
       "last_played": "2025-06-28"
-    },
-    {
-      "id": 15754,
-      "rating": 1790.2,
-      "initial": 1790.2,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
     },
     {
       "id": 440523,
@@ -55214,7 +55214,7 @@
     },
     {
       "id": 13987,
-      "rating": 1720.9,
+      "rating": 1720.8,
       "initial": 1663.4,
       "games_played": 324,
       "firstname": "Fujio",
@@ -60498,7 +60498,7 @@
           "t": "20250706_15_Mito_open",
           "o": 14104,
           "s": 0.0,
-          "dr": -10.79
+          "dr": -10.8
         },
         {
           "d": "2025-07-06",
@@ -67500,7 +67500,7 @@
           "t": "20250706_15_Mito_open",
           "o": 14104,
           "s": 0.0,
-          "dr": -2.06
+          "dr": -2.07
         },
         {
           "d": "2025-07-06",

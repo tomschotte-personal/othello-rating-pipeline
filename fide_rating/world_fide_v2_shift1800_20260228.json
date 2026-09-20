@@ -7229,7 +7229,7 @@
     },
     {
       "id": 12984,
-      "rating": 2053.9,
+      "rating": 2053.8,
       "initial": 1929.7,
       "games_played": 483,
       "firstname": "Misa",
@@ -8611,7 +8611,7 @@
     },
     {
       "id": 5520,
-      "rating": 2022.1,
+      "rating": 2022.0,
       "initial": 1830.0,
       "games_played": 2642,
       "firstname": "Tsuyoshi",
@@ -14605,17 +14605,6 @@
       "last_played": "2025-09-27"
     },
     {
-      "id": 7002,
-      "rating": 1915.7,
-      "initial": 1903.3,
-      "games_played": 561,
-      "firstname": "Yoichi",
-      "surname": "KAGAWA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2025-10-19"
-    },
-    {
       "id": 1599,
       "rating": 1915.6,
       "initial": 1718.8,
@@ -14625,6 +14614,17 @@
       "country": "SWE",
       "provisional": false,
       "last_played": "2025-11-13"
+    },
+    {
+      "id": 7002,
+      "rating": 1915.6,
+      "initial": 1903.3,
+      "games_played": 561,
+      "firstname": "Yoichi",
+      "surname": "KAGAWA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2025-10-19"
     },
     {
       "id": 14137,
@@ -18081,7 +18081,7 @@
           "t": "20260201_18_Ibaraki_expert_games",
           "o": 13987,
           "s": 1.0,
-          "dr": 6.53
+          "dr": 6.52
         },
         {
           "d": "2026-02-01",
@@ -20633,7 +20633,7 @@
     },
     {
       "id": 12151,
-      "rating": 1859.6,
+      "rating": 1859.5,
       "initial": 1755.1,
       "games_played": 215,
       "firstname": "Taya",
@@ -30276,17 +30276,6 @@
       "last_played": "2025-12-06"
     },
     {
-      "id": 16181,
-      "rating": 1800.7,
-      "initial": 1800.7,
-      "games_played": 7,
-      "firstname": "Torataro",
-      "surname": "KANAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-10-20"
-    },
-    {
       "id": 15245,
       "rating": 1800.6,
       "initial": 1822.9,
@@ -31363,6 +31352,17 @@
       "last_played": "2023-12-17"
     },
     {
+      "id": 16181,
+      "rating": 1795.6,
+      "initial": 1795.6,
+      "games_played": 7,
+      "firstname": "Torataro",
+      "surname": "KANAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-10-20"
+    },
+    {
       "id": 15879,
       "rating": 1795.5,
       "initial": 1795.5,
@@ -32221,6 +32221,17 @@
       "last_played": "2023-06-17"
     },
     {
+      "id": 15754,
+      "rating": 1790.3,
+      "initial": 1790.3,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 16444,
       "rating": 1790.2,
       "initial": 1790.2,
@@ -32241,17 +32252,6 @@
       "country": "POL",
       "provisional": true,
       "last_played": "2025-06-28"
-    },
-    {
-      "id": 15754,
-      "rating": 1790.2,
-      "initial": 1790.2,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
     },
     {
       "id": 440523,
@@ -50662,7 +50662,7 @@
           "t": "20260201_18_Ibaraki_expert_games",
           "o": 16132,
           "s": 0.0,
-          "dr": -6.53
+          "dr": -6.52
         },
         {
           "d": "2026-02-01",

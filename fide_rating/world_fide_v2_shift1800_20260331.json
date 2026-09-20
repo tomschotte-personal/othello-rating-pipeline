@@ -5442,7 +5442,7 @@
     },
     {
       "id": 14101,
-      "rating": 2248.1,
+      "rating": 2248.0,
       "initial": 1960.0,
       "games_played": 442,
       "firstname": "Kenshun",
@@ -16911,7 +16911,7 @@
     },
     {
       "id": 12984,
-      "rating": 2053.9,
+      "rating": 2053.8,
       "initial": 1929.7,
       "games_played": 483,
       "firstname": "Misa",
@@ -27944,54 +27944,6 @@
       "last_played": "2024-06-30"
     },
     {
-      "id": 14898,
-      "rating": 1913.3,
-      "initial": 1912.7,
-      "games_played": 44,
-      "firstname": "Itaru",
-      "surname": "SAKAI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-03-07",
-      "log": [
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16157,
-          "s": 1.0,
-          "dr": 2.12
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16593,
-          "s": 1.0,
-          "dr": 7.47
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16507,
-          "s": 1.0,
-          "dr": 5.63
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16113,
-          "s": 1.0,
-          "dr": 4.37
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16115,
-          "s": 1.0,
-          "dr": 5.92
-        }
-      ]
-    },
-    {
       "id": 4094,
       "rating": 1913.2,
       "initial": 1682.1,
@@ -28012,6 +27964,54 @@
       "country": "ISR",
       "provisional": false,
       "last_played": "2025-07-12"
+    },
+    {
+      "id": 14898,
+      "rating": 1912.8,
+      "initial": 1912.7,
+      "games_played": 44,
+      "firstname": "Itaru",
+      "surname": "SAKAI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-03-07",
+      "log": [
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16157,
+          "s": 1.0,
+          "dr": 2.12
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16593,
+          "s": 1.0,
+          "dr": 6.86
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16507,
+          "s": 1.0,
+          "dr": 5.65
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16113,
+          "s": 1.0,
+          "dr": 4.38
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16115,
+          "s": 1.0,
+          "dr": 5.93
+        }
+      ]
     },
     {
       "id": 20410,
@@ -31831,8 +31831,30 @@
       "last_played": "2026-01-17"
     },
     {
+      "id": 190385,
+      "rating": 1883.3,
+      "initial": 1883.3,
+      "games_played": 8,
+      "firstname": "Kai Ye",
+      "surname": "LIM",
+      "country": "MYS",
+      "provisional": true,
+      "last_played": "2025-06-08"
+    },
+    {
+      "id": 250290,
+      "rating": 1883.3,
+      "initial": 1839.1,
+      "games_played": 43,
+      "firstname": "Xin Rui",
+      "surname": "LIN",
+      "country": "SGP",
+      "provisional": false,
+      "last_played": "2024-10-25"
+    },
+    {
       "id": 16132,
-      "rating": 1883.4,
+      "rating": 1883.3,
       "initial": 1860.3,
       "games_played": 170,
       "firstname": "Taiki",
@@ -31975,28 +31997,6 @@
           "dr": -13.34
         }
       ]
-    },
-    {
-      "id": 190385,
-      "rating": 1883.3,
-      "initial": 1883.3,
-      "games_played": 8,
-      "firstname": "Kai Ye",
-      "surname": "LIM",
-      "country": "MYS",
-      "provisional": true,
-      "last_played": "2025-06-08"
-    },
-    {
-      "id": 250290,
-      "rating": 1883.3,
-      "initial": 1839.1,
-      "games_played": 43,
-      "firstname": "Xin Rui",
-      "surname": "LIN",
-      "country": "SGP",
-      "provisional": false,
-      "last_played": "2024-10-25"
     },
     {
       "id": 440717,
@@ -32153,61 +32153,6 @@
       "last_played": "2025-11-29"
     },
     {
-      "id": 14104,
-      "rating": 1881.0,
-      "initial": 1813.2,
-      "games_played": 289,
-      "firstname": "Nobuyasu",
-      "surname": "HACHIHATA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2026-03-22",
-      "log": [
-        {
-          "d": "2026-03-22",
-          "t": "20260322_98_Tatebayashi_open",
-          "o": 14159,
-          "s": 1.0,
-          "dr": 1.63
-        },
-        {
-          "d": "2026-03-22",
-          "t": "20260322_98_Tatebayashi_open",
-          "o": 5527,
-          "s": 0.0,
-          "dr": -5.35
-        },
-        {
-          "d": "2026-03-22",
-          "t": "20260322_98_Tatebayashi_open",
-          "o": 5519,
-          "s": 1.0,
-          "dr": 11.53
-        },
-        {
-          "d": "2026-03-22",
-          "t": "20260322_98_Tatebayashi_open",
-          "o": 15508,
-          "s": 0.0,
-          "dr": -4.91
-        },
-        {
-          "d": "2026-03-22",
-          "t": "20260322_98_Tatebayashi_open",
-          "o": 15949,
-          "s": 0.0,
-          "dr": -5.88
-        },
-        {
-          "d": "2026-03-22",
-          "t": "20260322_98_Tatebayashi_open",
-          "o": 12654,
-          "s": 1.0,
-          "dr": 8.14
-        }
-      ]
-    },
-    {
       "id": 440899,
       "rating": 1880.9,
       "initial": 1809.2,
@@ -32290,7 +32235,7 @@
           "t": "20260322_98_Tatebayashi_open",
           "o": 14104,
           "s": 0.0,
-          "dr": -11.53
+          "dr": -11.54
         },
         {
           "d": "2026-03-22",
@@ -32354,6 +32299,61 @@
           "o": 16482,
           "s": 0.0,
           "dr": -10.46
+        }
+      ]
+    },
+    {
+      "id": 14104,
+      "rating": 1880.9,
+      "initial": 1813.2,
+      "games_played": 289,
+      "firstname": "Nobuyasu",
+      "surname": "HACHIHATA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2026-03-22",
+      "log": [
+        {
+          "d": "2026-03-22",
+          "t": "20260322_98_Tatebayashi_open",
+          "o": 14159,
+          "s": 1.0,
+          "dr": 1.63
+        },
+        {
+          "d": "2026-03-22",
+          "t": "20260322_98_Tatebayashi_open",
+          "o": 5527,
+          "s": 0.0,
+          "dr": -5.35
+        },
+        {
+          "d": "2026-03-22",
+          "t": "20260322_98_Tatebayashi_open",
+          "o": 5519,
+          "s": 1.0,
+          "dr": 11.54
+        },
+        {
+          "d": "2026-03-22",
+          "t": "20260322_98_Tatebayashi_open",
+          "o": 15508,
+          "s": 0.0,
+          "dr": -4.91
+        },
+        {
+          "d": "2026-03-22",
+          "t": "20260322_98_Tatebayashi_open",
+          "o": 15949,
+          "s": 0.0,
+          "dr": -5.88
+        },
+        {
+          "d": "2026-03-22",
+          "t": "20260322_98_Tatebayashi_open",
+          "o": 12654,
+          "s": 1.0,
+          "dr": 8.14
         }
       ]
     },
@@ -35761,7 +35761,7 @@
     },
     {
       "id": 12151,
-      "rating": 1859.6,
+      "rating": 1859.5,
       "initial": 1755.1,
       "games_played": 215,
       "firstname": "Taya",
@@ -38984,7 +38984,7 @@
           "t": "20260314_46_Meijin_students",
           "o": 14235,
           "s": 0.0,
-          "dr": -9.81
+          "dr": -9.82
         },
         {
           "d": "2026-03-14",
@@ -49367,17 +49367,6 @@
       "last_played": "2025-12-06"
     },
     {
-      "id": 16181,
-      "rating": 1800.7,
-      "initial": 1800.7,
-      "games_played": 7,
-      "firstname": "Torataro",
-      "surname": "KANAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-10-20"
-    },
-    {
       "id": 15245,
       "rating": 1800.6,
       "initial": 1822.9,
@@ -49497,54 +49486,6 @@
       "country": "ITA",
       "provisional": true,
       "last_played": "2025-03-15"
-    },
-    {
-      "id": 16593,
-      "rating": 1800.0,
-      "initial": 1800.0,
-      "games_played": 5,
-      "firstname": "Hiroki",
-      "surname": "SATO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2026-03-07",
-      "log": [
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16113,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 14898,
-          "s": 0.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16115,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16452,
-          "s": 1.0,
-          "dr": 0.0
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16157,
-          "s": 1.0,
-          "dr": 0.0
-        }
-      ]
     },
     {
       "id": 40315,
@@ -51104,6 +51045,17 @@
       "last_played": "2023-12-17"
     },
     {
+      "id": 16181,
+      "rating": 1795.6,
+      "initial": 1795.6,
+      "games_played": 7,
+      "firstname": "Torataro",
+      "surname": "KANAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-10-20"
+    },
+    {
       "id": 15879,
       "rating": 1795.5,
       "initial": 1795.5,
@@ -52228,7 +52180,7 @@
           "t": "20260322_98_Tatebayashi_open",
           "o": 14104,
           "s": 0.0,
-          "dr": -16.28
+          "dr": -16.29
         }
       ]
     },
@@ -52523,6 +52475,17 @@
       ]
     },
     {
+      "id": 15754,
+      "rating": 1790.3,
+      "initial": 1790.3,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 16444,
       "rating": 1790.2,
       "initial": 1790.2,
@@ -52543,17 +52506,6 @@
       "country": "POL",
       "provisional": true,
       "last_played": "2025-06-28"
-    },
-    {
-      "id": 15754,
-      "rating": 1790.2,
-      "initial": 1790.2,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
     },
     {
       "id": 16611,
@@ -56382,6 +56334,54 @@
       "last_played": "2025-06-28"
     },
     {
+      "id": 16593,
+      "rating": 1777.0,
+      "initial": 1777.0,
+      "games_played": 5,
+      "firstname": "Hiroki",
+      "surname": "SATO",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2026-03-07",
+      "log": [
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16113,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 14898,
+          "s": 0.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16115,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16452,
+          "s": 1.0,
+          "dr": 0.0
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16157,
+          "s": 1.0,
+          "dr": 0.0
+        }
+      ]
+    },
+    {
       "id": 420084,
       "rating": 1776.9,
       "initial": 1776.9,
@@ -59306,7 +59306,7 @@
           "t": "20260322_4_Tsukuba_open",
           "o": 15584,
           "s": 0.0,
-          "dr": -10.71
+          "dr": -10.72
         },
         {
           "d": "2026-03-22",
@@ -65722,47 +65722,6 @@
       "last_played": "2024-07-27"
     },
     {
-      "id": 16452,
-      "rating": 1741.7,
-      "initial": 1817.4,
-      "games_played": 14,
-      "firstname": "Yasuyo",
-      "surname": "SATO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2026-03-07",
-      "log": [
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16115,
-          "s": 0.0,
-          "dr": -22.53
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16157,
-          "s": 1.0,
-          "dr": 7.14
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16593,
-          "s": 0.0,
-          "dr": -19.18
-        },
-        {
-          "d": "2026-03-07",
-          "t": "20260307_15_Fukushima_challenge_cup",
-          "o": 16113,
-          "s": 0.0,
-          "dr": -24.79
-        }
-      ]
-    },
-    {
       "id": 440554,
       "rating": 1741.7,
       "initial": 1741.7,
@@ -66040,6 +65999,47 @@
       "country": "HKG",
       "provisional": false,
       "last_played": "2025-04-27"
+    },
+    {
+      "id": 16452,
+      "rating": 1740.5,
+      "initial": 1817.4,
+      "games_played": 14,
+      "firstname": "Yasuyo",
+      "surname": "SATO",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2026-03-07",
+      "log": [
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16115,
+          "s": 0.0,
+          "dr": -22.53
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16157,
+          "s": 1.0,
+          "dr": 7.14
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16593,
+          "s": 0.0,
+          "dr": -20.5
+        },
+        {
+          "d": "2026-03-07",
+          "t": "20260307_15_Fukushima_challenge_cup",
+          "o": 16113,
+          "s": 0.0,
+          "dr": -24.71
+        }
+      ]
     },
     {
       "id": 130076,
@@ -81587,7 +81587,7 @@
           "t": "20260329_134_Nagareyama_B",
           "o": 16359,
           "s": 1.0,
-          "dr": 6.48
+          "dr": 6.49
         },
         {
           "d": "2026-03-29",
@@ -85522,7 +85522,7 @@
     },
     {
       "id": 16157,
-      "rating": 1518.7,
+      "rating": 1518.3,
       "initial": 1635.2,
       "games_played": 32,
       "firstname": "Koichi",
@@ -85557,7 +85557,7 @@
           "t": "20260307_15_Fukushima_challenge_cup",
           "o": 16593,
           "s": 0.0,
-          "dr": -3.36
+          "dr": -3.75
         }
       ]
     },
@@ -85728,7 +85728,7 @@
           "t": "20260329_134_Nagareyama_B",
           "o": 11174,
           "s": 0.0,
-          "dr": -6.48
+          "dr": -6.49
         },
         {
           "d": "2026-03-29",

@@ -12449,7 +12449,7 @@
           "t": "20251019_51_All_Japan_North_Kanto_prelim",
           "o": 14495,
           "s": 1.0,
-          "dr": 8.16
+          "dr": 8.17
         }
       ]
     },
@@ -13705,7 +13705,7 @@
           "t": "20251012_34_Kansai_championship_A",
           "o": 10222,
           "s": 0.0,
-          "dr": -14.93
+          "dr": -14.94
         },
         {
           "d": "2025-10-12",
@@ -17541,7 +17541,7 @@
           "t": "20251019_51_All_Japan_North_Kanto_prelim",
           "o": 5591,
           "s": 0.0,
-          "dr": -8.16
+          "dr": -8.17
         }
       ]
     },
@@ -20536,7 +20536,7 @@
     },
     {
       "id": 7002,
-      "rating": 1915.7,
+      "rating": 1915.6,
       "initial": 1903.3,
       "games_played": 561,
       "firstname": "Yoichi",
@@ -23976,17 +23976,6 @@
       "last_played": "2023-04-13"
     },
     {
-      "id": 14104,
-      "rating": 1883.8,
-      "initial": 1813.2,
-      "games_played": 271,
-      "firstname": "Nobuyasu",
-      "surname": "HACHIHATA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2025-09-28"
-    },
-    {
       "id": 15824,
       "rating": 1883.8,
       "initial": 1898.8,
@@ -24007,6 +23996,17 @@
       "country": "ARG",
       "provisional": true,
       "last_played": "2023-07-16"
+    },
+    {
+      "id": 14104,
+      "rating": 1883.7,
+      "initial": 1813.2,
+      "games_played": 271,
+      "firstname": "Nobuyasu",
+      "surname": "HACHIHATA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2025-09-28"
     },
     {
       "id": 440051,
@@ -28451,7 +28451,7 @@
           "t": "20251012_34_Kansai_championship_A",
           "o": 5526,
           "s": 1.0,
-          "dr": 14.93
+          "dr": 14.94
         },
         {
           "d": "2025-10-12",
@@ -37157,17 +37157,6 @@
       "last_played": "2025-02-22"
     },
     {
-      "id": 16181,
-      "rating": 1800.7,
-      "initial": 1800.7,
-      "games_played": 7,
-      "firstname": "Torataro",
-      "surname": "KANAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-10-20"
-    },
-    {
       "id": 40428,
       "rating": 1800.5,
       "initial": 1800.5,
@@ -38025,6 +38014,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2023-12-17"
+    },
+    {
+      "id": 16181,
+      "rating": 1795.6,
+      "initial": 1795.6,
+      "games_played": 7,
+      "firstname": "Torataro",
+      "surname": "KANAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-10-20"
     },
     {
       "id": 40253,
@@ -39221,6 +39221,17 @@
       "last_played": "2023-06-17"
     },
     {
+      "id": 15754,
+      "rating": 1790.3,
+      "initial": 1790.3,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 16444,
       "rating": 1790.2,
       "initial": 1790.2,
@@ -39241,17 +39252,6 @@
       "country": "POL",
       "provisional": true,
       "last_played": "2025-06-28"
-    },
-    {
-      "id": 15754,
-      "rating": 1790.2,
-      "initial": 1790.2,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
     },
     {
       "id": 440523,
@@ -52857,7 +52857,7 @@
     },
     {
       "id": 13987,
-      "rating": 1720.9,
+      "rating": 1720.8,
       "initial": 1663.4,
       "games_played": 324,
       "firstname": "Fujio",

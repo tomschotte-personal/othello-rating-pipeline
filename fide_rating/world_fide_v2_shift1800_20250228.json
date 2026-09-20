@@ -11695,7 +11695,7 @@
           "t": "20250211_17_Ibaraki_expert_games",
           "o": 14104,
           "s": 1.0,
-          "dr": 6.62
+          "dr": 6.61
         },
         {
           "d": "2025-02-11",
@@ -20700,8 +20700,19 @@
       ]
     },
     {
+      "id": 280065,
+      "rating": 1878.8,
+      "initial": 1847.1,
+      "games_played": 19,
+      "firstname": "Ricardo",
+      "surname": "FURNO",
+      "country": "ARG",
+      "provisional": true,
+      "last_played": "2024-11-02"
+    },
+    {
       "id": 6987,
-      "rating": 1878.9,
+      "rating": 1878.8,
       "initial": 1752.5,
       "games_played": 636,
       "firstname": "Tsutomu",
@@ -20743,7 +20754,7 @@
           "t": "20250211_17_Ibaraki_expert_games",
           "o": 13987,
           "s": 1.0,
-          "dr": 5.56
+          "dr": 5.55
         },
         {
           "d": "2025-02-11",
@@ -20753,17 +20764,6 @@
           "dr": -2.35
         }
       ]
-    },
-    {
-      "id": 280065,
-      "rating": 1878.8,
-      "initial": 1847.1,
-      "games_played": 19,
-      "firstname": "Ricardo",
-      "surname": "FURNO",
-      "country": "ARG",
-      "provisional": true,
-      "last_played": "2024-11-02"
     },
     {
       "id": 290042,
@@ -22750,61 +22750,6 @@
       "last_played": "2024-09-22"
     },
     {
-      "id": 14104,
-      "rating": 1863.7,
-      "initial": 1813.2,
-      "games_played": 240,
-      "firstname": "Nobuyasu",
-      "surname": "HACHIHATA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2025-02-11",
-      "log": [
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 655,
-          "s": 0.0,
-          "dr": -2.27
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 15675,
-          "s": 0.0,
-          "dr": -6.62
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 16185,
-          "s": 1.0,
-          "dr": 4.47
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 6986,
-          "s": 0.0,
-          "dr": -3.99
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 16185,
-          "s": 1.0,
-          "dr": 4.26
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 12612,
-          "s": 1.0,
-          "dr": 9.65
-        }
-      ]
-    },
-    {
       "id": 440533,
       "rating": 1863.7,
       "initial": 1929.2,
@@ -22825,6 +22770,61 @@
       "country": "HKG",
       "provisional": false,
       "last_played": "2023-11-26"
+    },
+    {
+      "id": 14104,
+      "rating": 1863.6,
+      "initial": 1813.2,
+      "games_played": 240,
+      "firstname": "Nobuyasu",
+      "surname": "HACHIHATA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2025-02-11",
+      "log": [
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 655,
+          "s": 0.0,
+          "dr": -2.27
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 15675,
+          "s": 0.0,
+          "dr": -6.61
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 16185,
+          "s": 1.0,
+          "dr": 4.47
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 6986,
+          "s": 0.0,
+          "dr": -3.99
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 16185,
+          "s": 1.0,
+          "dr": 4.27
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 12612,
+          "s": 1.0,
+          "dr": 9.65
+        }
+      ]
     },
     {
       "id": 15959,
@@ -27480,7 +27480,7 @@
           "t": "20250211_17_Ibaraki_expert_games",
           "o": 13987,
           "s": 1.0,
-          "dr": 6.6
+          "dr": 6.59
         },
         {
           "d": "2025-02-11",
@@ -33189,17 +33189,6 @@
       ]
     },
     {
-      "id": 16181,
-      "rating": 1800.7,
-      "initial": 1800.7,
-      "games_played": 7,
-      "firstname": "Torataro",
-      "surname": "KANAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-10-20"
-    },
-    {
       "id": 440542,
       "rating": 1800.5,
       "initial": 1800.5,
@@ -33849,6 +33838,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2024-06-15"
+    },
+    {
+      "id": 16181,
+      "rating": 1795.6,
+      "initial": 1795.6,
+      "games_played": 7,
+      "firstname": "Torataro",
+      "surname": "KANAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-10-20"
     },
     {
       "id": 40253,
@@ -34779,7 +34779,7 @@
           "t": "20250216_121_Nagareyama_B",
           "o": 16124,
           "s": 1.0,
-          "dr": 17.65
+          "dr": 17.66
         }
       ]
     },
@@ -34983,6 +34983,17 @@
       "last_played": "2023-06-17"
     },
     {
+      "id": 15754,
+      "rating": 1790.3,
+      "initial": 1790.3,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -35003,17 +35014,6 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30"
-    },
-    {
-      "id": 15754,
-      "rating": 1790.2,
-      "initial": 1790.2,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
     },
     {
       "id": 440523,
@@ -49149,7 +49149,7 @@
           "t": "20250216_121_Nagareyama_B",
           "o": 15875,
           "s": 0.0,
-          "dr": -17.65
+          "dr": -17.66
         }
       ]
     },
@@ -52093,61 +52093,6 @@
       "last_played": "2022-05-28"
     },
     {
-      "id": 13987,
-      "rating": 1694.5,
-      "initial": 1663.4,
-      "games_played": 318,
-      "firstname": "Fujio",
-      "surname": "SUZUKI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2025-02-11",
-      "log": [
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 16185,
-          "s": 1.0,
-          "dr": 7.96
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 655,
-          "s": 0.0,
-          "dr": -1.04
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 6986,
-          "s": 0.0,
-          "dr": -1.93
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 6987,
-          "s": 0.0,
-          "dr": -5.56
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 15801,
-          "s": 0.0,
-          "dr": -6.6
-        },
-        {
-          "d": "2025-02-11",
-          "t": "20250211_17_Ibaraki_expert_games",
-          "o": 15675,
-          "s": 0.0,
-          "dr": -3.1
-        }
-      ]
-    },
-    {
       "id": 6929,
       "rating": 1694.5,
       "initial": 1814.6,
@@ -52179,6 +52124,61 @@
       "country": "TWN",
       "provisional": true,
       "last_played": "2024-06-01"
+    },
+    {
+      "id": 13987,
+      "rating": 1694.3,
+      "initial": 1663.4,
+      "games_played": 318,
+      "firstname": "Fujio",
+      "surname": "SUZUKI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2025-02-11",
+      "log": [
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 16185,
+          "s": 1.0,
+          "dr": 7.97
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 655,
+          "s": 0.0,
+          "dr": -1.04
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 6986,
+          "s": 0.0,
+          "dr": -1.93
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 6987,
+          "s": 0.0,
+          "dr": -5.55
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 15801,
+          "s": 0.0,
+          "dr": -6.59
+        },
+        {
+          "d": "2025-02-11",
+          "t": "20250211_17_Ibaraki_expert_games",
+          "o": 15675,
+          "s": 0.0,
+          "dr": -3.1
+        }
+      ]
     },
     {
       "id": 4090,

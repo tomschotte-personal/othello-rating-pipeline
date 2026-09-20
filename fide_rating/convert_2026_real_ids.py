@@ -155,6 +155,15 @@ kanji_map['鹿島 虹花'] = (16061, 'KASHIMA', 'nijika')  # roster spells 鹿�
 kanji_map['ゴー アンソニー'] = (250005, 'GOH', 'jun jie anthony')  # katakana full form
 kanji_map['Anthony'] = (250005, 'GOH', 'jun jie anthony')          # bare form (Tatebayashi)
 kanji_map['西村俊範'] = (17004, 'NISHIMURA', 'toshinori')  # double-registered; 17195 retired
+# Lazard's 20260817 roster carries the SAME corruption we fixed in July in
+# the old xlsx: 大高巴樹->15194 (phantom id) + ghost row 大騠巴樹->15404
+# 'daikoku'. Otaka Tomoki is and has always been 15404. Lazard must fix his
+# source; this override protects every conversion regardless.
+kanji_map['大高巴樹'] = (15404, 'OTAKA', 'tomoki')
+kanji_map['大高 巴樹'] = (15404, 'OTAKA', 'tomoki')
+kanji_map['大髙巴樹'] = (15404, 'OTAKA', 'tomoki')
+kanji_map['大髙 巴樹'] = (15404, 'OTAKA', 'tomoki')
+
 
 VARIANTS = {'髙':'高','澤':'沢','邊':'辺','邉':'辺','齋':'斎','齊':'斉','﨑':'崎','條':'条','嶋':'島'}
 def clean_name(s):

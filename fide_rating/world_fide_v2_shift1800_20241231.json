@@ -1694,7 +1694,7 @@
           "t": "20241208_228_Nagareyama_open",
           "o": 14235,
           "s": 1.0,
-          "dr": 4.72
+          "dr": 4.71
         },
         {
           "d": "2024-12-08",
@@ -3454,7 +3454,7 @@
           "t": "20241222_286_Kawagoe_ranking_games",
           "o": 14235,
           "s": 1.0,
-          "dr": 6.77
+          "dr": 6.76
         }
       ]
     },
@@ -8256,7 +8256,7 @@
           "t": "20241201_37_Kawasaki_open",
           "o": 15723,
           "s": 1.0,
-          "dr": 6.89
+          "dr": 6.9
         },
         {
           "d": "2024-12-01",
@@ -8277,7 +8277,7 @@
           "t": "20241208_228_Nagareyama_open",
           "o": 15042,
           "s": 0.0,
-          "dr": -4.72
+          "dr": -4.71
         },
         {
           "d": "2024-12-08",
@@ -8291,7 +8291,7 @@
           "t": "20241208_228_Nagareyama_open",
           "o": 13882,
           "s": 1.0,
-          "dr": 1.93
+          "dr": 1.94
         },
         {
           "d": "2024-12-08",
@@ -8354,7 +8354,7 @@
           "t": "20241222_286_Kawagoe_ranking_games",
           "o": 5603,
           "s": 0.0,
-          "dr": -6.77
+          "dr": -6.76
         }
       ]
     },
@@ -18519,7 +18519,7 @@
           "t": "20241201_37_Kawasaki_open",
           "o": 14235,
           "s": 0.0,
-          "dr": -6.89
+          "dr": -6.9
         },
         {
           "d": "2024-12-01",
@@ -21581,17 +21581,6 @@
       "last_played": "2024-01-27"
     },
     {
-      "id": 14104,
-      "rating": 1858.2,
-      "initial": 1813.2,
-      "games_played": 234,
-      "firstname": "Nobuyasu",
-      "surname": "HACHIHATA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-11-23"
-    },
-    {
       "id": 290347,
       "rating": 1858.1,
       "initial": 1858.1,
@@ -21601,6 +21590,17 @@
       "country": "BRA",
       "provisional": true,
       "last_played": "2024-11-26"
+    },
+    {
+      "id": 14104,
+      "rating": 1858.1,
+      "initial": 1813.2,
+      "games_played": 234,
+      "firstname": "Nobuyasu",
+      "surname": "HACHIHATA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-11-23"
     },
     {
       "id": 440587,
@@ -29418,17 +29418,6 @@
       "last_played": "2024-08-10"
     },
     {
-      "id": 16181,
-      "rating": 1800.7,
-      "initial": 1800.7,
-      "games_played": 7,
-      "firstname": "Torataro",
-      "surname": "KANAZAWA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-10-20"
-    },
-    {
       "id": 440542,
       "rating": 1800.5,
       "initial": 1800.5,
@@ -30158,6 +30147,17 @@
       "last_played": "2024-06-15"
     },
     {
+      "id": 16181,
+      "rating": 1795.6,
+      "initial": 1795.6,
+      "games_played": 7,
+      "firstname": "Torataro",
+      "surname": "KANAZAWA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-10-20"
+    },
+    {
       "id": 15879,
       "rating": 1795.5,
       "initial": 1795.5,
@@ -30833,6 +30833,17 @@
       "last_played": "2023-06-17"
     },
     {
+      "id": 15754,
+      "rating": 1790.3,
+      "initial": 1790.3,
+      "games_played": 5,
+      "firstname": "Seiko",
+      "surname": "TANAKA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 60062,
       "rating": 1790.2,
       "initial": 1795.3,
@@ -30853,17 +30864,6 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30"
-    },
-    {
-      "id": 15754,
-      "rating": 1790.2,
-      "initial": 1790.2,
-      "games_played": 5,
-      "firstname": "Seiko",
-      "surname": "TANAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-10-22"
     },
     {
       "id": 440523,
@@ -44090,7 +44090,7 @@
     },
     {
       "id": 13987,
-      "rating": 1704.7,
+      "rating": 1704.6,
       "initial": 1663.4,
       "games_played": 312,
       "firstname": "Fujio",
@@ -49349,7 +49349,7 @@
           "t": "20241208_228_Nagareyama_open",
           "o": 14235,
           "s": 0.0,
-          "dr": -1.93
+          "dr": -1.94
         },
         {
           "d": "2024-12-08",
