@@ -121,6 +121,16 @@ TARGETS = [
     (70208, '2026-09-13', '17_Fukushima_challenge_cup'),
     (70212, '2026-09-13', '52_All_Japan_Ibaraki_prelim'),
     (70270, '2026-09-20', '52_All_Japan_Hyogo_prelim'),
+    # late September (verified 2026-09-27)
+    (70355, '2026-09-21', '139_Nagareyama_B'),
+    (70427, '2026-09-21', '52_All_Japan_Chushikoku_prelim'),
+    (70375, '2026-09-22', '101_Tatebayashi_open'),
+    (70537, '2026-09-23', '22_Saitama_open'),
+    (70475, '2026-09-26', '29_Fukuroi_open'),
+    (70481, '2026-09-26', '52_All_Japan_Tokyo_prelim_1'),
+    (70489, '2026-09-26', '52_All_Japan_Kinki_prelim'),
+    (70535, '2026-09-27', '52_All_Japan_Tohoku_prelim'),
+    (70542, '2026-09-27', '52_All_Japan_Hokuriku_prelim'),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===
@@ -207,13 +217,15 @@ def real_player(s):
         return False
     if re.search(r'初出場|初参加|回目|不戦|前回|小学|権利|\?', s):
         return False
-    if re.fullmatch(r'\d+石|[０-９0-9]+級|[一二三四五六七八九十]*段', s):
+    if re.fullmatch(r'\d+石|[０-９0-9]+級|[初一二三四五六七八九十]*段', s):
+        return False
+    if re.search(r'進出|辞退', s):      # bracket annotations ('advances', 'declined')
         return False
     if s in PREFECTURES:
         return False
     # concatenated-surname artifacts from misaligned columns (e.g. 長谷武斎藤):
     # a multi-char surname immediately followed by more kanji without a space
-    if ' ' not in s and re.match(r'^(長谷武|長谷川|瀬々倉|伊勢田|小木曽)[一-鿿]', s):
+    if ' ' not in s and re.match(r'^(長谷武|長谷川|瀬々倉|伊勢田|小木曽|鏡原翔|鏡原佳)[一-鿿]', s):
         return False
     return bool(re.search(r'[一-鿿ぁ-ヿ]', s)) or bool(re.fullmatch(r'[A-Za-z_ ]{4,}', s))
 
