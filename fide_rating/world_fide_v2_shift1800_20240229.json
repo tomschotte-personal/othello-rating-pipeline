@@ -15097,7 +15097,7 @@
     },
     {
       "id": 15741,
-      "rating": 1908.9,
+      "rating": 1908.8,
       "initial": 1810.2,
       "games_played": 30,
       "firstname": "Takumi",
@@ -15111,35 +15111,35 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 15682,
           "s": 1.0,
-          "dr": 10.49
+          "dr": 10.5
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 13221,
           "s": 0.0,
-          "dr": -25.59
+          "dr": -25.58
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 10107,
           "s": 1.0,
-          "dr": 10.55
+          "dr": 10.56
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 15790,
           "s": 0.0,
-          "dr": -24.35
+          "dr": -24.34
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 16049,
           "s": 1.0,
-          "dr": 10.46
+          "dr": 10.47
         }
       ]
     },
@@ -20288,7 +20288,7 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 15741,
           "s": 1.0,
-          "dr": 24.35
+          "dr": 24.34
         },
         {
           "d": "2024-02-11",
@@ -27225,17 +27225,6 @@
       "last_played": "2023-04-29"
     },
     {
-      "id": 15648,
-      "rating": 1781.3,
-      "initial": 1823.3,
-      "games_played": 14,
-      "firstname": "Yuuma",
-      "surname": "SATO",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-01-14"
-    },
-    {
       "id": 15672,
       "rating": 1781.2,
       "initial": 1781.2,
@@ -27278,6 +27267,17 @@
       "country": "CHN",
       "provisional": true,
       "last_played": "2023-12-16"
+    },
+    {
+      "id": 15648,
+      "rating": 1781.0,
+      "initial": 1823.3,
+      "games_played": 14,
+      "firstname": "Yuuma",
+      "surname": "SATO",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-01-14"
     },
     {
       "id": 10086,
@@ -29040,7 +29040,7 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 15714,
           "s": 1.0,
-          "dr": 6.42
+          "dr": 6.41
         },
         {
           "d": "2024-02-11",
@@ -34696,8 +34696,30 @@
       "last_played": "2023-10-01"
     },
     {
+      "id": 15681,
+      "rating": 1707.6,
+      "initial": 1707.6,
+      "games_played": 6,
+      "firstname": "Tomoko",
+      "surname": "ADACHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-08-06"
+    },
+    {
+      "id": 15769,
+      "rating": 1707.6,
+      "initial": 1707.6,
+      "games_played": 5,
+      "firstname": "Mon",
+      "surname": "WAKAMATSU",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-05-03"
+    },
+    {
       "id": 16049,
-      "rating": 1707.7,
+      "rating": 1707.6,
       "initial": 1637.9,
       "games_played": 20,
       "firstname": "Noshin",
@@ -34739,31 +34761,9 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 15741,
           "s": 0.0,
-          "dr": -10.46
+          "dr": -10.47
         }
       ]
-    },
-    {
-      "id": 15681,
-      "rating": 1707.6,
-      "initial": 1707.6,
-      "games_played": 6,
-      "firstname": "Tomoko",
-      "surname": "ADACHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-08-06"
-    },
-    {
-      "id": 15769,
-      "rating": 1707.6,
-      "initial": 1707.6,
-      "games_played": 5,
-      "firstname": "Mon",
-      "surname": "WAKAMATSU",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-05-03"
     },
     {
       "id": 90100,
@@ -37983,7 +37983,7 @@
     },
     {
       "id": 15649,
-      "rating": 1654.2,
+      "rating": 1654.1,
       "initial": 1686.5,
       "games_played": 33,
       "firstname": "Nobuhiro",
@@ -38591,7 +38591,7 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 15714,
           "s": 1.0,
-          "dr": 9.42
+          "dr": 9.41
         },
         {
           "d": "2024-02-11",
@@ -38659,17 +38659,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2023-05-07"
-    },
-    {
-      "id": 15920,
-      "rating": 1631.3,
-      "initial": 1631.3,
-      "games_played": 5,
-      "firstname": "Shoyu",
-      "surname": "TOKUMASU",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-01-14"
     },
     {
       "id": 440664,
@@ -38825,6 +38814,17 @@
       "country": "USA",
       "provisional": true,
       "last_played": "2023-08-12"
+    },
+    {
+      "id": 15920,
+      "rating": 1624.9,
+      "initial": 1624.9,
+      "games_played": 5,
+      "firstname": "Shoyu",
+      "surname": "TOKUMASU",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-01-14"
     },
     {
       "id": 15592,
@@ -39016,8 +39016,19 @@
       "last_played": "2023-12-17"
     },
     {
+      "id": 15655,
+      "rating": 1618.3,
+      "initial": 1618.3,
+      "games_played": 5,
+      "firstname": "Rinka",
+      "surname": "NAIYA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-09-24"
+    },
+    {
       "id": 15714,
-      "rating": 1618.4,
+      "rating": 1618.1,
       "initial": 1713.9,
       "games_played": 28,
       "firstname": "Hinata",
@@ -39031,48 +39042,37 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 13704,
           "s": 0.0,
-          "dr": -12.84
+          "dr": -12.82
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 15776,
           "s": 0.0,
-          "dr": -18.85
+          "dr": -18.83
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 15997,
           "s": 0.0,
-          "dr": -11.99
+          "dr": -11.97
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 15980,
           "s": 1.0,
-          "dr": 22.98
+          "dr": 23.0
         },
         {
           "d": "2024-02-11",
           "t": "20240211_109_Nagareyama_B",
           "o": 14962,
           "s": 1.0,
-          "dr": 16.74
+          "dr": 16.76
         }
       ]
-    },
-    {
-      "id": 15655,
-      "rating": 1618.3,
-      "initial": 1618.3,
-      "games_played": 5,
-      "firstname": "Rinka",
-      "surname": "NAIYA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-09-24"
     },
     {
       "id": 40048,
@@ -39693,7 +39693,7 @@
     },
     {
       "id": 15610,
-      "rating": 1589.6,
+      "rating": 1589.3,
       "initial": 1686.6,
       "games_played": 38,
       "firstname": "Eito",
@@ -40335,7 +40335,7 @@
           "t": "20240211_109_Nagareyama_B",
           "o": 15714,
           "s": 0.0,
-          "dr": -16.74
+          "dr": -16.76
         }
       ]
     },
@@ -40463,7 +40463,7 @@
     },
     {
       "id": 15758,
-      "rating": 1515.2,
+      "rating": 1514.9,
       "initial": 1654.6,
       "games_played": 27,
       "firstname": "Mutsuki",
