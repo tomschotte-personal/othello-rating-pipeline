@@ -1,0 +1,22 @@
+%%Tournament: Perth Invitational
+%%Country: AU
+%%Date: 22/09/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 260035, CHAN, Ivan, AUS, 2, 112, 1615
+%_%   4147, GUIBAL, Fab, AUS, 0, 16, 1184
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/666
+
+%Round: 1
+
+ 260035 (54)>(10)   4147  B
+
+%Round: 2
+
+  4147 (06)<(58) 260035  B

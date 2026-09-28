@@ -1,0 +1,77 @@
+name: Reconcile finished FTD events
+
+# Safety net behind the live sweeps: GitHub throttles the 15-min cron badly
+# (2026-09-27: 6 runs instead of ~96, and the citta di Roma events started
+# AND finished between two runs), and sub-4-player events never arm a live
+# window (Perth Invitational). This job probes recent FTD ids for finished,
+# unconverted events and converts them, no matter how they were missed.
+
+on:
+  schedule:
+    # Twice daily: after the Asian/Oceanian evening and the European evening.
+    - cron: '23 10 * * *'
+    - cron: '23 21 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: live-refresh   # never run concurrently with the live workflow
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pipeline
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Playwright
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Reconcile finished events
+        id: rec
+        run: |
+          cd fide_rating
+          python ftd_reconcile.py | tee /tmp/reconcile.log
+          N=$(grep -E '^CONVERTED ' /tmp/reconcile.log | awk '{print $2}')
+          echo "converted=${N:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: Commit recovered results
+        run: |
+          git config --global user.name "othello-rating-bot"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Reconcile: recovered ${{ steps.rec.outputs.converted }} finished FTD event(s)" && git pull --rebase origin main && git push origin main)
+
+      # Republish the live page only when something was actually recovered.
+      - name: Clone pages repo
+        if: steps.rec.outputs.converted != '0'
+        env:
+          DEPLOY_KEY: ${{ secrets.PAGES_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$DEPLOY_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git clone git@github.com:tomschotte-personal/worldothellorating.git fide_rating/pages
+
+      - name: Recompute and publish
+        if: steps.rec.outputs.converted != '0'
+        run: |
+          cd fide_rating
+          python shift1800_live.py || true
+          python shift1800_html.py || true
+          (
+            cd pages
+            git add index.html
+            git diff --cached --quiet || (git commit -m "Reconcile: publish recovered events $(date -u '+%Y-%m-%d %H:%M UTC')" && git push origin main)
+          )

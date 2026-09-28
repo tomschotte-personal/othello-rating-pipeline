@@ -51,8 +51,11 @@ def fetch_tournament_full(tournament_id):
             ws.on('framereceived', lambda payload: msgs.append(payload) if isinstance(payload, str) and '42[' in payload else None)
         page.on('websocket', on_ws)
 
-        page.goto(f'https://flipthedisc.com/live/{tournament_id}', wait_until='networkidle', timeout=30000)
-        page.wait_for_timeout(3000)
+        # 'networkidle' flakes on FTD (persistent socket keeps the network
+        # busy -> 30s timeout on ~half the fetches); DOM-ready + a fixed wait
+        # is reliable.
+        page.goto(f'https://flipthedisc.com/live/{tournament_id}', wait_until='domcontentloaded', timeout=60000)
+        page.wait_for_timeout(6000)
         # Each tab click triggers a different socket event:
         #   Players -> otb-players-list (with wof_ids!)
         #   Info    -> otb-info (current_round, name, ...)

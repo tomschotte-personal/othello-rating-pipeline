@@ -1,0 +1,43 @@
+%%Tournament: citta di Roma 1
+%%Country: IT
+%%Date: 27/09/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   3111, SCOGNAMIGLIO, Paolo, ITA, 3.5, 177, 2079
+%_%    148, ORTIZ, George, AUS, 3, 169, 1769
+%_%   2818, DI COLA, Severino, ITA, 2.5, 143, 1591
+%_%   2841, VECCHI, Elisabetta, ITA, 2, 126, 1689
+%_%   3062, CAVIOLA, Leonardo, ITA, 1, 95, 1558
+%_%  40256, SANTORI, Monaldo, ITA, 0, 35, 544
+%_%  40222, MARIOTTI, Andrea, ITA, 0, 23, 371
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/665
+
+%Round: 1
+
+ 40256 (14)<(50)   2841  B
+  3062 (23)<(41)    148  B
+  2818 (32)=(32)   3111  B
+
+%Round: 2
+
+   148 (60)>(04)  40222  B
+  2841 (31)<(33)   2818  B
+  3111 (43)>(21)   3062  B
+
+%Round: 3
+
+  3111 (38)>(26)    148  B
+  2818 (56)>(08)  40256  B
+ 40222 (19)<(45)   2841  B
+
+%Round: 4
+
+   148 (42)>(22)   2818  B
+ 40222 (00)<(64)   3111  B
+ 40256 (13)<(51)   3062  B

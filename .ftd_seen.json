@@ -1,0 +1,108 @@
+{
+ "654": {
+  "status": "finished",
+  "name": "Broadway Online Cup 2026-S3-3",
+  "end_date": "2026-09-05T13:37:50.000Z",
+  "players": 28
+ },
+ "658": {
+  "status": "open",
+  "name": "Greve",
+  "end_date": "",
+  "players": 1
+ },
+ "659": {
+  "status": "finished",
+  "name": "China National Championship 2026 Warm-up",
+  "end_date": "2026-09-11T10:54:38.000Z",
+  "players": 6
+ },
+ "662": {
+  "status": "finished",
+  "name": "Changsha Handicap",
+  "end_date": "2026-09-13T08:18:00.000Z",
+  "players": 6
+ },
+ "663": {
+  "status": "open",
+  "name": "Australian Nationals",
+  "end_date": "",
+  "players": 12
+ },
+ "664": {
+  "status": "error",
+  "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://flipth"
+ },
+ "667": {
+  "status": "open",
+  "name": "Hong Kong Othello Championship 2026",
+  "end_date": "",
+  "players": 0
+ },
+ "668": {
+  "status": "finished",
+  "name": " xOT Moscow",
+  "end_date": "2026-09-27T14:18:33.000Z",
+  "players": 6
+ },
+ "670": {
+  "status": "missing"
+ },
+ "671": {
+  "status": "missing"
+ },
+ "672": {
+  "status": "missing"
+ },
+ "673": {
+  "status": "missing"
+ },
+ "674": {
+  "status": "missing"
+ },
+ "675": {
+  "status": "missing"
+ },
+ "676": {
+  "status": "missing"
+ },
+ "677": {
+  "status": "missing"
+ },
+ "678": {
+  "status": "missing"
+ },
+ "679": {
+  "status": "missing"
+ },
+ "680": {
+  "status": "missing"
+ },
+ "681": {
+  "status": "missing"
+ },
+ "682": {
+  "status": "missing"
+ },
+ "683": {
+  "status": "missing"
+ },
+ "684": {
+  "status": "missing"
+ },
+ "685": {
+  "status": "missing"
+ },
+ "686": {
+  "status": "missing"
+ },
+ "687": {
+  "status": "missing"
+ },
+ "688": {
+  "status": "missing"
+ },
+ "689": {
+  "status": "missing"
+ }
+}
