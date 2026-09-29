@@ -30,8 +30,10 @@
   "players": 12
  },
  "664": {
-  "status": "error",
-  "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://flipth"
+  "status": "open",
+  "name": "Torneo Pavia 2026",
+  "end_date": "",
+  "players": 13
  },
  "667": {
   "status": "open",
