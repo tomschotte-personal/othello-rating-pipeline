@@ -1,0 +1,39 @@
+%%Tournament: Kfar Saba masters
+%%Country: Israel
+%%Date: 19/09/2026
+%%Sender: WOF site import
+
+%%Creator: wof_page_to_elo.py
+%_% See: https://www.worldothello.org/ratings/tournament?tournamentID=7830
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_%     880, SHIFMAN, Leonid, ISR, 0, 0
+%_%   15404, OTAKA, Tomoki, JPN, 0, 0
+%_%  200010, SHIFMAN, Micky, ISR, 0, 0
+%_%  200404, DVIVON, Konstantin, ISR, 0, 0
+
+%Round: 1
+
+ 200010 (33)>(31)     880  B
+ 200404 (26)<(38)   15404  B
+
+%Round: 2
+
+    880 (17)<(47)   15404  B
+ 200010 (23)<(41)  200404  B
+
+%Round: 3
+
+ 200404 (27)<(37)     880  B
+  15404 (47)>(17)  200010  B
+
+%Round: 4
+
+ 200010 (19)<(45)   15404  B
+    880 (32)=(32)  200404  B
+
+%Round: 5
+
+  15404 (49)>(15)  200404  B
+    880 (31)<(33)  200010  B

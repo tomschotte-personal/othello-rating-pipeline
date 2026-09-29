@@ -1,0 +1,157 @@
+%%Tournament: Greve Cup
+%%Country: Denmark
+%%Date: 13/06/2026
+%%Sender: WOF site import
+
+%%Creator: wof_page_to_elo.py
+%_% See: https://www.worldothello.org/ratings/tournament?tournamentID=7801
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count
+
+%_%      94, NIELSEN, Erik, DNK, 0, 0
+%_%    1000, MICHAELSEN, Peter, DNK, 0, 0
+%_%    1019, AAGAARD-HANSEN, Jens, DNK, 0, 0
+%_%    1025, BADSTED, Palle, DNK, 0, 0
+%_%    1048, JENSEN, Kim Dennis, DNK, 0, 0
+%_%    1314, JOHANSEN, Niklas, SWE, 0, 0
+%_%    1358, RIGNELL, Daniel, SWE, 0, 0
+%_%    1981, STOKKE, Solrun, DNK, 0, 0
+%_%  220062, SOEGAARD SCHROEDER, Sif, DNK, 0, 0
+%_%  220073, WEIRUM, Emilia Marie, DNK, 0, 0
+%_%  220082, MEZEI, Zoe, DNK, 0, 0
+%_%  220083, SKOVRUP, Caroline, DNK, 0, 0
+%_%  220084, SKOVRUP, Julie, DNK, 0, 0
+
+%Round: 1
+
+   1314 (38)>(26)    1019  B
+   1025 (43)>(21)    1048  B
+
+%Round: 2
+
+   1314 (43)>(21)    1025  B
+   1048 (38)>(26)    1019  B
+ 220073 (36)>(28)    1981  B
+   1000 (42)>(22)  220062  B
+
+%Round: 3
+
+ 220073 (50)>(14)    1000  B
+   1981 (45)>(19)  220062  B
+   1048 (33)>(31)    1358  B
+
+%Round: 4
+
+   1358 (39)>(25)    1019  B
+
+%Round: 5
+
+   1000 (42)>(22)    1358  B
+
+%Round: 6
+
+ 220073 (34)>(30)    1358  B
+
+%Round: 7
+
+   1358 (55)>(09)  220084  B
+   1048 (32)=(32)    1019  B
+
+%Round: 8
+
+   1048 (49)>(15)    1000  B
+
+%Round: 9
+
+   1048 (51)>(13)  220073  B
+
+%Round: 10
+
+   1048 (64)>(00)  220084  B
+   1019 (41)>(23)    1000  B
+
+%Round: 11
+
+   1019 (44)>(20)  220073  B
+
+%Round: 12
+
+   1019 (50)>(14)  220084  B
+   1000 (32)=(32)  220073  B
+
+%Round: 13
+
+   1000 (46)>(18)  220084  B
+
+%Round: 14
+
+ 220073 (55)>(09)  220084  B
+   1314 (54)>(10)    1025  B
+
+%Round: 15
+
+   1314 (51)>(13)      94  B
+
+%Round: 16
+
+   1314 (52)>(12)    1981  B
+
+%Round: 17
+
+   1314 (41)>(23)  220062  B
+
+%Round: 18
+
+   1314 (56)>(08)  220084  B
+
+%Round: 19
+
+   1314 (64)>(00)  220083  B
+   1025 (46)>(18)      94  B
+
+%Round: 20
+
+   1025 (29)<(35)    1981  B
+
+%Round: 21
+
+   1025 (63)>(01)  220062  B
+
+%Round: 22
+
+   1025 (64)>(00)  220084  B
+
+%Round: 23
+
+   1025 (64)>(00)  220083  B
+     94 (34)>(30)    1981  B
+
+%Round: 24
+
+     94 (59)>(05)  220062  B
+
+%Round: 25
+
+     94 (52)>(12)  220084  B
+
+%Round: 26
+
+     94 (38)>(26)  220083  B
+ 220062 (38)>(26)    1981  B
+
+%Round: 27
+
+   1981 (58)>(06)  220084  B
+
+%Round: 28
+
+   1981 (43)>(21)  220083  B
+ 220062 (59)>(05)  220084  B
+
+%Round: 29
+
+ 220062 (51)>(13)  220083  B
+
+%Round: 30
+
+ 220082 (35)>(29)  220083  B
