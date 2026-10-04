@@ -35,23 +35,55 @@ LOOKAHEAD = 10
 SKIP_NAME = re.compile(r'xot|handicap|friendly', re.IGNORECASE)
 
 
-def converted_ids():
-    ids = set()
+def converted_map():
+    """tid -> .ELO path for every FTD-converted result file."""
+    out = {}
     results = os.path.join(ROOT, 'wof_results')
     for dirpath, _dirs, files in os.walk(results):
         for f in files:
             if not f.upper().endswith('.ELO'):
                 continue
+            path = os.path.join(dirpath, f)
             try:
-                with open(os.path.join(dirpath, f), encoding='utf-8',
-                          errors='replace') as fh:
+                with open(path, encoding='utf-8', errors='replace') as fh:
                     head = fh.read(2000)
             except OSError:
                 continue
             m = re.search(r'flipthedisc\.com/live/(\d+)', head)
             if m:
-                ids.add(int(m.group(1)))
-    return ids
+                out[int(m.group(1))] = path
+    return out
+
+
+def elo_game_count(path):
+    n = 0
+    for line in open(path, encoding='utf-8', errors='replace'):
+        if re.match(r'\s*\d+\s+\(\d+\)[<>=]\(\d+\)', line):
+            n += 1
+    return n
+
+
+def cache_result_count(tid):
+    """Decided games in the fetch cache (rounds deduped, byes excluded)."""
+    try:
+        with open(os.path.join(ROOT, f'tournament_{tid}.json'),
+                  encoding='utf-8') as f:
+            d = json.load(f)
+    except (OSError, ValueError):
+        return None
+    seen, n = set(), 0
+    for r in d.get('rounds') or []:
+        cur = r.get('currentRound')
+        if cur in seen:
+            continue
+        seen.add(cur)
+        for pr in r.get('pairing') or []:
+            if (isinstance(pr, list) and pr and isinstance(pr[0], dict)
+                    and pr[0].get('result') is not None
+                    and len(pr) > 1 and isinstance(pr[1], dict)
+                    and pr[1].get('id')):
+                n += 1
+    return n
 
 
 def load_seen():
@@ -92,7 +124,8 @@ def probe(tid):
 
 
 def main():
-    done = converted_ids()
+    done_map = converted_map()
+    done = set(done_map)
     seen = load_seen()
     # The window anchors on REAL events only: probed-but-missing ids must not
     # push it forward, or unfinished business falls out of the lookback
@@ -151,6 +184,30 @@ def main():
         try:
             out = convert(tid, synthetic_ids=True)
             print(f'    -> {out}')
+            n_converted += 1
+        except Exception as e:
+            print(f'    FAILED: {e}')
+
+    # Completeness check on already-converted events in the window: a
+    # wrap-up fetch can capture only part of the rounds (2026-10-04: the HK
+    # Championship converted 15 of 39 games and Kelvin Yang vanished; five
+    # older events had the same hole). If the cache holds more decided games
+    # than the .ELO file, refetch (merge) and reconvert.
+    for tid in sorted(done & set(candidates)):
+        nc = cache_result_count(tid)
+        if nc is None:
+            continue
+        ne = elo_game_count(done_map[tid])
+        if nc <= ne:
+            continue
+        print(f'  {tid}: INCOMPLETE conversion ({ne} games in .ELO, '
+              f'{nc} decided in cache) - refetching...')
+        try:
+            from shift1800_live import fetch_or_load_tournament
+            fetch_or_load_tournament(tid, force_refresh=True)
+            from ftd_to_elo import convert
+            out = convert(tid, synthetic_ids=True)
+            print(f'    -> reconverted: {out}')
             n_converted += 1
         except Exception as e:
             print(f'    FAILED: {e}')

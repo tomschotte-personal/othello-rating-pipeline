@@ -7,20 +7,22 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
+%_%    880, SHIFMAN, Leonid, ISR, 4, 238, 1825
 %_% 200404, DVIVON, Konstantin, ISR, 4, 231, 1873
-%_%    880, SHIFMAN, Leonid, ISR, 3, 183, 1825
+%_% 200010, SHIFMAN, Micky, ISR, 3, 203, 1726
 %_% 200040, LAUFER, Shachar, ISR, 3, 169, 1757
-%_% 200010, SHIFMAN, Micky, ISR, 2, 146, 1726
+%_% 200044, DVIVON, Alex, ISR, 3, 141, 1006
 %_%    885, SHIFMAN, Ilya, ISR, 2, 119, 1800
-%_% 200044, DVIVON, Alex, ISR, 2, 96, 1006
 %_% 200402, TROYANOVSKIY, Aria, ISR, 1, 85, 1073
 %_% 200041, MALKI, Ariel, ISR, 0, 59, 735
+%_% 9920766, WIENER, Izak, ISR, 0, 35, 0
 %_%__________
 %_% Generated from FTD via ftd_to_elo.py
 %_% See: https://flipthedisc.com/live/591
 
 %Round: 1
 
+ 9920766 (07)<(57) 200010  B
  200041 (19)<(45) 200402  B
    880 (31)<(33) 200040  B
  200044 (02)<(62) 200404  B
@@ -36,6 +38,7 @@
 
    885 (47)>(17) 200010  B
  200402 (08)<(56) 200404  B
+   880 (55)>(09) 9920766  B
  200040 (53)>(11) 200044  B
 
 %Round: 4
@@ -43,6 +46,7 @@
  200404 (48)>(16)    885  B
  200010 (28)<(36) 200040  B
  200041 (00)<(64)    880  B
+ 9920766 (19)<(45) 200044  B
 
 %Round: 5
 

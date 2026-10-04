@@ -7,12 +7,14 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
-%_%  40151, BARSOTTI, Paolo, ITA, 4, 203, 1515
-%_%  40349, TURATO, Leonardo, ITA, 2, 147, 1197
-%_%  40163, PISTOLESI, Sandra, ITA, 2, 113, 1495
-%_%  40158, LANDINI, Carlo, ITA, 2, 89, 1266
-%_%  40179, GAZZETTI, Edoardo, ITA, 0.5, 77, 915
-%_%  40160, LUZI, Ilaria, ITA, 0.5, 75, 919
+%_%   3023, LAI, Fabrizio, ITA, 5, 250, 1580
+%_%  40151, BARSOTTI, Paolo, ITA, 4, 220, 1515
+%_%  40158, LANDINI, Carlo, ITA, 4, 206, 1266
+%_%  40349, TURATO, Leonardo, ITA, 3, 226, 1197
+%_%  40163, PISTOLESI, Sandra, ITA, 3, 167, 1495
+%_%  40347, SALVO, Alberto, ITA, 2, 123, 499
+%_%  40179, GAZZETTI, Edoardo, ITA, 0.5, 118, 915
+%_%  40160, LUZI, Ilaria, ITA, 0.5, 98, 919
 %_%  40186, RIBALDONE, Marco, ITA, 0, 0, 1572
 %_%  40199, GIAMBASTIANI, Adolfo, ITA, 0, 0, 1422
 %_%   2884, VECCHI, Maria Serena, ITA, 0, 0, 1409
@@ -23,29 +25,43 @@
 
 %Round: 1
 
+ 40347 (14)<(50)  40158  B
  40179 (29)<(35)  40163  B
  40151 (49)>(15)  40160  B
+  3023 (38)>(26)  40349  B
 
 %Round: 2
 
+ 40158 (39)>(25)   3023  B
  40163 (47)>(17)  40151  B
  40160 (32)=(32)  40179  B
+ 40349 (53)>(11)  40347  B
 
 %Round: 3
 
  40163 (31)<(33)  40158  B
  40151 (33)>(31)  40349  B
+ 40179 (16)<(48)   3023  B
+ 40347 (41)>(23)  40160  B
 
 %Round: 4
 
  40158 (14)<(50)  40151  B
+  3023 (56)>(08)  40163  B
  40160 (06)<(58)  40349  B
+ 40179 (25)<(39)  40347  B
 
 %Round: 5
 
+ 40151 (17)<(47)   3023  B
  40160 (22)<(42)  40158  B
+ 40347 (18)<(46)  40163  B
  40349 (48)>(16)  40179  B
 
 %Round: 3-4
 
  40349 (10)<(54)  40151  B
+
+%Round: F
+
+  3023 (36)>(28)  40158  B
