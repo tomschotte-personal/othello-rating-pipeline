@@ -1,0 +1,47 @@
+%%Tournament: Hong Kong Othello Championship 2026
+%%Country: HK
+%%Date: 04/10/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   4139, LI, Chun Wan, HKG, 3, 132, 2206
+%_% 170002, LAM, Maverick, HKG, 2.5, 145, 2217
+%_%   4076, TSOI, Chun Yip, HKG, 2, 139, 2100
+%_%  60244, SIT, Pius, HKG, 2, 113, 1780
+%_% 9921358, CHENG, Vincent, HKG, 2, 107, 0
+%_%  60247, HO, Yin Chau, HKG, 1.5, 109, 1813
+%_% 9921357, LUI, Vincent, HKG, 1, 86, 0
+%_% 170037, MO, Hau Lai, HKG, 1, 80, 1552
+%_% 170095, FAN, Ho Tung, HKG, 0, 31, 0
+%_% 9921356, YU, Ho Lam, HKG, 0, 18, 0
+%_% 170003, YANG, Kelvin, HKG, 0, 0, 2236
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/667
+
+%Round: 1
+
+  4076 (49)>(15)  60244  B
+ 170037 (38)>(26) 9921357  B
+ 60247 (21)<(43)   4139  B
+ 170095 (00)<(64) 170002  B
+ 9921356 (15)<(49) 9921358  B
+
+%Round: 2
+
+ 170002 (49)>(15) 170037  B
+  4139 (38)>(26)   4076  B
+ 9921358 (45)>(19) 170095  B
+ 9921357 (08)<(56)  60247  B
+ 60244 (61)>(03) 9921356  B
+
+%Round: 3
+
+  4139 (51)>(13) 9921358  B
+ 60247 (32)=(32) 170002  B
+ 170037 (27)<(37)  60244  B
+ 9921356 (00)<(64)   4076  B
+ 170095 (12)<(52) 9921357  B
