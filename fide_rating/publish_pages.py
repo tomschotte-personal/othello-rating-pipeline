@@ -56,13 +56,47 @@ def main():
     print('Syncing pages to origin (hard reset, derived content only)...')
     run('git fetch origin', PAGES)
     run('git reset --hard origin/main', PAGES)
+
+    # CI finalizes commit .ELO files ONLY into the pipeline repo. A local
+    # publish regenerates index.html from LOCAL data, so without this sync it
+    # silently reverts every event CI tracked since the last manual sync
+    # (2026-10-04: Australian Nationals + HK Championship vanished under a
+    # champions-page publish). Always pull CI results in first.
+    import glob as _glob, shutil as _shutil
+    print('Syncing CI results from pipeline repo...')
+    run('git pull -q origin main', PIPELINE, check=False)
+    synced = 0
+    for yr_dir in _glob.glob(os.path.join(PIPELINE, 'wof_results', '*')):
+        loc_dir = os.path.join(os.path.dirname(BASE), 'wof_results',
+                               os.path.basename(yr_dir))
+        if not os.path.isdir(loc_dir):
+            continue
+        for f in os.listdir(yr_dir):
+            if f.upper().endswith('.ELO') and not os.path.exists(os.path.join(loc_dir, f)):
+                _shutil.copy2(os.path.join(yr_dir, f), os.path.join(loc_dir, f))
+                print('  synced from CI:', f)
+                synced += 1
+    if synced:
+        print(f'  {synced} new file(s) - recomputing live overlay...')
+        run(f'python "{os.path.join(BASE, "shift1800_live.py")}"', BASE)
+
     print('Regenerating page...')
     run(f'python "{os.path.join(BASE, "shift1800_html.py")}"', BASE)
-    status = run('git status --porcelain index.html', PAGES, check=False)
+    # Static extra pages kept next to this script; copied in AFTER the hard
+    # reset so they survive it. Canonical source: fide_rating/champions.html
+    # (regenerated from NC.xlsx by the National Champions rebuild flow).
+    import shutil
+    for extra in ['champions.html']:
+        src = os.path.join(BASE, extra)
+        if os.path.exists(src):
+            shutil.copy2(src, os.path.join(PAGES, extra))
+    status = run('git status --porcelain index.html champions.html', PAGES, check=False)
     if not status:
         print('No content change - nothing to publish.')
         return
     run('git add index.html', PAGES)
+    if os.path.exists(os.path.join(PAGES, 'champions.html')):
+        run('git add champions.html', PAGES)
     run(f'git commit -m "{msg}"', PAGES)
     run('git push origin main', PAGES)
     print('Published.')

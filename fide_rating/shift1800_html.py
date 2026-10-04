@@ -252,12 +252,24 @@ for i, s in enumerate(snapshots):
 # as monthly snapshots, but each player's log is PRE-AGGREGATED by tournament:
 # the hover only needs net delta + W/D/L per tournament, not every game.
 def slim_yearly(p):
+    # Same joueurs fallback as slim(): without it the yearly view shows
+    # '? ? ???' for every roster-only player (2026-10-04: 175 such rows).
+    sn = (p.get('surname') or '').strip()
+    fn = (p.get('firstname') or '').strip()
+    co = (p.get('country') or '').strip()
+    if sn in ('', '?') or co in ('', '?', '???'):
+        aux = joueurs.get(p['id'], {})
+        if sn in ('', '?') and (aux.get('surname') or '').strip():
+            sn = aux['surname'].strip()
+            fn = (aux.get('firstname') or '').strip() or fn
+        if co in ('', '?', '???') and (aux.get('country') or '').strip():
+            co = aux['country'].strip()
     out = {
         'id': p['id'],
         'r': round(p['rating'], 1),
-        'fn': p['firstname'],
-        'sn': p['surname'].title(),
-        'c': p['country'],
+        'fn': fn,
+        'sn': (sn or '?').title(),
+        'c': co or '???',
         'g': p['games_played'],
         'pr': 1 if p['provisional'] else 0,
         'l': p['last_played'],
@@ -340,9 +352,21 @@ if live_meta is not None or os.path.exists(live_path):
         for pid, lp in _live_by_id.items():
             if pid in _seen or lp.get('rating') is None or not lp.get('log'):
                 continue
+            # Same joueurs fallback as slim(): live-overlay newcomers are
+            # often roster-only players the live compute stored as '?'.
+            _sn = (lp.get('surname') or '').strip()
+            _fn = (lp.get('firstname') or '').strip()
+            _co = (lp.get('country') or '').strip()
+            if _sn in ('', '?') or _co in ('', '?', '???'):
+                _aux = joueurs.get(pid, {})
+                if _sn in ('', '?') and (_aux.get('surname') or '').strip():
+                    _sn = _aux['surname'].strip()
+                    _fn = (_aux.get('firstname') or '').strip() or _fn
+                if _co in ('', '?', '???') and (_aux.get('country') or '').strip():
+                    _co = _aux['country'].strip()
             sp = {'id': pid, 'r': round(lp['rating'], 1),
-                  'fn': lp.get('firstname', ''), 'sn': (lp.get('surname') or '').title(),
-                  'c': lp.get('country', ''), 'g': lp.get('games_played', 0),
+                  'fn': _fn, 'sn': (_sn or '?').title(),
+                  'c': _co or '???', 'g': lp.get('games_played', 0),
                   'pr': 1 if lp.get('provisional') else 0,
                   'l': lp.get('last_played', '')}
             _merge_live_log(sp, lp)
