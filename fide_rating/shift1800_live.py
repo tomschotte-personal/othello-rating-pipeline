@@ -602,6 +602,17 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
     ec_games = all_ec_games
     print(f'\nTotal live games to apply: {len(ec_games)}')
 
+    # Any participant absent from the baseline is a new player, however the
+    # games arrived (live FTD window OR post-baseline .ELO overlay). Without
+    # this, overlay newcomers got no bootstrap AND no K-updates (<9 career
+    # games in strict mode) and sat frozen at exactly 1800 (2026-10-04:
+    # Australian Nationals / HK Ch debutants).
+    _baseline_ids = set(state['ratings'])
+    for _g in ec_games:
+        for _pid in (_g['a'], _g['b']):
+            if _pid not in _baseline_ids:
+                all_new_player_ids.add(_pid)
+
     print('\nApplying to baseline...')
     ratings, gp, ev2400, lp, log = apply_live(
         state, ec_games,
