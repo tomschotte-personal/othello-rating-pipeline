@@ -21,6 +21,7 @@ concurrency:
 
 permissions:
   contents: write   # commit enriched tournament_*.json caches + .ftd_auto back
+  actions: write    # self-dispatch relay (see 'Relay' step)
 
 jobs:
   refresh:
@@ -184,11 +185,14 @@ jobs:
           git add -A
           git diff --cached --quiet || (git commit -m "Finalize window: permanent .ELO for FTDs ${{ steps.gate.outputs.ids }}" && git pull --rebase origin main && git push origin main)
 
-      # GitHub's cron scheduler is unreliable (observed gaps of 1-2h on a 15-min
-      # cron). Each run therefore LOOPS for ~65 minutes, refreshing every ~6 min.
-      # Combined with the concurrency group (queued, not cancelled), even an
-      # hourly-throttled cron yields continuous coverage.
-      - name: Refresh loop (~65 min, every ~6 min)
+      # GitHub's cron scheduler is unreliable: gaps of 1-2h were normal, and on
+      # 2026-10-11 it ran ONCE in 7 hours (Singapore Open frozen after round 2).
+      # So a run with an armed window never relies on the cron again: it loops
+      # until the window ends (capped at 5h30 by the 6h job limit), and the
+      # Relay step below re-dispatches this workflow to continue/finalize.
+      # Manual dispatch with explicit ids (no window end) keeps the 65 min loop.
+      - name: Refresh loop (until window end, every ~6 min)
+        id: loop
         if: steps.gate.outputs.mode == 'live' || steps.sweep.outputs.found == 'true'
         working-directory: fide_rating
         run: |
@@ -203,12 +207,13 @@ jobs:
             UNTIL="${{ steps.gate.outputs.until }}"
           fi
           DEADLINE=$(( $(date +%s) + 65*60 ))
-          # Respect the window end mid-run: don't loop past it.
           if [ -n "$UNTIL" ]; then
             UNTIL_TS=$(date -u -d "$UNTIL" +%s 2>/dev/null || echo 0)
-            if [ "$UNTIL_TS" -gt 0 ] && [ "$UNTIL_TS" -lt "$DEADLINE" ]; then
-              DEADLINE=$UNTIL_TS
-              echo "Loop deadline capped at window end: $UNTIL UTC"
+            if [ "$UNTIL_TS" -gt 0 ]; then
+              CAP=$(( $(date +%s) + 330*60 ))
+              DEADLINE=$(( UNTIL_TS < CAP ? UNTIL_TS : CAP ))
+              echo "Loop runs to $(date -u -d @$DEADLINE '+%H:%M UTC') (window end $UNTIL UTC)"
+              echo "relay=true" >> "$GITHUB_OUTPUT"
             fi
           fi
           ITER=0
@@ -240,6 +245,16 @@ jobs:
             [ "$(date +%s)" -lt "$DEADLINE" ] && sleep 240
           done
           echo "Loop finished after $ITER iterations."
+
+      # Hand over to a fresh run: continues the loop if the window is still
+      # open, or finalizes promptly if it just closed. Finalize runs never
+      # take this step (loop skipped), so the chain always terminates.
+      # workflow_dispatch is the one event GITHUB_TOKEN may trigger.
+      - name: Relay to next run
+        if: always() && steps.loop.outputs.relay == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run live-refresh.yml -R "${{ github.repository }}" --ref main
 
       - name: Commit enriched FTD caches back
         if: steps.gate.outputs.mode == 'live' || steps.sweep.outputs.found == 'true'
