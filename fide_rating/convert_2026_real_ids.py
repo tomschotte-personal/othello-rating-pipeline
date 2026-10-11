@@ -131,6 +131,18 @@ TARGETS = [
     (70489, '2026-09-26', '52_All_Japan_Kinki_prelim'),
     (70535, '2026-09-27', '52_All_Japan_Tohoku_prelim'),
     (70542, '2026-09-27', '52_All_Japan_Hokuriku_prelim'),
+    # 2026-10-11 scan (incl. four 20-Sep articles the 27-Sep scan missed)
+    (70312, '2026-09-20', '68_Nagoya_open'),
+    (70319, '2026-09-20', '68_Nagoya_open_B'),
+    (70371, '2026-09-20', '52_All_Japan_Kyushu_prelim'),
+    (70487, '2026-09-20', '18_Tokyo_open'),
+    (70651, '2026-09-21', '299_Kawagoe_ranking_games'),
+    (70699, '2026-10-04', '52_All_Japan_Tokyo_prelim_2'),
+    (70701, '2026-10-04', '52_All_Japan_North_Kanto_prelim'),
+    (70711, '2026-10-04', '3_Kanagawa_endurance'),
+    (70805, '2026-10-10', '35_Kansai_championship_S'),
+    (70808, '2026-10-10', '35_Kansai_championship_B'),
+    (70813, '2026-10-10', '184_Shinagawa_seaside_open'),
 ]
 
 # === canonical kanji -> WOF map (same conventions as add_recent_otg) ===
@@ -173,6 +185,10 @@ kanji_map['大高巴樹'] = (15404, 'OTAKA', 'tomoki')
 kanji_map['大高 巴樹'] = (15404, 'OTAKA', 'tomoki')
 kanji_map['大髙巴樹'] = (15404, 'OTAKA', 'tomoki')
 kanji_map['大髙 巴樹'] = (15404, 'OTAKA', 'tomoki')
+# Foreign visitors entered in latin script keep their existing WOF ids.
+kanji_map['Rose Brian'] = (177, 'ROSE', 'brian')
+kanji_map['RoseBrian'] = (177, 'ROSE', 'brian')
+kanji_map['Brian Rose'] = (177, 'ROSE', 'brian')
 
 
 VARIANTS = {'髙':'高','澤':'沢','邊':'辺','邉':'辺','齋':'斎','齊':'斉','﨑':'崎','條':'条','嶋':'島'}

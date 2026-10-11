@@ -4186,7 +4186,7 @@
           "t": "20211003_Hong_Kong_open",
           "o": 4073,
           "s": 0.0,
-          "dr": -13.89
+          "dr": -13.88
         },
         {
           "d": "2021-10-03",
@@ -4998,7 +4998,7 @@
     },
     {
       "id": 5530,
-      "rating": 2188.4,
+      "rating": 2188.5,
       "initial": 1843.9,
       "games_played": 1242,
       "firstname": "Bintatsu",
@@ -6543,7 +6543,7 @@
     },
     {
       "id": 5504,
-      "rating": 2161.0,
+      "rating": 2161.1,
       "initial": 1817.7,
       "games_played": 392,
       "firstname": "Hisako",
@@ -7744,7 +7744,7 @@
           "t": "20211003_Hong_Kong_open",
           "o": 4850,
           "s": 1.0,
-          "dr": 13.89
+          "dr": 13.88
         },
         {
           "d": "2021-10-03",
@@ -9259,7 +9259,7 @@
           "t": "20210417_Pinggu_open",
           "o": 60049,
           "s": 1.0,
-          "dr": 8.97
+          "dr": 8.96
         },
         {
           "d": "2021-04-17",
@@ -14848,7 +14848,7 @@
     },
     {
       "id": 190120,
-      "rating": 1985.8,
+      "rating": 1985.9,
       "initial": 1787.3,
       "games_played": 117,
       "firstname": "Pharisorn",
@@ -15257,7 +15257,7 @@
     },
     {
       "id": 190128,
-      "rating": 1976.6,
+      "rating": 1976.7,
       "initial": 1685.0,
       "games_played": 143,
       "firstname": "Charinee",
@@ -17279,7 +17279,7 @@
     },
     {
       "id": 270024,
-      "rating": 1948.1,
+      "rating": 1948.2,
       "initial": 1834.1,
       "games_played": 126,
       "firstname": "Frederic",
@@ -18205,7 +18205,7 @@
     },
     {
       "id": 190029,
-      "rating": 1936.6,
+      "rating": 1936.8,
       "initial": 1809.5,
       "games_played": 207,
       "firstname": "Anuwat",
@@ -19993,19 +19993,8 @@
       "last_played": "2019-05-06"
     },
     {
-      "id": 14647,
-      "rating": 1915.4,
-      "initial": 1824.8,
-      "games_played": 30,
-      "firstname": "Shota",
-      "surname": "KAGAHARA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2019-12-28"
-    },
-    {
       "id": 2006,
-      "rating": 1915.3,
+      "rating": 1915.4,
       "initial": 1643.2,
       "games_played": 1413,
       "firstname": "Roy",
@@ -20078,6 +20067,17 @@
           "dr": -1.45
         }
       ]
+    },
+    {
+      "id": 14647,
+      "rating": 1915.4,
+      "initial": 1824.8,
+      "games_played": 30,
+      "firstname": "Shota",
+      "surname": "KAGAHARA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2019-12-28"
     },
     {
       "id": 391004,
@@ -22041,7 +22041,7 @@
     },
     {
       "id": 210192,
-      "rating": 1888.8,
+      "rating": 1888.9,
       "initial": 1807.0,
       "games_played": 92,
       "firstname": "Jakub",
@@ -23126,7 +23126,7 @@
     },
     {
       "id": 30037,
-      "rating": 1878.1,
+      "rating": 1878.2,
       "initial": 1874.2,
       "games_played": 90,
       "firstname": "Jungsoo",
@@ -24305,19 +24305,8 @@
       "last_played": "2019-04-28"
     },
     {
-      "id": 14201,
-      "rating": 1864.1,
-      "initial": 1737.6,
-      "games_played": 95,
-      "firstname": "Yuki",
-      "surname": "NAMAZU",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2019-10-09"
-    },
-    {
       "id": 260032,
-      "rating": 1864.1,
+      "rating": 1864.2,
       "initial": 1868.0,
       "games_played": 20,
       "firstname": "Dominic",
@@ -24362,6 +24351,17 @@
           "dr": -6.47
         }
       ]
+    },
+    {
+      "id": 14201,
+      "rating": 1864.1,
+      "initial": 1737.6,
+      "games_played": 95,
+      "firstname": "Yuki",
+      "surname": "NAMAZU",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2019-10-09"
     },
     {
       "id": 7129,
@@ -26549,6 +26549,17 @@
       "last_played": "2019-01-12"
     },
     {
+      "id": 190127,
+      "rating": 1843.7,
+      "initial": 1784.2,
+      "games_played": 70,
+      "firstname": "Chitwadee",
+      "surname": "SANGNATE",
+      "country": "THA",
+      "provisional": false,
+      "last_played": "2019-03-31"
+    },
+    {
       "id": 190186,
       "rating": 1843.7,
       "initial": 1817.0,
@@ -26591,17 +26602,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2020-01-18"
-    },
-    {
-      "id": 190127,
-      "rating": 1842.7,
-      "initial": 1784.2,
-      "games_played": 70,
-      "firstname": "Chitwadee",
-      "surname": "SANGNATE",
-      "country": "THA",
-      "provisional": false,
-      "last_played": "2019-03-31"
     },
     {
       "id": 60046,
@@ -30925,7 +30925,7 @@
     },
     {
       "id": 14720,
-      "rating": 1818.1,
+      "rating": 1818.2,
       "initial": 1836.1,
       "games_played": 69,
       "firstname": "Azune",
@@ -31052,7 +31052,7 @@
     },
     {
       "id": 190042,
-      "rating": 1817.1,
+      "rating": 1817.2,
       "initial": 1770.5,
       "games_played": 143,
       "firstname": "Chatcha",
@@ -33938,6 +33938,17 @@
       "last_played": "2020-01-25"
     },
     {
+      "id": 20038,
+      "rating": 1795.9,
+      "initial": 1769.0,
+      "games_played": 37,
+      "firstname": "Kevin",
+      "surname": "RUBY",
+      "country": "USA",
+      "provisional": false,
+      "last_played": "2020-04-07"
+    },
+    {
       "id": 290188,
       "rating": 1795.8,
       "initial": 1795.8,
@@ -33947,17 +33958,6 @@
       "country": "BRA",
       "provisional": true,
       "last_played": "2019-04-07"
-    },
-    {
-      "id": 20038,
-      "rating": 1795.8,
-      "initial": 1769.0,
-      "games_played": 37,
-      "firstname": "Kevin",
-      "surname": "RUBY",
-      "country": "USA",
-      "provisional": false,
-      "last_played": "2020-04-07"
     },
     {
       "id": 440311,
@@ -38232,6 +38232,17 @@
       "last_played": "2019-07-27"
     },
     {
+      "id": 190145,
+      "rating": 1770.3,
+      "initial": 1749.5,
+      "games_played": 91,
+      "firstname": "Kantapon",
+      "surname": "DECHJARERNSI",
+      "country": "THA",
+      "provisional": false,
+      "last_played": "2019-07-28"
+    },
+    {
       "id": 150408,
       "rating": 1770.3,
       "initial": 1770.3,
@@ -38303,17 +38314,6 @@
       "country": "SGP",
       "provisional": true,
       "last_played": "2019-07-20"
-    },
-    {
-      "id": 190145,
-      "rating": 1769.8,
-      "initial": 1749.5,
-      "games_played": 91,
-      "firstname": "Kantapon",
-      "surname": "DECHJARERNSI",
-      "country": "THA",
-      "provisional": false,
-      "last_played": "2019-07-28"
     },
     {
       "id": 440103,
@@ -43413,6 +43413,17 @@
       "last_played": "2019-11-03"
     },
     {
+      "id": 15433,
+      "rating": 1735.5,
+      "initial": 1735.5,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28"
+    },
+    {
       "id": 441006,
       "rating": 1735.4,
       "initial": 1735.4,
@@ -43422,17 +43433,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2020-01-18"
-    },
-    {
-      "id": 15433,
-      "rating": 1735.4,
-      "initial": 1735.4,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28"
     },
     {
       "id": 14922,

@@ -48,7 +48,7 @@ def fetch_article_text(url):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(url, wait_until='networkidle', timeout=30000)
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
         page.wait_for_timeout(800)
         text = page.inner_text('body')
         browser.close()
@@ -74,6 +74,7 @@ def parse_tournament(text):
     PLAYER_LINE_RE = re.compile(r'^\s*(\d+)\.\s*(\S+(?:\s+\S+)*?)\s+(\S+?)\s+((?:[○〇◯×✕●△]\s*[+-]?\s*\d+\s*)+)')
 
     entries = []  # list of (rank_int, full_name, abbr, scores_list, opp_abbrs_list)
+    raw_opp_tokens = []  # per entry: the unfiltered opponent-line tokens
     i = 0
     while i < len(lines):
         line = lines[i]
@@ -110,12 +111,49 @@ def parse_tournament(text):
         if not opp_abbrs:
             i += 1; continue
         entries.append((rank, full_name, abbr, scores, opp_abbrs))
+        raw_opp_tokens.append(tokens)
         i = j + 1 if j else i + 1
 
     # Build abbr → full_name map (from this tournament's standings)
     abbr_to_full = {}
     for rank, full_name, abbr, _, _ in entries:
         abbr_to_full[abbr] = full_name
+
+    # Narrow columns can glue adjacent opponent abbreviations into one token
+    # (68th Nagoya Open: '川喜田長谷武敬吾' = 川喜田 + 長谷武 + 敬吾), which
+    # used to surface as phantom new players. Now that every abbreviation in
+    # the tournament is known, split any token that is an exact run of them.
+    known = set(abbr_to_full) | {'不戦'}
+
+    def _segment(t):
+        best = {0: []}
+        for k in range(1, len(t) + 1):
+            for j in range(k):
+                if j in best and t[j:k] in known:
+                    cand = best[j] + [t[j:k]]
+                    if k not in best or len(cand) < len(best[k]):
+                        best[k] = cand
+        return best.get(len(t))
+
+    # Opponents are always tournament participants, so when the line holds
+    # exactly one known abbreviation per round, those ARE the opponents, in
+    # order. This also defeats trailing annotations (無差別進出 'advances',
+    # 前回3位 ...) that shift a last-N-tokens pick by one round.
+    for idx, (rank, full_name, abbr, scores, opp_abbrs) in enumerate(entries):
+        expanded = []
+        for t in raw_opp_tokens[idx]:
+            seg = None if (t in known or not plausible_abbr(t)) else _segment(t)
+            expanded.extend(seg if seg and len(seg) > 1 else [t])
+        known_only = [t for t in expanded if t in known]
+        if len(known_only) == len(scores):
+            fixed = known_only
+        else:
+            cand = [t for t in expanded if plausible_abbr(t)]
+            fixed = cand[-len(scores):] if len(cand) >= len(scores) else opp_abbrs
+            if sum(a in known for a in fixed) <= sum(a in known for a in opp_abbrs):
+                fixed = opp_abbrs
+        if fixed != opp_abbrs:
+            entries[idx] = (rank, full_name, abbr, scores, fixed)
 
     # Convert to games: for each entry, generate (round, p1, p2, result, disc_diff)
     # Skip byes (opponent abbrev == "不戦") — those are forfeits, not real games.

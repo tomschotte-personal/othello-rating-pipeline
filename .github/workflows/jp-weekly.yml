@@ -1,0 +1,63 @@
+name: Weekly JOA results check
+
+# Detects new rated Japanese tournament articles on othello.gr.jp and opens a
+# GitHub issue with a test-parse summary and ready-made TARGETS lines.
+# Detection only: name->WOF id mapping needs Lazard's roster (not publishable
+# in this public repo) and new-player romanization needs review, so the
+# conversion itself is done in a session (Japan/convert_2026_real_ids.py).
+
+on:
+  schedule:
+    # Monday 06:17 UTC = Monday afternoon in Japan, after weekend postings.
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+# Own group on purpose: sharing 'live-refresh' could cancel a pending live
+# relay run (GitHub keeps only one pending run per group).
+concurrency:
+  group: jp-weekly
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit .jp_seen.json
+  issues: write     # open the report issue
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Playwright
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Scan JOA listing
+        id: scan
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          python fide_rating/jp_weekly_check.py | tee /tmp/jp.log
+          N=$(grep -E '^RATED ' /tmp/jp.log | awk '{print $2}')
+          echo "rated=${N:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: Open report issue
+        if: steps.scan.outputs.rated != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create -R "${{ github.repository }}" \
+            --title "JOA: ${{ steps.scan.outputs.rated }} new rated Japanese event(s) - $(date -u +%Y-%m-%d)" \
+            --body-file jp_weekly_report.md
+
+      - name: Commit seen-state
+        run: |
+          git config user.name "othello-rating-bot"
+          git config user.email "actions@github.com"
+          git add .jp_seen.json
+          git diff --cached --quiet || (git commit -m "JOA weekly check: update seen articles" && git pull --rebase origin main && git push origin main)

@@ -9090,7 +9090,7 @@
     },
     {
       "id": 5530,
-      "rating": 2188.4,
+      "rating": 2188.5,
       "initial": 1843.9,
       "games_played": 1242,
       "firstname": "Bintatsu",
@@ -11067,7 +11067,7 @@
     },
     {
       "id": 5504,
-      "rating": 2161.0,
+      "rating": 2161.1,
       "initial": 1817.7,
       "games_played": 392,
       "firstname": "Hisako",
@@ -13903,7 +13903,7 @@
     },
     {
       "id": 190001,
-      "rating": 2125.2,
+      "rating": 2125.3,
       "initial": 2021.9,
       "games_played": 180,
       "firstname": "Piamrat",
@@ -26389,7 +26389,7 @@
     },
     {
       "id": 190120,
-      "rating": 1985.8,
+      "rating": 1985.9,
       "initial": 1787.3,
       "games_played": 117,
       "firstname": "Pharisorn",
@@ -27189,7 +27189,7 @@
     },
     {
       "id": 190128,
-      "rating": 1976.6,
+      "rating": 1976.7,
       "initial": 1685.0,
       "games_played": 143,
       "firstname": "Charinee",
@@ -30799,7 +30799,7 @@
     },
     {
       "id": 190002,
-      "rating": 1952.7,
+      "rating": 1952.8,
       "initial": 1892.5,
       "games_played": 153,
       "firstname": "Thammatorn",
@@ -31549,7 +31549,7 @@
     },
     {
       "id": 270024,
-      "rating": 1948.1,
+      "rating": 1948.2,
       "initial": 1834.1,
       "games_played": 126,
       "firstname": "Frederic",
@@ -32674,7 +32674,7 @@
     },
     {
       "id": 190029,
-      "rating": 1936.6,
+      "rating": 1936.8,
       "initial": 1809.5,
       "games_played": 207,
       "firstname": "Anuwat",
@@ -32685,7 +32685,7 @@
     },
     {
       "id": 190008,
-      "rating": 1936.2,
+      "rating": 1936.3,
       "initial": 1812.5,
       "games_played": 97,
       "firstname": "Tanaphat",
@@ -43515,7 +43515,7 @@
     },
     {
       "id": 30037,
-      "rating": 1878.1,
+      "rating": 1878.2,
       "initial": 1874.2,
       "games_played": 90,
       "firstname": "Jungsoo",
@@ -50190,6 +50190,17 @@
       "last_played": "2019-01-12"
     },
     {
+      "id": 190127,
+      "rating": 1843.7,
+      "initial": 1784.2,
+      "games_played": 70,
+      "firstname": "Chitwadee",
+      "surname": "SANGNATE",
+      "country": "THA",
+      "provisional": false,
+      "last_played": "2019-03-31"
+    },
+    {
       "id": 190186,
       "rating": 1843.7,
       "initial": 1817.0,
@@ -50373,17 +50384,6 @@
           "dr": 18.41
         }
       ]
-    },
-    {
-      "id": 190127,
-      "rating": 1842.7,
-      "initial": 1784.2,
-      "games_played": 70,
-      "firstname": "Chitwadee",
-      "surname": "SANGNATE",
-      "country": "THA",
-      "provisional": false,
-      "last_played": "2019-03-31"
     },
     {
       "id": 14303,
@@ -57491,6 +57491,17 @@
       "last_played": "2017-11-26"
     },
     {
+      "id": 190042,
+      "rating": 1817.2,
+      "initial": 1770.5,
+      "games_played": 143,
+      "firstname": "Chatcha",
+      "surname": "RATTHANADECHATHORN",
+      "country": "THA",
+      "provisional": false,
+      "last_played": "2019-07-28"
+    },
+    {
       "id": 15404,
       "rating": 1817.2,
       "initial": 1717.1,
@@ -57789,17 +57800,6 @@
           "dr": 7.56
         }
       ]
-    },
-    {
-      "id": 190042,
-      "rating": 1817.1,
-      "initial": 1770.5,
-      "games_played": 143,
-      "firstname": "Chatcha",
-      "surname": "RATTHANADECHATHORN",
-      "country": "THA",
-      "provisional": false,
-      "last_played": "2019-07-28"
     },
     {
       "id": 250204,
@@ -63663,6 +63663,47 @@
       "last_played": "2018-01-07"
     },
     {
+      "id": 20038,
+      "rating": 1795.9,
+      "initial": 1769.0,
+      "games_played": 37,
+      "firstname": "Kevin",
+      "surname": "RUBY",
+      "country": "USA",
+      "provisional": false,
+      "last_played": "2020-04-07",
+      "log": [
+        {
+          "d": "2020-04-07",
+          "t": "20200407_US_open",
+          "o": 20045,
+          "s": 1.0,
+          "dr": 8.56
+        },
+        {
+          "d": "2020-04-07",
+          "t": "20200407_US_open",
+          "o": 10919,
+          "s": 0.0,
+          "dr": -5.64
+        },
+        {
+          "d": "2020-04-07",
+          "t": "20200407_US_open",
+          "o": 4089,
+          "s": 0.0,
+          "dr": -3.4
+        },
+        {
+          "d": "2020-04-07",
+          "t": "20200407_US_open",
+          "o": 20046,
+          "s": 1.0,
+          "dr": 10.15
+        }
+      ]
+    },
+    {
       "id": 290188,
       "rating": 1795.8,
       "initial": 1795.8,
@@ -63718,47 +63759,6 @@
           "o": 440046,
           "s": 0.0,
           "dr": 0.0
-        }
-      ]
-    },
-    {
-      "id": 20038,
-      "rating": 1795.8,
-      "initial": 1769.0,
-      "games_played": 37,
-      "firstname": "Kevin",
-      "surname": "RUBY",
-      "country": "USA",
-      "provisional": false,
-      "last_played": "2020-04-07",
-      "log": [
-        {
-          "d": "2020-04-07",
-          "t": "20200407_US_open",
-          "o": 20045,
-          "s": 1.0,
-          "dr": 8.56
-        },
-        {
-          "d": "2020-04-07",
-          "t": "20200407_US_open",
-          "o": 10919,
-          "s": 0.0,
-          "dr": -5.64
-        },
-        {
-          "d": "2020-04-07",
-          "t": "20200407_US_open",
-          "o": 4089,
-          "s": 0.0,
-          "dr": -3.4
-        },
-        {
-          "d": "2020-04-07",
-          "t": "20200407_US_open",
-          "o": 20046,
-          "s": 1.0,
-          "dr": 10.15
         }
       ]
     },
@@ -64509,6 +64509,17 @@
       "last_played": "2019-03-31"
     },
     {
+      "id": 190183,
+      "rating": 1793.7,
+      "initial": 1804.1,
+      "games_played": 33,
+      "firstname": "Sombat",
+      "surname": "SAELEE",
+      "country": "THA",
+      "provisional": false,
+      "last_played": "2018-07-29"
+    },
+    {
       "id": 290409,
       "rating": 1793.7,
       "initial": 1793.7,
@@ -64529,17 +64540,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2019-09-01"
-    },
-    {
-      "id": 190183,
-      "rating": 1793.6,
-      "initial": 1804.1,
-      "games_played": 33,
-      "firstname": "Sombat",
-      "surname": "SAELEE",
-      "country": "THA",
-      "provisional": false,
-      "last_played": "2018-07-29"
     },
     {
       "id": 290300,
@@ -71261,6 +71261,17 @@
       "last_played": "2019-07-27"
     },
     {
+      "id": 190145,
+      "rating": 1770.3,
+      "initial": 1749.5,
+      "games_played": 91,
+      "firstname": "Kantapon",
+      "surname": "DECHJARERNSI",
+      "country": "THA",
+      "provisional": false,
+      "last_played": "2019-07-28"
+    },
+    {
       "id": 290377,
       "rating": 1770.1,
       "initial": 1770.1,
@@ -71292,17 +71303,6 @@
       "country": "SGP",
       "provisional": true,
       "last_played": "2019-07-20"
-    },
-    {
-      "id": 190145,
-      "rating": 1769.8,
-      "initial": 1749.5,
-      "games_played": 91,
-      "firstname": "Kantapon",
-      "surname": "DECHJARERNSI",
-      "country": "THA",
-      "provisional": false,
-      "last_played": "2019-07-28"
     },
     {
       "id": 440103,
@@ -82050,6 +82050,17 @@
       "last_played": "2019-11-03"
     },
     {
+      "id": 15433,
+      "rating": 1735.5,
+      "initial": 1735.5,
+      "games_played": 4,
+      "firstname": "Hayato",
+      "surname": "ICHIHIGASHI",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2019-12-28"
+    },
+    {
       "id": 441006,
       "rating": 1735.4,
       "initial": 1735.4,
@@ -82096,17 +82107,6 @@
           "dr": 0.0
         }
       ]
-    },
-    {
-      "id": 15433,
-      "rating": 1735.4,
-      "initial": 1735.4,
-      "games_played": 4,
-      "firstname": "Hayato",
-      "surname": "ICHIHIGASHI",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2019-12-28"
     },
     {
       "id": 14922,
@@ -84586,6 +84586,17 @@
       "last_played": "2019-08-11"
     },
     {
+      "id": 190187,
+      "rating": 1727.3,
+      "initial": 1724.4,
+      "games_played": 12,
+      "firstname": "Ekkarat",
+      "surname": "ITTHIKAIWAN",
+      "country": "THA",
+      "provisional": true,
+      "last_played": "2018-04-22"
+    },
+    {
       "id": 12468,
       "rating": 1727.3,
       "initial": 1698.4,
@@ -84595,17 +84606,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2018-01-06"
-    },
-    {
-      "id": 190187,
-      "rating": 1727.2,
-      "initial": 1724.4,
-      "games_played": 12,
-      "firstname": "Ekkarat",
-      "surname": "ITTHIKAIWAN",
-      "country": "THA",
-      "provisional": true,
-      "last_played": "2018-04-22"
     },
     {
       "id": 14844,
@@ -88856,7 +88856,7 @@
     },
     {
       "id": 190132,
-      "rating": 1709.0,
+      "rating": 1709.1,
       "initial": 1645.6,
       "games_played": 101,
       "firstname": "Kun",
@@ -94315,6 +94315,17 @@
       "last_played": "2019-04-20"
     },
     {
+      "id": 190188,
+      "rating": 1680.0,
+      "initial": 1679.0,
+      "games_played": 14,
+      "firstname": "Kiattichai",
+      "surname": "KANGWANKIATTICHAI",
+      "country": "THA",
+      "provisional": true,
+      "last_played": "2018-04-22"
+    },
+    {
       "id": 190206,
       "rating": 1680.0,
       "initial": 1680.0,
@@ -94324,17 +94335,6 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2019-07-28"
-    },
-    {
-      "id": 190188,
-      "rating": 1679.9,
-      "initial": 1679.0,
-      "games_played": 14,
-      "firstname": "Kiattichai",
-      "surname": "KANGWANKIATTICHAI",
-      "country": "THA",
-      "provisional": true,
-      "last_played": "2018-04-22"
     },
     {
       "id": 14127,
@@ -94549,7 +94549,7 @@
           "t": "20200125_145_Chiyarenshi_open",
           "o": 13266,
           "s": 0.0,
-          "dr": -13.21
+          "dr": -13.2
         },
         {
           "d": "2020-01-25",
@@ -103466,7 +103466,7 @@
           "t": "20200125_145_Chiyarenshi_open",
           "o": 14751,
           "s": 1.0,
-          "dr": 13.21
+          "dr": 13.2
         },
         {
           "d": "2020-01-25",
