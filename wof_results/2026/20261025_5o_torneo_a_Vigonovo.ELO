@@ -7,16 +7,56 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
-%_%  40229, FOSCHI, Tommaso, ITA, 0, 0, 2000
-%_%  40002, ILACQUA, Gianluca, ITA, 0, 0, 1834
-%_%   2813, SIGNORINI, Claudio, ITA, 0, 0, 1737
-%_%  41003, LUNARI, Raimondo, ITA, 0, 0, 1736
-%_%  40086, FOSCHI, Damiano, ITA, 0, 0, 1684
-%_%  40346, SALVO, Michele, ITA, 0, 0, 1622
-%_%  40349, TURATO, Leonardo, ITA, 0, 0, 1221
-%_%   2937, ZACCARIOTTO, Dario, ITA, 0, 0, 988
-%_%  40352, PIRTAC, Aurelio, ITA, 0, 0, 518
-%_% 9921394, ONUORAH CHINYERE, Vera, ITA, 0, 0, 0
+%_%  40229, FOSCHI, Tommaso, ITA, 5, 220, 2000
+%_%  40346, SALVO, Michele, ITA, 4, 197, 1622
+%_%   2813, SIGNORINI, Claudio, ITA, 3, 194, 1738
+%_%  40002, ILACQUA, Gianluca, ITA, 3, 176, 1835
+%_%  41003, LUNARI, Raimondo, ITA, 3, 165, 1736
+%_%  40349, TURATO, Leonardo, ITA, 2.5, 173, 1222
+%_%   2937, ZACCARIOTTO, Dario, ITA, 2, 158, 988
+%_%  40086, FOSCHI, Damiano, ITA, 1.5, 147, 1684
+%_%  40352, PIRTAC, Aurelio, ITA, 1, 94, 518
+%_% 9921394, ONUORAH CHINYERE, Vera, ITA, 0, 76, 0
 %_%__________
 %_% Generated from FTD via ftd_to_elo.py
 %_% See: https://flipthedisc.com/live/675
+
+%Round: 1
+
+ 40086 (40)>(24) 9921394  B
+ 41003 (51)>(13)  40352  B
+  2937 (18)<(46)   2813  B
+ 40002 (53)>(11)  40349  B
+ 40229 (50)>(14)  40346  B
+
+%Round: 2
+
+ 40229 (52)>(12)  41003  B
+  2813 (37)>(27)  40086  B
+ 9921394 (31)<(33)  40002  B
+ 40349 (53)>(11)   2937  B
+ 40346 (50)>(14)  40352  B
+
+%Round: 3
+
+ 40002 (42)>(22)   2813  B
+ 40086 (24)<(40)  40229  B
+ 41003 (42)>(22)  40349  B
+  2937 (15)<(49)  40346  B
+ 40352 (57)>(07) 9921394  B
+
+%Round: 4
+
+ 40229 (40)>(24)  40002  B
+ 40346 (44)>(20)  41003  B
+  2813 (63)>(01)  40352  B
+ 40349 (32)=(32)  40086  B
+ 9921394 (05)<(59)   2937  B
+
+%Round: 5
+
+  2813 (26)<(38)  40229  B
+ 40002 (24)<(40)  40346  B
+ 40086 (24)<(40)  41003  B
+ 9921394 (09)<(55)  40349  B
+ 40352 (09)<(55)   2937  B
