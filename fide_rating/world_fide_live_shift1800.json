@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-10-24 12:49",
+  "ref_date": "2026-10-25 17:50",
   "baseline_date": "2026-09-30",
   "tournament_id": "",
   "tournament_name": "Live",
   "ec_games_played": 911,
   "ec_rounds": 0,
-  "total_active": 4327,
+  "total_active": 4323,
   "players": [
     {
       "id": 13841,
@@ -18432,17 +18432,6 @@
       "ec": 0
     },
     {
-      "id": 60240,
-      "rating": 1885.3,
-      "games_played": 7,
-      "firstname": "Yuming",
-      "surname": "ZENG",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2023-08-26",
-      "ec": 0
-    },
-    {
       "id": 14420,
       "rating": 1885.3,
       "games_played": 126,
@@ -19788,17 +19777,6 @@
       "country": "CZE",
       "provisional": false,
       "last_played": "2024-09-07",
-      "ec": 0
-    },
-    {
-      "id": 60070,
-      "rating": 1874.0,
-      "games_played": 38,
-      "firstname": "Nuoyan",
-      "surname": "LI",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2023-08-26",
       "ec": 0
     },
     {
@@ -21463,17 +21441,6 @@
       "country": "TWN",
       "provisional": true,
       "last_played": "2024-06-01",
-      "ec": 0
-    },
-    {
-      "id": 60242,
-      "rating": 1860.0,
-      "games_played": 7,
-      "firstname": "Lei",
-      "surname": "WU",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2023-08-26",
       "ec": 0
     },
     {
@@ -50955,17 +50922,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2023-10-21",
-      "ec": 0
-    },
-    {
-      "id": 7195,
-      "rating": 1715.8,
-      "games_played": 50,
-      "firstname": "Zhibin",
-      "surname": "HUA",
-      "country": "CHN",
-      "provisional": false,
-      "last_played": "2023-08-26",
       "ec": 0
     },
     {

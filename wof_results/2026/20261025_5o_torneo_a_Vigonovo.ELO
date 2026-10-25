@@ -1,0 +1,22 @@
+%%Tournament: 5o torneo a Vigonovo
+%%Country: IT
+%%Date: 25/10/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%  40229, FOSCHI, Tommaso, ITA, 0, 0, 2000
+%_%  40002, ILACQUA, Gianluca, ITA, 0, 0, 1834
+%_%   2813, SIGNORINI, Claudio, ITA, 0, 0, 1737
+%_%  41003, LUNARI, Raimondo, ITA, 0, 0, 1736
+%_%  40086, FOSCHI, Damiano, ITA, 0, 0, 1684
+%_%  40346, SALVO, Michele, ITA, 0, 0, 1622
+%_%  40349, TURATO, Leonardo, ITA, 0, 0, 1221
+%_%   2937, ZACCARIOTTO, Dario, ITA, 0, 0, 988
+%_%  40352, PIRTAC, Aurelio, ITA, 0, 0, 518
+%_% 9921394, ONUORAH CHINYERE, Vera, ITA, 0, 0, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/675
