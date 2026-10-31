@@ -167,6 +167,10 @@ jobs:
           git config --global user.email "actions@github.com"
           cd fide_rating
           for TID in ${{ steps.gate.outputs.ids }}; do
+            # Re-fetch first: the checked-out cache can predate the last live
+            # run's cache commit (2026-10-31: Oudenaarde B finalized from the
+            # 10:54 round-0 cache -> 0 games). A failed fetch keeps the cache.
+            python -c "from shift1800_live import fetch_or_load_tournament as f; f($TID, force_refresh=True)" || true
             python -c "from ftd_to_elo import convert; convert($TID, synthetic_ids=True)" \
               || echo "convert $TID failed - its cache remains for manual handling"
           done
