@@ -26,6 +26,12 @@ def run(cmd, cwd, check=True):
     return r.stdout.strip()
 
 
+def _same_games(a, b):
+    """Line-ending-insensitive content compare (pipeline checkout is CRLF)."""
+    with open(a, 'rb') as fa, open(b, 'rb') as fb:
+        return fa.read().replace(b'\r\n', b'\n') == fb.read().replace(b'\r\n', b'\n')
+
+
 def live_window_armed():
     reasons = []
     run('git fetch -q origin', PIPELINE, check=False)
@@ -72,7 +78,10 @@ def main():
         if not os.path.isdir(loc_dir):
             continue
         for f in os.listdir(yr_dir):
-            if f.upper().endswith('.ELO') and not os.path.exists(os.path.join(loc_dir, f)):
+            # New OR changed (a re-finalized CI file must replace the stale copy)
+            dst = os.path.join(loc_dir, f)
+            if f.upper().endswith('.ELO') and not (
+                    os.path.exists(dst) and _same_games(os.path.join(yr_dir, f), dst)):
                 _shutil.copy2(os.path.join(yr_dir, f), os.path.join(loc_dir, f))
                 print('  synced from CI:', f)
                 synced += 1

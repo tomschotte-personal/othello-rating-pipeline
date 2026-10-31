@@ -346,6 +346,7 @@ if live_meta is not None or os.path.exists(live_path):
             if abs((lp.get('rating') or sp['r']) - sp['r']) > 0.049:
                 sp['r'] = round(lp['rating'], 1)
                 sp['g'] = lp.get('games_played', sp['g'])
+                sp['pr'] = 1 if lp.get('provisional') else 0
                 sp['l'] = lp.get('last_played', sp['l'])
                 _merge_live_log(sp, lp)
         # players whose first rated games happened after the yearly cut
