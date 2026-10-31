@@ -506,6 +506,12 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
         rounds = td['rounds']
         info = td['info']
         participants = players_list if players_list else standings
+        # Registered on FTD but never played: (tournament_id, ftd_player_id).
+        # Keeps no-shows off the live list (they would show as 0-game newcomers).
+        MANUAL_NO_SHOWS = {
+            (670, 21401),  # Stan DE PRIESTER, Oudenaarde B 2026-10-31
+        }
+        participants = [s for s in participants if (tid, s.get('id')) not in MANUAL_NO_SHOWS]
         tname = tname_override or info.get('name') or f'FTD #{tid}'
         tournament_names.append(tname)
         print(f'  {tname} - participants={len(participants)} rounds={len(rounds)} '
