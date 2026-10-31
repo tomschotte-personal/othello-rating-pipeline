@@ -1,0 +1,26 @@
+%%Tournament: Oudenaarde B
+%%Country: BE
+%%Date: 31/10/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 270033, SCHOTTE, Wout, BEL, 0, 0, 1011
+%_% 270032, SCHOTTE, Sander, BEL, 0, 0, 743
+%_% 270116, REUNES, Sverre, BEL, 0, 0, 611
+%_% 270087, DE LILLE, Felix, BEL, 0, 0, 484
+%_% 270080, MARICHAL, Patrick, BEL, 0, 0, 284
+%_% 270086, ROOS, Stan, BEL, 0, 0, 205
+%_% 270106, MARICHAL, Amelie, BEL, 0, 0, 129
+%_% 270118, DE ZAEYTIJD, Aron, BEL, 0, 0, -84
+%_% 270090, MAY, Merel, BEL, 0, 0, -97
+%_% 270109, ROOS, Lars, BEL, 0, 0, -103
+%_% 270117, MARICHAL, Audric, BEL, 0, 0, -193
+%_% 9921370, DE LILLE, Warre, BEL, 0, 0, 0
+%_% 9921401, DE PRIESTER, Stan, BEL, 0, 0, 0
+%_% 9921400, VITSE, Ilse, BEL, 0, 0, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/670
