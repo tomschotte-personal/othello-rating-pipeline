@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-10-31 17:48",
+  "ref_date": "2026-11-01 17:49",
   "baseline_date": "2026-09-30",
   "tournament_id": "",
   "tournament_name": "Live",
-  "ec_games_played": 1534,
+  "ec_games_played": 1650,
   "ec_rounds": 0,
-  "total_active": 4363,
+  "total_active": 4348,
   "players": [
     {
       "id": 13841,
@@ -213,14 +213,75 @@
     },
     {
       "id": 698,
-      "rating": 2552.2,
-      "games_played": 1916,
+      "rating": 2542.6,
+      "games_played": 1923,
       "firstname": "Makoto",
       "surname": "SUEKUNI",
       "country": "JPN",
       "provisional": false,
-      "last_played": "2026-05-31",
-      "ec": 0
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 1.0,
+          "dr": 0.4,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 1.0,
+          "dr": 2.34,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 1.0,
+          "dr": 0.69,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -6.8,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 1.0,
+          "dr": 0.55,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 1.0,
+          "dr": 1.2,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 0.0,
+          "dr": -8.0,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 13168,
@@ -323,14 +384,83 @@
     },
     {
       "id": 5105,
-      "rating": 2418.0,
-      "games_played": 1672,
+      "rating": 2432.7,
+      "games_played": 1680,
       "firstname": "Nicky",
       "surname": "VAN DEN BIGGELAAR",
       "country": "NLD",
       "provisional": false,
-      "last_played": "2026-07-11",
-      "ec": 0
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 1.0,
+          "dr": 0.78,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 1.0,
+          "dr": 3.29,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 1.0,
+          "dr": 2.32,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 1.0,
+          "dr": 6.8,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 1.0,
+          "dr": 2.16,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 0.0,
+          "dr": -6.2,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 1.0,
+          "dr": 1.39,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 1.0,
+          "dr": 4.11,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 5301,
@@ -571,6 +701,86 @@
       "ec": 0
     },
     {
+      "id": 5198,
+      "rating": 2358.2,
+      "games_played": 1118,
+      "firstname": "Erwin",
+      "surname": "VAN DEN BERG",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 1.0,
+          "dr": 2.03,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 0.0,
+          "dr": -4.67,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 1.0,
+          "dr": 0.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 1.0,
+          "dr": 0.69,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 1.0,
+          "dr": 5.47,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 1.0,
+          "dr": 12.4,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 1.0,
+          "dr": 5.69,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -8.23,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 10890,
       "rating": 2355.3,
       "games_played": 505,
@@ -724,17 +934,6 @@
       "ec": 0
     },
     {
-      "id": 5198,
-      "rating": 2344.3,
-      "games_played": 1110,
-      "firstname": "Erwin",
-      "surname": "VAN DEN BERG",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-07-11",
-      "ec": 0
-    },
-    {
       "id": 6919,
       "rating": 2343.0,
       "games_played": 1212,
@@ -841,6 +1040,78 @@
       "provisional": false,
       "last_played": "2026-09-12",
       "ec": 0
+    },
+    {
+      "id": 5071,
+      "rating": 2326.2,
+      "games_played": 2465,
+      "firstname": "Roel",
+      "surname": "HOBO",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 1.0,
+          "dr": 2.61,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -6.58,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 1.0,
+          "dr": 6.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 1.0,
+          "dr": 4.1,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 1.0,
+          "dr": 5.11,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 1.0,
+          "dr": 5.7,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 1.0,
+          "dr": 15.99,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 80000,
@@ -1727,17 +1998,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-09-26",
-      "ec": 0
-    },
-    {
-      "id": 5071,
-      "rating": 2292.3,
-      "games_played": 2458,
-      "firstname": "Roel",
-      "surname": "HOBO",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-07-11",
       "ec": 0
     },
     {
@@ -4650,17 +4910,6 @@
       "ec": 0
     },
     {
-      "id": 120254,
-      "rating": 2203.9,
-      "games_played": 451,
-      "firstname": "Daniel",
-      "surname": "DUFOUR",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-09-27",
-      "ec": 0
-    },
-    {
       "id": 7003,
       "rating": 2203.9,
       "games_played": 588,
@@ -4670,6 +4919,86 @@
       "provisional": false,
       "last_played": "2023-10-15",
       "ec": 0
+    },
+    {
+      "id": 120254,
+      "rating": 2200.2,
+      "games_played": 459,
+      "firstname": "Daniel",
+      "surname": "DUFOUR",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 1.0,
+          "dr": 1.44,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 1.0,
+          "dr": 9.03,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -4.64,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 0.0,
+          "dr": -13.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 1.0,
+          "dr": 9.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 1.0,
+          "dr": 4.12,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 0.0,
+          "dr": -11.16,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 1.0,
+          "dr": 1.12,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 11054,
@@ -4736,6 +5065,78 @@
       "provisional": false,
       "last_played": "2026-09-27",
       "ec": 0
+    },
+    {
+      "id": 4012,
+      "rating": 2194.8,
+      "games_played": 2332,
+      "firstname": "Jan C.",
+      "surname": "DE GRAAF",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 1.0,
+          "dr": 1.05,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 1.0,
+          "dr": 9.52,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 1.0,
+          "dr": 8.98,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 1.0,
+          "dr": 4.89,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -4.32,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 0.0,
+          "dr": -2.4,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 0.0,
+          "dr": -5.69,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 15583,
@@ -5101,17 +5502,6 @@
       "ec": 0
     },
     {
-      "id": 50075,
-      "rating": 2189.0,
-      "games_played": 369,
-      "firstname": "Marc",
-      "surname": "BERTRANDIAS",
-      "country": "FRA",
-      "provisional": false,
-      "last_played": "2026-05-16",
-      "ec": 0
-    },
-    {
       "id": 10351,
       "rating": 2188.4,
       "games_played": 202,
@@ -5239,17 +5629,6 @@
       "ec": 0
     },
     {
-      "id": 4012,
-      "rating": 2182.8,
-      "games_played": 2325,
-      "firstname": "Jan C.",
-      "surname": "DE GRAAF",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-07-11",
-      "ec": 0
-    },
-    {
       "id": 320060,
       "rating": 2182.7,
       "games_played": 190,
@@ -5259,6 +5638,150 @@
       "provisional": false,
       "last_played": "2026-09-26",
       "ec": 0
+    },
+    {
+      "id": 50075,
+      "rating": 2182.1,
+      "games_played": 376,
+      "firstname": "Marc",
+      "surname": "BERTRANDIAS",
+      "country": "FRA",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 1.0,
+          "dr": 1.63,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 0.0,
+          "dr": -11.26,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 0.0,
+          "dr": -6.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 1.0,
+          "dr": 5.44,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 0.0,
+          "dr": -9.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 1.0,
+          "dr": 9.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 1.0,
+          "dr": 4.69,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 120423,
+      "rating": 2180.9,
+      "games_played": 190,
+      "firstname": "Tobias",
+      "surname": "SAAKES",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 1.0,
+          "dr": 0.94,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 0.0,
+          "dr": -9.52,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 1.0,
+          "dr": 5.92,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 1.0,
+          "dr": 9.58,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 0.0,
+          "dr": -5.47,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 1.0,
+          "dr": 2.15,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 1.0,
+          "dr": 11.16,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 15515,
@@ -5445,17 +5968,6 @@
       "country": "IND",
       "provisional": false,
       "last_played": "2024-10-25",
-      "ec": 0
-    },
-    {
-      "id": 5169,
-      "rating": 2170.9,
-      "games_played": 634,
-      "firstname": "Remko",
-      "surname": "ZILLIG",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-07-11",
       "ec": 0
     },
     {
@@ -5961,17 +6473,6 @@
       "country": "SGP",
       "provisional": false,
       "last_played": "2025-11-13",
-      "ec": 0
-    },
-    {
-      "id": 120423,
-      "rating": 2166.2,
-      "games_played": 183,
-      "firstname": "Tobias",
-      "surname": "SAAKES",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-05-31",
       "ec": 0
     },
     {
@@ -7181,17 +7682,6 @@
       ]
     },
     {
-      "id": 5085,
-      "rating": 2144.5,
-      "games_played": 648,
-      "firstname": "Ralph",
-      "surname": "REIJNDERS",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-09-27",
-      "ec": 0
-    },
-    {
       "id": 7159,
       "rating": 2144.1,
       "games_played": 72,
@@ -7245,6 +7735,78 @@
       "provisional": false,
       "last_played": "2026-08-01",
       "ec": 0
+    },
+    {
+      "id": 5085,
+      "rating": 2140.6,
+      "games_played": 655,
+      "firstname": "Ralph",
+      "surname": "REIJNDERS",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 1.0,
+          "dr": 2.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 1.0,
+          "dr": 11.26,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 0.0,
+          "dr": -8.98,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 0.0,
+          "dr": -9.58,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 1.0,
+          "dr": 5.58,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 0.0,
+          "dr": -5.7,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 1.0,
+          "dr": 1.56,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 10342,
@@ -8059,7 +8621,7 @@
     },
     {
       "id": 190012,
-      "rating": 2132.4,
+      "rating": 2132.3,
       "games_played": 137,
       "firstname": "Dispong",
       "surname": "KIATNARONGROB",
@@ -8428,6 +8990,78 @@
       "provisional": false,
       "last_played": "2026-09-06",
       "ec": 0
+    },
+    {
+      "id": 5169,
+      "rating": 2126.6,
+      "games_played": 641,
+      "firstname": "Remko",
+      "surname": "ZILLIG",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 1.0,
+          "dr": 0.63,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 0.0,
+          "dr": -9.03,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 0.0,
+          "dr": -14.55,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 0.0,
+          "dr": -14.95,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 1.0,
+          "dr": 1.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 0.0,
+          "dr": -9.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 0.69,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 14235,
@@ -9323,6 +9957,78 @@
       ]
     },
     {
+      "id": 5095,
+      "rating": 2107.6,
+      "games_played": 410,
+      "firstname": "Mark",
+      "surname": "VAN HEERE",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 1.0,
+          "dr": 3.17,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 1.0,
+          "dr": 9.1,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 0.0,
+          "dr": -1.37,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 1.0,
+          "dr": 13.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 0.0,
+          "dr": -5.11,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 1.0,
+          "dr": 1.84,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -2.78,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 440251,
       "rating": 2107.6,
       "games_played": 243,
@@ -10188,17 +10894,6 @@
       "ec": 0
     },
     {
-      "id": 2799,
-      "rating": 2090.1,
-      "games_played": 293,
-      "firstname": "Marcel",
-      "surname": "PEPERKAMP",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 40027,
       "rating": 2090.1,
       "games_played": 251,
@@ -11037,6 +11732,78 @@
       ]
     },
     {
+      "id": 5009,
+      "rating": 2066.6,
+      "games_played": 484,
+      "firstname": "Mark",
+      "surname": "DUFOUR",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 1.41,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 0.0,
+          "dr": -9.1,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 1.0,
+          "dr": 7.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 0.0,
+          "dr": -4.1,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 0.0,
+          "dr": -1.11,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 1.0,
+          "dr": 8.16,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 1.0,
+          "dr": 3.61,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 60138,
       "rating": 2066.0,
       "games_played": 43,
@@ -11253,17 +12020,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2025-05-04",
-      "ec": 0
-    },
-    {
-      "id": 5009,
-      "rating": 2060.3,
-      "games_played": 477,
-      "firstname": "Mark",
-      "surname": "DUFOUR",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -12918,7 +13674,7 @@
     },
     {
       "id": 2785,
-      "rating": 2028.5,
+      "rating": 2028.6,
       "games_played": 663,
       "firstname": "Dimitri",
       "surname": "VAES",
@@ -14974,17 +15730,6 @@
       ]
     },
     {
-      "id": 5083,
-      "rating": 1998.9,
-      "games_played": 1741,
-      "firstname": "Marcel",
-      "surname": "SNEEK",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-07-11",
-      "ec": 0
-    },
-    {
       "id": 440073,
       "rating": 1998.7,
       "games_played": 96,
@@ -15371,6 +16116,78 @@
       "ec": 0
     },
     {
+      "id": 5083,
+      "rating": 1990.2,
+      "games_played": 1748,
+      "firstname": "Marcel",
+      "surname": "SNEEK",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 698,
+          "s": 0.0,
+          "dr": -0.79,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 1.0,
+          "dr": 9.01,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 0.0,
+          "dr": -5.92,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 0.0,
+          "dr": -5.44,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 1.0,
+          "dr": 1.66,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 1.0,
+          "dr": 3.79,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 0.0,
+          "dr": -10.96,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 30552,
       "rating": 1990.1,
       "games_played": 24,
@@ -15401,17 +16218,6 @@
       "country": "MNG",
       "provisional": false,
       "last_played": "2025-01-18",
-      "ec": 0
-    },
-    {
-      "id": 120428,
-      "rating": 1989.2,
-      "games_played": 96,
-      "firstname": "Andre",
-      "surname": "KORTLEVER",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-03-29",
       "ec": 0
     },
     {
@@ -15713,6 +16519,78 @@
       "ec": 0
     },
     {
+      "id": 120428,
+      "rating": 1984.0,
+      "games_played": 103,
+      "firstname": "Andre",
+      "surname": "KORTLEVER",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5105,
+          "s": 0.0,
+          "dr": -1.56,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 1.0,
+          "dr": 4.21,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 1.0,
+          "dr": 14.55,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 0.0,
+          "dr": -4.89,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 0.0,
+          "dr": -11.17,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 0.0,
+          "dr": -8.16,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 1.0,
+          "dr": 1.9,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 210192,
       "rating": 1983.9,
       "games_played": 247,
@@ -16006,6 +16884,78 @@
       "provisional": false,
       "last_played": "2026-09-20",
       "ec": 0
+    },
+    {
+      "id": 5010,
+      "rating": 1978.7,
+      "games_played": 631,
+      "firstname": "Jarl",
+      "surname": "ILBRINK",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5071,
+          "s": 0.0,
+          "dr": -2.61,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 1.0,
+          "dr": 1.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 0.0,
+          "dr": -7.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 1.0,
+          "dr": 5.82,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 1.0,
+          "dr": 11.17,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 0.0,
+          "dr": -4.12,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 1.0,
+          "dr": 10.96,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 4004,
@@ -17213,6 +18163,78 @@
       "ec": 0
     },
     {
+      "id": 120409,
+      "rating": 1967.0,
+      "games_played": 185,
+      "firstname": "Mischa",
+      "surname": "BRONSTRING",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 0.0,
+          "dr": -2.03,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 0.0,
+          "dr": -9.01,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 1.0,
+          "dr": 4.79,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 1.0,
+          "dr": 14.95,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 0.0,
+          "dr": -5.58,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 1.0,
+          "dr": 2.81,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 0.0,
+          "dr": -4.69,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 15624,
       "rating": 1966.6,
       "games_played": 115,
@@ -17254,17 +18276,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-08-23",
-      "ec": 0
-    },
-    {
-      "id": 120409,
-      "rating": 1965.8,
-      "games_played": 178,
-      "firstname": "Mischa",
-      "surname": "BRONSTRING",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-05-31",
       "ec": 0
     },
     {
@@ -17364,17 +18375,6 @@
       "country": "SGP",
       "provisional": false,
       "last_played": "2026-06-14",
-      "ec": 0
-    },
-    {
-      "id": 5010,
-      "rating": 1963.0,
-      "games_played": 624,
-      "firstname": "Jarl",
-      "surname": "ILBRINK",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-03-29",
       "ec": 0
     },
     {
@@ -20726,17 +21726,6 @@
       "ec": 0
     },
     {
-      "id": 410008,
-      "rating": 1921.7,
-      "games_played": 56,
-      "firstname": "Irene",
-      "surname": "OUREGA GALLO",
-      "country": "CIV",
-      "provisional": false,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 190361,
       "rating": 1921.7,
       "games_played": 13,
@@ -22054,17 +23043,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2025-01-18",
-      "ec": 0
-    },
-    {
-      "id": 410012,
-      "rating": 1906.3,
-      "games_played": 32,
-      "firstname": "A.F.",
-      "surname": "OUREGA ZIRIMBA",
-      "country": "CIV",
-      "provisional": false,
-      "last_played": "2023-09-02",
       "ec": 0
     },
     {
@@ -23486,17 +24464,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2024-07-14",
-      "ec": 0
-    },
-    {
-      "id": 570003,
-      "rating": 1890.2,
-      "games_played": 3,
-      "firstname": "Pieter",
-      "surname": "THOMAS",
-      "country": "ZAF",
-      "provisional": true,
-      "last_played": "2023-09-02",
       "ec": 0
     },
     {
@@ -25357,17 +26324,6 @@
       "ec": 0
     },
     {
-      "id": 4869,
-      "rating": 1878.6,
-      "games_played": 64,
-      "firstname": "Markus",
-      "surname": "SCHORETITS",
-      "country": "AUT",
-      "provisional": false,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 441412,
       "rating": 1878.6,
       "games_played": 7,
@@ -27184,17 +28140,6 @@
       "country": "IRN",
       "provisional": true,
       "last_played": "2026-08-06",
-      "ec": 0
-    },
-    {
-      "id": 9071,
-      "rating": 1863.9,
-      "games_played": 4,
-      "firstname": "Walter",
-      "surname": "SCHNEIDER",
-      "country": "AUT",
-      "provisional": true,
-      "last_played": "2023-09-02",
       "ec": 0
     },
     {
@@ -31428,17 +32373,6 @@
       "ec": 0
     },
     {
-      "id": 410027,
-      "rating": 1838.9,
-      "games_played": 5,
-      "firstname": "Florian",
-      "surname": "OUREGA DADIE",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 20066,
       "rating": 1838.9,
       "games_played": 11,
@@ -33141,17 +34075,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-05-04",
-      "ec": 0
-    },
-    {
-      "id": 570001,
-      "rating": 1830.5,
-      "games_played": 3,
-      "firstname": "Jonathan",
-      "surname": "MORGAN",
-      "country": "ZAF",
-      "provisional": true,
-      "last_played": "2023-09-02",
       "ec": 0
     },
     {
@@ -38582,17 +39505,6 @@
       "ec": 0
     },
     {
-      "id": 410029,
-      "rating": 1807.0,
-      "games_played": 5,
-      "firstname": "Salome",
-      "surname": "AMOIKON",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 420181,
       "rating": 1807.0,
       "games_played": 12,
@@ -38788,17 +39700,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-09-21",
-      "ec": 0
-    },
-    {
-      "id": 9067,
-      "rating": 1805.7,
-      "games_played": 4,
-      "firstname": "Maya",
-      "surname": "OTAKA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-09-02",
       "ec": 0
     },
     {
@@ -39830,17 +40731,6 @@
       "ec": 0
     },
     {
-      "id": 410025,
-      "rating": 1801.1,
-      "games_played": 7,
-      "firstname": "Mondakan",
-      "surname": "TO",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 10706,
       "rating": 1801.0,
       "games_played": 206,
@@ -40290,6 +41180,78 @@
           "t": "20261018_2_Tokai_junior_Fukuroi_B",
           "o": 17356,
           "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 9921368,
+      "rating": 1800.0,
+      "games_played": 7,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 0.5,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 0.0,
           "dr": 0.0,
           "r": 0
         }
@@ -41672,6 +42634,17 @@
       "ec": 0
     },
     {
+      "id": 270046,
+      "rating": 1795.9,
+      "games_played": 75,
+      "firstname": "Tuur",
+      "surname": "JENA",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-09-27",
+      "ec": 0
+    },
+    {
       "id": 190072,
       "rating": 1795.8,
       "games_played": 21,
@@ -41680,17 +42653,6 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2025-06-08",
-      "ec": 0
-    },
-    {
-      "id": 270046,
-      "rating": 1795.8,
-      "games_played": 75,
-      "firstname": "Tuur",
-      "surname": "JENA",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -41835,6 +42797,62 @@
       "provisional": true,
       "last_played": "2025-01-18",
       "ec": 0
+    },
+    {
+      "id": 270033,
+      "rating": 1794.7,
+      "games_played": 279,
+      "firstname": "Wout",
+      "surname": "SCHOTTE",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270032,
+          "s": 1.0,
+          "dr": 7.33,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270116,
+          "s": 1.0,
+          "dr": 8.79,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270086,
+          "s": 1.0,
+          "dr": 3.55,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270087,
+          "s": 1.0,
+          "dr": 11.63,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270118,
+          "s": 1.0,
+          "dr": 8.1,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 420167,
@@ -43982,17 +45000,6 @@
       "ec": 0
     },
     {
-      "id": 50125,
-      "rating": 1785.8,
-      "games_played": 10,
-      "firstname": "Karine",
-      "surname": "LOMBARD",
-      "country": "FRA",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 100062,
       "rating": 1785.8,
       "games_played": 14,
@@ -44287,17 +45294,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2024-11-23",
-      "ec": 0
-    },
-    {
-      "id": 270087,
-      "rating": 1784.1,
-      "games_played": 13,
-      "firstname": "Felix",
-      "surname": "DE LILLE",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
       "ec": 0
     },
     {
@@ -44848,6 +45844,62 @@
       "ec": 0
     },
     {
+      "id": 270087,
+      "rating": 1782.0,
+      "games_played": 18,
+      "firstname": "Felix",
+      "surname": "DE LILLE",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270080,
+          "s": 1.0,
+          "dr": 13.96,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921400,
+          "s": 1.0,
+          "dr": 19.05,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270118,
+          "s": 1.0,
+          "dr": 15.06,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270033,
+          "s": 0.0,
+          "dr": -23.26,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270032,
+          "s": 0.0,
+          "dr": -26.78,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 9921182,
       "rating": 1781.9,
       "games_played": 7,
@@ -44925,17 +45977,6 @@
       "ec": 0
     },
     {
-      "id": 410028,
-      "rating": 1781.7,
-      "games_played": 5,
-      "firstname": "Tomas",
-      "surname": "GORA",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 140072,
       "rating": 1781.7,
       "games_played": 3,
@@ -44945,6 +45986,54 @@
       "provisional": true,
       "last_played": "2026-01-31",
       "ec": 0
+    },
+    {
+      "id": 9921400,
+      "rating": 1781.5,
+      "games_played": 4,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270087,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270106,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270080,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921370,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 30540,
@@ -46745,6 +47834,17 @@
       "ec": 0
     },
     {
+      "id": 270103,
+      "rating": 1773.8,
+      "games_played": 18,
+      "firstname": "Eleen",
+      "surname": "LEGAT",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-04-06",
+      "ec": 0
+    },
+    {
       "id": 320085,
       "rating": 1773.7,
       "games_played": 5,
@@ -47653,17 +48753,6 @@
       "ec": 0
     },
     {
-      "id": 270103,
-      "rating": 1771.2,
-      "games_played": 18,
-      "firstname": "Eleen",
-      "surname": "LEGAT",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
-      "ec": 0
-    },
-    {
       "id": 15882,
       "rating": 1771.1,
       "games_played": 7,
@@ -48172,17 +49261,6 @@
       "ec": 0
     },
     {
-      "id": 570002,
-      "rating": 1769.5,
-      "games_played": 3,
-      "firstname": "Kyoko",
-      "surname": "MORGAN",
-      "country": "ZAF",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 210219,
       "rating": 1769.5,
       "games_played": 7,
@@ -48565,17 +49643,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2026-06-06",
-      "ec": 0
-    },
-    {
-      "id": 120424,
-      "rating": 1768.1,
-      "games_played": 49,
-      "firstname": "Cindy",
-      "surname": "VAN DER KAAIJ",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-03-29",
       "ec": 0
     },
     {
@@ -49544,17 +50611,6 @@
       "ec": 0
     },
     {
-      "id": 270104,
-      "rating": 1765.2,
-      "games_played": 11,
-      "firstname": "Anna",
-      "surname": "LEGAT",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2025-11-09",
-      "ec": 0
-    },
-    {
       "id": 9920763,
       "rating": 1765.1,
       "games_played": 1,
@@ -49686,6 +50742,17 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2025-01-18",
+      "ec": 0
+    },
+    {
+      "id": 270104,
+      "rating": 1765.1,
+      "games_played": 11,
+      "firstname": "Anna",
+      "surname": "LEGAT",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2025-11-09",
       "ec": 0
     },
     {
@@ -49953,17 +51020,6 @@
       "ec": 0
     },
     {
-      "id": 410026,
-      "rating": 1763.8,
-      "games_played": 7,
-      "firstname": "Affoue",
-      "surname": "YAO KOUAKOU",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 9921382,
       "rating": 1763.8,
       "games_played": 7,
@@ -50179,14 +51235,14 @@
       "ec": 0
     },
     {
-      "id": 120299,
+      "id": 270026,
       "rating": 1763.1,
-      "games_played": 10,
-      "firstname": "Mikhail",
-      "surname": "PATLAN",
-      "country": "NLD",
-      "provisional": true,
-      "last_played": "2026-03-29",
+      "games_played": 193,
+      "firstname": "Bart",
+      "surname": "VERSTUYFT",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-01-25",
       "ec": 0
     },
     {
@@ -50287,17 +51343,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2024-03-24",
-      "ec": 0
-    },
-    {
-      "id": 270026,
-      "rating": 1763.0,
-      "games_played": 193,
-      "firstname": "Bart",
-      "surname": "VERSTUYFT",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-01-25",
       "ec": 0
     },
     {
@@ -51009,17 +52054,6 @@
       "country": "CHN",
       "provisional": true,
       "last_played": "2025-10-26",
-      "ec": 0
-    },
-    {
-      "id": 120439,
-      "rating": 1759.4,
-      "games_played": 34,
-      "firstname": "Issaku",
-      "surname": "ENDO",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-03-29",
       "ec": 0
     },
     {
@@ -52132,17 +53166,6 @@
       "country": "???",
       "provisional": true,
       "last_played": "2026-08-20",
-      "ec": 0
-    },
-    {
-      "id": 270033,
-      "rating": 1755.3,
-      "games_played": 274,
-      "firstname": "Wout",
-      "surname": "SCHOTTE",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -54939,17 +55962,6 @@
       "ec": 0
     },
     {
-      "id": 270090,
-      "rating": 1742.1,
-      "games_played": 3,
-      "firstname": "Merel",
-      "surname": "MAY",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2024-06-30",
-      "ec": 0
-    },
-    {
       "id": 290153,
       "rating": 1742.0,
       "games_played": 49,
@@ -56004,6 +57016,62 @@
       "ec": 0
     },
     {
+      "id": 9921370,
+      "rating": 1737.9,
+      "games_played": 5,
+      "firstname": "?",
+      "surname": "?",
+      "country": "???",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270106,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270118,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270117,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270032,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921400,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 440884,
       "rating": 1737.9,
       "games_played": 7,
@@ -56024,6 +57092,78 @@
       "provisional": true,
       "last_played": "2024-04-28",
       "ec": 0
+    },
+    {
+      "id": 120424,
+      "rating": 1737.8,
+      "games_played": 56,
+      "firstname": "Cindy",
+      "surname": "VAN DER KAAIJ",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 50075,
+          "s": 0.0,
+          "dr": -1.63,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 0.0,
+          "dr": -12.48,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 0.0,
+          "dr": -4.79,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 0.0,
+          "dr": -12.77,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 5.48,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 0.0,
+          "dr": -14.43,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 1.0,
+          "dr": 10.28,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 440757,
@@ -56235,6 +57375,78 @@
       "provisional": true,
       "last_played": "2025-11-22",
       "ec": 0
+    },
+    {
+      "id": 120439,
+      "rating": 1737.3,
+      "games_played": 41,
+      "firstname": "Issaku",
+      "surname": "ENDO",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 0.0,
+          "dr": -1.44,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 0.0,
+          "dr": -4.21,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 1.0,
+          "dr": 5.21,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 0.0,
+          "dr": -11.95,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 0.0,
+          "dr": -1.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 5.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 0.0,
+          "dr": -12.76,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 61030,
@@ -56922,17 +58134,6 @@
       ]
     },
     {
-      "id": 60121,
-      "rating": 1733.4,
-      "games_played": 7,
-      "firstname": "Min",
-      "surname": "DAI",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 441928,
       "rating": 1733.4,
       "games_played": 2,
@@ -57022,7 +58223,7 @@
     },
     {
       "id": 270037,
-      "rating": 1732.9,
+      "rating": 1733.0,
       "games_played": 73,
       "firstname": "Mieke",
       "surname": "HOOGHE",
@@ -58230,6 +59431,62 @@
       "provisional": true,
       "last_played": "2023-12-03",
       "ec": 0
+    },
+    {
+      "id": 270080,
+      "rating": 1726.2,
+      "games_played": 31,
+      "firstname": "Patrick",
+      "surname": "MARICHAL",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270087,
+          "s": 0.0,
+          "dr": -13.96,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270086,
+          "s": 1.0,
+          "dr": 11.85,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270090,
+          "s": 1.0,
+          "dr": 18.41,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921400,
+          "s": 1.0,
+          "dr": 25.04,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270106,
+          "s": 1.0,
+          "dr": 9.2,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 9920788,
@@ -60197,17 +61454,6 @@
       "ec": 0
     },
     {
-      "id": 270116,
-      "rating": 1717.8,
-      "games_played": 7,
-      "firstname": "Sverre",
-      "surname": "REUNES",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-01-25",
-      "ec": 0
-    },
-    {
       "id": 15784,
       "rating": 1717.8,
       "games_played": 5,
@@ -60275,7 +61521,7 @@
     },
     {
       "id": 270030,
-      "rating": 1717.3,
+      "rating": 1717.4,
       "games_played": 153,
       "firstname": "Eline",
       "surname": "VERSTUYFT",
@@ -60360,6 +61606,78 @@
       "provisional": true,
       "last_played": "2024-03-24",
       "ec": 0
+    },
+    {
+      "id": 120299,
+      "rating": 1716.8,
+      "games_played": 17,
+      "firstname": "Mikhail",
+      "surname": "PATLAN",
+      "country": "NLD",
+      "provisional": true,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 0.0,
+          "dr": -4.01,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 11.89,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 0.5,
+          "dr": -6.85,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 0.0,
+          "dr": -1.39,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 0.0,
+          "dr": -17.87,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 0.0,
+          "dr": -7.58,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 0.0,
+          "dr": -20.57,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 17366,
@@ -61807,17 +63125,6 @@
       "ec": 0
     },
     {
-      "id": 570004,
-      "rating": 1709.8,
-      "games_played": 3,
-      "firstname": "Arun",
-      "surname": "BOTHMA",
-      "country": "ZAF",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 440746,
       "rating": 1709.8,
       "games_played": 5,
@@ -62606,6 +63913,86 @@
       "provisional": true,
       "last_played": "2026-04-18",
       "ec": 0
+    },
+    {
+      "id": 120286,
+      "rating": 1706.8,
+      "games_played": 252,
+      "firstname": "Noa",
+      "surname": "DUFOUR",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 4012,
+          "s": 0.0,
+          "dr": -1.05,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 1.0,
+          "dr": 12.48,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5198,
+          "s": 0.0,
+          "dr": -0.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 1.0,
+          "dr": 11.95,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120433,
+          "s": 1.0,
+          "dr": 8.88,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5095,
+          "s": 0.0,
+          "dr": -1.84,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5085,
+          "s": 0.0,
+          "dr": -1.56,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120254,
+          "s": 0.0,
+          "dr": -1.12,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 60335,
@@ -63412,6 +64799,62 @@
       "ec": 0
     },
     {
+      "id": 270118,
+      "rating": 1703.6,
+      "games_played": 12,
+      "firstname": "Aron",
+      "surname": "DE ZAEYTIJD",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270090,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921370,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270087,
+          "s": 0.0,
+          "dr": -15.06,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270109,
+          "s": 1.0,
+          "dr": 5.55,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270033,
+          "s": 0.0,
+          "dr": -16.2,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 16271,
       "rating": 1703.6,
       "games_played": 20,
@@ -63635,17 +65078,6 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30",
-      "ec": 0
-    },
-    {
-      "id": 270106,
-      "rating": 1702.3,
-      "games_played": 13,
-      "firstname": "Amelie",
-      "surname": "MARICHAL",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
       "ec": 0
     },
     {
@@ -63991,6 +65423,62 @@
       "ec": 0
     },
     {
+      "id": 270032,
+      "rating": 1699.6,
+      "games_played": 258,
+      "firstname": "Sander",
+      "surname": "SCHOTTE",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270033,
+          "s": 0.0,
+          "dr": -7.33,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270090,
+          "s": 1.0,
+          "dr": 9.79,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270116,
+          "s": 1.0,
+          "dr": 11.65,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921370,
+          "s": 1.0,
+          "dr": 11.81,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270087,
+          "s": 1.0,
+          "dr": 13.39,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 16210,
       "rating": 1699.6,
       "games_played": 9,
@@ -64058,7 +65546,7 @@
     },
     {
       "id": 270061,
-      "rating": 1698.9,
+      "rating": 1698.8,
       "games_played": 67,
       "firstname": "Karen",
       "surname": "VAN LANDEGHEM",
@@ -65105,7 +66593,7 @@
     },
     {
       "id": 270076,
-      "rating": 1692.3,
+      "rating": 1692.2,
       "games_played": 34,
       "firstname": "Ferre",
       "surname": "DEVRIENDT",
@@ -67322,17 +68810,6 @@
       "ec": 0
     },
     {
-      "id": 120286,
-      "rating": 1679.5,
-      "games_played": 244,
-      "firstname": "Noa",
-      "surname": "DUFOUR",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-09-27",
-      "ec": 0
-    },
-    {
       "id": 441063,
       "rating": 1679.5,
       "games_played": 4,
@@ -67432,17 +68909,6 @@
       "ec": 0
     },
     {
-      "id": 410031,
-      "rating": 1678.7,
-      "games_played": 5,
-      "firstname": "Mariam",
-      "surname": "SANOGO",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
-      "ec": 0
-    },
-    {
       "id": 16503,
       "rating": 1678.4,
       "games_played": 11,
@@ -67451,17 +68917,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2026-03-15",
-      "ec": 0
-    },
-    {
-      "id": 270080,
-      "rating": 1678.4,
-      "games_played": 26,
-      "firstname": "Patrick",
-      "surname": "MARICHAL",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
       "ec": 0
     },
     {
@@ -67520,17 +68975,6 @@
       "ec": 0
     },
     {
-      "id": 270118,
-      "rating": 1677.5,
-      "games_played": 7,
-      "firstname": "Aron",
-      "surname": "DE ZAEYTIJD",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
-      "ec": 0
-    },
-    {
       "id": 15689,
       "rating": 1677.3,
       "games_played": 3,
@@ -67583,17 +69027,6 @@
       "country": "DNK",
       "provisional": false,
       "last_played": "2026-03-21",
-      "ec": 0
-    },
-    {
-      "id": 410030,
-      "rating": 1676.8,
-      "games_played": 5,
-      "firstname": "Epiphanie",
-      "surname": "PEHE",
-      "country": "CIV",
-      "provisional": true,
-      "last_played": "2023-09-02",
       "ec": 0
     },
     {
@@ -67958,7 +69391,7 @@
     },
     {
       "id": 270036,
-      "rating": 1674.2,
+      "rating": 1674.1,
       "games_played": 44,
       "firstname": "Jan",
       "surname": "VERSTUYFT",
@@ -68042,6 +69475,17 @@
       "country": "TUR",
       "provisional": true,
       "last_played": "2024-11-15",
+      "ec": 0
+    },
+    {
+      "id": 270091,
+      "rating": 1673.1,
+      "games_played": 72,
+      "firstname": "Paul-Andre",
+      "surname": "TRINE",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -68167,17 +69611,6 @@
       "ec": 0
     },
     {
-      "id": 270091,
-      "rating": 1672.2,
-      "games_played": 72,
-      "firstname": "Paul-Andre",
-      "surname": "TRINE",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-09-27",
-      "ec": 0
-    },
-    {
       "id": 441959,
       "rating": 1672.1,
       "games_played": 7,
@@ -68242,6 +69675,62 @@
       "provisional": true,
       "last_played": "2025-04-20",
       "ec": 0
+    },
+    {
+      "id": 270106,
+      "rating": 1670.6,
+      "games_played": 18,
+      "firstname": "Amelie",
+      "surname": "MARICHAL",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921370,
+          "s": 0.0,
+          "dr": -17.81,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270109,
+          "s": 1.0,
+          "dr": 6.6,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921400,
+          "s": 0.0,
+          "dr": -14.77,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270117,
+          "s": 1.0,
+          "dr": 15.22,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270080,
+          "s": 0.0,
+          "dr": -18.39,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 16230,
@@ -68700,6 +70189,54 @@
       "ec": 0
     },
     {
+      "id": 270116,
+      "rating": 1667.1,
+      "games_played": 11,
+      "firstname": "Sverre",
+      "surname": "REUNES",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270117,
+          "s": 1.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270033,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270032,
+          "s": 0.0,
+          "dr": -23.3,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270086,
+          "s": 0.0,
+          "dr": -30.2,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 16175,
       "rating": 1667.1,
       "games_played": 6,
@@ -68957,6 +70494,78 @@
       "provisional": true,
       "last_played": "2024-10-20",
       "ec": 0
+    },
+    {
+      "id": 120433,
+      "rating": 1664.3,
+      "games_played": 42,
+      "firstname": "Bas",
+      "surname": "VAN 'T WESTENDE",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120423,
+          "s": 0.0,
+          "dr": -0.94,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 0.5,
+          "dr": 4.24,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 0.5,
+          "dr": 3.42,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 1.0,
+          "dr": 12.77,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120286,
+          "s": 0.0,
+          "dr": -8.88,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120409,
+          "s": 0.0,
+          "dr": -2.81,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 1.0,
+          "dr": 12.76,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 440774,
@@ -69464,17 +71073,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2024-03-03",
-      "ec": 0
-    },
-    {
-      "id": 270032,
-      "rating": 1659.3,
-      "games_played": 253,
-      "firstname": "Sander",
-      "surname": "SCHOTTE",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -70094,7 +71692,7 @@
     },
     {
       "id": 270043,
-      "rating": 1651.8,
+      "rating": 1651.7,
       "games_played": 14,
       "firstname": "Tony",
       "surname": "CLAEYS",
@@ -70456,6 +72054,54 @@
       "ec": 0
     },
     {
+      "id": 270090,
+      "rating": 1645.8,
+      "games_played": 7,
+      "firstname": "Merel",
+      "surname": "MAY",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270118,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270032,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270080,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270109,
+          "s": 0.5,
+          "dr": 0.0,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 16453,
       "rating": 1645.4,
       "games_played": 5,
@@ -70545,17 +72191,6 @@
       "country": "NLD",
       "provisional": true,
       "last_played": "2024-07-27",
-      "ec": 0
-    },
-    {
-      "id": 120433,
-      "rating": 1643.8,
-      "games_played": 35,
-      "firstname": "Bas",
-      "surname": "VAN 'T WESTENDE",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-03-29",
       "ec": 0
     },
     {
@@ -71001,7 +72636,7 @@
     },
     {
       "id": 270108,
-      "rating": 1640.5,
+      "rating": 1640.4,
       "games_played": 14,
       "firstname": "Mats",
       "surname": "VAN COILLIE",
@@ -71367,17 +73002,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2025-12-14",
-      "ec": 0
-    },
-    {
-      "id": 270117,
-      "rating": 1634.4,
-      "games_played": 6,
-      "firstname": "Audric",
-      "surname": "MARICHAL",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
       "ec": 0
     },
     {
@@ -72672,17 +74296,6 @@
       "ec": 0
     },
     {
-      "id": 120301,
-      "rating": 1612.4,
-      "games_played": 13,
-      "firstname": "Alissa",
-      "surname": "ZILLIG",
-      "country": "NLD",
-      "provisional": true,
-      "last_played": "2026-03-29",
-      "ec": 0
-    },
-    {
       "id": 260004,
       "rating": 1612.2,
       "games_played": 43,
@@ -73089,7 +74702,7 @@
     },
     {
       "id": 270082,
-      "rating": 1593.7,
+      "rating": 1593.6,
       "games_played": 26,
       "firstname": "Oceane",
       "surname": "HOORNAERT",
@@ -73152,6 +74765,78 @@
       "provisional": false,
       "last_played": "2025-04-03",
       "ec": 0
+    },
+    {
+      "id": 120116,
+      "rating": 1588.9,
+      "games_played": 375,
+      "firstname": "Linda",
+      "surname": "SNEEK",
+      "country": "NLD",
+      "provisional": false,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 0.0,
+          "dr": -0.63,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5010,
+          "s": 0.0,
+          "dr": -1.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 0.0,
+          "dr": -5.21,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120301,
+          "s": 1.0,
+          "dr": 10.6,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5083,
+          "s": 0.0,
+          "dr": -1.66,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 1.0,
+          "dr": 14.43,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120428,
+          "s": 0.0,
+          "dr": -1.9,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 100042,
@@ -73508,17 +75193,6 @@
       ]
     },
     {
-      "id": 120116,
-      "rating": 1575.3,
-      "games_played": 368,
-      "firstname": "Linda",
-      "surname": "SNEEK",
-      "country": "NLD",
-      "provisional": false,
-      "last_played": "2026-05-31",
-      "ec": 0
-    },
-    {
       "id": 16267,
       "rating": 1575.2,
       "games_played": 37,
@@ -73530,17 +75204,6 @@
       "ec": 0
     },
     {
-      "id": 270073,
-      "rating": 1573.4,
-      "games_played": 103,
-      "firstname": "Romain",
-      "surname": "VOLVERT",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-07-04",
-      "ec": 0
-    },
-    {
       "id": 280049,
       "rating": 1573.3,
       "games_played": 69,
@@ -73549,6 +75212,17 @@
       "country": "ARG",
       "provisional": false,
       "last_played": "2025-03-02",
+      "ec": 0
+    },
+    {
+      "id": 270073,
+      "rating": 1573.3,
+      "games_played": 103,
+      "firstname": "Romain",
+      "surname": "VOLVERT",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-07-04",
       "ec": 0
     },
     {
@@ -73630,17 +75304,6 @@
       ]
     },
     {
-      "id": 270081,
-      "rating": 1570.0,
-      "games_played": 25,
-      "firstname": "Alexander",
-      "surname": "MARICHAL",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2026-04-06",
-      "ec": 0
-    },
-    {
       "id": 40234,
       "rating": 1569.9,
       "games_played": 10,
@@ -73649,6 +75312,17 @@
       "country": "ITA",
       "provisional": true,
       "last_played": "2024-12-15",
+      "ec": 0
+    },
+    {
+      "id": 270081,
+      "rating": 1569.9,
+      "games_played": 25,
+      "firstname": "Alexander",
+      "surname": "MARICHAL",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-04-06",
       "ec": 0
     },
     {
@@ -73694,6 +75368,54 @@
       "provisional": false,
       "last_played": "2026-09-05",
       "ec": 0
+    },
+    {
+      "id": 270117,
+      "rating": 1565.0,
+      "games_played": 10,
+      "firstname": "Audric",
+      "surname": "MARICHAL",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270116,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 9921370,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270106,
+          "s": 0.0,
+          "dr": 0.0,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270086,
+          "s": 0.0,
+          "dr": -24.1,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 10020,
@@ -73895,8 +75617,80 @@
       "ec": 0
     },
     {
+      "id": 120301,
+      "rating": 1544.6,
+      "games_played": 20,
+      "firstname": "Alissa",
+      "surname": "ZILLIG",
+      "country": "NLD",
+      "provisional": true,
+      "last_played": "2026-11-01",
+      "ec": 1,
+      "tournaments": [
+        "25th_Open_Dutch_Championships"
+      ],
+      "log": [
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5009,
+          "s": 0.0,
+          "dr": -2.82,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120299,
+          "s": 0.0,
+          "dr": -11.89,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 9921368,
+          "s": 0.0,
+          "dr": -9.51,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120116,
+          "s": 0.0,
+          "dr": -21.19,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120424,
+          "s": 0.0,
+          "dr": -10.95,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 120439,
+          "s": 0.0,
+          "dr": -10.08,
+          "r": 0
+        },
+        {
+          "d": "2026-11-01",
+          "t": "20261101_25th_Open_Dutch_Championships",
+          "o": 5169,
+          "s": 0.0,
+          "dr": -1.37,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 270083,
-      "rating": 1540.3,
+      "rating": 1540.2,
       "games_played": 38,
       "firstname": "Kirsten",
       "surname": "JANSSENS",
@@ -73915,6 +75709,62 @@
       "provisional": false,
       "last_played": "2026-04-19",
       "ec": 0
+    },
+    {
+      "id": 270086,
+      "rating": 1529.0,
+      "games_played": 87,
+      "firstname": "Stan",
+      "surname": "ROOS",
+      "country": "BEL",
+      "provisional": false,
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270109,
+          "s": 1.0,
+          "dr": 7.3,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270080,
+          "s": 0.0,
+          "dr": -5.92,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270033,
+          "s": 0.0,
+          "dr": -3.55,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270116,
+          "s": 1.0,
+          "dr": 15.1,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270117,
+          "s": 1.0,
+          "dr": 12.05,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 280081,
@@ -74075,17 +75925,6 @@
       "ec": 0
     },
     {
-      "id": 270086,
-      "rating": 1505.3,
-      "games_played": 82,
-      "firstname": "Stan",
-      "surname": "ROOS",
-      "country": "BEL",
-      "provisional": false,
-      "last_played": "2026-04-06",
-      "ec": 0
-    },
-    {
       "id": 16009,
       "rating": 1505.1,
       "games_played": 10,
@@ -74120,7 +75959,7 @@
     },
     {
       "id": 270074,
-      "rating": 1494.4,
+      "rating": 1493.6,
       "games_played": 102,
       "firstname": "Sacha",
       "surname": "BURNAY",
@@ -74360,7 +76199,7 @@
     },
     {
       "id": 270060,
-      "rating": 1466.5,
+      "rating": 1466.2,
       "games_played": 77,
       "firstname": "Myrthe",
       "surname": "DEMOOR",
@@ -74490,7 +76329,7 @@
     },
     {
       "id": 270072,
-      "rating": 1410.7,
+      "rating": 1408.8,
       "games_played": 39,
       "firstname": "Thycho",
       "surname": "DEMOOR",
@@ -74501,14 +76340,51 @@
     },
     {
       "id": 270109,
-      "rating": 1406.2,
-      "games_played": 31,
+      "rating": 1400.5,
+      "games_played": 35,
       "firstname": "Lars",
       "surname": "ROOS",
       "country": "BEL",
       "provisional": false,
-      "last_played": "2026-04-06",
-      "ec": 0
+      "last_played": "2026-10-31",
+      "ec": 1,
+      "tournaments": [
+        "Oudenaarde_B"
+      ],
+      "log": [
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270086,
+          "s": 0.0,
+          "dr": -7.3,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270106,
+          "s": 0.0,
+          "dr": -3.3,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270118,
+          "s": 0.0,
+          "dr": -2.77,
+          "r": 0
+        },
+        {
+          "d": "2026-10-31",
+          "t": "20261031_Oudenaarde_B",
+          "o": 270090,
+          "s": 0.5,
+          "dr": 6.19,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 10552,
@@ -75622,7 +77498,7 @@
     ],
     "190012": [
       251,
-      2132.4
+      2132.3
     ],
     "14160": [
       252,
@@ -76390,7 +78266,7 @@
     ],
     "2785": [
       443,
-      2028.5
+      2028.6
     ],
     "14370": [
       444,
@@ -82948,11 +84824,11 @@
       2082,
       1795.9
     ],
-    "190072": [
-      2083,
-      1795.8
-    ],
     "270046": [
+      2083,
+      1795.9
+    ],
+    "190072": [
       2084,
       1795.8
     ],
@@ -83746,7 +85622,7 @@
     ],
     "270087": [
       2282,
-      1784.1
+      1784.0
     ],
     "60289": [
       2283,
@@ -84460,227 +86336,227 @@
       2460,
       1773.9
     ],
-    "320085": [
+    "270103": [
       2461,
-      1773.7
+      1773.8
     ],
-    "9917820": [
+    "320085": [
       2462,
       1773.7
     ],
-    "61022": [
+    "9917820": [
       2463,
+      1773.7
+    ],
+    "61022": [
+      2464,
       1773.6
     ],
     "16524": [
-      2464,
-      1773.5
-    ],
-    "16619": [
       2465,
       1773.5
     ],
-    "280064": [
+    "16619": [
       2466,
       1773.5
     ],
-    "16013": [
+    "280064": [
       2467,
       1773.5
     ],
-    "16597": [
+    "16013": [
       2468,
-      1773.4
+      1773.5
     ],
-    "9921154": [
+    "16597": [
       2469,
       1773.4
     ],
-    "15946": [
+    "9921154": [
       2470,
       1773.4
     ],
-    "16011": [
+    "15946": [
       2471,
+      1773.4
+    ],
+    "16011": [
+      2472,
       1773.3
     ],
     "60276": [
-      2472,
-      1773.2
-    ],
-    "440703": [
       2473,
       1773.2
     ],
-    "40475": [
+    "440703": [
       2474,
-      1773.1
+      1773.2
     ],
-    "16326": [
+    "40475": [
       2475,
       1773.1
     ],
-    "60285": [
+    "16326": [
       2476,
+      1773.1
+    ],
+    "60285": [
+      2477,
       1773.0
     ],
     "16614": [
-      2477,
-      1772.8
-    ],
-    "440665": [
       2478,
       1772.8
     ],
-    "61021": [
+    "440665": [
       2479,
-      1772.7
+      1772.8
     ],
-    "441069": [
+    "61021": [
       2480,
       1772.7
     ],
-    "9920760": [
+    "441069": [
       2481,
-      1772.6
+      1772.7
     ],
-    "290545": [
+    "9920760": [
       2482,
       1772.6
     ],
-    "290589": [
+    "290545": [
       2483,
       1772.6
     ],
-    "290588": [
+    "290589": [
       2484,
       1772.6
     ],
-    "60283": [
+    "290588": [
       2485,
-      1772.5
+      1772.6
     ],
-    "11315": [
+    "60283": [
       2486,
       1772.5
     ],
-    "350032": [
+    "11315": [
       2487,
       1772.5
     ],
-    "620019": [
+    "350032": [
       2488,
-      1772.4
+      1772.5
     ],
-    "290402": [
+    "620019": [
       2489,
       1772.4
     ],
-    "440582": [
+    "290402": [
       2490,
       1772.4
     ],
-    "130072": [
+    "440582": [
       2491,
       1772.4
     ],
-    "41000": [
+    "130072": [
       2492,
-      1772.3
+      1772.4
     ],
-    "620016": [
+    "41000": [
       2493,
       1772.3
     ],
-    "15828": [
+    "620016": [
       2494,
       1772.3
     ],
-    "16570": [
+    "15828": [
       2495,
-      1772.1
+      1772.3
     ],
-    "440674": [
+    "16570": [
       2496,
       1772.1
     ],
-    "15747": [
+    "440674": [
       2497,
       1772.1
     ],
-    "280052": [
+    "15747": [
       2498,
-      1772.0
+      1772.1
     ],
-    "120288": [
+    "280052": [
       2499,
       1772.0
     ],
-    "20416": [
+    "120288": [
       2500,
+      1772.0
+    ],
+    "20416": [
+      2501,
       1771.9
     ],
     "441224": [
-      2501,
-      1771.8
-    ],
-    "440775": [
       2502,
       1771.8
     ],
-    "580026": [
+    "440775": [
       2503,
-      1771.6
+      1771.8
     ],
-    "60294": [
+    "580026": [
       2504,
       1771.6
     ],
-    "9917023": [
+    "60294": [
       2505,
       1771.6
     ],
-    "16115": [
+    "9917023": [
       2506,
       1771.6
     ],
-    "9919526": [
+    "16115": [
       2507,
-      1771.5
+      1771.6
     ],
-    "290608": [
+    "9919526": [
       2508,
       1771.5
     ],
-    "430012": [
+    "290608": [
       2509,
       1771.5
     ],
-    "16232": [
+    "430012": [
       2510,
       1771.5
     ],
-    "290401": [
+    "16232": [
       2511,
-      1771.4
+      1771.5
     ],
-    "440345": [
+    "290401": [
       2512,
       1771.4
     ],
-    "16250": [
+    "440345": [
       2513,
       1771.4
     ],
-    "190324": [
+    "16250": [
       2514,
+      1771.4
+    ],
+    "190324": [
+      2515,
       1771.3
     ],
     "420065": [
-      2515,
-      1771.2
-    ],
-    "270103": [
       2516,
       1771.2
     ],
@@ -85208,47 +87084,47 @@
       2647,
       1765.2
     ],
-    "270104": [
-      2648,
-      1765.2
-    ],
     "9920763": [
-      2649,
+      2648,
       1765.1
     ],
     "40479": [
-      2650,
+      2649,
       1765.1
     ],
     "60311": [
-      2651,
+      2650,
       1765.1
     ],
     "60338": [
-      2652,
+      2651,
       1765.1
     ],
     "441886": [
-      2653,
+      2652,
       1765.1
     ],
     "390072": [
-      2654,
+      2653,
       1765.1
     ],
     "440629": [
-      2655,
+      2654,
       1765.1
     ],
     "440654": [
-      2656,
+      2655,
       1765.1
     ],
     "440822": [
-      2657,
+      2656,
       1765.1
     ],
     "440941": [
+      2657,
+      1765.1
+    ],
+    "270104": [
       2658,
       1765.1
     ],
@@ -85412,23 +87288,23 @@
       2698,
       1763.1
     ],
-    "40448": [
+    "270026": [
       2699,
-      1763.0
+      1763.1
     ],
-    "60130": [
+    "40448": [
       2700,
       1763.0
     ],
-    "440753": [
+    "60130": [
       2701,
       1763.0
     ],
-    "15990": [
+    "440753": [
       2702,
       1763.0
     ],
-    "270026": [
+    "15990": [
       2703,
       1763.0
     ],
@@ -86704,723 +88580,723 @@
       3021,
       1742.1
     ],
-    "270090": [
-      3022,
-      1742.1
-    ],
     "290153": [
-      3023,
+      3022,
       1742.0
     ],
     "440818": [
-      3024,
+      3023,
       1741.8
     ],
     "15736": [
-      3025,
+      3024,
       1741.8
     ],
     "9921181": [
-      3026,
+      3025,
       1741.7
     ],
     "441225": [
-      3027,
+      3026,
       1741.7
     ],
     "320521": [
-      3028,
+      3027,
       1741.6
     ],
     "290611": [
-      3029,
+      3028,
       1741.6
     ],
     "620021": [
-      3030,
+      3029,
       1741.5
     ],
     "40317": [
-      3031,
+      3030,
       1741.5
     ],
     "7233": [
-      3032,
+      3031,
       1741.5
     ],
     "16266": [
-      3033,
+      3032,
       1741.5
     ],
     "16229": [
-      3034,
+      3033,
       1741.4
     ],
     "440680": [
-      3035,
+      3034,
       1741.3
     ],
     "440695": [
-      3036,
+      3035,
       1741.3
     ],
     "440931": [
-      3037,
+      3036,
       1741.3
     ],
     "16272": [
-      3038,
+      3037,
       1741.3
     ],
     "16312": [
-      3039,
+      3038,
       1741.3
     ],
     "40478": [
-      3040,
+      3039,
       1741.2
     ],
     "14644": [
-      3041,
+      3040,
       1741.2
     ],
     "441058": [
-      3042,
+      3041,
       1741.2
     ],
     "15913": [
-      3043,
+      3042,
       1741.2
     ],
     "40449": [
-      3044,
+      3043,
       1741.0
     ],
     "11577": [
-      3045,
+      3044,
       1741.0
     ],
     "40450": [
-      3046,
+      3045,
       1740.9
     ],
     "270105": [
-      3047,
+      3046,
       1740.7
     ],
     "170040": [
-      3048,
+      3047,
       1740.6
     ],
     "12142": [
-      3049,
+      3048,
       1740.4
     ],
     "130076": [
-      3050,
+      3049,
       1740.4
     ],
     "280074": [
-      3051,
+      3050,
       1740.3
     ],
     "190377": [
-      3052,
+      3051,
       1740.3
     ],
     "9921190": [
-      3053,
+      3052,
       1740.2
     ],
     "441239": [
-      3054,
+      3053,
       1740.1
     ],
     "441250": [
-      3055,
+      3054,
       1740.1
     ],
     "9921077": [
-      3056,
+      3055,
       1740.1
     ],
     "441917": [
-      3057,
+      3056,
       1740.0
     ],
     "40198": [
-      3058,
+      3057,
       1740.0
     ],
     "40316": [
-      3059,
+      3058,
       1740.0
     ],
     "40318": [
-      3060,
+      3059,
       1740.0
     ],
     "441035": [
-      3061,
+      3060,
       1740.0
     ],
     "130085": [
-      3062,
+      3061,
       1740.0
     ],
     "16416": [
-      3063,
+      3062,
       1739.8
     ],
     "14519": [
-      3064,
+      3063,
       1739.8
     ],
     "15173": [
-      3065,
+      3064,
       1739.8
     ],
     "40177": [
-      3066,
+      3065,
       1739.8
     ],
     "440009": [
-      3067,
+      3066,
       1739.7
     ],
     "15988": [
-      3068,
+      3067,
       1739.7
     ],
     "580020": [
-      3069,
+      3068,
       1739.6
     ],
     "440692": [
-      3070,
+      3069,
       1739.6
     ],
     "440627": [
-      3071,
+      3070,
       1739.4
     ],
     "60129": [
-      3072,
+      3071,
       1739.4
     ],
     "270084": [
-      3073,
+      3072,
       1739.4
     ],
     "190356": [
-      3074,
+      3073,
       1739.2
     ],
     "9921147": [
-      3075,
+      3074,
       1739.0
     ],
     "40208": [
-      3076,
+      3075,
       1739.0
     ],
     "16159": [
-      3077,
+      3076,
       1739.0
     ],
     "50132": [
-      3078,
+      3077,
       1738.9
     ],
     "15247": [
-      3079,
+      3078,
       1738.9
     ],
     "420081": [
-      3080,
+      3079,
       1738.8
     ],
     "16425": [
-      3081,
+      3080,
       1738.7
     ],
     "16433": [
-      3082,
+      3081,
       1738.7
     ],
     "14670": [
-      3083,
+      3082,
       1738.7
     ],
     "40443": [
-      3084,
+      3083,
       1738.6
     ],
     "16397": [
-      3085,
+      3084,
       1738.4
     ],
     "16173": [
-      3086,
+      3085,
       1738.3
     ],
     "440605": [
-      3087,
+      3086,
       1738.1
     ],
     "60103": [
-      3088,
+      3087,
       1738.0
     ],
     "16130": [
-      3089,
+      3088,
       1738.0
     ],
     "15997": [
-      3090,
+      3089,
       1738.0
     ],
     "16407": [
-      3091,
+      3090,
       1737.9
     ],
     "16508": [
-      3092,
+      3091,
       1737.9
     ],
     "16542": [
-      3093,
+      3092,
       1737.9
     ],
     "440884": [
-      3094,
+      3093,
       1737.9
     ],
     "15842": [
-      3095,
+      3094,
       1737.9
     ],
     "15945": [
-      3096,
+      3095,
       1737.9
     ],
     "440757": [
-      3097,
+      3096,
       1737.8
     ],
     "40218": [
-      3098,
+      3097,
       1737.7
     ],
     "16381": [
-      3099,
+      3098,
       1737.7
     ],
     "210205": [
-      3100,
+      3099,
       1737.6
     ],
     "440647": [
-      3101,
+      3100,
       1737.6
     ],
     "440715": [
-      3102,
+      3101,
       1737.6
     ],
     "15454": [
-      3103,
+      3102,
       1737.6
     ],
     "60014": [
-      3104,
+      3103,
       1737.5
     ],
     "441144": [
-      3105,
+      3104,
       1737.5
     ],
     "61030": [
-      3106,
+      3105,
       1737.2
     ],
     "210218": [
-      3107,
+      3106,
       1737.2
     ],
     "440881": [
-      3108,
+      3107,
       1737.2
     ],
     "40280": [
-      3109,
+      3108,
       1737.1
     ],
     "4873": [
-      3110,
+      3109,
       1737.0
     ],
     "440549": [
-      3111,
+      3110,
       1737.0
     ],
     "440978": [
-      3112,
+      3111,
       1736.9
     ],
     "15642": [
-      3113,
+      3112,
       1736.9
     ],
     "390055": [
-      3114,
+      3113,
       1736.8
     ],
     "16618": [
-      3115,
+      3114,
       1736.7
     ],
     "15941": [
-      3116,
+      3115,
       1736.7
     ],
     "40339": [
-      3117,
+      3116,
       1736.6
     ],
     "61054": [
-      3118,
+      3117,
       1736.3
     ],
     "16109": [
-      3119,
+      3118,
       1736.2
     ],
     "16547": [
-      3120,
+      3119,
       1736.1
     ],
     "15701": [
-      3121,
+      3120,
       1736.1
     ],
     "16417": [
-      3122,
+      3121,
       1736.0
     ],
     "441915": [
-      3123,
+      3122,
       1736.0
     ],
     "20068": [
-      3124,
+      3123,
       1735.9
     ],
     "440924": [
-      3125,
+      3124,
       1735.8
     ],
     "280096": [
-      3126,
+      3125,
       1735.6
     ],
     "440732": [
-      3127,
+      3126,
       1735.5
     ],
     "16351": [
-      3128,
+      3127,
       1735.4
     ],
     "15645": [
-      3129,
+      3128,
       1735.3
     ],
     "9921210": [
-      3130,
+      3129,
       1735.2
     ],
     "210216": [
-      3131,
+      3130,
       1735.0
     ],
     "16106": [
-      3132,
+      3131,
       1735.0
     ],
     "16469": [
-      3133,
+      3132,
       1734.9
     ],
     "441148": [
-      3134,
+      3133,
       1734.8
     ],
     "580028": [
-      3135,
+      3134,
       1734.7
     ],
     "150097": [
-      3136,
+      3135,
       1734.7
     ],
     "12270": [
-      3137,
+      3136,
       1734.7
     ],
     "441884": [
-      3138,
+      3137,
       1734.5
     ],
     "16300": [
-      3139,
+      3138,
       1734.4
     ],
     "60174": [
-      3140,
+      3139,
       1734.3
     ],
     "60181": [
-      3141,
+      3140,
       1734.3
     ],
     "60184": [
-      3142,
+      3141,
       1734.3
     ],
     "290575": [
-      3143,
+      3142,
       1734.3
     ],
     "441117": [
-      3144,
+      3143,
       1734.3
     ],
     "60172": [
-      3145,
+      3144,
       1734.3
     ],
     "441906": [
-      3146,
+      3145,
       1734.2
     ],
     "390057": [
-      3147,
+      3146,
       1734.2
     ],
     "16393": [
-      3148,
+      3147,
       1734.0
     ],
     "16216": [
-      3149,
+      3148,
       1733.9
     ],
     "16237": [
-      3150,
+      3149,
       1733.9
     ],
     "120436": [
-      3151,
+      3150,
       1733.6
     ],
     "60121": [
-      3152,
+      3151,
       1733.4
     ],
     "441928": [
-      3153,
+      3152,
       1733.4
     ],
     "15966": [
-      3154,
+      3153,
       1733.4
     ],
     "16446": [
-      3155,
+      3154,
       1733.3
     ],
     "441952": [
-      3156,
+      3155,
       1733.3
     ],
     "441310": [
-      3157,
+      3156,
       1733.2
     ],
     "350065": [
-      3158,
+      3157,
       1733.1
     ],
     "16485": [
-      3159,
+      3158,
       1733.0
     ],
     "14636": [
-      3160,
+      3159,
       1733.0
     ],
     "270037": [
-      3161,
-      1732.9
+      3160,
+      1733.0
     ],
     "441913": [
-      3162,
+      3161,
       1732.8
     ],
     "441088": [
-      3163,
+      3162,
       1732.6
     ],
     "10107": [
-      3164,
+      3163,
       1732.5
     ],
     "16500": [
-      3165,
+      3164,
       1732.4
     ],
     "16560": [
-      3166,
+      3165,
       1732.4
     ],
     "15612": [
-      3167,
+      3166,
       1732.4
     ],
     "15865": [
-      3168,
+      3167,
       1732.3
     ],
     "441940": [
-      3169,
+      3168,
       1732.0
     ],
     "15904": [
-      3170,
+      3169,
       1732.0
     ],
     "15928": [
-      3171,
+      3170,
       1731.8
     ],
     "420176": [
-      3172,
+      3171,
       1731.7
     ],
     "15626": [
-      3173,
+      3172,
       1731.6
     ],
     "20056": [
-      3174,
+      3173,
       1731.5
     ],
     "440612": [
-      3175,
+      3174,
       1731.5
     ],
     "15968": [
-      3176,
+      3175,
       1731.5
     ],
     "16546": [
-      3177,
+      3176,
       1731.2
     ],
     "40452": [
-      3178,
+      3177,
       1731.0
     ],
     "40216": [
-      3179,
+      3178,
       1731.0
     ],
     "16372": [
-      3180,
+      3179,
       1731.0
     ],
     "440954": [
-      3181,
+      3180,
       1730.9
     ],
     "15513": [
-      3182,
+      3181,
       1730.9
     ],
     "320023": [
-      3183,
+      3182,
       1730.8
     ],
     "420077": [
-      3184,
+      3183,
       1730.8
     ],
     "420164": [
-      3185,
+      3184,
       1730.8
     ],
     "40344": [
-      3186,
+      3185,
       1730.8
     ],
     "15880": [
-      3187,
+      3186,
       1730.8
     ],
     "15095": [
-      3188,
+      3187,
       1730.7
     ],
     "15633": [
-      3189,
+      3188,
       1730.6
     ],
     "441958": [
-      3190,
+      3189,
       1730.1
     ],
     "15730": [
-      3191,
+      3190,
       1730.1
     ],
     "15872": [
-      3192,
+      3191,
       1729.8
     ],
     "440955": [
-      3193,
+      3192,
       1729.7
     ],
     "120303": [
-      3194,
+      3193,
       1729.6
     ],
     "5715": [
-      3195,
+      3194,
       1729.5
     ],
     "15795": [
-      3196,
+      3195,
       1729.5
     ],
     "15921": [
-      3197,
+      3196,
       1729.5
     ],
     "90015": [
-      3198,
+      3197,
       1729.4
     ],
     "16355": [
-      3199,
+      3198,
       1729.4
     ],
     "16516": [
-      3200,
+      3199,
       1729.3
     ],
     "60134": [
+      3200,
+      1729.3
+    ],
+    "270118": [
       3201,
       1729.3
     ],
@@ -87884,187 +89760,187 @@
       3316,
       1720.6
     ],
-    "16164": [
+    "270116": [
       3317,
       1720.6
     ],
-    "15917": [
+    "16164": [
       3318,
+      1720.6
+    ],
+    "15917": [
+      3319,
       1720.5
     ],
     "190322": [
-      3319,
-      1720.4
-    ],
-    "16249": [
       3320,
       1720.4
     ],
-    "220082": [
+    "16249": [
       3321,
-      1720.1
+      1720.4
     ],
-    "15923": [
+    "220082": [
       3322,
       1720.1
     ],
-    "16174": [
+    "15923": [
       3323,
       1720.1
     ],
-    "441060": [
+    "16174": [
       3324,
-      1720.0
+      1720.1
     ],
-    "15477": [
+    "441060": [
       3325,
       1720.0
     ],
-    "15667": [
+    "15477": [
       3326,
       1720.0
     ],
-    "16512": [
+    "15667": [
       3327,
-      1719.8
+      1720.0
     ],
-    "440748": [
+    "16512": [
       3328,
       1719.8
     ],
-    "120438": [
+    "440748": [
       3329,
       1719.8
     ],
-    "16442": [
+    "120438": [
       3330,
-      1719.7
+      1719.8
     ],
-    "420165": [
+    "16442": [
       3331,
       1719.7
     ],
-    "441943": [
+    "420165": [
       3332,
+      1719.7
+    ],
+    "441943": [
+      3333,
       1719.6
     ],
     "16484": [
-      3333,
-      1719.5
-    ],
-    "20032": [
       3334,
       1719.5
     ],
-    "16455": [
+    "20032": [
       3335,
+      1719.5
+    ],
+    "16455": [
+      3336,
       1719.3
     ],
     "260057": [
-      3336,
+      3337,
       1719.2
     ],
     "60147": [
-      3337,
-      1719.1
-    ],
-    "440981": [
       3338,
       1719.1
     ],
-    "441059": [
+    "440981": [
       3339,
+      1719.1
+    ],
+    "441059": [
+      3340,
       1719.0
     ],
     "40453": [
-      3340,
+      3341,
       1718.9
     ],
     "60305": [
-      3341,
-      1718.8
-    ],
-    "290417": [
       3342,
       1718.8
     ],
-    "440820": [
+    "290417": [
       3343,
-      1718.7
+      1718.8
     ],
-    "15762": [
+    "440820": [
       3344,
       1718.7
     ],
-    "16418": [
+    "15762": [
       3345,
-      1718.6
+      1718.7
     ],
-    "16544": [
+    "16418": [
       3346,
       1718.6
     ],
-    "441230": [
+    "16544": [
       3347,
       1718.6
     ],
-    "440611": [
+    "441230": [
       3348,
       1718.6
     ],
-    "15752": [
+    "440611": [
       3349,
       1718.6
     ],
-    "16436": [
+    "15752": [
       3350,
-      1718.4
+      1718.6
     ],
-    "9921159": [
+    "16436": [
       3351,
       1718.4
     ],
-    "60298": [
+    "9921159": [
       3352,
       1718.4
     ],
-    "16203": [
+    "60298": [
       3353,
       1718.4
     ],
-    "50131": [
+    "16203": [
       3354,
+      1718.4
+    ],
+    "50131": [
+      3355,
       1718.2
     ],
     "16584": [
-      3355,
+      3356,
       1718.1
     ],
     "6982": [
-      3356,
-      1718.0
-    ],
-    "40465": [
       3357,
       1718.0
     ],
-    "270115": [
+    "40465": [
       3358,
       1718.0
     ],
-    "16017": [
+    "270115": [
       3359,
       1718.0
     ],
-    "290560": [
+    "16017": [
       3360,
-      1717.8
+      1718.0
     ],
-    "440637": [
+    "290560": [
       3361,
       1717.8
     ],
-    "270116": [
+    "440637": [
       3362,
       1717.8
     ],
@@ -88094,7 +89970,7 @@
     ],
     "270030": [
       3369,
-      1717.3
+      1717.4
     ],
     "16615": [
       3370,
@@ -88960,119 +90836,119 @@
       3585,
       1702.4
     ],
-    "270106": [
+    "40167": [
       3586,
       1702.3
     ],
-    "40167": [
+    "15924": [
       3587,
       1702.3
     ],
-    "15924": [
-      3588,
-      1702.3
-    ],
     "250301": [
-      3589,
+      3588,
       1702.2
     ],
     "16024": [
-      3590,
+      3589,
       1702.2
     ],
     "9920748": [
-      3591,
+      3590,
       1702.0
     ],
     "16459": [
-      3592,
+      3591,
       1702.0
     ],
     "441086": [
-      3593,
+      3592,
       1702.0
     ],
     "15777": [
-      3594,
+      3593,
       1701.9
     ],
     "580018": [
-      3595,
+      3594,
       1701.8
     ],
     "440783": [
-      3596,
+      3595,
       1701.8
     ],
     "16531": [
-      3597,
+      3596,
       1701.5
     ],
     "440140": [
-      3598,
+      3597,
       1701.4
     ],
     "210224": [
-      3599,
+      3598,
       1701.1
     ],
     "15859": [
-      3600,
+      3599,
       1701.1
     ],
     "9921215": [
-      3601,
+      3600,
       1701.0
     ],
     "40466": [
-      3602,
+      3601,
       1700.9
     ],
     "60131": [
-      3603,
+      3602,
       1700.8
     ],
     "120403": [
-      3604,
+      3603,
       1700.5
     ],
     "16186": [
-      3605,
+      3604,
       1700.5
     ],
     "60142": [
-      3606,
+      3605,
       1700.4
     ],
     "15926": [
-      3607,
+      3606,
       1700.4
     ],
     "40175": [
-      3608,
+      3607,
       1700.3
     ],
     "16050": [
-      3609,
+      3608,
       1700.3
     ],
     "60119": [
-      3610,
+      3609,
       1700.2
     ],
     "16169": [
-      3611,
+      3610,
       1700.2
     ],
     "190351": [
-      3612,
+      3611,
       1700.1
     ],
     "40200": [
-      3613,
+      3612,
       1700.0
     ],
     "14012": [
+      3613,
+      1699.7
+    ],
+    "270106": [
       3614,
       1699.7
     ],
@@ -89110,7 +90986,7 @@
     ],
     "270061": [
       3623,
-      1698.9
+      1698.8
     ],
     "15635": [
       3624,
@@ -89390,7 +91266,7 @@
     ],
     "270076": [
       3693,
-      1692.3
+      1692.2
     ],
     "16306": [
       3694,
@@ -90000,175 +91876,175 @@
       3845,
       1678.4
     ],
-    "270080": [
-      3846,
-      1678.4
-    ],
     "190354": [
-      3847,
+      3846,
       1678.3
     ],
     "16574": [
-      3848,
+      3847,
       1678.2
     ],
     "60137": [
-      3849,
+      3848,
       1678.0
     ],
     "61031": [
-      3850,
+      3849,
       1677.8
     ],
     "270085": [
-      3851,
+      3850,
       1677.6
     ],
-    "270118": [
-      3852,
-      1677.5
-    ],
     "15689": [
-      3853,
+      3851,
       1677.3
     ],
     "61033": [
-      3854,
+      3852,
       1677.1
     ],
     "320066": [
-      3855,
+      3853,
       1677.0
     ],
     "210076": [
-      3856,
+      3854,
       1677.0
     ],
     "220040": [
-      3857,
+      3855,
       1677.0
     ],
     "410030": [
-      3858,
+      3856,
       1676.8
     ],
     "220076": [
-      3859,
+      3857,
       1676.8
     ],
     "15712": [
-      3860,
+      3858,
       1676.7
     ],
     "16608": [
-      3861,
+      3859,
       1676.6
     ],
     "440573": [
-      3862,
+      3860,
       1676.5
     ],
     "40228": [
-      3863,
+      3861,
       1676.5
     ],
     "150083": [
-      3864,
+      3862,
       1676.2
     ],
     "61026": [
-      3865,
+      3863,
       1676.2
     ],
     "440687": [
-      3866,
+      3864,
       1676.2
     ],
     "60306": [
-      3867,
+      3865,
       1676.0
     ],
     "440615": [
-      3868,
+      3866,
       1675.8
     ],
     "16124": [
-      3869,
+      3867,
       1675.7
     ],
     "16059": [
-      3870,
+      3868,
       1675.7
     ],
     "40347": [
-      3871,
+      3869,
+      1675.6
+    ],
+    "270080": [
+      3870,
       1675.6
     ],
     "16269": [
-      3872,
+      3871,
       1675.6
     ],
     "15963": [
-      3873,
+      3872,
       1675.5
     ],
     "16246": [
-      3874,
+      3873,
       1675.4
     ],
     "440821": [
-      3875,
+      3874,
       1675.1
     ],
     "16539": [
-      3876,
+      3875,
       1674.7
     ],
     "15898": [
-      3877,
+      3876,
       1674.6
     ],
     "15965": [
-      3878,
+      3877,
       1674.5
     ],
     "441061": [
-      3879,
+      3878,
       1674.4
     ],
     "30545": [
-      3880,
+      3879,
       1674.3
     ],
     "270036": [
-      3881,
-      1674.2
+      3880,
+      1674.1
     ],
     "9920772": [
-      3882,
+      3881,
       1673.7
     ],
     "40340": [
-      3883,
+      3882,
       1673.7
     ],
     "15424": [
-      3884,
+      3883,
       1673.6
     ],
     "16049": [
-      3885,
+      3884,
       1673.5
     ],
     "13987": [
-      3886,
+      3885,
       1673.4
     ],
     "60268": [
-      3887,
+      3886,
       1673.2
     ],
     "580030": [
+      3887,
+      1673.1
+    ],
+    "270091": [
       3888,
       1673.1
     ],
@@ -90196,317 +92072,317 @@
       3894,
       1672.4
     ],
-    "270091": [
-      3895,
-      1672.2
-    ],
     "441959": [
-      3896,
+      3895,
       1672.1
     ],
     "30544": [
-      3897,
+      3896,
       1671.9
     ],
     "16383": [
-      3898,
+      3897,
       1671.9
     ],
     "3734": [
-      3899,
+      3898,
       1671.8
     ],
     "270016": [
-      3900,
+      3899,
       1671.0
     ],
     "16283": [
-      3901,
+      3900,
       1670.9
     ],
     "16230": [
-      3902,
+      3901,
       1670.5
     ],
     "16589": [
-      3903,
+      3902,
       1670.4
     ],
     "270112": [
-      3904,
+      3903,
       1670.4
     ],
     "15687": [
-      3905,
+      3904,
       1670.3
     ],
     "15901": [
-      3906,
+      3905,
       1670.3
     ],
     "14168": [
-      3907,
+      3906,
       1670.0
     ],
     "15622": [
-      3908,
+      3907,
       1669.8
     ],
     "9921161": [
-      3909,
+      3908,
       1669.7
     ],
     "16082": [
-      3910,
+      3909,
       1669.7
     ],
     "16415": [
-      3911,
+      3910,
       1669.6
     ],
     "150092": [
-      3912,
+      3911,
       1669.6
     ],
     "16176": [
-      3913,
+      3912,
       1669.4
     ],
     "61035": [
-      3914,
+      3913,
       1669.3
     ],
     "150058": [
-      3915,
+      3914,
       1669.2
     ],
     "200041": [
-      3916,
+      3915,
       1669.2
     ],
     "16438": [
-      3917,
+      3916,
       1668.9
     ],
     "440851": [
-      3918,
+      3917,
       1668.9
     ],
     "16135": [
-      3919,
+      3918,
       1668.8
     ],
     "441317": [
-      3920,
+      3919,
       1668.7
     ],
     "15634": [
-      3921,
+      3920,
       1668.6
     ],
     "15826": [
-      3922,
+      3921,
       1668.6
     ],
     "13957": [
-      3923,
+      3922,
       1667.8
     ],
     "16567": [
-      3924,
+      3923,
       1667.5
     ],
     "16559": [
-      3925,
+      3924,
       1667.4
     ],
     "15693": [
-      3926,
+      3925,
       1667.4
     ],
     "15709": [
-      3927,
+      3926,
       1667.4
     ],
     "441950": [
-      3928,
+      3927,
       1667.1
     ],
     "16175": [
-      3929,
+      3928,
       1667.1
     ],
     "16554": [
-      3930,
+      3929,
       1667.0
     ],
     "15576": [
-      3931,
+      3930,
       1666.8
     ],
     "441323": [
-      3932,
+      3931,
       1666.6
     ],
     "9921211": [
-      3933,
+      3932,
       1666.5
     ],
     "16331": [
-      3934,
+      3933,
       1666.2
     ],
     "15885": [
-      3935,
+      3934,
       1665.6
     ],
     "441300": [
-      3936,
+      3935,
       1665.5
     ],
     "440646": [
-      3937,
+      3936,
       1665.3
     ],
     "350025": [
-      3938,
+      3937,
       1664.9
     ],
     "40178": [
-      3939,
+      3938,
       1664.9
     ],
     "16413": [
-      3940,
+      3939,
       1664.7
     ],
     "60133": [
-      3941,
+      3940,
       1664.7
     ],
     "60150": [
-      3942,
+      3941,
       1664.7
     ],
     "120426": [
-      3943,
+      3942,
       1664.5
     ],
     "170147": [
-      3944,
+      3943,
       1664.5
     ],
     "16094": [
-      3945,
+      3944,
       1664.4
     ],
     "440774": [
-      3946,
+      3945,
       1664.2
     ],
     "16069": [
-      3947,
+      3946,
       1664.1
     ],
     "420079": [
-      3948,
+      3947,
       1663.7
     ],
     "350034": [
-      3949,
+      3948,
       1663.7
     ],
     "15893": [
-      3950,
+      3949,
       1663.2
     ],
     "16165": [
-      3951,
+      3950,
       1663.1
     ],
     "16526": [
-      3952,
+      3951,
       1663.0
     ],
     "441264": [
-      3953,
+      3952,
       1663.0
     ],
     "290613": [
-      3954,
+      3953,
       1662.7
     ],
     "16490": [
-      3955,
+      3954,
       1662.6
     ],
     "15937": [
-      3956,
+      3955,
       1662.4
     ],
     "440424": [
-      3957,
+      3956,
       1662.3
     ],
     "16161": [
-      3958,
+      3957,
       1662.3
     ],
     "440592": [
-      3959,
+      3958,
       1662.2
     ],
     "441054": [
-      3960,
+      3959,
       1662.1
     ],
     "15783": [
-      3961,
+      3960,
       1662.0
     ],
     "9072": [
-      3962,
+      3961,
       1661.8
     ],
     "210222": [
-      3963,
+      3962,
       1661.4
     ],
     "16068": [
-      3964,
+      3963,
       1661.4
     ],
     "16434": [
-      3965,
+      3964,
       1661.3
     ],
     "16280": [
-      3966,
+      3965,
       1661.3
     ],
     "652": [
-      3967,
+      3966,
       1661.2
     ],
     "40319": [
-      3968,
+      3967,
       1661.1
     ],
     "90104": [
-      3969,
+      3968,
       1661.1
     ],
     "320516": [
-      3970,
+      3969,
       1660.6
     ],
     "420076": [
-      3971,
+      3970,
       1660.5
     ],
     "16026": [
-      3972,
+      3971,
       1660.4
+    ],
+    "270032": [
+      3972,
+      1660.3
     ],
     "290421": [
       3973,
@@ -90516,313 +92392,313 @@
       3974,
       1659.6
     ],
-    "270032": [
-      3975,
-      1659.3
-    ],
     "16468": [
-      3976,
+      3975,
       1659.2
     ],
     "9921165": [
-      3977,
+      3976,
       1658.8
     ],
     "270092": [
-      3978,
+      3977,
       1658.6
     ],
     "30551": [
-      3979,
+      3978,
       1658.4
     ],
     "440867": [
-      3980,
+      3979,
       1658.3
     ],
     "16119": [
-      3981,
+      3980,
       1658.1
     ],
     "15918": [
-      3982,
+      3981,
       1658.0
     ],
     "15773": [
-      3983,
+      3982,
       1657.9
     ],
     "6914": [
-      3984,
+      3983,
       1657.7
     ],
     "15909": [
-      3985,
+      3984,
       1657.3
     ],
     "440865": [
-      3986,
+      3985,
       1657.2
     ],
     "16101": [
-      3987,
+      3986,
       1656.7
     ],
     "441237": [
-      3988,
+      3987,
       1656.5
     ],
     "60099": [
-      3989,
+      3988,
       1656.5
     ],
     "441321": [
-      3990,
+      3989,
       1656.5
     ],
     "40102": [
-      3991,
+      3990,
       1656.4
     ],
     "441960": [
-      3992,
+      3991,
       1656.2
     ],
     "60337": [
-      3993,
+      3992,
       1656.1
     ],
     "620025": [
-      3994,
+      3993,
       1656.1
     ],
     "220048": [
-      3995,
+      3994,
       1656.1
     ],
     "60310": [
-      3996,
+      3995,
       1656.0
     ],
     "16426": [
-      3997,
+      3996,
       1655.7
     ],
     "40220": [
-      3998,
+      3997,
       1655.6
     ],
     "440776": [
-      3999,
+      3998,
       1655.5
     ],
     "16583": [
-      4000,
+      3999,
       1655.0
     ],
     "441152": [
-      4001,
+      4000,
       1655.0
     ],
     "441978": [
-      4002,
+      4001,
       1654.9
     ],
     "15724": [
-      4003,
+      4002,
       1654.7
     ],
     "440868": [
-      4004,
+      4003,
       1654.4
     ],
     "15649": [
-      4005,
+      4004,
       1654.2
     ],
     "440713": [
-      4006,
+      4005,
       1653.8
     ],
     "12739": [
-      4007,
+      4006,
       1653.5
     ],
     "16201": [
-      4008,
+      4007,
       1653.3
     ],
     "16386": [
-      4009,
+      4008,
       1652.8
     ],
     "16576": [
-      4010,
+      4009,
       1652.6
     ],
     "150087": [
-      4011,
+      4010,
       1652.5
     ],
     "14455": [
-      4012,
+      4011,
       1652.4
     ],
     "16534": [
-      4013,
+      4012,
       1652.3
     ],
     "40222": [
-      4014,
+      4013,
       1652.3
     ],
     "580008": [
-      4015,
+      4014,
       1652.0
     ],
     "270043": [
-      4016,
-      1651.8
+      4015,
+      1651.7
     ],
     "320523": [
-      4017,
+      4016,
       1651.6
     ],
     "16511": [
-      4018,
+      4017,
       1651.4
     ],
     "16043": [
-      4019,
+      4018,
       1651.2
     ],
     "280097": [
-      4020,
+      4019,
       1650.8
     ],
     "15839": [
-      4021,
+      4020,
       1650.8
     ],
     "210226": [
-      4022,
+      4021,
       1650.7
     ],
     "16278": [
-      4023,
+      4022,
       1650.7
     ],
     "440688": [
-      4024,
+      4023,
       1650.5
     ],
     "441247": [
-      4025,
+      4024,
       1650.1
     ],
     "15890": [
-      4026,
+      4025,
       1649.9
     ],
     "15810": [
-      4027,
+      4026,
       1649.8
     ],
     "16046": [
-      4028,
+      4027,
       1649.6
     ],
     "15874": [
-      4029,
+      4028,
       1649.4
     ],
     "15728": [
-      4030,
+      4029,
       1649.2
     ],
     "3093": [
-      4031,
+      4030,
       1649.1
     ],
     "390071": [
-      4032,
+      4031,
       1649.1
     ],
     "15080": [
-      4033,
+      4032,
       1648.4
     ],
     "190378": [
-      4034,
+      4033,
       1648.1
     ],
     "15992": [
-      4035,
+      4034,
       1648.1
     ],
     "16296": [
-      4036,
+      4035,
       1648.0
     ],
     "16470": [
-      4037,
+      4036,
       1647.7
     ],
     "16025": [
-      4038,
+      4037,
       1647.5
     ],
     "16008": [
-      4039,
+      4038,
       1647.4
     ],
     "15549": [
-      4040,
+      4039,
       1646.8
     ],
     "40258": [
-      4041,
+      4040,
       1646.7
     ],
     "420163": [
-      4042,
+      4041,
       1646.6
     ],
     "16358": [
-      4043,
+      4042,
       1646.6
     ],
     "440986": [
-      4044,
+      4043,
       1646.3
     ],
     "16113": [
-      4045,
+      4044,
       1646.3
     ],
     "210215": [
-      4046,
+      4045,
       1646.2
     ],
     "441096": [
-      4047,
+      4046,
       1646.2
     ],
     "15813": [
-      4048,
+      4047,
       1646.2
     ],
     "16594": [
-      4049,
+      4048,
       1646.0
     ],
     "40140": [
-      4050,
+      4049,
       1646.0
     ],
     "14580": [
-      4051,
+      4050,
       1645.9
+    ],
+    "270090": [
+      4051,
+      1645.8
     ],
     "16453": [
       4052,
@@ -90886,7 +92762,7 @@
     ],
     "270108": [
       4067,
-      1640.5
+      1640.4
     ],
     "15812": [
       4068,
@@ -90980,485 +92856,485 @@
       4090,
       1634.5
     ],
-    "270117": [
-      4091,
-      1634.4
-    ],
     "440256": [
-      4092,
+      4091,
       1633.8
     ],
     "16366": [
-      4093,
+      4092,
       1633.8
     ],
     "15867": [
-      4094,
+      4093,
       1633.6
     ],
     "16437": [
-      4095,
+      4094,
       1633.2
     ],
     "16061": [
-      4096,
+      4095,
       1633.0
     ],
     "16562": [
-      4097,
+      4096,
       1632.9
     ],
     "14141": [
-      4098,
+      4097,
       1632.8
     ],
     "440667": [
-      4099,
+      4098,
       1632.6
     ],
     "16195": [
-      4100,
+      4099,
       1632.5
     ],
     "16301": [
-      4101,
+      4100,
       1632.5
     ],
     "90": [
-      4102,
+      4101,
       1632.2
     ],
     "16313": [
-      4103,
+      4102,
       1631.8
     ],
     "16498": [
-      4104,
+      4103,
       1631.4
     ],
     "320082": [
-      4105,
+      4104,
       1631.2
     ],
     "420174": [
-      4106,
+      4105,
       1631.0
     ],
     "160011": [
-      4107,
+      4106,
       1630.9
     ],
     "15980": [
-      4108,
+      4107,
       1630.8
     ],
     "350039": [
-      4109,
+      4108,
       1629.9
     ],
     "16200": [
-      4110,
+      4109,
       1629.9
     ],
     "14674": [
-      4111,
+      4110,
       1629.8
     ],
     "13665": [
-      4112,
+      4111,
       1629.6
     ],
     "40297": [
-      4113,
+      4112,
       1629.6
     ],
     "16114": [
-      4114,
+      4113,
       1629.5
     ],
     "440895": [
-      4115,
+      4114,
       1629.0
     ],
     "440891": [
-      4116,
+      4115,
       1628.9
     ],
     "441139": [
-      4117,
+      4116,
       1628.7
     ],
     "440711": [
-      4118,
+      4117,
       1628.5
     ],
     "440117": [
-      4119,
+      4118,
       1627.7
     ],
     "131000": [
-      4120,
+      4119,
       1627.2
     ],
     "210203": [
-      4121,
+      4120,
       1627.1
     ],
     "16424": [
-      4122,
+      4121,
       1626.2
     ],
     "15455": [
-      4123,
+      4122,
       1625.7
     ],
     "15714": [
-      4124,
+      4123,
       1625.5
     ],
     "20059": [
-      4125,
+      4124,
       1625.1
     ],
     "200406": [
-      4126,
+      4125,
       1625.0
     ],
     "61040": [
-      4127,
+      4126,
       1624.9
     ],
     "16226": [
-      4128,
+      4127,
       1624.7
     ],
     "40097": [
-      4129,
+      4128,
       1624.4
     ],
     "15592": [
-      4130,
+      4129,
       1624.3
     ],
     "15788": [
-      4131,
+      4130,
       1624.3
     ],
     "220072": [
-      4132,
+      4131,
       1624.2
     ],
     "16104": [
-      4133,
+      4132,
       1623.8
     ],
     "15759": [
-      4134,
+      4133,
       1623.8
     ],
     "15905": [
-      4135,
+      4134,
       1623.7
     ],
     "11815": [
-      4136,
+      4135,
       1623.4
     ],
     "16527": [
-      4137,
+      4136,
       1623.2
     ],
     "9919991": [
-      4138,
+      4137,
       1623.2
     ],
     "16398": [
-      4139,
+      4138,
       1622.9
     ],
     "440933": [
-      4140,
+      4139,
       1622.4
     ],
     "16148": [
-      4141,
+      4140,
       1622.1
     ],
     "220058": [
-      4142,
+      4141,
       1621.4
     ],
     "15776": [
-      4143,
+      4142,
       1620.9
     ],
     "9921158": [
-      4144,
+      4143,
       1620.1
     ],
     "15557": [
-      4145,
+      4144,
       1619.9
     ],
     "100073": [
-      4146,
+      4145,
       1619.8
     ],
     "40185": [
-      4147,
+      4146,
       1619.8
     ],
     "441037": [
-      4148,
+      4147,
       1619.7
     ],
     "4509": [
-      4149,
+      4148,
       1618.6
     ],
     "15655": [
-      4150,
+      4149,
       1618.3
     ],
     "14391": [
-      4151,
+      4150,
       1618.0
     ],
     "61036": [
-      4152,
+      4151,
       1617.2
     ],
     "15590": [
-      4153,
+      4152,
       1616.8
     ],
     "120415": [
-      4154,
+      4153,
       1616.7
     ],
     "15698": [
-      4155,
+      4154,
       1616.6
     ],
     "220067": [
-      4156,
+      4155,
       1615.9
     ],
     "15610": [
-      4157,
+      4156,
       1615.7
     ],
     "580006": [
-      4158,
+      4157,
       1615.5
     ],
     "441090": [
-      4159,
+      4158,
       1614.3
     ],
     "280057": [
-      4160,
+      4159,
       1614.1
     ],
     "260045": [
-      4161,
+      4160,
       1614.1
     ],
     "350070": [
-      4162,
+      4161,
       1613.8
     ],
     "16409": [
-      4163,
+      4162,
       1613.7
     ],
     "16091": [
-      4164,
+      4163,
       1613.6
     ],
     "200401": [
-      4165,
+      4164,
       1613.5
     ],
     "40457": [
-      4166,
+      4165,
       1613.1
     ],
     "40125": [
-      4167,
+      4166,
       1613.1
     ],
     "15877": [
-      4168,
+      4167,
       1613.0
     ],
     "16265": [
-      4169,
+      4168,
       1612.8
     ],
     "120301": [
-      4170,
+      4169,
       1612.4
     ],
     "260004": [
-      4171,
+      4170,
       1612.2
     ],
     "220069": [
-      4172,
+      4171,
       1611.9
     ],
     "16134": [
-      4173,
+      4172,
       1611.4
     ],
     "441316": [
-      4174,
+      4173,
       1611.4
     ],
     "441125": [
-      4175,
+      4174,
       1611.3
     ],
     "260044": [
-      4176,
+      4175,
       1610.9
     ],
     "270071": [
-      4177,
+      4176,
       1610.6
     ],
     "40180": [
-      4178,
+      4177,
       1608.9
     ],
     "30470": [
-      4179,
+      4178,
       1607.9
     ],
     "16379": [
-      4180,
+      4179,
       1607.6
     ],
     "90000": [
-      4181,
+      4180,
       1606.3
     ],
     "15013": [
-      4182,
+      4181,
       1606.0
     ],
     "16184": [
-      4183,
+      4182,
       1606.0
     ],
     "15614": [
-      4184,
+      4183,
       1605.8
     ],
     "15670": [
-      4185,
+      4184,
       1605.1
     ],
     "15688": [
-      4186,
+      4185,
       1605.1
     ],
     "441258": [
-      4187,
+      4186,
       1604.9
     ],
     "16206": [
-      4188,
+      4187,
       1604.9
     ],
     "441107": [
-      4189,
+      4188,
       1604.5
     ],
     "580004": [
-      4190,
+      4189,
       1604.0
     ],
     "16163": [
-      4191,
+      4190,
       1602.8
     ],
     "15920": [
-      4192,
+      4191,
       1602.3
     ],
     "14140": [
-      4193,
+      4192,
       1601.9
     ],
     "280098": [
-      4194,
+      4193,
       1601.7
     ],
     "210212": [
-      4195,
+      4194,
       1601.7
     ],
     "440063": [
-      4196,
+      4195,
       1599.8
     ],
     "210210": [
-      4197,
+      4196,
       1599.4
     ],
     "15568": [
-      4198,
+      4197,
       1598.6
     ],
     "16112": [
-      4199,
+      4198,
       1598.5
     ],
     "11326": [
-      4200,
+      4199,
       1598.2
     ],
     "100055": [
-      4201,
+      4200,
       1598.0
     ],
     "16171": [
-      4202,
+      4201,
       1595.9
     ],
     "6961": [
-      4203,
+      4202,
       1594.9
     ],
     "15631": [
-      4204,
+      4203,
       1594.8
     ],
     "270082": [
-      4205,
-      1593.7
+      4204,
+      1593.6
     ],
     "15800": [
-      4206,
+      4205,
       1593.4
     ],
     "16310": [
-      4207,
+      4206,
       1593.2
     ],
     "15213": [
-      4208,
+      4207,
       1591.9
     ],
     "13931": [
-      4209,
+      4208,
       1591.0
     ],
     "16268": [
-      4210,
+      4209,
       1589.6
+    ],
+    "270117": [
+      4210,
+      1589.1
     ],
     "250298": [
       4211,
@@ -91572,11 +93448,11 @@
       4238,
       1575.2
     ],
-    "270073": [
-      4239,
-      1573.4
-    ],
     "280049": [
+      4239,
+      1573.3
+    ],
+    "270073": [
       4240,
       1573.3
     ],
@@ -91588,11 +93464,11 @@
       4242,
       1571.6
     ],
-    "270081": [
-      4243,
-      1570.0
-    ],
     "40234": [
+      4243,
+      1569.9
+    ],
+    "270081": [
       4244,
       1569.9
     ],
@@ -91674,7 +93550,7 @@
     ],
     "270083": [
       4264,
-      1540.3
+      1540.2
     ],
     "13266": [
       4265,
@@ -91720,17 +93596,17 @@
       4275,
       1507.6
     ],
-    "270086": [
-      4276,
-      1505.3
-    ],
     "16009": [
-      4277,
+      4276,
       1505.1
     ],
     "702": [
-      4278,
+      4277,
       1505.0
+    ],
+    "270086": [
+      4278,
+      1504.0
     ],
     "9921200": [
       4279,
@@ -91738,7 +93614,7 @@
     ],
     "270074": [
       4280,
-      1494.4
+      1493.6
     ],
     "15615": [
       4281,
@@ -91782,7 +93658,7 @@
     ],
     "270060": [
       4291,
-      1466.5
+      1466.2
     ],
     "350044": [
       4292,
@@ -91806,11 +93682,11 @@
     ],
     "270072": [
       4297,
-      1410.7
+      1408.8
     ],
     "270109": [
       4298,
-      1406.2
+      1407.6
     ],
     "10089": [
       4299,
