@@ -1,0 +1,42 @@
+%%Tournament: Gambrinus Open
+%%Country: RU
+%%Date: 15/10/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 320060, ATAMANOV, Dmitry, RUS, 3, 155, 2077
+%_% 320013, DORODNYKH, Maksim, RUS, 3, 142, 1510
+%_% 320029, PEREL'MAN, Andrey, RUS, 3, 139, 1859
+%_% 320087, SHEVCHENKO, Ivan, RUS, 1, 139, 1800
+%_% 320019, GNEZDILOV, Viktor, RUS, 0, 65, 1629
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/679
+
+%Round: 1
+
+ 320087 (29)<(35) 320029  B
+ 320060 (27)<(37) 320013  B
+
+%Round: 2
+
+ 320029 (36)>(28) 320019  B
+ 320013 (33)>(31) 320087  B
+
+%Round: 3
+
+ 320013 (22)<(42) 320029  B
+ 320019 (16)<(48) 320060  B
+
+%Round: 4
+
+ 320029 (26)<(38) 320060  B
+ 320087 (57)>(07) 320019  B
+
+%Round: 5
+
+ 320060 (42)>(22) 320087  B
+ 320019 (14)<(50) 320013  B

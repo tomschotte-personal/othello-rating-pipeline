@@ -51,16 +51,26 @@
   "status": "missing"
  },
  "671": {
-  "status": "missing"
+  "status": "open",
+  "name": "Malaroarnas Open SGP",
+  "end_date": "",
+  "players": 6
  },
  "672": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 676
  },
  "673": {
-  "status": "missing"
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 5
  },
  "674": {
-  "status": "missing"
+  "status": "open",
+  "name": "GPI rome 2027",
+  "end_date": "",
+  "players": 14
  },
  "675": {
   "status": "missing"
@@ -69,34 +79,58 @@
   "status": "missing"
  },
  "677": {
-  "status": "missing"
+  "status": "finished",
+  "name": "Baganuur Othello 2026 Open Tournament",
+  "end_date": "2026-10-24T09:01:08.000Z",
+  "players": 68
  },
  "678": {
-  "status": "missing"
+  "status": "open",
+  "name": "Milan EGP",
+  "end_date": "",
+  "players": 32
  },
  "679": {
-  "status": "missing"
+  "status": "finished",
+  "name": "Gambrinus Open",
+  "end_date": "2026-10-15T21:05:44.000Z",
+  "players": 5
  },
  "680": {
-  "status": "missing"
+  "status": "open",
+  "name": "Melbourne Open 2026",
+  "end_date": "",
+  "players": 14
  },
  "681": {
-  "status": "missing"
+  "status": "finished",
+  "name": "Ile-de-France youth Open - friendly",
+  "end_date": "2026-10-17T15:47:53.000Z",
+  "players": 6
  },
  "682": {
-  "status": "missing"
+  "status": "open",
+  "name": "11th Torino",
+  "end_date": "",
+  "players": 8
  },
  "683": {
-  "status": "missing"
+  "status": "finished",
+  "name": "Oudenaarde A XOT",
+  "end_date": "2026-10-31T15:31:37.000Z",
+  "players": 4
  },
  "684": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 676
  },
  "685": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 676
  },
  "686": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 676
  },
  "687": {
   "status": "missing"
