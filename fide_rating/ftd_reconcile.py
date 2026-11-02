@@ -143,9 +143,10 @@ def main():
         if tid in done:
             continue
         cached = seen.get(tid)
-        # 'missing' and skip-named finished events stay settled; anything
-        # open or errored gets probed again.
-        if cached and cached.get('status') == 'missing':
+        # 'missing' is settled only if a HIGHER id already existed when it was
+        # probed (FTD ids are sequential): an id probed before its event was
+        # created must be retried (2026-11-02: 670-684 all stuck as 'missing').
+        if cached and cached.get('status') == 'missing' and cached.get('hi', 0) > tid:
             continue
         if not cached or cached.get('status') != 'finished':
             fresh = probe(tid)
@@ -156,6 +157,8 @@ def main():
                 print(f'  {tid}: probe failed, keeping status '
                       f'{cached.get("status")}: {cached.get("name", "")}')
                 continue
+            if fresh.get('status') == 'missing':
+                fresh['hi'] = hi
             cached = fresh
             seen[tid] = cached
         if cached.get('status') != 'finished':

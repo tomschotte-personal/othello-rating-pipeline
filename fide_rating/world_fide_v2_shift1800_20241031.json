@@ -307,7 +307,7 @@
     },
     {
       "id": 13841,
-      "rating": 2482.2,
+      "rating": 2482.3,
       "initial": 2015.5,
       "games_played": 743,
       "firstname": "Akihiro",
@@ -579,7 +579,7 @@
           "t": "20241025_WOC_2024",
           "o": 15567,
           "s": 1.0,
-          "dr": 1.93
+          "dr": 1.94
         }
       ]
     },
@@ -861,7 +861,7 @@
     },
     {
       "id": 5661,
-      "rating": 2368.8,
+      "rating": 2368.9,
       "initial": 1780.4,
       "games_played": 961,
       "firstname": "Satoshi",
@@ -980,7 +980,7 @@
           "t": "20241027_285_Kawagoe_ranking_games",
           "o": 5603,
           "s": 0.0,
-          "dr": -7.65
+          "dr": -7.66
         },
         {
           "d": "2024-10-27",
@@ -1252,7 +1252,7 @@
     },
     {
       "id": 12554,
-      "rating": 2345.7,
+      "rating": 2345.8,
       "initial": 1921.9,
       "games_played": 121,
       "firstname": "Yoshiki",
@@ -1301,7 +1301,7 @@
           "t": "20241020_14_Mito_open",
           "o": 655,
           "s": 0.0,
-          "dr": -14.46
+          "dr": -14.47
         },
         {
           "d": "2024-10-20",
@@ -1391,7 +1391,7 @@
     },
     {
       "id": 14710,
-      "rating": 2329.0,
+      "rating": 2329.3,
       "initial": 1939.9,
       "games_played": 274,
       "firstname": "Kenta",
@@ -1640,7 +1640,7 @@
     },
     {
       "id": 6970,
-      "rating": 2310.0,
+      "rating": 2310.1,
       "initial": 1721.3,
       "games_played": 1449,
       "firstname": "Takahiro",
@@ -1662,7 +1662,7 @@
     },
     {
       "id": 10045,
-      "rating": 2305.1,
+      "rating": 2305.2,
       "initial": 1906.0,
       "games_played": 669,
       "firstname": "Ryota",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": 92,
-      "rating": 2304.0,
+      "rating": 2304.1,
       "initial": 1696.8,
       "games_played": 1532,
       "firstname": "Karsten",
@@ -2121,7 +2121,7 @@
           "t": "20241012_33_Kansai_championship_A",
           "o": 13957,
           "s": 1.0,
-          "dr": 0.67
+          "dr": 0.66
         },
         {
           "d": "2024-10-12",
@@ -2537,7 +2537,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 10557,
           "s": 0.0,
-          "dr": -13.07
+          "dr": -13.08
         },
         {
           "d": "2024-10-06",
@@ -2763,7 +2763,7 @@
     },
     {
       "id": 14101,
-      "rating": 2276.0,
+      "rating": 2276.1,
       "initial": 1960.0,
       "games_played": 321,
       "firstname": "Kenshun",
@@ -2871,7 +2871,7 @@
     },
     {
       "id": 10557,
-      "rating": 2272.8,
+      "rating": 2272.9,
       "initial": 1864.2,
       "games_played": 458,
       "firstname": "Yuji",
@@ -2899,7 +2899,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 13454,
           "s": 1.0,
-          "dr": 13.07
+          "dr": 13.08
         },
         {
           "d": "2024-10-06",
@@ -3344,7 +3344,7 @@
           "t": "20241025_WOC_2024",
           "o": 420027,
           "s": 0.0,
-          "dr": -12.81
+          "dr": -12.82
         },
         {
           "d": "2024-10-25",
@@ -3406,7 +3406,7 @@
     },
     {
       "id": 13464,
-      "rating": 2266.5,
+      "rating": 2266.6,
       "initial": 1808.1,
       "games_played": 762,
       "firstname": "Daiki",
@@ -3434,7 +3434,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 5661,
           "s": 0.0,
-          "dr": -6.75
+          "dr": -6.74
         },
         {
           "d": "2024-10-06",
@@ -3448,7 +3448,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 5524,
           "s": 1.0,
-          "dr": 7.83
+          "dr": 7.82
         },
         {
           "d": "2024-10-06",
@@ -3618,7 +3618,7 @@
     },
     {
       "id": 5589,
-      "rating": 2263.1,
+      "rating": 2263.2,
       "initial": 1847.7,
       "games_played": 1585,
       "firstname": "Hidekazu",
@@ -3662,7 +3662,7 @@
     },
     {
       "id": 2560,
-      "rating": 2260.4,
+      "rating": 2260.5,
       "initial": 1987.7,
       "games_played": 660,
       "firstname": "Martin",
@@ -4480,7 +4480,7 @@
     },
     {
       "id": 5540,
-      "rating": 2232.3,
+      "rating": 2232.4,
       "initial": 1821.8,
       "games_played": 1269,
       "firstname": "Jo",
@@ -4524,7 +4524,7 @@
     },
     {
       "id": 14702,
-      "rating": 2223.6,
+      "rating": 2223.7,
       "initial": 1842.5,
       "games_played": 487,
       "firstname": "Yuwa",
@@ -4794,119 +4794,8 @@
       "last_played": "2024-07-21"
     },
     {
-      "id": 655,
-      "rating": 2215.2,
-      "initial": 1938.2,
-      "games_played": 589,
-      "firstname": "Nobuyuki",
-      "surname": "TAKIZAWA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-10-20",
-      "log": [
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 5584,
-          "s": 1.0,
-          "dr": 12.73
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 12341,
-          "s": 1.0,
-          "dr": 10.23
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 13892,
-          "s": 1.0,
-          "dr": 14.08
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 10616,
-          "s": 0.0,
-          "dr": -12.64
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 13270,
-          "s": 1.0,
-          "dr": 12.59
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 15755,
-          "s": 0.0,
-          "dr": -10.71
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 13258,
-          "s": 1.0,
-          "dr": 0.4
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 12126,
-          "s": 0.0,
-          "dr": -10.65
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 14104,
-          "s": 1.0,
-          "dr": 2.58
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 299,
-          "s": 1.0,
-          "dr": 12.5
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 15586,
-          "s": 1.0,
-          "dr": 4.4
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 651,
-          "s": 1.0,
-          "dr": 8.57
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 12554,
-          "s": 1.0,
-          "dr": 14.46
-        },
-        {
-          "d": "2024-10-20",
-          "t": "20241020_14_Mito_open",
-          "o": 5584,
-          "s": 1.0,
-          "dr": 10.61
-        }
-      ]
-    },
-    {
       "id": 5584,
-      "rating": 2215.2,
+      "rating": 2215.3,
       "initial": 1827.2,
       "games_played": 1499,
       "firstname": "Takanori",
@@ -5009,8 +4898,119 @@
       ]
     },
     {
+      "id": 655,
+      "rating": 2215.2,
+      "initial": 1938.2,
+      "games_played": 589,
+      "firstname": "Nobuyuki",
+      "surname": "TAKIZAWA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-10-20",
+      "log": [
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 5584,
+          "s": 1.0,
+          "dr": 12.73
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 12341,
+          "s": 1.0,
+          "dr": 10.23
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 13892,
+          "s": 1.0,
+          "dr": 14.08
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 10616,
+          "s": 0.0,
+          "dr": -12.64
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 13270,
+          "s": 1.0,
+          "dr": 12.59
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 15755,
+          "s": 0.0,
+          "dr": -10.71
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 13258,
+          "s": 1.0,
+          "dr": 0.4
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 12126,
+          "s": 0.0,
+          "dr": -10.65
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 14104,
+          "s": 1.0,
+          "dr": 2.58
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 299,
+          "s": 1.0,
+          "dr": 12.5
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 15586,
+          "s": 1.0,
+          "dr": 4.4
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 651,
+          "s": 1.0,
+          "dr": 8.57
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 12554,
+          "s": 1.0,
+          "dr": 14.47
+        },
+        {
+          "d": "2024-10-20",
+          "t": "20241020_14_Mito_open",
+          "o": 5584,
+          "s": 1.0,
+          "dr": 10.61
+        }
+      ]
+    },
+    {
       "id": 177,
-      "rating": 2214.7,
+      "rating": 2214.8,
       "initial": 1773.9,
       "games_played": 536,
       "firstname": "Brian",
@@ -5021,7 +5021,7 @@
     },
     {
       "id": 14240,
-      "rating": 2213.5,
+      "rating": 2213.6,
       "initial": 1710.6,
       "games_played": 283,
       "firstname": "Tokuya",
@@ -5056,7 +5056,7 @@
           "t": "20241013_111_Q_league",
           "o": 14692,
           "s": 1.0,
-          "dr": 2.93
+          "dr": 2.92
         },
         {
           "d": "2024-10-13",
@@ -5115,7 +5115,7 @@
           "t": "20241025_WOC_2024",
           "o": 15567,
           "s": 0.0,
-          "dr": -12.79
+          "dr": -12.78
         },
         {
           "d": "2024-10-25",
@@ -5615,7 +5615,7 @@
           "t": "20241025_WOC_2024",
           "o": 4130,
           "s": 1.0,
-          "dr": 9.84
+          "dr": 9.83
         }
       ]
     },
@@ -5768,6 +5768,17 @@
       "last_played": "2024-09-08"
     },
     {
+      "id": 578,
+      "rating": 2193.4,
+      "initial": 1960.9,
+      "games_played": 547,
+      "firstname": "Kazuhiro",
+      "surname": "SAKAGUCHI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2023-10-22"
+    },
+    {
       "id": 5169,
       "rating": 2193.4,
       "initial": 1896.9,
@@ -5870,17 +5881,6 @@
           "dr": 5.97
         }
       ]
-    },
-    {
-      "id": 578,
-      "rating": 2193.3,
-      "initial": 1960.9,
-      "games_played": 547,
-      "firstname": "Kazuhiro",
-      "surname": "SAKAGUCHI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2023-10-22"
     },
     {
       "id": 4074,
@@ -6236,7 +6236,7 @@
           "t": "20241012_33_Kansai_championship_A",
           "o": 13841,
           "s": 0.0,
-          "dr": -2.63
+          "dr": -2.62
         },
         {
           "d": "2024-10-20",
@@ -6325,6 +6325,17 @@
       ]
     },
     {
+      "id": 10684,
+      "rating": 2179.5,
+      "initial": 1925.1,
+      "games_played": 291,
+      "firstname": "Kousuke",
+      "surname": "SASAKI",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2023-10-08"
+    },
+    {
       "id": 4138,
       "rating": 2179.5,
       "initial": 1873.8,
@@ -6334,17 +6345,6 @@
       "country": "SGP",
       "provisional": false,
       "last_played": "2024-06-09"
-    },
-    {
-      "id": 10684,
-      "rating": 2179.4,
-      "initial": 1925.1,
-      "games_played": 291,
-      "firstname": "Kousuke",
-      "surname": "SASAKI",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2023-10-08"
     },
     {
       "id": 305,
@@ -6464,14 +6464,14 @@
           "t": "20241025_WOC_2024",
           "o": 4004,
           "s": 1.0,
-          "dr": 5.21
+          "dr": 5.22
         },
         {
           "d": "2024-10-25",
           "t": "20241025_WOC_2024",
           "o": 5504,
           "s": 0.0,
-          "dr": -9.84
+          "dr": -9.83
         }
       ]
     },
@@ -7315,7 +7315,7 @@
           "t": "20241025_WOC_2024",
           "o": 60013,
           "s": 1.0,
-          "dr": 12.79
+          "dr": 12.78
         },
         {
           "d": "2024-10-25",
@@ -7479,7 +7479,7 @@
           "t": "20241025_WOC_2024",
           "o": 13270,
           "s": 1.0,
-          "dr": 12.81
+          "dr": 12.82
         },
         {
           "d": "2024-10-25",
@@ -7618,7 +7618,7 @@
     },
     {
       "id": 12543,
-      "rating": 2148.9,
+      "rating": 2149.0,
       "initial": 1927.4,
       "games_played": 375,
       "firstname": "Ukyo",
@@ -7847,7 +7847,7 @@
     },
     {
       "id": 12042,
-      "rating": 2147.6,
+      "rating": 2147.7,
       "initial": 1795.3,
       "games_played": 496,
       "firstname": "Ayumi",
@@ -8234,6 +8234,103 @@
       ]
     },
     {
+      "id": 10083,
+      "rating": 2143.1,
+      "initial": 1688.6,
+      "games_played": 980,
+      "firstname": "Shigeaki",
+      "surname": "AIHARA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-10-27",
+      "log": [
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 15755,
+          "s": 1.0,
+          "dr": 9.86
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 5584,
+          "s": 1.0,
+          "dr": 11.96
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 15774,
+          "s": 1.0,
+          "dr": 3.34
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 13887,
+          "s": 0.0,
+          "dr": -14.31
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 13892,
+          "s": 1.0,
+          "dr": 14.03
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 10616,
+          "s": 0.0,
+          "dr": -11.72
+        },
+        {
+          "d": "2024-10-13",
+          "t": "20241013_Star_camp_2024",
+          "o": 13270,
+          "s": 1.0,
+          "dr": 12.61
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_2024_Niigata_phoenix_match",
+          "o": 13244,
+          "s": 0.0,
+          "dr": -16.61
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_2024_Niigata_phoenix_match",
+          "o": 651,
+          "s": 1.0,
+          "dr": 9.22
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_2024_Niigata_phoenix_match",
+          "o": 7047,
+          "s": 0.0,
+          "dr": -9.42
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_2024_Niigata_phoenix_match",
+          "o": 5524,
+          "s": 0.0,
+          "dr": -11.46
+        },
+        {
+          "d": "2024-10-27",
+          "t": "20241027_2024_Niigata_phoenix_match",
+          "o": 488,
+          "s": 0.0,
+          "dr": -6.44
+        }
+      ]
+    },
+    {
       "id": 250147,
       "rating": 2143.1,
       "initial": 1815.5,
@@ -8334,103 +8431,6 @@
           "o": 320025,
           "s": 0.0,
           "dr": -10.69
-        }
-      ]
-    },
-    {
-      "id": 10083,
-      "rating": 2143.0,
-      "initial": 1688.6,
-      "games_played": 980,
-      "firstname": "Shigeaki",
-      "surname": "AIHARA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-10-27",
-      "log": [
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 15755,
-          "s": 1.0,
-          "dr": 9.86
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 5584,
-          "s": 1.0,
-          "dr": 11.96
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 15774,
-          "s": 1.0,
-          "dr": 3.34
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 13887,
-          "s": 0.0,
-          "dr": -14.31
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 13892,
-          "s": 1.0,
-          "dr": 14.03
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 10616,
-          "s": 0.0,
-          "dr": -11.72
-        },
-        {
-          "d": "2024-10-13",
-          "t": "20241013_Star_camp_2024",
-          "o": 13270,
-          "s": 1.0,
-          "dr": 12.61
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_2024_Niigata_phoenix_match",
-          "o": 13244,
-          "s": 0.0,
-          "dr": -16.61
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_2024_Niigata_phoenix_match",
-          "o": 651,
-          "s": 1.0,
-          "dr": 9.22
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_2024_Niigata_phoenix_match",
-          "o": 7047,
-          "s": 0.0,
-          "dr": -9.42
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_2024_Niigata_phoenix_match",
-          "o": 5524,
-          "s": 0.0,
-          "dr": -11.46
-        },
-        {
-          "d": "2024-10-27",
-          "t": "20241027_2024_Niigata_phoenix_match",
-          "o": 488,
-          "s": 0.0,
-          "dr": -6.44
         }
       ]
     },
@@ -8713,7 +8713,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 5661,
           "s": 0.0,
-          "dr": -4.09
+          "dr": -4.08
         },
         {
           "d": "2024-10-06",
@@ -8758,7 +8758,7 @@
     },
     {
       "id": 651,
-      "rating": 2136.2,
+      "rating": 2136.3,
       "initial": 1965.5,
       "games_played": 780,
       "firstname": "Hideki",
@@ -9002,7 +9002,7 @@
     },
     {
       "id": 12341,
-      "rating": 2133.4,
+      "rating": 2133.5,
       "initial": 1744.7,
       "games_played": 346,
       "firstname": "Kousei",
@@ -9693,7 +9693,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 13464,
           "s": 0.0,
-          "dr": -7.83
+          "dr": -7.82
         },
         {
           "d": "2024-10-06",
@@ -10361,7 +10361,7 @@
     },
     {
       "id": 5513,
-      "rating": 2113.0,
+      "rating": 2113.1,
       "initial": 1932.0,
       "games_played": 1420,
       "firstname": "Kunihiko",
@@ -10486,7 +10486,7 @@
     },
     {
       "id": 12466,
-      "rating": 2106.4,
+      "rating": 2106.5,
       "initial": 1822.8,
       "games_played": 562,
       "firstname": "Toru",
@@ -11227,7 +11227,7 @@
     },
     {
       "id": 6843,
-      "rating": 2094.2,
+      "rating": 2094.3,
       "initial": 1835.6,
       "games_played": 1337,
       "firstname": "Kenichi",
@@ -11486,7 +11486,7 @@
           "t": "20241013_111_Q_league",
           "o": 15782,
           "s": 0.0,
-          "dr": -13.47
+          "dr": -13.46
         }
       ]
     },
@@ -11511,6 +11511,17 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2023-11-26"
+    },
+    {
+      "id": 15465,
+      "rating": 2086.0,
+      "initial": 2086.0,
+      "games_played": 6,
+      "firstname": "Keita",
+      "surname": "KAWASHIMA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2022-05-03"
     },
     {
       "id": 12520,
@@ -12036,7 +12047,7 @@
     },
     {
       "id": 12328,
-      "rating": 2061.6,
+      "rating": 2061.7,
       "initial": 1777.5,
       "games_played": 768,
       "firstname": "Takashi",
@@ -12166,7 +12177,7 @@
           "t": "20241013_4_Watarase_open",
           "o": 16179,
           "s": 1.0,
-          "dr": 4.23
+          "dr": 4.22
         },
         {
           "d": "2024-10-13",
@@ -12244,19 +12255,8 @@
       "last_played": "2024-06-29"
     },
     {
-      "id": 13147,
-      "rating": 2056.5,
-      "initial": 1785.6,
-      "games_played": 87,
-      "firstname": "Hiroki",
-      "surname": "SHINNO",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-07-13"
-    },
-    {
       "id": 10318,
-      "rating": 2056.4,
+      "rating": 2056.5,
       "initial": 1755.1,
       "games_played": 1092,
       "firstname": "Hideaki",
@@ -12357,6 +12357,17 @@
           "dr": -8.37
         }
       ]
+    },
+    {
+      "id": 13147,
+      "rating": 2056.5,
+      "initial": 1785.6,
+      "games_played": 87,
+      "firstname": "Hiroki",
+      "surname": "SHINNO",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-07-13"
     },
     {
       "id": 12552,
@@ -12503,7 +12514,7 @@
     },
     {
       "id": 10210,
-      "rating": 2053.9,
+      "rating": 2054.5,
       "initial": 1900.5,
       "games_played": 100,
       "firstname": "Kengo",
@@ -12547,7 +12558,7 @@
     },
     {
       "id": 5083,
-      "rating": 2052.1,
+      "rating": 2052.2,
       "initial": 1861.7,
       "games_played": 1638,
       "firstname": "Marcel",
@@ -12735,7 +12746,7 @@
           "t": "20241025_WOC_2024",
           "o": 440432,
           "s": 1.0,
-          "dr": 9.78
+          "dr": 9.79
         },
         {
           "d": "2024-10-25",
@@ -13023,7 +13034,7 @@
           "t": "20241003_6_Korea_King_of_Kings",
           "o": 30503,
           "s": 0.0,
-          "dr": -13.49
+          "dr": -13.48
         },
         {
           "d": "2024-10-03",
@@ -13068,7 +13079,7 @@
     },
     {
       "id": 440025,
-      "rating": 2043.5,
+      "rating": 2043.6,
       "initial": 1852.1,
       "games_played": 51,
       "firstname": "Namkhai",
@@ -13878,6 +13889,17 @@
       "last_played": "2024-06-16"
     },
     {
+      "id": 11709,
+      "rating": 2031.1,
+      "initial": 1853.0,
+      "games_played": 195,
+      "firstname": "Yuki",
+      "surname": "IKEDA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-07-14"
+    },
+    {
       "id": 2511,
       "rating": 2031.0,
       "initial": 1807.3,
@@ -13887,17 +13909,6 @@
       "country": "NOR",
       "provisional": false,
       "last_played": "2024-06-01"
-    },
-    {
-      "id": 11709,
-      "rating": 2031.0,
-      "initial": 1853.0,
-      "games_played": 195,
-      "firstname": "Yuki",
-      "surname": "IKEDA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-07-14"
     },
     {
       "id": 13887,
@@ -13992,7 +14003,7 @@
           "t": "20241025_WOC_2024",
           "o": 440029,
           "s": 1.0,
-          "dr": 11.16
+          "dr": 11.17
         },
         {
           "d": "2024-10-25",
@@ -14566,17 +14577,6 @@
       "last_played": "2021-10-03"
     },
     {
-      "id": 15465,
-      "rating": 2021.6,
-      "initial": 2021.6,
-      "games_played": 6,
-      "firstname": "Keita",
-      "surname": "KAWASHIMA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2022-05-03"
-    },
-    {
       "id": 6422,
       "rating": 2021.1,
       "initial": 1816.0,
@@ -14589,7 +14589,7 @@
     },
     {
       "id": 15552,
-      "rating": 2020.5,
+      "rating": 2020.6,
       "initial": 1956.7,
       "games_played": 61,
       "firstname": "Shunji",
@@ -14622,7 +14622,7 @@
     },
     {
       "id": 440136,
-      "rating": 2019.1,
+      "rating": 2019.2,
       "initial": 1859.6,
       "games_played": 47,
       "firstname": "Tushigbayar",
@@ -15542,7 +15542,7 @@
     },
     {
       "id": 440022,
-      "rating": 2006.2,
+      "rating": 2006.3,
       "initial": 1778.1,
       "games_played": 95,
       "firstname": "Tuguldur",
@@ -15648,7 +15648,7 @@
           "t": "20241019_163_Shinagawa_open",
           "o": 16156,
           "s": 1.0,
-          "dr": 6.69
+          "dr": 6.68
         },
         {
           "d": "2024-10-19",
@@ -16443,7 +16443,7 @@
     },
     {
       "id": 440029,
-      "rating": 1989.8,
+      "rating": 1989.9,
       "initial": 1864.9,
       "games_played": 130,
       "firstname": "Manlai",
@@ -16457,7 +16457,7 @@
           "t": "20241025_WOC_2024",
           "o": 190120,
           "s": 0.0,
-          "dr": -11.16
+          "dr": -11.17
         },
         {
           "d": "2024-10-25",
@@ -16478,7 +16478,7 @@
           "t": "20241025_WOC_2024",
           "o": 210163,
           "s": 1.0,
-          "dr": 2.83
+          "dr": 2.82
         },
         {
           "d": "2024-10-25",
@@ -16729,7 +16729,7 @@
           "t": "20241013_111_Q_league",
           "o": 13300,
           "s": 1.0,
-          "dr": 13.47
+          "dr": 13.46
         }
       ]
     },
@@ -16746,7 +16746,7 @@
     },
     {
       "id": 30037,
-      "rating": 1987.3,
+      "rating": 1987.4,
       "initial": 1874.2,
       "games_played": 126,
       "firstname": "Jungsoo",
@@ -17099,7 +17099,7 @@
           "t": "20241025_WOC_2024",
           "o": 220100,
           "s": 1.0,
-          "dr": 5.67
+          "dr": 5.66
         },
         {
           "d": "2024-10-25",
@@ -17169,7 +17169,7 @@
           "t": "20241025_WOC_2024",
           "o": 4130,
           "s": 0.0,
-          "dr": -5.21
+          "dr": -5.22
         },
         {
           "d": "2024-10-25",
@@ -17436,7 +17436,7 @@
     },
     {
       "id": 260035,
-      "rating": 1981.4,
+      "rating": 1981.5,
       "initial": 1831.4,
       "games_played": 78,
       "firstname": "Ivan",
@@ -17502,7 +17502,7 @@
     },
     {
       "id": 14458,
-      "rating": 1980.2,
+      "rating": 1980.3,
       "initial": 1714.2,
       "games_played": 856,
       "firstname": "Taketora",
@@ -17601,7 +17601,7 @@
     },
     {
       "id": 14111,
-      "rating": 1977.7,
+      "rating": 1977.8,
       "initial": 1681.6,
       "games_played": 196,
       "firstname": "Sousuke",
@@ -18037,14 +18037,14 @@
           "t": "20241025_WOC_2024",
           "o": 170037,
           "s": 0.5,
-          "dr": -3.77
+          "dr": -3.78
         },
         {
           "d": "2024-10-25",
           "t": "20241025_WOC_2024",
           "o": 1301,
           "s": 0.0,
-          "dr": -9.78
+          "dr": -9.79
         },
         {
           "d": "2024-10-25",
@@ -18133,7 +18133,7 @@
     },
     {
       "id": 11561,
-      "rating": 1970.5,
+      "rating": 1970.6,
       "initial": 1910.7,
       "games_played": 499,
       "firstname": "Hiroyuki",
@@ -18568,7 +18568,7 @@
     },
     {
       "id": 200404,
-      "rating": 1959.7,
+      "rating": 1959.8,
       "initial": 1836.6,
       "games_played": 114,
       "firstname": "Konstantin",
@@ -19591,19 +19591,8 @@
       "last_played": "2024-08-17"
     },
     {
-      "id": 16168,
-      "rating": 1942.6,
-      "initial": 1942.6,
-      "games_played": 7,
-      "firstname": "Chikudo",
-      "surname": "FUMIYA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-09-01"
-    },
-    {
       "id": 13244,
-      "rating": 1942.5,
+      "rating": 1942.6,
       "initial": 1847.3,
       "games_played": 364,
       "firstname": "Shinya",
@@ -19648,6 +19637,17 @@
           "dr": -5.16
         }
       ]
+    },
+    {
+      "id": 16168,
+      "rating": 1942.6,
+      "initial": 1942.6,
+      "games_played": 7,
+      "firstname": "Chikudo",
+      "surname": "FUMIYA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-09-01"
     },
     {
       "id": 12740,
@@ -19717,7 +19717,7 @@
     },
     {
       "id": 440069,
-      "rating": 1940.0,
+      "rating": 1940.1,
       "initial": 1858.2,
       "games_played": 41,
       "firstname": "Batsukh",
@@ -20792,7 +20792,7 @@
     },
     {
       "id": 5545,
-      "rating": 1930.0,
+      "rating": 1930.1,
       "initial": 1755.4,
       "games_played": 3550,
       "firstname": "Manabu",
@@ -21042,6 +21042,17 @@
       "last_played": "2023-09-17"
     },
     {
+      "id": 13286,
+      "rating": 1927.5,
+      "initial": 1848.4,
+      "games_played": 240,
+      "firstname": "Isao",
+      "surname": "TAJIMA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-03-17"
+    },
+    {
       "id": 10405,
       "rating": 1927.4,
       "initial": 1753.0,
@@ -21051,17 +21062,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2024-09-08"
-    },
-    {
-      "id": 13286,
-      "rating": 1927.4,
-      "initial": 1848.4,
-      "games_played": 240,
-      "firstname": "Isao",
-      "surname": "TAJIMA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-03-17"
     },
     {
       "id": 7088,
@@ -21376,7 +21376,7 @@
           "t": "20241013_111_Q_league",
           "o": 14240,
           "s": 0.0,
-          "dr": -2.93
+          "dr": -2.92
         },
         {
           "d": "2024-10-13",
@@ -21533,7 +21533,7 @@
           "t": "20241025_WOC_2024",
           "o": 220100,
           "s": 1.0,
-          "dr": 5.86
+          "dr": 5.85
         },
         {
           "d": "2024-10-25",
@@ -21815,6 +21815,17 @@
       "last_played": "2023-06-24"
     },
     {
+      "id": 440322,
+      "rating": 1919.8,
+      "initial": 1849.0,
+      "games_played": 62,
+      "firstname": "Bayanbat",
+      "surname": "SODNOMSUREN",
+      "country": "MNG",
+      "provisional": false,
+      "last_played": "2024-06-22"
+    },
+    {
       "id": 30406,
       "rating": 1919.7,
       "initial": 1877.8,
@@ -21875,17 +21886,6 @@
           "dr": -3.55
         }
       ]
-    },
-    {
-      "id": 440322,
-      "rating": 1919.7,
-      "initial": 1849.0,
-      "games_played": 62,
-      "firstname": "Bayanbat",
-      "surname": "SODNOMSUREN",
-      "country": "MNG",
-      "provisional": false,
-      "last_played": "2024-06-22"
     },
     {
       "id": 12265,
@@ -25384,7 +25384,7 @@
           "t": "20241019_163_Shinagawa_open",
           "o": 14459,
           "s": 0.0,
-          "dr": -10.89
+          "dr": -10.88
         },
         {
           "d": "2024-10-19",
@@ -25439,7 +25439,7 @@
           "t": "20241006_1_Kanagawa_endurance_battle",
           "o": 14915,
           "s": 0.0,
-          "dr": -10.34
+          "dr": -10.33
         },
         {
           "d": "2024-10-06",
@@ -28284,6 +28284,17 @@
       "last_played": "2023-08-26"
     },
     {
+      "id": 15745,
+      "rating": 1860.0,
+      "initial": 1865.2,
+      "games_played": 17,
+      "firstname": "Sosuke",
+      "surname": "WATASE",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-08-10"
+    },
+    {
       "id": 140031,
       "rating": 1859.9,
       "initial": 1873.5,
@@ -28304,17 +28315,6 @@
       "country": "GRC",
       "provisional": true,
       "last_played": "2024-06-15"
-    },
-    {
-      "id": 15745,
-      "rating": 1859.9,
-      "initial": 1865.2,
-      "games_played": 17,
-      "firstname": "Sosuke",
-      "surname": "WATASE",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-08-10"
     },
     {
       "id": 280078,
@@ -29012,7 +29012,7 @@
           "t": "20241025_WOC_2024",
           "o": 2407,
           "s": 0.0,
-          "dr": -17.88
+          "dr": -17.87
         },
         {
           "d": "2024-10-25",
@@ -29605,7 +29605,7 @@
           "t": "20241019_163_Shinagawa_open",
           "o": 15555,
           "s": 1.0,
-          "dr": 10.89
+          "dr": 10.88
         },
         {
           "d": "2024-10-19",
@@ -29760,7 +29760,7 @@
     },
     {
       "id": 15412,
-      "rating": 1849.3,
+      "rating": 1849.4,
       "initial": 1830.8,
       "games_played": 63,
       "firstname": "Mitsuru",
@@ -30161,7 +30161,7 @@
           "t": "20241012_33_Kansai_championship_B",
           "o": 15778,
           "s": 1.0,
-          "dr": 17.91
+          "dr": 17.92
         },
         {
           "d": "2024-10-12",
@@ -30250,7 +30250,7 @@
           "t": "20241025_WOC_2024",
           "o": 4004,
           "s": 1.0,
-          "dr": 25.46
+          "dr": 25.47
         },
         {
           "d": "2024-10-25",
@@ -30476,19 +30476,8 @@
       ]
     },
     {
-      "id": 15816,
-      "rating": 1843.3,
-      "initial": 1843.3,
-      "games_played": 6,
-      "firstname": "Sota",
-      "surname": "NAKAMURA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2024-04-07"
-    },
-    {
       "id": 15984,
-      "rating": 1843.3,
+      "rating": 1843.4,
       "initial": 1849.4,
       "games_played": 19,
       "firstname": "Yuriko",
@@ -30530,7 +30519,7 @@
           "t": "20241013_36_Hiroshima_open",
           "o": 13074,
           "s": 0.0,
-          "dr": -24.39
+          "dr": -24.38
         },
         {
           "d": "2024-10-13",
@@ -30540,6 +30529,17 @@
           "dr": 16.16
         }
       ]
+    },
+    {
+      "id": 15816,
+      "rating": 1843.3,
+      "initial": 1843.3,
+      "games_played": 6,
+      "firstname": "Sota",
+      "surname": "NAKAMURA",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2024-04-07"
     },
     {
       "id": 290237,
@@ -30853,7 +30853,7 @@
           "t": "20241012_33_Kansai_championship_A",
           "o": 6980,
           "s": 1.0,
-          "dr": 9.24
+          "dr": 9.23
         },
         {
           "d": "2024-10-12",
@@ -31868,7 +31868,7 @@
     },
     {
       "id": 5547,
-      "rating": 1833.3,
+      "rating": 1833.4,
       "initial": 1778.5,
       "games_played": 1412,
       "firstname": "Atsuko",
@@ -31901,7 +31901,7 @@
     },
     {
       "id": 15765,
-      "rating": 1833.0,
+      "rating": 1833.1,
       "initial": 1895.7,
       "games_played": 66,
       "firstname": "Yo",
@@ -32252,6 +32252,17 @@
       "last_played": "2022-10-01"
     },
     {
+      "id": 15702,
+      "rating": 1830.2,
+      "initial": 1801.9,
+      "games_played": 23,
+      "firstname": "Akihiro",
+      "surname": "KAWASE",
+      "country": "JPN",
+      "provisional": true,
+      "last_played": "2023-12-10"
+    },
+    {
       "id": 320056,
       "rating": 1830.1,
       "initial": 1787.5,
@@ -32261,17 +32272,6 @@
       "country": "RUS",
       "provisional": false,
       "last_played": "2024-04-13"
-    },
-    {
-      "id": 15702,
-      "rating": 1830.1,
-      "initial": 1801.9,
-      "games_played": 23,
-      "firstname": "Akihiro",
-      "surname": "KAWASE",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-12-10"
     },
     {
       "id": 498,
@@ -33051,7 +33051,7 @@
     },
     {
       "id": 14221,
-      "rating": 1824.2,
+      "rating": 1824.3,
       "initial": 1787.3,
       "games_played": 219,
       "firstname": "Tomoyuki",
@@ -36227,6 +36227,17 @@
       "last_played": "2023-09-09"
     },
     {
+      "id": 14070,
+      "rating": 1804.5,
+      "initial": 1741.6,
+      "games_played": 81,
+      "firstname": "Iyomu",
+      "surname": "FUKUSHIMA",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-08-11"
+    },
+    {
       "id": 15767,
       "rating": 1804.5,
       "initial": 1804.5,
@@ -36270,17 +36281,6 @@
           "dr": -2.3
         }
       ]
-    },
-    {
-      "id": 14070,
-      "rating": 1804.4,
-      "initial": 1741.6,
-      "games_played": 81,
-      "firstname": "Iyomu",
-      "surname": "FUKUSHIMA",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-08-11"
     },
     {
       "id": 40206,
@@ -36396,7 +36396,7 @@
           "t": "20241012_33_Kansai_championship_A",
           "o": 15473,
           "s": 0.0,
-          "dr": -9.24
+          "dr": -9.23
         },
         {
           "d": "2024-10-12",
@@ -38548,6 +38548,17 @@
       "last_played": "2024-04-21"
     },
     {
+      "id": 15903,
+      "rating": 1791.7,
+      "initial": 1854.1,
+      "games_played": 54,
+      "firstname": "Ayane",
+      "surname": "OKAMOTO",
+      "country": "JPN",
+      "provisional": false,
+      "last_played": "2024-09-08"
+    },
+    {
       "id": 440552,
       "rating": 1791.6,
       "initial": 1699.0,
@@ -38557,17 +38568,6 @@
       "country": "MNG",
       "provisional": false,
       "last_played": "2024-03-01"
-    },
-    {
-      "id": 15903,
-      "rating": 1791.6,
-      "initial": 1854.1,
-      "games_played": 54,
-      "firstname": "Ayane",
-      "surname": "OKAMOTO",
-      "country": "JPN",
-      "provisional": false,
-      "last_played": "2024-09-08"
     },
     {
       "id": 14799,
@@ -40834,7 +40834,7 @@
           "t": "20241027_112_Q_league",
           "o": 15909,
           "s": 1.0,
-          "dr": 9.56
+          "dr": 9.55
         }
       ]
     },
@@ -41374,7 +41374,7 @@
           "t": "20241027_285_Kawagoe_ranking_games",
           "o": 14235,
           "s": 0.0,
-          "dr": -7.39
+          "dr": -7.38
         },
         {
           "d": "2024-10-27",
@@ -41478,7 +41478,7 @@
     },
     {
       "id": 13110,
-      "rating": 1778.1,
+      "rating": 1778.2,
       "initial": 1898.8,
       "games_played": 136,
       "firstname": "Naoki",
@@ -42089,7 +42089,7 @@
           "t": "20241012_33_Kansai_championship_B",
           "o": 15794,
           "s": 1.0,
-          "dr": 8.7
+          "dr": 8.71
         },
         {
           "d": "2024-10-12",
@@ -42347,17 +42347,6 @@
       "country": "CHN",
       "provisional": true,
       "last_played": "2023-12-16"
-    },
-    {
-      "id": 270080,
-      "rating": 1772.7,
-      "initial": 1777.7,
-      "games_played": 12,
-      "firstname": "Patrick",
-      "surname": "MARICHAL",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2024-06-30"
     },
     {
       "id": 290313,
@@ -43233,6 +43222,17 @@
       "last_played": "2023-11-12"
     },
     {
+      "id": 270080,
+      "rating": 1767.8,
+      "initial": 1777.7,
+      "games_played": 12,
+      "firstname": "Patrick",
+      "surname": "MARICHAL",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2024-06-30"
+    },
+    {
       "id": 290200,
       "rating": 1767.7,
       "initial": 1731.4,
@@ -43408,7 +43408,7 @@
           "t": "20241025_WOC_2024",
           "o": 4004,
           "s": 0.0,
-          "dr": -5.67
+          "dr": -5.66
         },
         {
           "d": "2024-10-25",
@@ -43443,7 +43443,7 @@
           "t": "20241025_WOC_2024",
           "o": 440006,
           "s": 0.0,
-          "dr": -5.86
+          "dr": -5.85
         },
         {
           "d": "2024-10-25",
@@ -45534,7 +45534,7 @@
     },
     {
       "id": 440576,
-      "rating": 1757.6,
+      "rating": 1757.7,
       "initial": 1775.2,
       "games_played": 17,
       "firstname": "Munkh-Ireedui",
@@ -47194,7 +47194,7 @@
           "t": "20241027_112_Q_league",
           "o": 15695,
           "s": 0.0,
-          "dr": -9.56
+          "dr": -9.55
         }
       ]
     },
@@ -47811,14 +47811,14 @@
           "t": "20241013_36_Hiroshima_open",
           "o": 15482,
           "s": 0.0,
-          "dr": -23.56
+          "dr": -23.55
         },
         {
           "d": "2024-10-13",
           "t": "20241013_36_Hiroshima_open",
           "o": 13074,
           "s": 0.0,
-          "dr": -25.27
+          "dr": -25.26
         },
         {
           "d": "2024-10-13",
@@ -48003,17 +48003,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2024-07-07"
-    },
-    {
-      "id": 270090,
-      "rating": 1742.1,
-      "initial": 1742.1,
-      "games_played": 3,
-      "firstname": "Merel",
-      "surname": "MAY",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2024-06-30"
     },
     {
       "id": 40182,
@@ -53107,19 +53096,8 @@
       "last_played": "2023-02-12"
     },
     {
-      "id": 440480,
-      "rating": 1702.6,
-      "initial": 1702.6,
-      "games_played": 6,
-      "firstname": "Luvsanjalbuu",
-      "surname": "ULZIIBAYAR",
-      "country": "MNG",
-      "provisional": true,
-      "last_played": "2023-02-10"
-    },
-    {
       "id": 15952,
-      "rating": 1702.6,
+      "rating": 1702.7,
       "initial": 1747.3,
       "games_played": 69,
       "firstname": "Ayata",
@@ -53227,6 +53205,17 @@
           "dr": 15.32
         }
       ]
+    },
+    {
+      "id": 440480,
+      "rating": 1702.6,
+      "initial": 1702.6,
+      "games_played": 6,
+      "firstname": "Luvsanjalbuu",
+      "surname": "ULZIIBAYAR",
+      "country": "MNG",
+      "provisional": true,
+      "last_played": "2023-02-10"
     },
     {
       "id": 190325,
@@ -54293,7 +54282,7 @@
           "t": "20241025_WOC_2024",
           "o": 440029,
           "s": 0.0,
-          "dr": -2.83
+          "dr": -2.82
         },
         {
           "d": "2024-10-25",
@@ -54431,7 +54420,7 @@
           "t": "20241012_33_Kansai_championship_A",
           "o": 13139,
           "s": 0.0,
-          "dr": -0.67
+          "dr": -0.66
         },
         {
           "d": "2024-10-12",
@@ -55264,7 +55253,7 @@
     },
     {
       "id": 270061,
-      "rating": 1685.7,
+      "rating": 1685.6,
       "initial": 1735.7,
       "games_played": 60,
       "firstname": "Karen",
@@ -56021,7 +56010,7 @@
           "t": "20241012_33_Kansai_championship_B",
           "o": 15757,
           "s": 0.0,
-          "dr": -8.7
+          "dr": -8.71
         },
         {
           "d": "2024-10-12",
@@ -58421,6 +58410,17 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2023-06-23"
+    },
+    {
+      "id": 270090,
+      "rating": 1645.8,
+      "initial": 1645.8,
+      "games_played": 3,
+      "firstname": "Merel",
+      "surname": "MAY",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2024-06-30"
     },
     {
       "id": 15776,
@@ -60877,7 +60877,7 @@
     },
     {
       "id": 270086,
-      "rating": 1541.9,
+      "rating": 1541.7,
       "initial": 1615.4,
       "games_played": 27,
       "firstname": "Stan",
@@ -60896,17 +60896,6 @@
       "country": "ARG",
       "provisional": false,
       "last_played": "2024-06-22"
-    },
-    {
-      "id": 270072,
-      "rating": 1536.3,
-      "initial": 1537.2,
-      "games_played": 21,
-      "firstname": "Thycho",
-      "surname": "DEMOOR",
-      "country": "BEL",
-      "provisional": true,
-      "last_played": "2024-06-30"
     },
     {
       "id": 15362,
@@ -60929,6 +60918,17 @@
       "country": "AUS",
       "provisional": true,
       "last_played": "2024-07-04"
+    },
+    {
+      "id": 270072,
+      "rating": 1533.0,
+      "initial": 1537.2,
+      "games_played": 21,
+      "firstname": "Thycho",
+      "surname": "DEMOOR",
+      "country": "BEL",
+      "provisional": true,
+      "last_played": "2024-06-30"
     },
     {
       "id": 15800,
@@ -61530,7 +61530,7 @@
     },
     {
       "id": 270060,
-      "rating": 1405.9,
+      "rating": 1405.7,
       "initial": 1665.3,
       "games_played": 58,
       "firstname": "Myrthe",

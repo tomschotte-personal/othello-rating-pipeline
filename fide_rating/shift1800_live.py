@@ -30,7 +30,7 @@ from world_fide import (
 )
 
 PROJECT = os.path.dirname(BASE)
-BASELINE_DATE = datetime(2026, 9, 30)
+BASELINE_DATE = datetime(2026, 10, 31)
 
 
 def fetch_tournament_full(tournament_id):
