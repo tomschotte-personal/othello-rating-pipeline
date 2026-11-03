@@ -121,24 +121,45 @@
   "players": 4
  },
  "684": {
-  "status": "missing",
-  "hi": 676
+  "status": "open",
+  "name": "4th Palermo",
+  "end_date": "",
+  "players": 0
  },
  "685": {
   "status": "missing",
-  "hi": 676
+  "hi": 683
  },
  "686": {
   "status": "missing",
-  "hi": 676
+  "hi": 683
  },
  "687": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 683
  },
  "688": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 683
  },
  "689": {
-  "status": "missing"
+  "status": "missing",
+  "hi": 683
+ },
+ "690": {
+  "status": "missing",
+  "hi": 683
+ },
+ "691": {
+  "status": "missing",
+  "hi": 683
+ },
+ "692": {
+  "status": "missing",
+  "hi": 683
+ },
+ "693": {
+  "status": "missing",
+  "hi": 683
  }
 }
