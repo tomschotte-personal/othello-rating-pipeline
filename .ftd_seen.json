@@ -112,7 +112,7 @@
   "status": "open",
   "name": "11th Torino",
   "end_date": "",
-  "players": 9
+  "players": 10
  },
  "683": {
   "status": "finished",
@@ -127,8 +127,10 @@
   "players": 0
  },
  "685": {
-  "status": "missing",
-  "hi": 684
+  "status": "open",
+  "name": "St-Petersburg Open Winter 2026",
+  "end_date": "",
+  "players": 9
  },
  "686": {
   "status": "missing",
