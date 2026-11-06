@@ -130,11 +130,13 @@
   "status": "open",
   "name": "St-Petersburg Open Winter 2026",
   "end_date": "",
-  "players": 10
+  "players": 11
  },
  "686": {
-  "status": "missing",
-  "hi": 685
+  "status": "open",
+  "name": "Norway XOT 2026",
+  "end_date": "",
+  "players": 7
  },
  "687": {
   "status": "missing",
