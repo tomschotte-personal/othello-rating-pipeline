@@ -1,0 +1,48 @@
+%%Tournament: Malaroarnas Open SGP
+%%Country: SE
+%%Date: 07/11/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 150009, WETTERGREN, Niklas, SWE, 4, 188, 2222
+%_%   1459, TURUNEN, Daniel, SWE, 3, 188, 1830
+%_%   1503, ANDERSSON, Christopher, SWE, 3, 153, 2102
+%_%   1513, ASPENRYD, Henry, SWE, 2, 160, 1893
+%_%   1301, STEENTOFT, Benkt, SWE, 2, 141, 1813
+%_%   1493, JOHANSSON, Erik, SWE, 1, 130, 1584
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/671
+
+%Round: 1
+
+  1493 (15)<(49) 150009  B
+  1513 (52)>(12)   1301  B
+  1503 (21)<(43)   1459  B
+
+%Round: 2
+
+ 150009 (40)>(24)   1513  B
+  1459 (46)>(18)   1493  B
+  1301 (26)<(38)   1503  B
+
+%Round: 3
+
+  1459 (31)<(33) 150009  B
+  1513 (44)>(20)   1503  B
+  1493 (25)<(39)   1301  B
+
+%Round: 4
+
+ 150009 (38)>(26)   1301  B
+  1513 (22)<(42)   1459  B
+  1503 (38)>(26)   1493  B
+
+%Round: 5
+
+  1503 (36)>(28) 150009  B
+  1301 (38)>(26)   1459  B
+  1493 (46)>(18)   1513  B
