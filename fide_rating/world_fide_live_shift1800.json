@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-11-07 17:48",
+  "ref_date": "2026-11-08 17:51",
   "baseline_date": "2026-10-31",
   "tournament_id": "",
   "tournament_name": "Live",
-  "ec_games_played": 138,
+  "ec_games_played": 186,
   "ec_rounds": 0,
-  "total_active": 4284,
+  "total_active": 4277,
   "players": [
     {
       "id": 13841,
@@ -201,17 +201,6 @@
       "ec": 0
     },
     {
-      "id": 3037,
-      "rating": 2440.1,
-      "games_played": 1036,
-      "firstname": "Alessandro",
-      "surname": "DI MATTEI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
-      "ec": 0
-    },
-    {
       "id": 5105,
       "rating": 2432.7,
       "games_played": 1680,
@@ -287,6 +276,70 @@
           "o": 5198,
           "s": 1.0,
           "dr": 4.11,
+          "r": 0
+        }
+      ]
+    },
+    {
+      "id": 3037,
+      "rating": 2428.3,
+      "games_played": 1042,
+      "firstname": "Alessandro",
+      "surname": "DI MATTEI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3019,
+          "s": 1.0,
+          "dr": 0.73,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -7.61,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 0.22,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40086,
+          "s": 1.0,
+          "dr": 0.77,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3111,
+          "s": 0.0,
+          "dr": -6.65,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3062,
+          "s": 1.0,
+          "dr": 0.74,
           "r": 0
         }
       ]
@@ -626,6 +679,70 @@
       "ec": 0
     },
     {
+      "id": 3111,
+      "rating": 2331.0,
+      "games_played": 693,
+      "firstname": "Paolo",
+      "surname": "SCOGNAMIGLIO",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3023,
+          "s": 1.0,
+          "dr": 2.57,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2805,
+          "s": 1.0,
+          "dr": 4.22,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40229,
+          "s": 1.0,
+          "dr": 8.24,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2844,
+          "s": 0.0,
+          "dr": -10.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3037,
+          "s": 1.0,
+          "dr": 13.31,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3019,
+          "s": 1.0,
+          "dr": 2.79,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 12581,
       "rating": 2327.9,
       "games_played": 566,
@@ -731,6 +848,70 @@
       ]
     },
     {
+      "id": 2844,
+      "rating": 2325.0,
+      "games_played": 1070,
+      "firstname": "Roberto",
+      "surname": "SPERANDIO",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40346,
+          "s": 1.0,
+          "dr": 3.31,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2884,
+          "s": 1.0,
+          "dr": 1.06,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40086,
+          "s": 1.0,
+          "dr": 2.81,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3111,
+          "s": 1.0,
+          "dr": 10.04,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 148,
+          "s": 1.0,
+          "dr": 3.65,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -12.31,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 80000,
       "rating": 2323.6,
       "games_played": 66,
@@ -786,17 +967,6 @@
       "ec": 0
     },
     {
-      "id": 2844,
-      "rating": 2316.4,
-      "games_played": 1064,
-      "firstname": "Roberto",
-      "surname": "SPERANDIO",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-06-21",
-      "ec": 0
-    },
-    {
       "id": 14499,
       "rating": 2315.3,
       "games_played": 730,
@@ -827,17 +997,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-10-10",
-      "ec": 0
-    },
-    {
-      "id": 3111,
-      "rating": 2309.9,
-      "games_played": 687,
-      "firstname": "Paolo",
-      "surname": "SCOGNAMIGLIO",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -1204,6 +1363,70 @@
       "ec": 0
     },
     {
+      "id": 40229,
+      "rating": 2267.8,
+      "games_played": 100,
+      "firstname": "Tommaso",
+      "surname": "FOSCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3062,
+          "s": 1.0,
+          "dr": 3.6,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3037,
+          "s": 1.0,
+          "dr": 15.22,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3111,
+          "s": 0.0,
+          "dr": -8.24,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2841,
+          "s": 1.0,
+          "dr": 4.55,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3019,
+          "s": 1.0,
+          "dr": 4.11,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2844,
+          "s": 1.0,
+          "dr": 12.31,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 11205,
       "rating": 2265.0,
       "games_played": 377,
@@ -1476,17 +1699,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-07-19",
-      "ec": 0
-    },
-    {
-      "id": 40229,
-      "rating": 2236.2,
-      "games_played": 94,
-      "firstname": "Tommaso",
-      "surname": "FOSCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-10-25",
       "ec": 0
     },
     {
@@ -4725,14 +4937,67 @@
     },
     {
       "id": 2805,
-      "rating": 2077.9,
-      "games_played": 387,
+      "rating": 2078.5,
+      "games_played": 393,
       "firstname": "Carlo",
       "surname": "ALAMI",
       "country": "ITA",
       "provisional": false,
-      "last_played": "2026-06-20",
-      "ec": 0
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40052,
+          "s": 1.0,
+          "dr": 5.24,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3111,
+          "s": 0.0,
+          "dr": -4.22,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2841,
+          "s": 0.5,
+          "dr": -1.31,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 148,
+          "s": 0.0,
+          "dr": -10.43,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 2.99,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40086,
+          "s": 1.0,
+          "dr": 8.31,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 1045,
@@ -5175,17 +5440,6 @@
       "ec": 0
     },
     {
-      "id": 148,
-      "rating": 2062.4,
-      "games_played": 857,
-      "firstname": "George",
-      "surname": "ORTIZ",
-      "country": "AUS",
-      "provisional": false,
-      "last_played": "2026-09-27",
-      "ec": 0
-    },
-    {
       "id": 290025,
       "rating": 2062.3,
       "games_played": 204,
@@ -5317,6 +5571,70 @@
       "provisional": false,
       "last_played": "2024-10-03",
       "ec": 0
+    },
+    {
+      "id": 148,
+      "rating": 2058.7,
+      "games_played": 863,
+      "firstname": "George",
+      "surname": "ORTIZ",
+      "country": "AUS",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40151,
+          "s": 1.0,
+          "dr": 6.26,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -11.34,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40052,
+          "s": 1.0,
+          "dr": 5.42,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2805,
+          "s": 1.0,
+          "dr": 10.43,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2844,
+          "s": 0.0,
+          "dr": -3.65,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -10.86,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 5566,
@@ -5515,6 +5833,70 @@
       "provisional": false,
       "last_played": "2026-07-19",
       "ec": 0
+    },
+    {
+      "id": 40346,
+      "rating": 2050.3,
+      "games_played": 118,
+      "firstname": "Michele",
+      "surname": "SALVO",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2844,
+          "s": 0.0,
+          "dr": -3.31,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3062,
+          "s": 0.0,
+          "dr": -11.8,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40151,
+          "s": 1.0,
+          "dr": 6.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40347,
+          "s": 1.0,
+          "dr": 1.94,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2841,
+          "s": 1.0,
+          "dr": 10.02,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 148,
+          "s": 1.0,
+          "dr": 10.86,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 1624,
@@ -5980,17 +6362,6 @@
       "ec": 0
     },
     {
-      "id": 40346,
-      "rating": 2035.6,
-      "games_played": 112,
-      "firstname": "Michele",
-      "surname": "SALVO",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-10-25",
-      "ec": 0
-    },
-    {
       "id": 190131,
       "rating": 2035.4,
       "games_played": 107,
@@ -6176,6 +6547,70 @@
       "provisional": false,
       "last_played": "2025-03-22",
       "ec": 0
+    },
+    {
+      "id": 2841,
+      "rating": 2026.3,
+      "games_played": 662,
+      "firstname": "Elisabetta",
+      "surname": "VECCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2884,
+          "s": 1.0,
+          "dr": 4.94,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 148,
+          "s": 1.0,
+          "dr": 11.34,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2805,
+          "s": 0.5,
+          "dr": 1.31,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -4.55,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -10.02,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40052,
+          "s": 1.0,
+          "dr": 6.28,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 5707,
@@ -6450,17 +6885,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-08-29",
-      "ec": 0
-    },
-    {
-      "id": 2841,
-      "rating": 2017.0,
-      "games_played": 656,
-      "firstname": "Elisabetta",
-      "surname": "VECCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-09-27",
       "ec": 0
     },
     {
@@ -6817,6 +7241,70 @@
       "ec": 0
     },
     {
+      "id": 3019,
+      "rating": 2009.6,
+      "games_played": 574,
+      "firstname": "Michele",
+      "surname": "DIODATI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -1.46,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40052,
+          "s": 1.0,
+          "dr": 7.07,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40347,
+          "s": 1.0,
+          "dr": 2.21,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3062,
+          "s": 1.0,
+          "dr": 9.54,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -4.11,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3111,
+          "s": 0.0,
+          "dr": -2.79,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 10459,
       "rating": 2008.4,
       "games_played": 434,
@@ -6960,6 +7448,70 @@
       "ec": 0
     },
     {
+      "id": 40086,
+      "rating": 2002.6,
+      "games_played": 297,
+      "firstname": "Damiano",
+      "surname": "FOSCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 4.3,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40347,
+          "s": 1.0,
+          "dr": 2.25,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2844,
+          "s": 0.0,
+          "dr": -2.81,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -1.55,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3023,
+          "s": 1.0,
+          "dr": 9.33,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2805,
+          "s": 0.0,
+          "dr": -8.31,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 6419,
       "rating": 2002.5,
       "games_played": 166,
@@ -7056,28 +7608,6 @@
       "country": "USA",
       "provisional": false,
       "last_played": "2026-08-01",
-      "ec": 0
-    },
-    {
-      "id": 40086,
-      "rating": 1999.4,
-      "games_played": 291,
-      "firstname": "Damiano",
-      "surname": "FOSCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-10-25",
-      "ec": 0
-    },
-    {
-      "id": 3019,
-      "rating": 1999.2,
-      "games_played": 568,
-      "firstname": "Michele",
-      "surname": "DIODATI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-06-20",
       "ec": 0
     },
     {
@@ -7613,6 +8143,70 @@
       "ec": 0
     },
     {
+      "id": 3062,
+      "rating": 1985.9,
+      "games_played": 719,
+      "firstname": "Leonardo",
+      "surname": "CAVIOLA",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40229,
+          "s": 0.0,
+          "dr": -3.6,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40346,
+          "s": 1.0,
+          "dr": 11.8,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3023,
+          "s": 1.0,
+          "dr": 10.07,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3019,
+          "s": 0.0,
+          "dr": -9.54,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2884,
+          "s": 1.0,
+          "dr": 5.89,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -1.47,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 260035,
       "rating": 1985.7,
       "games_played": 108,
@@ -8098,17 +8692,6 @@
       "ec": 0
     },
     {
-      "id": 3023,
-      "rating": 1977.6,
-      "games_played": 289,
-      "firstname": "Fabrizio",
-      "surname": "LAI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-09-13",
-      "ec": 0
-    },
-    {
       "id": 11206,
       "rating": 1976.3,
       "games_played": 131,
@@ -8371,17 +8954,6 @@
       "ec": 0
     },
     {
-      "id": 3062,
-      "rating": 1972.7,
-      "games_played": 713,
-      "firstname": "Leonardo",
-      "surname": "CAVIOLA",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-09-27",
-      "ec": 0
-    },
-    {
       "id": 440432,
       "rating": 1972.5,
       "games_played": 86,
@@ -8567,6 +9139,62 @@
       "provisional": false,
       "last_played": "2026-06-21",
       "ec": 0
+    },
+    {
+      "id": 3023,
+      "rating": 1968.8,
+      "games_played": 294,
+      "firstname": "Fabrizio",
+      "surname": "LAI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3111,
+          "s": 0.0,
+          "dr": -2.57,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40151,
+          "s": 1.0,
+          "dr": 8.42,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3062,
+          "s": 0.0,
+          "dr": -10.07,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 4.73,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40086,
+          "s": 0.0,
+          "dr": -9.33,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 16214,
@@ -10578,17 +11206,6 @@
       "ec": 0
     },
     {
-      "id": 40151,
-      "rating": 1926.0,
-      "games_played": 328,
-      "firstname": "Paolo",
-      "surname": "BARSOTTI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-09-13",
-      "ec": 0
-    },
-    {
       "id": 10746,
       "rating": 1925.7,
       "games_played": 454,
@@ -12111,6 +12728,62 @@
       "ec": 0
     },
     {
+      "id": 40151,
+      "rating": 1898.4,
+      "games_played": 333,
+      "firstname": "Paolo",
+      "surname": "BARSOTTI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 148,
+          "s": 0.0,
+          "dr": -6.26,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3023,
+          "s": 0.0,
+          "dr": -8.42,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -6.96,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2884,
+          "s": 0.0,
+          "dr": -12.45,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40088,
+          "s": 1.0,
+          "dr": 6.43,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 16137,
       "rating": 1898.4,
       "games_played": 5,
@@ -12152,17 +12825,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2026-09-23",
-      "ec": 0
-    },
-    {
-      "id": 40052,
-      "rating": 1897.9,
-      "games_played": 652,
-      "firstname": "Chiara",
-      "surname": "GIGLIUCCI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
       "ec": 0
     },
     {
@@ -13672,6 +14334,62 @@
       "provisional": false,
       "last_played": "2026-06-14",
       "ec": 0
+    },
+    {
+      "id": 40052,
+      "rating": 1877.9,
+      "games_played": 657,
+      "firstname": "Chiara",
+      "surname": "GIGLIUCCI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2805,
+          "s": 0.0,
+          "dr": -5.24,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3019,
+          "s": 0.0,
+          "dr": -7.07,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 148,
+          "s": 0.0,
+          "dr": -5.42,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40347,
+          "s": 1.0,
+          "dr": 3.98,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -6.28,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 13145,
@@ -16072,17 +16790,6 @@
       "ec": 0
     },
     {
-      "id": 130077,
-      "rating": 1853.7,
-      "games_played": 20,
-      "firstname": "Kai",
-      "surname": "MORAWIEC",
-      "country": "POL",
-      "provisional": true,
-      "last_played": "2026-07-18",
-      "ec": 0
-    },
-    {
       "id": 40434,
       "rating": 1853.7,
       "games_played": 4,
@@ -16091,6 +16798,17 @@
       "country": "ITA",
       "provisional": true,
       "last_played": "2025-12-06",
+      "ec": 0
+    },
+    {
+      "id": 130077,
+      "rating": 1853.7,
+      "games_played": 20,
+      "firstname": "Kai",
+      "surname": "MORAWIEC",
+      "country": "POL",
+      "provisional": true,
+      "last_played": "2026-07-18",
       "ec": 0
     },
     {
@@ -19440,6 +20158,62 @@
       "ec": 0
     },
     {
+      "id": 2884,
+      "rating": 1829.0,
+      "games_played": 716,
+      "firstname": "Maria Serena",
+      "surname": "VECCHI",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2841,
+          "s": 0.0,
+          "dr": -4.94,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2844,
+          "s": 0.0,
+          "dr": -1.06,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40151,
+          "s": 1.0,
+          "dr": 12.45,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3062,
+          "s": 0.0,
+          "dr": -5.89,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40347,
+          "s": 1.0,
+          "dr": 5.03,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 60314,
       "rating": 1829.0,
       "games_played": 7,
@@ -20416,17 +21190,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2025-06-29",
-      "ec": 0
-    },
-    {
-      "id": 2884,
-      "rating": 1823.4,
-      "games_played": 711,
-      "firstname": "Maria Serena",
-      "surname": "VECCHI",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
       "ec": 0
     },
     {
@@ -23012,17 +23775,6 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2023-11-12",
-      "ec": 0
-    },
-    {
-      "id": 2933,
-      "rating": 1804.6,
-      "games_played": 142,
-      "firstname": "Francesco",
-      "surname": "PRIVITERA",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2023-09-09",
       "ec": 0
     },
     {
@@ -28525,17 +29277,6 @@
       "ec": 0
     },
     {
-      "id": 60277,
-      "rating": 1774.9,
-      "games_played": 5,
-      "firstname": "Yulin",
-      "surname": "ZHU",
-      "country": "CHN",
-      "provisional": true,
-      "last_played": "2025-04-20",
-      "ec": 0
-    },
-    {
       "id": 16505,
       "rating": 1774.9,
       "games_played": 5,
@@ -28544,6 +29285,17 @@
       "country": "JPN",
       "provisional": true,
       "last_played": "2026-02-01",
+      "ec": 0
+    },
+    {
+      "id": 60277,
+      "rating": 1774.9,
+      "games_played": 5,
+      "firstname": "Yulin",
+      "surname": "ZHU",
+      "country": "CHN",
+      "provisional": true,
+      "last_played": "2025-04-20",
       "ec": 0
     },
     {
@@ -28610,17 +29362,6 @@
       "country": "THA",
       "provisional": true,
       "last_played": "2024-06-30",
-      "ec": 0
-    },
-    {
-      "id": 40088,
-      "rating": 1774.5,
-      "games_played": 171,
-      "firstname": "Alessandro",
-      "surname": "ORTIZ",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-08-01",
       "ec": 0
     },
     {
@@ -32682,6 +33423,62 @@
       "ec": 0
     },
     {
+      "id": 40088,
+      "rating": 1755.6,
+      "games_played": 176,
+      "firstname": "Alessandro",
+      "surname": "ORTIZ",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40086,
+          "s": 0.0,
+          "dr": -4.3,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3037,
+          "s": 0.0,
+          "dr": -0.43,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3023,
+          "s": 0.0,
+          "dr": -4.73,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2805,
+          "s": 0.0,
+          "dr": -2.99,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40151,
+          "s": 0.0,
+          "dr": -6.43,
+          "r": 0
+        }
+      ]
+    },
+    {
       "id": 441057,
       "rating": 1755.4,
       "games_played": 5,
@@ -34717,17 +35514,6 @@
       "ec": 0
     },
     {
-      "id": 150090,
-      "rating": 1743.4,
-      "games_played": 6,
-      "firstname": "Isar",
-      "surname": "LONNGREN",
-      "country": "SWE",
-      "provisional": true,
-      "last_played": "2023-09-09",
-      "ec": 0
-    },
-    {
       "id": 441921,
       "rating": 1743.4,
       "games_played": 6,
@@ -36313,17 +37099,6 @@
       "ec": 0
     },
     {
-      "id": 210216,
-      "rating": 1735.0,
-      "games_played": 7,
-      "firstname": "Daniela",
-      "surname": "CAPOVA",
-      "country": "CZE",
-      "provisional": true,
-      "last_played": "2023-09-09",
-      "ec": 0
-    },
-    {
       "id": 16106,
       "rating": 1735.0,
       "games_played": 12,
@@ -36959,17 +37734,6 @@
       "country": "NLD",
       "provisional": true,
       "last_played": "2026-03-29",
-      "ec": 0
-    },
-    {
-      "id": 5715,
-      "rating": 1729.5,
-      "games_played": 16,
-      "firstname": "Piotr",
-      "surname": "LOZINSKI",
-      "country": "POL",
-      "provisional": true,
-      "last_played": "2023-09-09",
       "ec": 0
     },
     {
@@ -38004,17 +38768,6 @@
       "country": "MNG",
       "provisional": true,
       "last_played": "2026-03-28",
-      "ec": 0
-    },
-    {
-      "id": 130066,
-      "rating": 1722.7,
-      "games_played": 6,
-      "firstname": "Adam",
-      "surname": "LOZINSKI",
-      "country": "POL",
-      "provisional": true,
-      "last_played": "2023-09-09",
       "ec": 0
     },
     {
@@ -41705,17 +42458,6 @@
       "ec": 0
     },
     {
-      "id": 40175,
-      "rating": 1700.3,
-      "games_played": 7,
-      "firstname": "Nicola",
-      "surname": "ACERRA",
-      "country": "ITA",
-      "provisional": true,
-      "last_played": "2023-09-09",
-      "ec": 0
-    },
-    {
       "id": 16050,
       "rating": 1700.3,
       "games_played": 4,
@@ -45119,17 +45861,6 @@
       "ec": 0
     },
     {
-      "id": 150092,
-      "rating": 1669.6,
-      "games_played": 6,
-      "firstname": "Elsa",
-      "surname": "ISRAEL",
-      "country": "SWE",
-      "provisional": true,
-      "last_played": "2023-09-09",
-      "ec": 0
-    },
-    {
       "id": 16176,
       "rating": 1669.4,
       "games_played": 5,
@@ -46698,17 +47429,6 @@
       "ec": 0
     },
     {
-      "id": 40347,
-      "rating": 1644.8,
-      "games_played": 42,
-      "firstname": "Alberto",
-      "surname": "SALVO",
-      "country": "ITA",
-      "provisional": false,
-      "last_played": "2026-10-11",
-      "ec": 0
-    },
-    {
       "id": 440852,
       "rating": 1644.4,
       "games_played": 29,
@@ -47367,6 +48087,62 @@
       "provisional": true,
       "last_played": "2024-10-13",
       "ec": 0
+    },
+    {
+      "id": 40347,
+      "rating": 1629.3,
+      "games_played": 47,
+      "firstname": "Alberto",
+      "surname": "SALVO",
+      "country": "ITA",
+      "provisional": false,
+      "last_played": "2026-11-08",
+      "ec": 1,
+      "tournaments": [
+        "GPI_rome_2027"
+      ],
+      "log": [
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40086,
+          "s": 0.0,
+          "dr": -2.25,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 3019,
+          "s": 0.0,
+          "dr": -2.21,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40346,
+          "s": 0.0,
+          "dr": -1.94,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 40052,
+          "s": 0.0,
+          "dr": -3.98,
+          "r": 0
+        },
+        {
+          "d": "2026-11-08",
+          "t": "20261108_GPI_rome_2027",
+          "o": 2884,
+          "s": 0.0,
+          "dr": -5.03,
+          "r": 0
+        }
+      ]
     },
     {
       "id": 440895,
