@@ -130,7 +130,7 @@
   "status": "open",
   "name": "St-Petersburg Open Winter 2026",
   "end_date": "",
-  "players": 11
+  "players": 12
  },
  "686": {
   "status": "finished",
@@ -150,38 +150,42 @@
  },
  "689": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "690": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "691": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "692": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "693": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "694": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "695": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "696": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
  },
  "697": {
   "status": "missing",
-  "hi": 687
+  "hi": 688
+ },
+ "698": {
+  "status": "missing",
+  "hi": 688
  }
 }
