@@ -133,45 +133,55 @@
   "players": 11
  },
  "686": {
-  "status": "open",
+  "status": "finished",
   "name": "Norway XOT 2026",
-  "end_date": "",
-  "players": 7
+  "end_date": "2026-11-07T13:01:43.000Z",
+  "players": 10
  },
  "687": {
   "status": "missing",
   "hi": 685
  },
  "688": {
-  "status": "missing",
-  "hi": 685
+  "status": "finished",
+  "name": "Norwegian Blitz Championship 2026",
+  "end_date": "2026-11-07T16:01:13.000Z",
+  "players": 10
  },
  "689": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
  },
  "690": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
  },
  "691": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
  },
  "692": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
  },
  "693": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
  },
  "694": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
  },
  "695": {
   "status": "missing",
-  "hi": 685
+  "hi": 687
+ },
+ "696": {
+  "status": "missing",
+  "hi": 687
+ },
+ "697": {
+  "status": "missing",
+  "hi": 687
  }
 }
