@@ -1,0 +1,118 @@
+%%Tournament: Championnat de France
+%%Country: France
+%%Date: 07/11/2026 - 08/11/2026
+%%Sender: liveothello.com (TournamentID=1021) + FFO final standings
+
+% Round robin, 11 players (1 bye each, scored 1 pt in the standings) + 3/4 match + best-of-3 final.
+% R6 BERTRANDIAS-KASHIWABARA and R7 TASTET M.-ANDRIANI: no score on liveothello; winners
+% deduced from the FFO standings, disc counts unknown -> written 33-31.
+% BECKER Gilles = FFO id 50134; kept on synthetic 9921051 (EGP Mulhouse 2026) for continuity.
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%       2, TASTET, Marc, FRA, 8.5, 383, 0
+%_%     839, KASHIWABARA, Takuji, FRA, 8.5, 351, 0
+%_%     433, NICOLET, Stephane, FRA, 7, 377, 0
+%_%   50075, BERTRANDIAS, Marc, FRA, 7, 372, 0
+%_%     478, COLLAY, Frederic, FRA, 7, 351, 0
+%_%    3598, LEVY-ABEGNOLI, Thierry, FRA, 7, 343, 0
+%_%   50053, TASTET, Remi, FRA, 6.5, 315, 0
+%_%      46, ANDRIANI, Sandry, FRA, 6, 323, 0
+%_%      11, LAZARD, Emmanuel, FRA, 5, 329, 0
+%_% 9921051, BECKER, Gilles, FRA, 2, 234, 0
+%_%    3734, CLUZON, Gilles, FRA, 1.5, 141, 0
+
+
+%Round: 1
+
+     11 (30)<(34)   50053  B
+   3598 (20)<(44)     433  B
+    478 (57)>(07)    3734  B
+  50075 (44)>(20)      46  B
+    839 (32)=(32)       2  B
+
+%Round: 2
+
+      2 (33)>(31)     478  B
+  50053 (26)<(38)    3598  B
+     46 (11)<(53)      11  B
+9921051 (20)<(44)   50075  B
+    433 (25)<(39)     839  B
+
+%Round: 3
+
+   3734 (02)<(62)       2  B
+   3598 (51)>(13)      46  B
+    478 (38)>(26)     433  B
+     11 (33)>(31) 9921051  B
+    839 (32)=(32)   50053  B
+
+%Round: 4
+
+9921051 (14)<(49)    3598  B
+    433 (50)>(14)    3734  B
+  50075 (36)>(28)      11  B
+  50053 (20)<(44)     478  B
+     46 (23)<(41)     839  B
+
+%Round: 5
+
+      2 (26)<(38)     433  B
+    478 (22)<(42)      46  B
+   3734 (16)<(48)   50053  B
+   3598 (15)<(49)   50075  B
+    839 (35)>(29) 9921051  B
+
+%Round: 6
+
+9921051 (29)<(35)     478  B
+  50053 (27)<(37)       2  B
+     46 (53)>(11)    3734  B
+     11 (42)>(22)    3598  B
+  50075 (31)<(33)     839  B
+
+%Round: 7
+
+      2 (33)>(31)      46  B
+    433 (30)<(34)   50053  B
+    478 (35)>(29)   50075  B
+   3734 (14)<(50) 9921051  B
+    839 (49)>(15)      11  B
+
+%Round: 8
+
+9921051 (12)<(52)       2  B
+  50075 (39)>(25)    3734  B
+     46 (35)>(29)     433  B
+     11 (28)<(36)     478  B
+   3598 (43)>(21)     839  B
+
+%Round: 9
+
+  50053 (16)<(48)      46  B
+    433 (52)>(12) 9921051  B
+    478 (26)<(38)    3598  B
+   3734 (04)<(60)      11  B
+      2 (24)<(40)   50075  B
+
+%Round: 10
+
+9921051 (20)<(44)   50053  B
+  50075 (30)<(34)     433  B
+   3598 (48)>(16)    3734  B
+     11 (25)<(39)       2  B
+    839 (37)>(27)     478  B
+
+%Round: 11
+
+  50053 (34)>(30)   50075  B
+     46 (47)>(17) 9921051  B
+      2 (45)>(19)    3598  B
+    433 (49)>(15)      11  B
+   3734 (32)=(32)     839  B
+
+
+%%Added results
+    433 (36)>(28)   50075  B
+      2 (30)<(34)     839  B
+    839 (31)<(33)       2  B
+      2 (34)>(30)     839  B
