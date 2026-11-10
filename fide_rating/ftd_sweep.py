@@ -79,6 +79,10 @@ if listing is not None:
         if 'xot' in (t.get('name') or '').lower():
             print(f'  skip XOT event: {tid} {t.get("name")}', file=sys.stderr)
             continue
+        # Blitz is not standard time control - never rated (FTD 688, Nov 2026)
+        if 'blitz' in (t.get('name') or '').lower():
+            print(f'  skip blitz event: {tid} {t.get("name")}', file=sys.stderr)
+            continue
         end_d = end[:10] or start
         if start and start <= str(today) <= max(end_d, start):
             hits.append((int(tid), end))

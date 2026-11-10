@@ -12,7 +12,7 @@ holes after the fact:
      Probe results are cached in .ftd_seen.json so each id is fetched once;
      an id is re-probed only while its event is not yet finished.
   3. Convert every event that is finished, has >= 2 players and >= 1 game,
-     and is not skip-listed (XOT -> XOT rating; handicap/friendly -> never
+     and is not skip-listed (XOT -> XOT rating; handicap/friendly/blitz -> never
      rated). Skipped names are printed for review.
 
 Prints 'CONVERTED <n>' on success so the workflow knows to commit.
@@ -32,7 +32,7 @@ SEEN_PATH = os.path.join(ROOT, '.ftd_seen.json')
 LOOKBACK = 15
 LOOKAHEAD = 10
 # Never auto-rate these; they are either rated elsewhere (XOT) or not rateable.
-SKIP_NAME = re.compile(r'xot|handicap|friendly', re.IGNORECASE)
+SKIP_NAME = re.compile(r'xot|handicap|friendly|blitz', re.IGNORECASE)
 
 
 def converted_map():
