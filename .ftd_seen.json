@@ -88,7 +88,7 @@
   "status": "open",
   "name": "Milan EGP",
   "end_date": "",
-  "players": 33
+  "players": 35
  },
  "679": {
   "status": "finished",
@@ -149,24 +149,34 @@
   "players": 10
  },
  "689": {
-  "status": "missing",
-  "hi": 688
+  "status": "open",
+  "name": "Chansaa 22, Master",
+  "end_date": "",
+  "players": 12
  },
  "690": {
-  "status": "missing",
-  "hi": 688
+  "status": "open",
+  "name": "Chansaa 22, Youth 10-14 New",
+  "end_date": "",
+  "players": 8
  },
  "691": {
-  "status": "missing",
-  "hi": 688
+  "status": "open",
+  "name": "Chansaa 22, Youth 10-14 Ranked",
+  "end_date": "",
+  "players": 13
  },
  "692": {
-  "status": "missing",
-  "hi": 688
+  "status": "open",
+  "name": "Chansaa, Youth 6-9 Ranked",
+  "end_date": "",
+  "players": 5
  },
  "693": {
-  "status": "missing",
-  "hi": 688
+  "status": "open",
+  "name": "Chansaa 22, Youth 6-9 new",
+  "end_date": "",
+  "players": 14
  },
  "694": {
   "status": "missing",
