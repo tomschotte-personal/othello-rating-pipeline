@@ -158,13 +158,13 @@
   "status": "open",
   "name": "Chansaa 22, Youth 10-14 New",
   "end_date": "",
-  "players": 8
+  "players": 9
  },
  "691": {
   "status": "open",
   "name": "Chansaa 22, Youth 10-14 Ranked",
   "end_date": "",
-  "players": 13
+  "players": 0
  },
  "692": {
   "status": "open",
@@ -180,22 +180,42 @@
  },
  "694": {
   "status": "missing",
-  "hi": 688
+  "hi": 693
  },
  "695": {
   "status": "missing",
-  "hi": 688
+  "hi": 693
  },
  "696": {
   "status": "missing",
-  "hi": 688
+  "hi": 693
  },
  "697": {
   "status": "missing",
-  "hi": 688
+  "hi": 693
  },
  "698": {
   "status": "missing",
-  "hi": 688
+  "hi": 693
+ },
+ "699": {
+  "status": "missing",
+  "hi": 693
+ },
+ "700": {
+  "status": "missing",
+  "hi": 693
+ },
+ "701": {
+  "status": "missing",
+  "hi": 693
+ },
+ "702": {
+  "status": "missing",
+  "hi": 693
+ },
+ "703": {
+  "status": "missing",
+  "hi": 693
  }
 }
