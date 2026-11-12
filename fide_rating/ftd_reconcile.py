@@ -45,8 +45,16 @@ def converted_map():
                 continue
             path = os.path.join(dirpath, f)
             try:
+                # Whole header up to the first round: the 'See: .../live/<id>'
+                # line follows the roster, so a fixed 2000-char read missed it
+                # for big events (Baganuur, 68 players, re-converted every run).
+                head = []
                 with open(path, encoding='utf-8', errors='replace') as fh:
-                    head = fh.read(2000)
+                    for line in fh:
+                        if line.startswith('%Round'):
+                            break
+                        head.append(line)
+                head = ''.join(head)
             except OSError:
                 continue
             m = re.search(r'flipthedisc\.com/live/(\d+)', head)
