@@ -35,6 +35,21 @@ LOOKAHEAD = 10
 SKIP_NAME = re.compile(r'xot|handicap|friendly|blitz', re.IGNORECASE)
 
 
+def is_xot(tid, cached):
+    """FTD's own XOT flag. Names don't always say so: 'Gambrinus Open' (679) is
+    XOT and slipped into wof_results via the name rule alone (2026-11)."""
+    if cached.get('xot'):
+        return True
+    p = os.path.join(ROOT, f'tournament_{tid}.json')
+    if os.path.exists(p):
+        try:
+            with open(p, encoding='utf-8') as f:
+                return bool((json.load(f).get('info') or {}).get('xot'))
+        except (OSError, ValueError):
+            pass
+    return False
+
+
 def converted_map():
     """tid -> .ELO path for every FTD-converted result file."""
     out = {}
@@ -128,6 +143,7 @@ def probe(tid):
         'name': info.get('name') or '',
         'end_date': info.get('end_date') or '',
         'players': len(d.get('players_list') or d.get('standings') or []),
+        'xot': 1 if info.get('xot') else 0,
     }
 
 
@@ -175,6 +191,9 @@ def main():
         name = cached.get('name', '')
         if SKIP_NAME.search(name):
             print(f'  {tid}: SKIP (name rule): {name}')
+            continue
+        if is_xot(tid, cached):
+            print(f'  {tid}: SKIP (FTD xot flag -> XOT rating): {name}')
             continue
         if (cached.get('players') or 0) < 2:
             print(f'  {tid}: SKIP (<2 players): {name}')

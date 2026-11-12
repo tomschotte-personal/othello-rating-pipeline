@@ -76,7 +76,7 @@ if listing is not None:
         if not tid or tid in done_ids or n_pl < 4:
             continue
         # XOT events belong to the XOT rating, never the main live list
-        if 'xot' in (t.get('name') or '').lower():
+        if t.get('xot') or 'xot' in (t.get('name') or '').lower():
             print(f'  skip XOT event: {tid} {t.get("name")}', file=sys.stderr)
             continue
         # Blitz is not standard time control - never rated (FTD 688, Nov 2026)
