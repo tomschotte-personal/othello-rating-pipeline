@@ -64,7 +64,8 @@
   "status": "open",
   "name": "Citta di roma 2 XOT",
   "end_date": "",
-  "players": 6
+  "players": 6,
+  "xot": 1
  },
  "674": {
   "status": "open",
@@ -100,7 +101,8 @@
   "status": "open",
   "name": "Melbourne Open 2026",
   "end_date": "",
-  "players": 14
+  "players": 14,
+  "xot": 0
  },
  "681": {
   "status": "finished",
@@ -124,13 +126,15 @@
   "status": "open",
   "name": "4th Palermo",
   "end_date": "",
-  "players": 0
+  "players": 0,
+  "xot": 0
  },
  "685": {
   "status": "open",
   "name": "St-Petersburg Open Winter 2026",
   "end_date": "",
-  "players": 12
+  "players": 12,
+  "xot": 0
  },
  "686": {
   "status": "finished",
@@ -152,31 +156,36 @@
   "status": "open",
   "name": "Chansaa 22, Master",
   "end_date": "",
-  "players": 12
+  "players": 15,
+  "xot": 0
  },
  "690": {
   "status": "open",
   "name": "Chansaa 22, Youth 10-14 New",
   "end_date": "",
-  "players": 9
+  "players": 15,
+  "xot": 0
  },
  "691": {
   "status": "open",
   "name": "Chansaa 22, Youth 10-14 Ranked",
   "end_date": "",
-  "players": 0
+  "players": 21,
+  "xot": 0
  },
  "692": {
   "status": "open",
   "name": "Chansaa, Youth 6-9 Ranked",
   "end_date": "",
-  "players": 5
+  "players": 6,
+  "xot": 0
  },
  "693": {
   "status": "open",
   "name": "Chansaa 22, Youth 6-9 new",
   "end_date": "",
-  "players": 14
+  "players": 23,
+  "xot": 0
  },
  "694": {
   "status": "missing",
