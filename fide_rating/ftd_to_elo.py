@@ -25,6 +25,14 @@ ISO2_TO_ISO3 = {
     'AR':'ARG','CL':'CHL','PE':'PER','UY':'URY','GT':'GTM','SV':'SLV','LT':'LTU','LV':'LVA',
     'EE':'EST','RO':'ROU','BG':'BGR','HR':'HRV','RS':'SRB','SI':'SVN','SK':'SVK','IS':'ISL',
     'MA':'MAR','EG':'EGY','TN':'TUN','ZA':'ZAF','CI':'CIV','ID':'IDN','PH':'PHL','VN':'VNM',
+    # Iran came through as 'IR' (2026-11): keep this list wide.
+    'IR':'IRN','IQ':'IRQ','LK':'LKA','PK':'PAK','BD':'BGD','NP':'NPL','MO':'MAC','KH':'KHM',
+    'MM':'MMR','LA':'LAO','BN':'BRN','KZ':'KAZ','UZ':'UZB','KG':'KGZ','GE':'GEO','AM':'ARM',
+    'AZ':'AZE','AE':'ARE','SA':'SAU','QA':'QAT','KW':'KWT','BH':'BHR','OM':'OMN','JO':'JOR',
+    'LB':'LBN','CY':'CYP','MT':'MLT','LU':'LUX','BY':'BLR','MD':'MDA','MK':'MKD','BA':'BIH',
+    'AL':'ALB','ME':'MNE','CR':'CRI','CO':'COL','VE':'VEN','EC':'ECU','PA':'PAN','DO':'DOM',
+    'CU':'CUB','PY':'PRY','BO':'BOL','HN':'HND','NI':'NIC','PR':'PRI','KE':'KEN','NG':'NGA',
+    'DZ':'DZA','GH':'GHA','SN':'SEN',
 }
 
 def to_iso3(code):

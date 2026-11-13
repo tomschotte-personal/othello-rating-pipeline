@@ -7,14 +7,14 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
-%_% 9921064, KADKHODAEE, Hamed, IR, 8, 404, 0
-%_% 390037, LORI, Fatemeh, IR, 5, 287, 0
-%_% 9921068, ESLAMI, Zahra, IR, 3, 160, 0
-%_% 390040, TALEBI ZADEH SARDARY, Ali, IR, 2.5, 210, 0
-%_% 9921067, MAGHSOUDI RAVARI, Morteza, IR, 2, 154, 0
-%_% 9921065, MAGHSOUDI RAVARI, Ali, IR, 1.5, 135, 0
-%_% 9921063, MAGHSOUDI RAVARI, Reyhaneh, IR, 1, 110, 0
-%_% 9921066, BASIRIAN, Amir Reza, IR, 1, 76, 0
+%_% 9921064, KADKHODAEE, Hamed, IRN, 8, 404, 0
+%_% 390037, LORI, Fatemeh, IRN, 5, 287, 0
+%_% 9921068, ESLAMI, Zahra, IRN, 3, 160, 0
+%_% 390040, TALEBI ZADEH SARDARY, Ali, IRN, 2.5, 210, 0
+%_% 9921067, MAGHSOUDI RAVARI, Morteza, IRN, 2, 154, 0
+%_% 9921065, MAGHSOUDI RAVARI, Ali, IRN, 1.5, 135, 0
+%_% 9921063, MAGHSOUDI RAVARI, Reyhaneh, IRN, 1, 110, 0
+%_% 9921066, BASIRIAN, Amir Reza, IRN, 1, 76, 0
 %_%__________
 %_% Generated from FTD via ftd_to_elo.py
 %_% See: https://flipthedisc.com/live/608

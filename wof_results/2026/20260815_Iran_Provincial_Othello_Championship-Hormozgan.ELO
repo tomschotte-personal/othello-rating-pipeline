@@ -7,16 +7,16 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
-%_% 9921075, SHARIATY, Somaye, IR, 7, 330, 0
-%_% 9921078, SALEHI, Ava, IR, 4, 256, 0
-%_% 9921076, HOJATI, Niki, IR, 4, 221, 0
-%_% 9921079, ORANG, Mohammad, IR, 4, 202, 0
-%_% 9921074, ZAHEDI, Kiyavash, IR, 2, 173, 0
-%_% 9921073, ZAHEDI, Kiyan, IR, 1, 108, 0
-%_% 9921072, FARJAM, Sina, IR, 1, 87, 0
-%_% 9921077, HEYDARI, Sam, IR, 1, 65, 0
-%_% 9921080, DARABI, Arman, IR, 0, 94, 0
-%_% 9921081, SAFARI, Karen, IR, 0, 0, 0
+%_% 9921075, SHARIATY, Somaye, IRN, 7, 330, 0
+%_% 9921078, SALEHI, Ava, IRN, 4, 256, 0
+%_% 9921076, HOJATI, Niki, IRN, 4, 221, 0
+%_% 9921079, ORANG, Mohammad, IRN, 4, 202, 0
+%_% 9921074, ZAHEDI, Kiyavash, IRN, 2, 173, 0
+%_% 9921073, ZAHEDI, Kiyan, IRN, 1, 108, 0
+%_% 9921072, FARJAM, Sina, IRN, 1, 87, 0
+%_% 9921077, HEYDARI, Sam, IRN, 1, 65, 0
+%_% 9921080, DARABI, Arman, IRN, 0, 94, 0
+%_% 9921081, SAFARI, Karen, IRN, 0, 0, 0
 %_%__________
 %_% Generated from FTD via ftd_to_elo.py
 %_% See: https://flipthedisc.com/live/614

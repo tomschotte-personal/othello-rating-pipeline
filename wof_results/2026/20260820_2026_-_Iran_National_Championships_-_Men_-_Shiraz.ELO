@@ -7,42 +7,42 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
-%_% 391001, ROSTAMIPOUR, Hassan, IR, 11.5, 607, 0
-%_% 390032, SHAYESTEH TASLIKH, Reza, IR, 10, 498, 0
-%_% 390031, POUR HAMZEH ASL, Daniyal, IR, 9.5, 586, 0
-%_% 391015, SALARI, Ali, IR, 8, 430, 0
-%_% 390006, MOAZENI, Morteza, IR, 7, 384, 0
-%_% 9921162, SHAHRIYARI, hosein, IR, 6, 415, 0
-%_% 9921148, HASELI, Abolfazl, IR, 6, 377, 0
-%_% 391012, KADKHODAEE, Hammed, IR, 6, 346, 0
-%_% 9921173, ZHIRU, Faramarzi, IR, 6, 289, 0
-%_% 9921152, ARJOMANDI, MohammadAmin, IR, 5.5, 296, 0
-%_% 9921175, POUP, farajollah, IR, 5, 349, 0
-%_% 9919498, SHAREGH, erfan, IR, 5, 349, 0
-%_% 9921151, ALIPOUR, Mahdi, IR, 5, 335, 0
-%_% 390041, HASAN SHAHI, Radvin, IR, 5, 327, 0
-%_% 390053, NAJAFIYAN, Aboulfazl, IR, 5, 310, 0
-%_% 9919480, MOSALA NEZHAD, hasan, IR, 5, 306, 0
-%_% 9919517, POURHAMZEH, Aghil, IR, 5, 242, 0
-%_% 9919526, DASHTI, alireza, IR, 4, 320, 0
-%_% 9921171, SALAMI, SeyedMohammad, IR, 4, 318, 0
-%_% 9921067, MAGHSOUDI RAVARI, Morteza, IR, 4, 307, 0
-%_% 9921156, SHARIFI, Hamze, IR, 4, 297, 0
-%_% 9921146, FARAMARZI, Ahmad, IR, 4, 287, 0
-%_% 9921160, ABASI, Ariyan, IR, 4, 276, 0
-%_% 9921154, RAOUFI, AmirAli, IR, 4, 276, 0
-%_% 9921180, SHADEMANI, Masoud, IR, 4, 256, 0
-%_% 9921149, BEHZADI, Daniyal, IR, 4, 241, 0
-%_% 9921153, FALAHZADEH, AmirHoseyn, IR, 3, 331, 0
-%_% 9921147, IRANFARD, amir Mahdi, IR, 3, 284, 0
-%_% 9921195, KARIMI, mohammadAli, IR, 3, 247, 0
-%_% 9921189, KHAKPOUR, parsa, IR, 3, 206, 0
-%_% 9921150, JABARI, Saeed, IR, 3, 182, 0
-%_% 9921159, BORDBARIYAN, Ali, IR, 2.5, 187, 0
-%_% 9921187, SALMANI, amirHoseeyn, IR, 2, 168, 0
-%_% 9921188, SAEDI, daniyal, IR, 2, 123, 0
-%_% 9921161, HONARMAND, MohamadYasin, IR, 1, 64, 0
-%_% 9921158, GHORBANPOUR, Amir, IR, 0, 0, 0
+%_% 391001, ROSTAMIPOUR, Hassan, IRN, 11.5, 607, 0
+%_% 390032, SHAYESTEH TASLIKH, Reza, IRN, 10, 498, 0
+%_% 390031, POUR HAMZEH ASL, Daniyal, IRN, 9.5, 586, 0
+%_% 391015, SALARI, Ali, IRN, 8, 430, 0
+%_% 390006, MOAZENI, Morteza, IRN, 7, 384, 0
+%_% 9921162, SHAHRIYARI, hosein, IRN, 6, 415, 0
+%_% 9921148, HASELI, Abolfazl, IRN, 6, 377, 0
+%_% 391012, KADKHODAEE, Hammed, IRN, 6, 346, 0
+%_% 9921173, ZHIRU, Faramarzi, IRN, 6, 289, 0
+%_% 9921152, ARJOMANDI, MohammadAmin, IRN, 5.5, 296, 0
+%_% 9921175, POUP, farajollah, IRN, 5, 349, 0
+%_% 9919498, SHAREGH, erfan, IRN, 5, 349, 0
+%_% 9921151, ALIPOUR, Mahdi, IRN, 5, 335, 0
+%_% 390041, HASAN SHAHI, Radvin, IRN, 5, 327, 0
+%_% 390053, NAJAFIYAN, Aboulfazl, IRN, 5, 310, 0
+%_% 9919480, MOSALA NEZHAD, hasan, IRN, 5, 306, 0
+%_% 9919517, POURHAMZEH, Aghil, IRN, 5, 242, 0
+%_% 9919526, DASHTI, alireza, IRN, 4, 320, 0
+%_% 9921171, SALAMI, SeyedMohammad, IRN, 4, 318, 0
+%_% 9921067, MAGHSOUDI RAVARI, Morteza, IRN, 4, 307, 0
+%_% 9921156, SHARIFI, Hamze, IRN, 4, 297, 0
+%_% 9921146, FARAMARZI, Ahmad, IRN, 4, 287, 0
+%_% 9921160, ABASI, Ariyan, IRN, 4, 276, 0
+%_% 9921154, RAOUFI, AmirAli, IRN, 4, 276, 0
+%_% 9921180, SHADEMANI, Masoud, IRN, 4, 256, 0
+%_% 9921149, BEHZADI, Daniyal, IRN, 4, 241, 0
+%_% 9921153, FALAHZADEH, AmirHoseyn, IRN, 3, 331, 0
+%_% 9921147, IRANFARD, amir Mahdi, IRN, 3, 284, 0
+%_% 9921195, KARIMI, mohammadAli, IRN, 3, 247, 0
+%_% 9921189, KHAKPOUR, parsa, IRN, 3, 206, 0
+%_% 9921150, JABARI, Saeed, IRN, 3, 182, 0
+%_% 9921159, BORDBARIYAN, Ali, IRN, 2.5, 187, 0
+%_% 9921187, SALMANI, amirHoseeyn, IRN, 2, 168, 0
+%_% 9921188, SAEDI, daniyal, IRN, 2, 123, 0
+%_% 9921161, HONARMAND, MohamadYasin, IRN, 1, 64, 0
+%_% 9921158, GHORBANPOUR, Amir, IRN, 0, 0, 0
 %_%__________
 %_% Generated from FTD via ftd_to_elo.py
 %_% See: https://flipthedisc.com/live/607

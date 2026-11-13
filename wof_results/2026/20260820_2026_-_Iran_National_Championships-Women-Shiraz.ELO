@@ -7,22 +7,22 @@
 
 %        id, lastname, firstname, country, score, disc-count, rating
 
-%_% 390039, TARASHI KASHANI, Fatemeh, IR, 11, 589, 0
-%_% 9921164, ZOLFAGHARVAND, MahSoltan, IR, 8, 404, 0
-%_% 9921163, MOHAMMADALIYAN, Elahe, IR, 7, 402, 0
-%_% 9921167, KHOSROZADEH, Farimah, IR, 6, 400, 0
-%_% 9921170, NAMDAR, fahime, IR, 5, 348, 0
-%_% 9921166, MESKINY, marziye, IR, 5, 310, 0
-%_% 9921172, GHASEMI, zahra, IR, 4, 302, 0
-%_% 9921169, ZAMANIRAD, kosar, IR, 4, 238, 0
-%_% 9921174, MOEINI, fatemeh, IR, 4, 234, 0
-%_% 9921176, OJAGHI, shahnaz, IR, 4, 200, 0
-%_% 9919482, HAGH SHENAS, zahra, IR, 3, 216, 0
-%_% 9921177, KOHANSAL, hajar, IR, 3, 212, 0
-%_% 9921168, ALIGOLI, narges, IR, 2, 189, 0
-%_% 9921194, ASKARI, parvin, IR, 1, 185, 0
-%_% 9919511, EDRISI, farahnaz, IR, 1, 123, 0
-%_% 9921165, KESHAVARZ, maryam, IR, 0, 0, 0
+%_% 390039, TARASHI KASHANI, Fatemeh, IRN, 11, 589, 0
+%_% 9921164, ZOLFAGHARVAND, MahSoltan, IRN, 8, 404, 0
+%_% 9921163, MOHAMMADALIYAN, Elahe, IRN, 7, 402, 0
+%_% 9921167, KHOSROZADEH, Farimah, IRN, 6, 400, 0
+%_% 9921170, NAMDAR, fahime, IRN, 5, 348, 0
+%_% 9921166, MESKINY, marziye, IRN, 5, 310, 0
+%_% 9921172, GHASEMI, zahra, IRN, 4, 302, 0
+%_% 9921169, ZAMANIRAD, kosar, IRN, 4, 238, 0
+%_% 9921174, MOEINI, fatemeh, IRN, 4, 234, 0
+%_% 9921176, OJAGHI, shahnaz, IRN, 4, 200, 0
+%_% 9919482, HAGH SHENAS, zahra, IRN, 3, 216, 0
+%_% 9921177, KOHANSAL, hajar, IRN, 3, 212, 0
+%_% 9921168, ALIGOLI, narges, IRN, 2, 189, 0
+%_% 9921194, ASKARI, parvin, IRN, 1, 185, 0
+%_% 9919511, EDRISI, farahnaz, IRN, 1, 123, 0
+%_% 9921165, KESHAVARZ, maryam, IRN, 0, 0, 0
 %_%__________
 %_% Generated from FTD via ftd_to_elo.py
 %_% See: https://flipthedisc.com/live/625
