@@ -89,7 +89,8 @@
   "status": "open",
   "name": "Milan EGP",
   "end_date": "",
-  "players": 35
+  "players": 35,
+  "xot": 0
  },
  "679": {
   "status": "finished",
@@ -114,7 +115,8 @@
   "status": "open",
   "name": "11th Torino",
   "end_date": "",
-  "players": 10
+  "players": 10,
+  "xot": 0
  },
  "683": {
   "status": "finished",
@@ -170,7 +172,7 @@
   "status": "open",
   "name": "Chansaa 22, Youth 10-14 Ranked",
   "end_date": "",
-  "players": 21,
+  "players": 22,
   "xot": 0
  },
  "692": {
