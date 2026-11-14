@@ -158,7 +158,7 @@
   "status": "open",
   "name": "Chansaa 22, Master",
   "end_date": "",
-  "players": 16,
+  "players": 17,
   "xot": 0
  },
  "690": {
@@ -172,7 +172,7 @@
   "status": "open",
   "name": "Chansaa 22, Youth 10-14 Ranked",
   "end_date": "",
-  "players": 23,
+  "players": 25,
   "xot": 0
  },
  "692": {
@@ -190,8 +190,11 @@
   "xot": 0
  },
  "694": {
-  "status": "missing",
-  "hi": 693
+  "status": "open",
+  "name": "riano",
+  "end_date": "",
+  "players": 20,
+  "xot": 0
  },
  "695": {
   "status": "missing",
