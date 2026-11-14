@@ -1,0 +1,84 @@
+%%Tournament: Chansaa 22, Youth 10-14 New
+%%Country: MN
+%%Date: 14/11/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 441226, MUNKHJARGAL, Ochirvaani, MNG, 5, 219, 766
+%_% 441168, URANCHIMEG, Urankhishig, MNG, 4, 210, 380
+%_% 9921380, GANNYAM, Battushig, MNG, 4, 181, 0
+%_% 9921382, MUNKHBAATAR, Tergel, MNG, 3, 164, 0
+%_% 9921419, TUMENNASAN, Egshiglen, MNG, 3, 154, 0
+%_% 441069, KHURELCHULUUN, Delgertsetseg, MNG, 2.5, 181, 413
+%_% 9921422, OTGONBAYAR, Munkhjin, MNG, 2.5, 178, 0
+%_% 441435, LUVSANSHIIREV, Munkh-Uchral, MNG, 2.5, 170, -842
+%_% 441980, KHURELSUKH, Setsen-Ujin, MNG, 2.5, 165, 518
+%_% 441227, ALTANDUSH, Gerelt-Ireedui, MNG, 2.5, 119, -972
+%_% 441306, ALTANKHUYAG, Esujin, MNG, 2, 126, 410
+%_% 441172, BATKHUYAG, Tsetseekhen, MNG, 2, 123, 506
+%_% 9921411, KHANDSUREN, oyu-erdene, MNG, 1.5, 153, 0
+%_% 9919218, LKHAGVAJARGAL, Bumanbayar, MNG, 1, 126, 0
+%_% 9921386, SODGEREL, Nandin-Erdene, MNG, 1, 114, 0
+%_% 441146, TUVSAIKHAN, Nandinzul, MNG, 1, 99, 469
+%_% 9921410, MUNKHBADRAKH, Munkh-Ayalguu, MNG, 0, 78, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/690
+
+%Round: 1
+
+ 9921422 (46)>(18) 9921410  B
+ 441226 (37)>(27) 9921382  B
+ 441980 (40)>(24) 441146  B
+ 441069 (48)>(16) 9921419  B
+ 9921380 (40)>(24) 9919218  B
+ 441435 (40)>(24) 441172  B
+ 441306 (27)<(37) 441168  B
+ 9921411 (32)=(32) 441227  B
+
+%Round: 2
+
+ 441226 (36)>(28) 441069  B
+ 9921422 (25)<(39) 9921380  B
+ 441168 (42)>(22) 441980  B
+ 9921386 (23)<(41) 9921411  B
+ 441227 (35)>(29) 441435  B
+ 441146 (19)<(45) 9921382  B
+ 9921419 (46)>(18) 441306  B
+ 9919218 (46)>(18) 9921410  B
+
+%Round: 3
+
+ 9921380 (38)>(26) 441168  B
+ 441227 (04)<(60) 441226  B
+ 9921411 (25)<(39) 441435  B
+ 441069 (43)>(21) 9919218  B
+ 9921382 (37)>(27) 9921386  B
+ 441172 (38)>(26) 9921422  B
+ 441980 (24)<(40) 9921419  B
+ 9921410 (25)<(39) 441146  B
+
+%Round: 4
+
+ 441226 (34)>(30) 9921380  B
+ 441435 (32)=(32) 441069  B
+ 9921419 (15)<(49) 441172  B
+ 9921382 (36)>(28) 9921411  B
+ 441168 (60)>(04) 441227  B
+ 9919218 (15)<(49) 9921422  B
+ 9921386 (17)<(47) 441980  B
+ 441146 (17)<(47) 441306  B
+
+%Round: 5
+
+ 441172 (12)<(52) 441226  B
+ 441168 (45)>(19) 9921382  B
+ 9921380 (34)>(30) 441435  B
+ 441306 (34)>(30) 441069  B
+ 9921422 (32)=(32) 441980  B
+ 9921411 (27)<(37) 9921419  B
+ 441227 (44)>(20) 9919218  B
+ 9921410 (17)<(47) 9921386  B

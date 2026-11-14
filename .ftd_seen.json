@@ -64,7 +64,7 @@
   "status": "open",
   "name": "Citta di roma 2 XOT",
   "end_date": "",
-  "players": 6,
+  "players": 7,
   "xot": 1
  },
  "674": {
@@ -155,38 +155,38 @@
   "players": 10
  },
  "689": {
-  "status": "open",
+  "status": "finished",
   "name": "Chansaa 22, Master",
-  "end_date": "",
+  "end_date": "2026-11-14T05:59:58.000Z",
   "players": 17,
   "xot": 0
  },
  "690": {
-  "status": "open",
+  "status": "finished",
   "name": "Chansaa 22, Youth 10-14 New",
-  "end_date": "",
+  "end_date": "2026-11-14T04:43:16.000Z",
   "players": 17,
   "xot": 0
  },
  "691": {
-  "status": "open",
+  "status": "finished",
   "name": "Chansaa 22, Youth 10-14 Ranked",
-  "end_date": "",
-  "players": 25,
+  "end_date": "2026-11-14T04:51:08.000Z",
+  "players": 26,
   "xot": 0
  },
  "692": {
-  "status": "open",
+  "status": "finished",
   "name": "Chansaa, Youth 6-9 Ranked",
-  "end_date": "",
+  "end_date": "2026-11-14T04:42:19.000Z",
   "players": 7,
   "xot": 0
  },
  "693": {
-  "status": "open",
+  "status": "finished",
   "name": "Chansaa 22, Youth 6-9 new",
-  "end_date": "",
-  "players": 26,
+  "end_date": "2026-11-14T05:07:54.000Z",
+  "players": 25,
   "xot": 0
  },
  "694": {
@@ -197,39 +197,46 @@
   "xot": 0
  },
  "695": {
-  "status": "missing",
-  "hi": 693
+  "status": "open",
+  "name": "Singapore Othello Master Series 2026",
+  "end_date": "",
+  "players": 8,
+  "xot": 0
  },
  "696": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "697": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "698": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "699": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "700": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "701": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "702": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
  },
  "703": {
   "status": "missing",
-  "hi": 693
+  "hi": 694
+ },
+ "704": {
+  "status": "missing",
+  "hi": 694
  }
 }

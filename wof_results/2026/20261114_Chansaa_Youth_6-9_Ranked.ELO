@@ -1,0 +1,49 @@
+%%Tournament: Chansaa, Youth 6-9 Ranked
+%%Country: MN
+%%Date: 14/11/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 440590, TSEGMID, Ayushbaatar, MNG, 5, 264, 1127
+%_% 440589, TSERENPIL, Anar, MNG, 4, 179, 730
+%_% 440861, TSEGMID, Amgalanbaatar, MNG, 2, 127, 674
+%_% 441145, AMARJARGAL, Erdemtugs, MNG, 2, 102, 633
+%_% 441042, BATTULGA, Tsegts, MNG, 1, 111, 676
+%_% 441143, CHINZORIG, Anar, MNG, 1, 105, 527
+%_% 440497, CHINZORIG, Mandakh, MNG, 0, 72, 441
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/692
+
+%Round: 1
+
+ 440497 (14)<(50) 440589  B
+ 441042 (51)>(13) 441143  B
+ 441145 (12)<(52) 440590  B
+
+%Round: 2
+
+ 440590 (45)>(19) 440861  B
+ 440589 (34)>(30) 441042  B
+ 441143 (47)>(17) 440497  B
+
+%Round: 3
+
+ 440590 (58)>(06) 440589  B
+ 441042 (27)<(37) 441145  B
+ 440861 (35)>(29) 441143  B
+
+%Round: 4
+
+ 441143 (16)<(48) 440590  B
+ 440589 (48)>(16) 441145  B
+ 440497 (14)<(50) 440861  B
+
+%Round: 5
+
+ 440590 (61)>(03) 441042  B
+ 440861 (23)<(41) 440589  B
+ 441145 (37)>(27) 440497  B
