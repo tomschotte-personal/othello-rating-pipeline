@@ -7,9 +7,10 @@
  },
  "658": {
   "status": "open",
-  "name": "Greve",
+  "name": "Citta di roma 2 XOT",
   "end_date": "",
-  "players": 1
+  "players": 7,
+  "xot": 1
  },
  "659": {
   "status": "finished",
@@ -89,7 +90,7 @@
   "status": "open",
   "name": "Milan EGP",
   "end_date": "",
-  "players": 35,
+  "players": 36,
   "xot": 0
  },
  "679": {
@@ -191,10 +192,10 @@
  },
  "694": {
   "status": "open",
-  "name": "riano",
+  "name": "Citta di roma 2 XOT",
   "end_date": "",
-  "players": 20,
-  "xot": 0
+  "players": 7,
+  "xot": 1
  },
  "695": {
   "status": "open",
@@ -204,43 +205,73 @@
   "xot": 0
  },
  "696": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "697": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "698": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "699": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "700": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "701": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "702": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "703": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "704": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "705": {
-  "status": "missing",
-  "hi": 695
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  }
 }
