@@ -369,7 +369,7 @@
   "status": "open",
   "name": "Citta di roma 2 XOT",
   "end_date": "",
-  "players": 0,
+  "players": 7,
   "xot": 1
  },
  "720": {
@@ -604,8 +604,11 @@
   "xot": 1
  },
  "753": {
-  "status": "missing",
-  "hi": 745
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  },
  "754": {
   "status": "open",
@@ -615,7 +618,73 @@
   "xot": 1
  },
  "755": {
-  "status": "missing",
-  "hi": 745
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "756": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "757": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "758": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "759": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "760": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "761": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "762": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "763": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
+ },
+ "764": {
+  "status": "open",
+  "name": "Citta di roma 2 XOT",
+  "end_date": "",
+  "players": 7,
+  "xot": 1
  }
 }
