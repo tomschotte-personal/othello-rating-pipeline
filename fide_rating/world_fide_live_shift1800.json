@@ -1,11 +1,11 @@
 {
-  "ref_date": "2026-11-15 11:51",
+  "ref_date": "2026-11-21 22:00",
   "baseline_date": "2026-10-31",
   "tournament_id": "",
   "tournament_name": "Live",
   "ec_games_played": 842,
   "ec_rounds": 0,
-  "total_active": 4308,
+  "total_active": 4305,
   "players": [
     {
       "id": 13841,
@@ -16831,17 +16831,6 @@
       "country": "JPN",
       "provisional": false,
       "last_played": "2023-11-03",
-      "ec": 0
-    },
-    {
-      "id": 15637,
-      "rating": 1927.8,
-      "games_played": 12,
-      "firstname": "Haruto",
-      "surname": "NAKAMURA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-09-17",
       "ec": 0
     },
     {
@@ -40427,17 +40416,6 @@
       "ec": 0
     },
     {
-      "id": 15564,
-      "rating": 1768.7,
-      "games_played": 16,
-      "firstname": "Yasunori",
-      "surname": "OSHIMIZU",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-09-17",
-      "ec": 0
-    },
-    {
       "id": 16529,
       "rating": 1768.6,
       "games_played": 5,
@@ -48201,17 +48179,6 @@
           "r": 0
         }
       ]
-    },
-    {
-      "id": 15633,
-      "rating": 1730.6,
-      "games_played": 4,
-      "firstname": "Naoyuki",
-      "surname": "SHIMOYAMA",
-      "country": "JPN",
-      "provisional": true,
-      "last_played": "2023-09-17",
-      "ec": 0
     },
     {
       "id": 441958,
