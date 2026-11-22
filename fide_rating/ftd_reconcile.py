@@ -129,7 +129,9 @@ def probe(tid):
     except Exception as e:
         return {'status': 'error', 'error': str(e)[:80]}
     info = d.get('info') or {}
-    if not info.get('id'):
+    # FTD answers an unknown/deleted id with another event (2026-11-22: 697 and
+    # 815+ returned the 48th WOC, id 571) - that must not be stored or converted.
+    if not info.get('id') or info.get('id') != tid:
         return {'status': 'missing'}
     # Persist the cache convert() loads (fetch alone does not write it).
     with open(os.path.join(ROOT, f'tournament_{tid}.json'), 'w',

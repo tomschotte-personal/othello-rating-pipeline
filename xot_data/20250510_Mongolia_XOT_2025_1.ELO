@@ -1,0 +1,70 @@
+%%Tournament: XOT Mongolia, 1st Tournament
+%%Country: MN
+%%Date: 10/05/2025
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 440021, MAKHGALSUREN, Janlavchariv, MN, 5, 240, 1398
+%_% 440463, BAYARTSETSEG, Turbold, MN, 3, 216, 1233
+%_% 441102, KHEREEN, Khureltsetseg, MN, 3, 176, 953
+%_% 440128, ENKHBOLD, Nandinkhuu, MN, 3, 164, 1076
+%_% 440075, BANZRAGCH, Garmaa, MN, 3, 146, 818
+%_% 440955, JAMBAL, Bayarmaa, MN, 2, 153, 132
+%_% 440621, DANZANBALJIR, Enkhtuya, MN, 2, 145, 700
+%_% 440000, KHUYAGBAATAR, Buyanzaya, MN, 2, 134, 1163
+%_% 441101, GANBOLD, Buyanjargal, MN, 2, 115, 1092
+%_% 440952, DONOI, Gantsetseg, MN, 2, 112, 812
+%_% 441010, NORJMOO, Densmaa, MN, 2, 111, 510
+%_% 440956, BATTUMUR, Badamkhand, MN, 1, 110, 0
+%_% 441107, BAZARRAGCHAA, Narantsetseg, MN, 0, 98, 389
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/289
+
+%Round: 1
+
+ 441101 (40)>(24) 440000  B
+ 440955 (12)<(52) 440128  B
+ 441010 (11)<(53) 440621  B
+ 441107 (14)<(50) 441102  B
+ 440956 (08)<(56) 440463  B
+ 440021 (57)>(07) 440075  B
+
+%Round: 2
+
+ 441102 (11)<(53) 440021  B
+ 440463 (54)>(10) 441101  B
+ 440128 (55)>(09) 440621  B
+ 440952 (44)>(20) 441107  B
+ 440075 (47)>(17) 440955  B
+ 440956 (64)>(00) 441010  B
+
+%Round: 3
+
+ 440021 (37)>(27) 440463  B
+ 440952 (13)<(51) 441102  B
+ 441101 (55)>(09) 440956  B
+ 440621 (26)<(38) 440075  B
+ 441107 (21)<(43) 440000  B
+ 440955 (25)<(39) 441010  B
+
+%Round: 4
+
+ 440128 (24)<(40) 440021  B
+ 440075 (54)>(10) 441101  B
+ 440463 (48)>(16) 440952  B
+ 440621 (46)>(18) 440956  B
+ 441010 (22)<(42) 440000  B
+ 441107 (18)<(46) 440955  B
+
+%Round: 5
+
+ 440021 (53)>(11) 440621  B
+ 440463 (31)<(33) 440128  B
+ 440075 (00)<(64) 441102  B
+ 440000 (25)<(39) 440952  B
+ 440956 (11)<(53) 440955  B
+ 441010 (39)>(25) 441107  B

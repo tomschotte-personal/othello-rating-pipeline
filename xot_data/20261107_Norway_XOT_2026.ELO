@@ -1,0 +1,62 @@
+%%Tournament: Norway XOT 2026
+%%Country: NO
+%%Date: 07/11/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 140068, GJUVSLAND, Martin, NOR, 4.5, 202, 1759
+%_%   2511, OLSEN HAMMERVIK, Pal, NOR, 4, 190, 1807
+%_%   2570, ALBRIGTSEN, Vidar, NOR, 3.5, 183, 1930
+%_%   1868, HAUGLAND, Jan Kristian, NOR, 3, 220, 2023
+%_%   1878, BOE, Alexander, NOR, 3, 165, 1830
+%_%   1802, SKOGEN, Tor Birger, NOR, 2, 183, 1698
+%_% 140031, TVEDT, Sverre, NOR, 2, 157, 1737
+%_% 9921406, MOAN, Bjorn Morten, NOR, 2, 119, 0
+%_% 9921404, ALINEJAD, Shayan, NOR, 1, 87, 0
+%_% 9921405, RISHOI, Sondre, NOR, 0, 94, 0
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/686
+
+%Round: 1
+
+  1802 (62)>(02) 9921406  B
+  1868 (18)<(46) 140068  B
+  1878 (26)<(38)   2511  B
+ 9921405 (31)<(33) 9921404  B
+  2570 (34)>(30) 140031  B
+
+%Round: 2
+
+  2511 (34)>(30)   1802  B
+ 140068 (32)=(32)   2570  B
+ 9921404 (06)<(58)   1868  B
+ 140031 (38)>(26) 9921405  B
+ 9921406 (17)<(47)   1878  B
+
+%Round: 3
+
+  2511 (28)<(36) 140068  B
+  2570 (57)>(07) 9921404  B
+  1802 (35)>(29) 140031  B
+  1878 (05)<(59)   1868  B
+ 9921405 (18)<(46) 9921406  B
+
+%Round: 4
+
+ 140068 (36)>(28)   1802  B
+  1868 (27)<(37)   2570  B
+ 140031 (15)<(49)   2511  B
+ 9921406 (42)>(22) 9921404  B
+ 9921405 (13)<(51)   1878  B
+
+%Round: 5
+
+  2570 (23)<(41)   2511  B
+ 9921406 (12)<(52) 140068  B
+  1802 (28)<(36)   1878  B
+  1868 (58)>(06) 9921405  B
+ 9921404 (19)<(45) 140031  B

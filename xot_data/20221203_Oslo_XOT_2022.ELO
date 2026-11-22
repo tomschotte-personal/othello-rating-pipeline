@@ -1,0 +1,50 @@
+%%Tournament: Oslo XOT 2022
+%%Country: Norway
+%%Date: 03/12/2022
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2023/03/26 20:35
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  3.5, 185, 1898
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3, 158, 1802
+%_%  140031, TVEDT, Sverre, NOR,  3, 156, 1652
+%_%    2583, DANIELSEN, Jostein, NOR,  2.5, 169, 1939
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 133, 1590
+%_%    1878, BOE, Alexander, NOR,  1, 159, 1656
+
+
+
+%Round: 1
+
+  1878 (29)<(35) 140031  B
+  2511 (35)>(29)   1802  B
+  2570 (32)=(32)   2583  B
+
+%Round: 2
+
+  1802 (34)>(30)   1878  B
+140031 (11)<(53)   2570  B
+  2583 (46)>(18)   2511  B
+
+%Round: 3
+
+  1878 (31)<(33)   2570  B
+  1802 (24)<(40)   2583  B
+  2511 (18)<(46) 140031  B
+
+%Round: 4
+
+  2583 (21)<(43)   1878  B
+  2570 (15)<(49)   2511  B
+140031 (30)<(34)   1802  B
+
+%Round: 5
+
+  1878 (26)<(38)   2511  B
+  2583 (30)<(34) 140031  B
+  1802 (12)<(52)   2570  B
+
+
+%%Added results

@@ -1,0 +1,50 @@
+%%Tournament: Oslo XOT 2024
+%%Country: Norway
+%%Date: 03/02/2024
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2024/06/03 22:03
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  4, 212, 1898
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3.5, 179, 1802
+%_%    1878, BOE, Alexander, NOR,  3, 171, 1656
+%_%    1802, SKOGEN, Tor Birger, NOR,  3, 154, 1590
+%_%  140031, TVEDT, Sverre, NOR,  1, 128, 1652
+%_%    1998, SLETVOLD, Michael, NOR,  0.5, 116, 1542
+
+
+
+%Round: 1
+
+  2570 (54)>(10)   1802  B
+  1998 (21)<(43)   1878  B
+140031 (15)<(49)   2511  B
+
+%Round: 2
+
+  1878 (42)>(22)   2570  B
+  1802 (42)>(22) 140031  B
+  2511 (38)>(26)   1998  B
+
+%Round: 3
+
+  2570 (34)>(30) 140031  B
+  1878 (23)<(41)   2511  B
+  1998 (32)=(32)   1802  B
+
+%Round: 4
+
+  2511 (19)<(45)   2570  B
+140031 (34)>(30)   1998  B
+  1802 (38)>(26)   1878  B
+
+%Round: 5
+
+  2570 (57)>(07)   1998  B
+  2511 (32)=(32)   1802  B
+  1878 (37)>(27) 140031  B
+
+
+%%Added results

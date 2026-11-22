@@ -1,0 +1,58 @@
+%%Tournament: Oslo XOT 2017
+%%Country: Norway
+%%Date: 02/09/2017
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2017/09/04 20:37
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2560, ODEGARD, Martin, NOR,  5, 216, 2133
+%_%    1868, HAUGLAND, Jan Kristian, NOR,  4, 189, 1959
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3, 170, 1793
+%_%    2583, DANIELSEN, Jostein, NOR,  3, 169, 2044
+%_%    2570, ALBRIGTSEN, Vidar, NOR,  2.5, 182, 1955
+%_%  140031, TVEDT, Sverre, NOR,  2.5, 149, 1722
+%_%    1878, BOE, Alexander, NOR,  2, 155, 1727
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 141, 1640
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  1, 109, 1381
+
+
+
+%Round: 1
+
+  2560 (47)>(17) 140048  B
+  2583 (41)>(23)   1802  B
+140031 (37)>(27)   2570  B
+  2511 (24)<(40)   1868  B
+
+%Round: 2
+
+140048 (17)<(47)   2583  B
+  1878 (32)=(32) 140031  B
+  1802 (38)>(26)   2511  B
+  1868 (20)<(44)   2560  B
+
+%Round: 3
+
+140031 (22)<(42)   1802  B
+  2583 (19)<(45)   2560  B
+  2570 (32)=(32)   1878  B
+  1868 (38)>(26) 140048  B
+
+%Round: 4
+
+  2511 (46)>(18) 140031  B
+  2570 (28)<(36)   2583  B
+  1802 (11)<(53)   1868  B
+  2560 (43)>(21)   1878  B
+
+%Round: 5
+
+  1878 (30)<(34)   2511  B
+140048 (09)<(55)   2570  B
+  2560 (37)>(27)   1802  B
+  2583 (26)<(38)   1868  B
+
+
+%%Added results

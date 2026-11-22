@@ -1,0 +1,46 @@
+%%Tournament: Stockholm New Year XOT
+%%Country: SE
+%%Date: 28/12/2024
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 150009, WETTERGREN, Niklas, SE, 4, 227, 2161
+%_%   1301, STEENTOFT, Benkt, SE, 3, 150, 1740
+%_%   1513, ASPENRYD, Henry, SE, 2, 155, 2085
+%_% 150058, RONN, Tommy, SE, 2, 113, 1084
+%_%   1368, ROSENQVIST, Anders, SE, 0, 59, 1392
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/161
+
+%Round: 1
+
+ 150058 (42)>(22)   1368  B
+  1301 (35)>(29)   1513  B
+
+%Round: 2
+
+ 150009 (31)<(33)   1301  B
+  1513 (55)>(09)   1368  B
+
+%Round: 3
+
+  1301 (14)<(50) 150058  B
+  1513 (28)<(36) 150009  B
+
+%Round: 4
+
+ 150058 (00)<(64) 150009  B
+  1368 (17)<(47)   1301  B
+
+%Round: 5
+
+  1513 (43)>(21) 150058  B
+ 150009 (53)>(11)   1368  B
+
+%Round: F
+
+  1301 (21)<(43) 150009  B

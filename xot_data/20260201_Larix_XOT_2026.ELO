@@ -1,0 +1,67 @@
+%%Tournament: Larix XOT
+%%Country: RU
+%%Date: 01/02/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 320060, ATAMANOV, Dmitry, RU, 7.5, 374, 2137
+%_%   9000, SENNOV, Yuri, RU, 4.5, 268, 1700
+%_% 320044, KOBZEV, Vyacheslav, RU, 3.5, 228, 1800
+%_% 320062, SIMAKOV, Nikita, RU, 3.5, 211, 1621
+%_% 320073, SOKOLOVA, Mariya, RU, 1, 199, 1326
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/474
+
+%Round: 1
+
+ 320073 (18)<(46) 320060  B
+  9000 (52)>(12) 320062  B
+
+%Round: 2
+
+ 320060 (48)>(16)   9000  B
+ 320062 (17)<(47) 320044  B
+
+%Round: 3
+
+  9000 (30)<(34) 320044  B
+ 320073 (24)<(40) 320062  B
+
+%Round: 4
+
+ 320044 (55)>(09) 320073  B
+ 320062 (16)<(48) 320060  B
+
+%Round: 5
+
+ 320060 (62)>(02) 320044  B
+  9000 (49)>(15) 320073  B
+
+%Round: 6
+
+ 320060 (33)>(31) 320073  B
+ 320062 (43)>(21)   9000  B
+
+%Round: 7
+
+  9000 (32)=(32) 320060  B
+ 320044 (32)=(32) 320062  B
+
+%Round: 8
+
+ 320044 (29)<(35)   9000  B
+ 320062 (44)>(20) 320073  B
+
+%Round: 9
+
+ 320060 (57)>(07) 320062  B
+ 320073 (51)>(13) 320044  B
+
+%Round: 10
+
+ 320044 (16)<(48) 320060  B
+ 320073 (31)<(33)   9000  B

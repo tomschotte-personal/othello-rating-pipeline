@@ -1,0 +1,51 @@
+%%Tournament: Oslo XOT-Othello 2018
+%%Country: Norway
+%%Date: 17/11/2018
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2018/12/26 20:06
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2560, ODEGARD, Martin, NOR,  5, 216, 2130
+%_%    1868, HAUGLAND, Jan Kristian, NOR,  4, 187, 1940
+%_%    2583, DANIELSEN, Jostein, NOR,  3, 180, 1995
+%_%  140031, TVEDT, Sverre, NOR,  3, 156, 1658
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 146, 1638
+%_%    1878, BOE, Alexander, NOR,  2, 144, 1692
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  1, 131, 1323
+
+
+
+%Round: 1
+
+  1878 (39)>(25) 140048 B
+  2583 (17)<(47)   2560 B
+140031 (18)<(46)   1868 B
+
+%Round: 2
+
+  2560 (50)>(14)   1878 B
+  1868 (38)>(26)   1802 B
+140048 (12)<(52)   2583 B
+
+%Round: 3
+
+  1802 (17)<(47)   2583 B
+  1878 (28)<(36) 140031 B
+  1868 (22)<(42)   2560 B
+
+%Round: 4
+
+  2560 (41)>(23) 140031 B
+140048 (29)<(35)   1802 B
+  2583 (24)<(40)   1868 B
+
+%Round: 5
+
+140031 (39)>(25) 140048 B
+  1802 (28)<(36)   2560 B
+  1868 (41)>(23)   1878 B
+
+
+%%Added results

@@ -1,0 +1,91 @@
+name: XOT rating refresh
+
+# XOT events stay out of the main rating (sweep/reconcile skip them); this job
+# converts them into xot_data/ and republishes the XOT world rating site
+# (tomschotte-personal/worldothelloratingxot). Candidates come from
+# .ftd_seen.json (FTD xot flag or 'XOT' in the name) plus newly created ids.
+
+on:
+  schedule:
+    # Weekends: every 30 min, so a running XOT event updates during the day.
+    - cron: '7,37 * * * 6,0'
+    # Weekdays: every 3 hours.
+    - cron: '37 */3 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      ftd_ids:
+        description: 'Only these FTD ids (space-separated), e.g. a known XOT event'
+        required: false
+        default: ''
+
+concurrency:
+  group: xot-refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  xot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout pipeline
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Playwright
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Convert XOT events
+        id: xot
+        env:
+          IDS: ${{ inputs.ftd_ids }}
+        run: |
+          cd fide_rating
+          if [ -n "$IDS" ]; then python xot_ci.py --ids $IDS | tee /tmp/xot.log; else python xot_ci.py | tee /tmp/xot.log; fi
+          N=$(grep -E '^CHANGED ' /tmp/xot.log | awk '{print $2}')
+          echo "changed=${N:-0}" >> "$GITHUB_OUTPUT"
+          grep -E '^CACHE ' /tmp/xot.log | awk '{print $2}' | sort -u > /tmp/xot_caches || true
+
+      - name: Commit XOT results
+        run: |
+          git config --global user.name "othello-rating-bot"
+          git config --global user.email "actions@github.com"
+          git add xot_data
+          for f in $(cat /tmp/xot_caches); do [ -f "$f" ] && git add "$f"; done
+          # A converted .ELO must never be left in the main results.
+          git status --short wof_results
+          git checkout -- wof_results 2>/dev/null || true
+          git clean -fdq wof_results || true
+          if ! git diff --cached --quiet; then
+            git commit -m "XOT: ${{ steps.xot.outputs.changed }} event(s) updated"
+            git stash -u -q || true
+            git pull --rebase origin main && git push origin main
+          fi
+
+      - name: Clone XOT pages repo
+        if: steps.xot.outputs.changed != '0'
+        env:
+          DEPLOY_KEY: ${{ secrets.XOT_PAGES_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$DEPLOY_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git clone git@github.com:tomschotte-personal/worldothelloratingxot.git fide_rating/pages_xot
+
+      - name: Recompute and publish XOT rating
+        if: steps.xot.outputs.changed != '0'
+        run: |
+          cd fide_rating
+          python xot_rating.py
+          python xot_html.py
+          cd pages_xot
+          git add index.html
+          git diff --cached --quiet || (git commit -m "XOT: update $(date -u '+%Y-%m-%d %H:%M UTC') (GitHub Actions)" && git push origin main)

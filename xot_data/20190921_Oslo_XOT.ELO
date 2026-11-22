@@ -1,0 +1,33 @@
+%%Tournament: Oslo XOT 2019
+%%Country: Norway
+%%Date: 21/09/2019
+%%Sender: Tor Birger Skogen
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2022/03/22 21:59
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2511, OLSEN HAMMERVIK, Pal, NOR,  3, 150, 1802
+%_%    1802, SKOGEN, Tor Birger, NOR,  2, 96, 1590
+%_%  140031, TVEDT, Sverre, NOR,  1, 88, 1652
+%_%  140048, ORBECK-NILSSEN, Kim Andre, NOR,  0, 50, 1198
+
+
+
+%Round: 1
+
+  2511 (47)>(17)   1802  B
+140048 (21)<(43) 140031  B
+
+%Round: 2
+
+140031 (14)<(50)   2511  B
+  1802 (46)>(18) 140048  B
+
+%Round: 3
+
+  2511 (53)>(11) 140048  B
+140031 (31)<(33)   1802  B
+
+
+%%Added results

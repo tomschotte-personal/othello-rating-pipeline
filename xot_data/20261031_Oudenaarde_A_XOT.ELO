@@ -1,0 +1,36 @@
+%%Tournament: Oudenaarde A XOT
+%%Country: BE
+%%Date: 31/10/2026
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_%   2795, SCHOTTE, Tom, BEL, 3, 162, 2012
+%_%   5900, REUNES, Nick, BEL, 3, 154, 1848
+%_%   5905, MAY, Michael, BEL, 1, 108, 1633
+%_% 270069, DE MOOR, Nadja, BEL, 1, 88, 1490
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/683
+
+%Round: 1
+
+  2795 (40)>(24)   5905  B
+  5900 (45)>(19) 270069  B
+
+%Round: 2
+
+  5900 (26)<(38)   2795  B
+ 270069 (26)<(38)   5905  B
+
+%Round: 3
+
+  2795 (55)>(09) 270069  B
+  5905 (16)<(48)   5900  B
+
+%Round: 4
+
+  2795 (29)<(35)   5900  B
+  5905 (30)<(34) 270069  B

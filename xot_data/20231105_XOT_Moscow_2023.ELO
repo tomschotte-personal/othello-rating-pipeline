@@ -1,0 +1,27 @@
+%%Tournament: XOT Moscow
+%%Country: RU
+%%Date: 05/11/2023
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 320044, KOBZEV, Vyacheslav, RU, 1, 64, 1580
+%_% 320013, DORODNYKH, Maksim, RU, 1, 50, 1366
+%_%   9000, SENNOV, Yuri, RU, 1, 48, 1329
+%_% 320000, SAMCHENKO, Alexandr, RU, 1, 45, 1877
+%_% 320066, KHANDZHYAN, Tatyana, RU, 0, 19, 1277
+%_% 320078, ANDREEV, Sergey, RU, 0, 16, 0
+%_% 440432, BATZORIG, Erdenesuvd, MN, 0, 14, 1461
+%_% 320064, DROPASH, Andrey, RU, 0, 0, 1115
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/3
+
+%Round: 7
+
+ 320066 (19)<(45) 320000  B
+ 320044 (64)>(00) 320064  B
+ 320078 (16)<(48)   9000  B
+ 320013 (50)>(14) 440432  B

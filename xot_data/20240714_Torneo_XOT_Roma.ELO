@@ -1,0 +1,64 @@
+%%Tournament: Torneo_XOT_Roma
+%%Country: Italy
+%%Date: 14/07/2024
+%%Sender: auto (from FNGO scrape)
+
+%%Creator: FNGO scrape
+
+%        id, lastname, firstname, country, score, disc-count
+
+%_%   2851, ROMANO, Benedetto, ITA, 4, 217
+%_%  40027, TORMENE, Paolo, ITA, 4, 196
+%_%  40151, BARSOTTI, Paolo, ITA, 4, 175
+%_%  41003, LUNARI, Raimondo, ITA, 3, 191
+%_%   2841, VECCHI, Elisabetta, ITA, 3, 134
+%_%   2884, VECCHI, Maria Serena, ITA, 2, 138
+%_%  40186, RIBALDONE, Marco, ITA, 2, 133
+%_%  40052, GIGLIUCCI, Chiara, ITA, 2, 114
+%_%  40225, BERRUTO, Giuseppe, ITA, 1.5, 163
+%_%  40230, IANNUZZI, Emanuele, ITA, 1.5, 107
+%_%   3062, CAVIOLA, Leonardo, ITA, 1, 133
+%_%   3066, MARCONI, Flavio, ITA, 0, 91
+
+%Round: 1
+
+ 40151 (34)>(30)  41003  B
+  2884 (32)=(32)  40225  B
+  3062 (28)<(36)   2851  B
+ 40027 (55)>(09)  40230  B
+
+%Round: 2
+
+  2851 (31)<(33)  40151  B
+  3066 (17)<(47)  40027  B
+ 40225 (27)<(37)   3062  B
+ 40230 (32)=(32)   2884  B
+ 41003 (48)>(16)  40186  B
+  2841 (39)>(25)  40052  B
+
+%Round: 3
+
+ 40151 (18)<(46)  40027  B
+  3062 (21)<(43)   2841  B
+  2851 (47)>(17)  41003  B
+  2884 (39)>(25)   3066  B
+ 40230 (33)>(31)  40225  B
+ 40186 (53)>(11)  40052  B
+
+%Round: 4
+
+ 40027 (15)<(49)   2851  B
+  2841 (42)>(22)   2884  B
+ 40151 (39)>(25)  40230  B
+ 41003 (40)>(24)   3062  B
+  3066 (31)<(33)  40186  B
+ 40052 (37)>(27)  40225  B
+
+%Round: 5
+
+  2851 (54)>(10)   2841  B
+  2884 (13)<(51)  40151  B
+ 40186 (31)<(33)  40027  B
+ 40230 (08)<(56)  41003  B
+ 40052 (41)>(23)   3062  B
+ 40225 (46)>(18)   3066  B

@@ -1,0 +1,71 @@
+%%Tournament: Ghent XOT tournament 2016
+%%Country: Belgium
+%%Date: 26/11/2016
+%%Sender: Tom Schotte
+
+%%Creator: PAPP 1.36
+%%CreationDate: 2025/12/28 11:27
+
+%        ID, NAME, Firstname, COUNTRY, score, disc-count, rating
+%_%    2795, SCHOTTE, Tom, BEL,  5, 245, 2027
+%_%    5900, REUNES, Nick, BEL,  4.5, 230, 1784
+%_%      43, PUZZO, Luigi, ITA,  4, 219, 1715
+%_%    5012, KORTENDIJK, Albert, NLD,  3.5, 193, 2014
+%_%  270024, NICHOLLS, Frederic, BEL,  3, 206, 1425
+%_%    4068, VAN DE MOORTEL, Frauke, BEL,  3, 194, 1325
+%_%    5909, VAN DAMME, Brecht, BEL,  3, 157, 1700
+%_%    5214, DE BOER, Rosalinde, NLD,  2, 165, 1626
+%_%    5159, PRASEPTYO, Linda, NLD,  1, 142, 1755
+%_%    5265, DE BOER, Akke-Lien, NLD,  1, 45, 1472
+%_%    4030, VAN DE ZANDE, Josbert, NLD,  1, 47, 1556
+%_% +270025, SCHOTTE, Sander, BEL,  0, 17, 0
+
+
+
+%Round: 1
+
+  4068 (41)>(23)     43 B
+  5012 (48)>(16)   5909 B
+  4030 (47)>(17) 270025 B
+  5159 (20)<(44)   2795 B
+  5265 (33)>(31) 270024 B
+  5900 (34)>(30)   5214 B
+
+%Round: 2
+
+  5909 (43)>(21)   5159 B
+    43 (43)>(21) 270024 B
+  5214 (38)>(26)   4068 B
+  2795 (50)>(14)   5012 B
+  5900 (52)>(12)   5265 B
+
+%Round: 3
+
+  2795 (22)<(42)   5900 B
+  4068 (28)<(36)   5909 B
+  5012 (25)<(39)     43 B
+270024 (53)>(11)   5214 B
+
+%Round: 4
+
+    43 (27)<(37)   2795 B
+  5159 (23)<(41)   4068 B
+  5909 (11)<(53)   5900 B
+  5214 (29)<(35)   5012 B
+
+%Round: 5
+
+  5012 (39)>(25)   5159 B
+270024 (24)<(40)   5909 B
+  4068 (25)<(39)   2795 B
+  5900 (17)<(47)     43 B
+
+%Round: 6
+
+  2795 (53)>(11)   5909 B
+    43 (40)>(24)   5214 B
+  5900 (32)=(32)   5012 B
+  5159 (20)<(44) 270024 B
+
+
+%%Added results

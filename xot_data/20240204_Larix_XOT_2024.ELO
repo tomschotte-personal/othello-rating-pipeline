@@ -1,0 +1,48 @@
+%%Tournament: Larix XOT
+%%Country: RU
+%%Date: 04/02/2024
+%%Sender: auto
+
+%%Creator: FlipTheDisc.com
+
+%        id, lastname, firstname, country, score, disc-count, rating
+
+%_% 320044, KOBZEV, Vyacheslav, RU, 4, 185, 1626
+%_% 320025, GUTOROV, Ivan, RU, 4, 181, 1851
+%_% 320029, PEREL'MAN, Andrey, RU, 3, 151, 1489
+%_% 320000, SAMCHENKO, Alexandr, RU, 2, 178, 1922
+%_% 320060, ATAMANOV, Dmitry, RU, 2, 162, 2142
+%_%   9000, SENNOV, Yuri, RU, 0, 103, 1456
+%_%__________
+%_% Generated from FTD via ftd_to_elo.py
+%_% See: https://flipthedisc.com/live/10
+
+%Round: 1
+
+  9000 (17)<(47) 320029  B
+ 320000 (30)<(34) 320060  B
+ 320025 (25)<(39) 320044  B
+
+%Round: 2
+
+ 320029 (36)>(28) 320060  B
+ 320044 (19)<(45) 320000  B
+  9000 (22)<(42) 320025  B
+
+%Round: 3
+
+ 320025 (47)>(17) 320029  B
+ 320060 (31)<(33) 320044  B
+ 320000 (44)>(20)   9000  B
+
+%Round: 4
+
+ 320000 (31)<(33) 320025  B
+ 320044 (49)>(15) 320029  B
+ 320060 (39)>(25)   9000  B
+
+%Round: 5
+
+ 320025 (34)>(30) 320060  B
+  9000 (19)<(45) 320044  B
+ 320029 (36)>(28) 320000  B

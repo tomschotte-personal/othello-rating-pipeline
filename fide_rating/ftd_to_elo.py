@@ -100,6 +100,37 @@ def result_glyph_for(p1_score, p2_score):
     return '>' if p1_score > p2_score else '<'
 
 
+def _from_standings(d, players_list, rounds):
+    """Finished FTD events only send 'standings' (with per-player round_results),
+    no players_list and no rounds (Citta di roma 2 XOT, FTD 673, 2026-11-22).
+    Rebuild both from the standings in the shape convert() expects. Black = p1."""
+    st = [s for s in (d.get('standings') or []) if isinstance(s, dict) and s.get('round_results')]
+    has_games = any(isinstance(rd, dict) and rd.get('pairing') for rd in rounds or [])
+    if not st or has_games:
+        return players_list, rounds
+    known = {p.get('id') for p in players_list or []}
+    players_list = list(players_list or []) + [
+        {'id': s['player_id'], 'surname': s.get('surname'), 'name': s.get('name'),
+         'country_code': s.get('country_code'), 'rating': s.get('rating')}
+        for s in st if s['player_id'] not in known]
+    by_round, seen = defaultdict(list), set()
+    for s in st:
+        for rr in s['round_results']:
+            gid, opp = rr.get('gameId'), rr.get('opponentId')
+            if not opp or gid in seen or rr.get('result') is None:
+                continue
+            seen.add(gid)
+            me = {'id': s['player_id'], 'result': rr['result'], 'score': rr.get('discs')}
+            if rr.get('color') == 'black':
+                pair = [me, {'id': opp}]
+            else:   # flip to Black's point of view
+                pair = [{'id': opp, 'result': 2 - rr['result'],
+                         'score': None if rr.get('discs') is None else 64 - rr['discs']}, {'id': s['player_id']}]
+            by_round[rr.get('round', 0)].append(pair)
+    print(f'  rebuilt from standings: {len(players_list)} players, {len(seen)} games')
+    return players_list, [{'currentRound': r, 'pairing': by_round[r]} for r in sorted(by_round)]
+
+
 def convert(tournament_id, override_date=None, override_filename=None, force_country=None,
             synthetic_ids=False):
     """synthetic_ids: when True, players without a WOF id get a synthetic id
@@ -113,6 +144,7 @@ def convert(tournament_id, override_date=None, override_filename=None, force_cou
     info = d.get('info', {})
     players_list = d.get('players_list', [])
     rounds = d.get('rounds', [])
+    players_list, rounds = _from_standings(d, players_list, rounds)
     joueurs = parse_joueurs()
 
     # Build FTD -> WOF lookup. For players without a linked wof_id, try an exact
