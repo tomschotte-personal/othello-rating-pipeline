@@ -90,7 +90,7 @@
   "status": "open",
   "name": "Milan EGP",
   "end_date": "",
-  "players": 40,
+  "players": 42,
   "xot": 0
  },
  "679": {
@@ -1036,5 +1036,45 @@
   "end_date": "",
   "players": 102,
   "xot": 0
+ },
+ "815": {
+  "status": "missing",
+  "hi": 814
+ },
+ "816": {
+  "status": "missing",
+  "hi": 814
+ },
+ "817": {
+  "status": "missing",
+  "hi": 814
+ },
+ "818": {
+  "status": "missing",
+  "hi": 814
+ },
+ "819": {
+  "status": "missing",
+  "hi": 814
+ },
+ "820": {
+  "status": "missing",
+  "hi": 814
+ },
+ "821": {
+  "status": "missing",
+  "hi": 814
+ },
+ "822": {
+  "status": "missing",
+  "hi": 814
+ },
+ "823": {
+  "status": "missing",
+  "hi": 814
+ },
+ "824": {
+  "status": "missing",
+  "hi": 814
  }
 }
