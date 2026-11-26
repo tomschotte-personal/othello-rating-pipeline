@@ -172,7 +172,9 @@ def _merge_tournament_data(old, new):
     out['rounds'] = sorted(merged.values(), key=lambda rd: rd.get('currentRound') or 0)
     if len(old.get('players_list') or []) > len(new.get('players_list') or []):
         out['players_list'] = old['players_list']
-    if not out.get('standings'):
+    def _nres(st):
+        return sum(len(x.get('round_results') or []) for x in (st or []) if isinstance(x, dict))
+    if _nres(old.get('standings')) > _nres(out.get('standings')):
         out['standings'] = old.get('standings') or []
     if not out.get('info'):
         out['info'] = old.get('info') or {}
@@ -345,6 +347,7 @@ def extract_games(standings, rounds, ftd_to_wof):
     for ri, rd in enumerate(rounds):
         if not isinstance(rd, dict):
             continue
+        rno = rd.get('currentRound') or (ri + 1)
         for pair in rd.get('pairing', []) or []:
             if not isinstance(pair, list) or len(pair) < 2:
                 continue
@@ -378,10 +381,63 @@ def extract_games(standings, rounds, ftd_to_wof):
 
             started = (p1.get('roundStarted') or rd.get('roundStarted') or '')[:10]
             games.append({
-                'a': w1, 'b': w2, 'result': res, 'round': ri + 1,
+                'a': w1, 'b': w2, 'result': res, 'round': rno,
                 'date': started,
             })
+    games += games_from_standings(standings, games, ftd_to_wof)
+    games.sort(key=lambda g: g['round'])      # stable: pairing order kept per round
     return games
+
+
+def games_from_standings(standings, have, ftd_to_wof):
+    """Games found in the standings' round_results but not in the captured rounds.
+
+    The Playwright fetch usually captures ONE round per fetch (round-button clicks
+    are flaky) and the cache commit between relay runs can conflict and be lost,
+    so earlier rounds dropped out of the live list (48th WOC, FTD 571,
+    2026-11-26: only rounds 4-7 left). The standings carry every finished game
+    of every round, so they are the safety net."""
+    done = {(g['round'], frozenset((g['a'], g['b']))) for g in have}
+    dates = {g['round']: g['date'] for g in have if g.get('date')}
+    out, seen = [], set()
+    for st in standings or []:
+        if not isinstance(st, dict):
+            continue
+        me = ftd_to_wof.get(st.get('player_id') or st.get('id'))
+        for rr in st.get('round_results') or []:
+            opp = ftd_to_wof.get(rr.get('opponentId'))
+            r, rno = rr.get('result'), rr.get('round')
+            if me is None or opp is None or r not in (0, 1, 2) or rno is None:
+                continue
+            key = (rno, frozenset((me, opp)))
+            if key in done or key in seen:
+                continue
+            seen.add(key)
+            a, b = (me, opp) if rr.get('color') != 'white' else (opp, me)   # a = Black
+            res = {2: 1, 1: 0, 0: -1}[r]
+            if a != me:
+                res = -res
+            out.append({'a': a, 'b': b, 'result': res, 'round': rno,
+                        'date': dates.get(rno, ''), 'from_standings': True})
+    if out:
+        print(f'  +{len(out)} games recovered from standings '
+              f'(rounds {sorted({g["round"] for g in out})})')
+    return out
+
+
+def round_coverage(standings, games):
+    """Per round: games in the standings vs games we rate. Warns on any gap."""
+    from collections import Counter
+    exp = Counter()
+    for st in standings or []:
+        for rr in (st.get('round_results') or []) if isinstance(st, dict) else []:
+            if rr.get('opponentId') and rr.get('result') in (0, 1, 2):
+                exp[rr.get('round')] += 1
+    got = Counter(g['round'] for g in games)
+    gaps = {r: (got.get(r, 0), n // 2) for r, n in exp.items() if got.get(r, 0) < n // 2}
+    if gaps:
+        print(f'::warning::round coverage gap (rated/expected): {gaps}')
+    return gaps
 
 
 def apply_live(state, ec_games, ec_tournament_name='2026 European Championship',
@@ -534,6 +590,11 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
                 participant_tournaments[wof_id].append(t_short)
 
         tgames = extract_games(standings, rounds, ftd_to_wof)
+        round_coverage(standings, tgames)
+        t0 = (info.get('start_date') or info.get('expected_start') or '')[:10]
+        for g in tgames:
+            if not g.get('date'):
+                g['date'] = t0
         # Manual exclusions: (tournament_id, wof_id) -> set of round numbers to drop.
         # Used when an FTD operator has manually entered placeholder results for a
         # player who didn't actually play. Will be fixed at WOF later.

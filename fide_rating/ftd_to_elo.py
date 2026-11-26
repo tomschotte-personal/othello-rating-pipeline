@@ -101,34 +101,54 @@ def result_glyph_for(p1_score, p2_score):
 
 
 def _from_standings(d, players_list, rounds):
-    """Finished FTD events only send 'standings' (with per-player round_results),
-    no players_list and no rounds (Citta di roma 2 XOT, FTD 673, 2026-11-22).
-    Rebuild both from the standings in the shape convert() expects. Black = p1."""
+    """Fill rounds/games that the fetch missed from the standings' round_results.
+
+    Finished FTD events send only 'standings' (Citta di roma 2 XOT, FTD 673), and
+    live fetches usually capture one round each, so the cache can lack earlier
+    rounds (48th WOC, FTD 571: only rounds 4-7). The standings hold every
+    finished game; add the ones the captured rounds do not have. Black = p1."""
     st = [s for s in (d.get('standings') or []) if isinstance(s, dict) and s.get('round_results')]
-    has_games = any(isinstance(rd, dict) and rd.get('pairing') for rd in rounds or [])
-    if not st or has_games:
+    if not st:
         return players_list, rounds
     known = {p.get('id') for p in players_list or []}
     players_list = list(players_list or []) + [
         {'id': s['player_id'], 'surname': s.get('surname'), 'name': s.get('name'),
          'country_code': s.get('country_code'), 'rating': s.get('rating')}
         for s in st if s['player_id'] not in known]
+    rounds = [rd for rd in (rounds or []) if isinstance(rd, dict)]
+    have = set()
+    for rd in rounds:
+        for pair in rd.get('pairing') or []:
+            if isinstance(pair, list) and len(pair) >= 2 and all(isinstance(x, dict) for x in pair[:2])                     and (pair[0].get('result') is not None
+                         or len(pair[0].get('transcript') or '') >= 100):   # convert() replays these
+                have.add((rd.get('currentRound'), frozenset((pair[0].get('id'), pair[1].get('id')))))
     by_round, seen = defaultdict(list), set()
     for s in st:
         for rr in s['round_results']:
-            gid, opp = rr.get('gameId'), rr.get('opponentId')
-            if not opp or gid in seen or rr.get('result') is None:
+            opp, rno = rr.get('opponentId'), rr.get('round')
+            if not opp or rr.get('result') is None:
                 continue
-            seen.add(gid)
+            key = (rno, frozenset((s['player_id'], opp)))
+            if key in have or key in seen:
+                continue
+            seen.add(key)
             me = {'id': s['player_id'], 'result': rr['result'], 'score': rr.get('discs')}
             if rr.get('color') == 'black':
                 pair = [me, {'id': opp}]
             else:   # flip to Black's point of view
                 pair = [{'id': opp, 'result': 2 - rr['result'],
                          'score': None if rr.get('discs') is None else 64 - rr['discs']}, {'id': s['player_id']}]
-            by_round[rr.get('round', 0)].append(pair)
-    print(f'  rebuilt from standings: {len(players_list)} players, {len(seen)} games')
-    return players_list, [{'currentRound': r, 'pairing': by_round[r]} for r in sorted(by_round)]
+            by_round[rno].append(pair)
+    if not seen:
+        return players_list, rounds
+    print(f'  added from standings: {len(seen)} games (rounds {sorted(by_round)})')
+    merged = {rd.get('currentRound'): rd for rd in rounds}
+    for rno, pairs in by_round.items():
+        if rno in merged:
+            merged[rno] = dict(merged[rno], pairing=list(merged[rno].get('pairing') or []) + pairs)
+        else:
+            merged[rno] = {'currentRound': rno, 'pairing': pairs}
+    return players_list, [merged[k] for k in sorted(merged, key=lambda x: x or 0)]
 
 
 def convert(tournament_id, override_date=None, override_filename=None, force_country=None,

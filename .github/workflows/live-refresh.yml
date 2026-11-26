@@ -187,7 +187,7 @@ jobs:
           echo "${{ steps.gate.outputs.ids }}@${{ steps.gate.outputs.until }}" > .ftd_finalized
           rm -f .ftd_auto
           git add -A
-          git diff --cached --quiet || (git commit -m "Finalize window: permanent .ELO for FTDs ${{ steps.gate.outputs.ids }}" && git pull --rebase origin main && git push origin main)
+          git diff --cached --quiet || (git commit -m "Finalize window: permanent .ELO for FTDs ${{ steps.gate.outputs.ids }}" && git pull --rebase -X theirs origin main && git push origin main)
 
       # GitHub's cron scheduler is unreliable: gaps of 1-2h were normal, and on
       # 2026-10-11 it ran ONCE in 7 hours (Singapore Open frozen after round 2).
@@ -275,6 +275,6 @@ jobs:
             # they're derived artifacts, rebuilt on every run.
             git checkout -- . || true
             git clean -fd fide_rating/pages >/dev/null 2>&1 || true
-            git pull --rebase origin main
+            git pull --rebase -X theirs origin main
             git push origin main
           fi

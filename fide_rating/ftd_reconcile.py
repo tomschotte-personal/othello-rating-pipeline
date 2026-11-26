@@ -106,7 +106,12 @@ def cache_result_count(tid):
                     and len(pr) > 1 and isinstance(pr[1], dict)
                     and pr[1].get('id')):
                 n += 1
-    return n
+    # The standings list every finished game per player (each game twice):
+    # a cache whose rounds lack early rounds still reveals the true count.
+    ns = sum(1 for st in d.get('standings') or [] if isinstance(st, dict)
+             for rr in st.get('round_results') or []
+             if rr.get('opponentId') and rr.get('result') in (0, 1, 2)) // 2
+    return max(n, ns)
 
 
 def load_seen():
