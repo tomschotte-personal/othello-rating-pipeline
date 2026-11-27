@@ -126,8 +126,8 @@ def _from_standings(d, players_list, rounds):
     for s in st:
         for rr in s['round_results']:
             opp, rno = rr.get('opponentId'), rr.get('round')
-            if not opp or rr.get('result') is None:
-                continue
+            if not opp or rr.get('result') is None or rno is None or rno >= 100:
+                continue   # Swiss only: playoffs (107-110) come from the rounds
             key = (rno, frozenset((s['player_id'], opp)))
             if key in have or key in seen:
                 continue

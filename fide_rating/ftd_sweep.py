@@ -25,7 +25,7 @@ from datetime import datetime, timedelta, timezone
 BASE = os.path.dirname(os.path.abspath(__file__))
 PROJECT = os.path.dirname(BASE)
 sys.path.insert(0, BASE)
-from shift1800_live import fetch_tournament_full
+from shift1800_live import fetch_tournament_full, save_merged_cache
 
 now = datetime.now(timezone.utc)
 today = now.date()
@@ -115,10 +115,9 @@ else:
 # Prime/refresh caches for every hit so the live loop starts warm
 for tid, _ in hits:
     try:
-        d = fetch_tournament_full(tid)
-        with open(os.path.join(PROJECT, f'tournament_{tid}.json'), 'w',
-                  encoding='utf-8') as f:
-            json.dump(d, f, ensure_ascii=False)
+        # MERGE, never overwrite: a multi-day event is a hit on every sweep
+        # and a fresh fetch holds ~1 round (WOC 2026-11-27 vanished this way).
+        save_merged_cache(tid, fetch_tournament_full(tid))
     except Exception as e:
         print(f'  cache prime failed for {tid}: {e}', file=sys.stderr)
 

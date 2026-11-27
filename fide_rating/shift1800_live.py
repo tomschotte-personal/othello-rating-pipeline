@@ -135,15 +135,15 @@ def fetch_tournament_full(tournament_id):
                 return pair[0]
         return None
 
-    seen = set()
-    rounds = []
+    # Dedupe per (round, set of games), keeping the LAST message: playoff
+    # rounds can arrive as one message per category (open/female/junior) that
+    # share a start time, so the old roundStarted key dropped categories.
+    by_key = {}
     for rd in rounds_raw:
-        p1 = _first_player_dict(rd)
-        if p1 is None:
+        if _first_player_dict(rd) is None:
             continue
-        ts = p1.get('roundStarted', '')
-        if ts not in seen:
-            seen.add(ts); rounds.append(rd)
+        by_key[(rd.get('currentRound'), frozenset(_game_keys(rd)))] = rd
+    rounds = _merge_rounds([], list(by_key.values()))
     # Order: Swiss rounds 1..11 by currentRound (1, 2, ..., 11), then
     # knockouts in the FTD-defined logical order: 108 (SF), 109 (3/4), 110 (F).
     rounds.sort(key=lambda rd: rd.get('currentRound') or 0)
@@ -158,20 +158,61 @@ def fetch_tournament_full(tournament_id):
     }
 
 
+def _game_key(pair):
+    p1, p2 = pair[0], pair[1]
+    if p1.get('gameId'):
+        return ('g', p1.get('gameId'))
+    return ('p', p1.get('id'), p2.get('id'), p1.get('gameNumber'))
+
+
+def _pairs(rd):
+    return [pr for pr in (rd.get('pairing') or [])
+            if isinstance(pr, list) and len(pr) >= 2 and isinstance(pr[0], dict) and isinstance(pr[1], dict)]
+
+
+def _game_keys(rd):
+    return [_game_key(pr) for pr in _pairs(rd)]
+
+
+def _merge_rounds(old_rounds, new_rounds):
+    """Union rounds at GAME level (key: FTD gameId). New data wins per game
+    (results fill in), games only the old data has are kept, and several
+    messages for one round (playoff categories) are combined."""
+    rounds = {}
+    for rd in list(old_rounds or []) + list(new_rounds or []):
+        if not isinstance(rd, dict):
+            continue
+        cur = rd.get('currentRound')
+        slot = rounds.setdefault(cur, {'meta': {}, 'games': {}})
+        meta = {k: v for k, v in rd.items() if k != 'pairing'}
+        if meta:
+            slot['meta'] = meta
+        for pr in _pairs(rd):
+            k = _game_key(pr)
+            prev = slot['games'].get(k)
+            # never replace a decided game with an undecided copy
+            if prev is not None and prev[0].get('result') is not None and pr[0].get('result') is None:
+                continue
+            slot['games'][k] = pr
+    out = []
+    for cur in sorted(rounds, key=lambda c: c or 0):
+        rd = dict(rounds[cur]['meta'])
+        rd['currentRound'] = cur
+        rd['pairing'] = list(rounds[cur]['games'].values())
+        out.append(rd)
+    return out
+
+
 def _merge_tournament_data(old, new):
-    """Union previously-cached rounds with a fresh fetch. Round-button clicks in
-    the Playwright fetch are flaky — a fetch that only captured round N must not
-    lose rounds captured by earlier fetches. Fresh data wins per round (results
-    fill in); missing rounds are retained from the cache."""
-    merged = {}
-    for rd in (old.get('rounds') or []):
-        merged[rd.get('currentRound')] = rd
-    for rd in (new.get('rounds') or []):
-        merged[rd.get('currentRound')] = rd
+    """Union a fresh fetch with the cache. A fetch usually captures ONE round
+    and, in the playoff phase, no standings at all (48th WOC 2026-11-27), so
+    nothing the cache has may be lost: games are merged by gameId, the fuller
+    players list and standings are kept."""
     out = dict(new)
-    out['rounds'] = sorted(merged.values(), key=lambda rd: rd.get('currentRound') or 0)
+    out['rounds'] = _merge_rounds(old.get('rounds'), new.get('rounds'))
     if len(old.get('players_list') or []) > len(new.get('players_list') or []):
         out['players_list'] = old['players_list']
+
     def _nres(st):
         return sum(len(x.get('round_results') or []) for x in (st or []) if isinstance(x, dict))
     if _nres(old.get('standings')) > _nres(out.get('standings')):
@@ -179,6 +220,22 @@ def _merge_tournament_data(old, new):
     if not out.get('info'):
         out['info'] = old.get('info') or {}
     return out
+
+
+def save_merged_cache(tid, d):
+    """Write a fresh fetch to tournament_<tid>.json MERGED with what is there.
+    Every writer of the cache must use this (the sweep's cache prime once
+    overwrote the WOC cache with a 1-round fetch and the WOC vanished)."""
+    cache = os.path.join(PROJECT, f'tournament_{tid}.json')
+    if os.path.exists(cache):
+        try:
+            with open(cache, encoding='utf-8') as f:
+                d = _merge_tournament_data(json.load(f), d)
+        except Exception:
+            pass
+    with open(cache, 'w', encoding='utf-8') as f:
+        json.dump(d, f, ensure_ascii=False)
+    return d
 
 
 def fetch_or_load_tournament(tournament_id, force_refresh=False):
@@ -189,16 +246,7 @@ def fetch_or_load_tournament(tournament_id, force_refresh=False):
     cache = os.path.join(PROJECT, f'tournament_{tournament_id}.json')
     if force_refresh or not os.path.exists(cache):
         try:
-            d = fetch_tournament_full(tournament_id)
-            if os.path.exists(cache):
-                try:
-                    with open(cache, encoding='utf-8') as f:
-                        old = json.load(f)
-                    d = _merge_tournament_data(old, d)
-                except Exception:
-                    pass
-            with open(cache, 'w', encoding='utf-8') as f:
-                json.dump(d, f, ensure_ascii=False)
+            d = save_merged_cache(tournament_id, fetch_tournament_full(tournament_id))
             print(f'  Cached {cache} ({len(d.get("rounds") or [])} rounds after merge)')
         except Exception as e:
             if os.path.exists(cache):
@@ -407,8 +455,8 @@ def games_from_standings(standings, have, ftd_to_wof):
         for rr in st.get('round_results') or []:
             opp = ftd_to_wof.get(rr.get('opponentId'))
             r, rno = rr.get('result'), rr.get('round')
-            if me is None or opp is None or r not in (0, 1, 2) or rno is None:
-                continue
+            if me is None or opp is None or r not in (0, 1, 2) or rno is None or rno >= 100:
+                continue   # Swiss only: playoffs (107-110) come from the rounds
             key = (rno, frozenset((me, opp)))
             if key in done or key in seen:
                 continue
@@ -729,6 +777,7 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
         'players': players,
     }
     out_path = os.path.join(BASE, 'world_fide_live_shift1800.json')
+    _guard_no_shrink(output)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     print(f'\nSaved {out_path}')
@@ -750,6 +799,30 @@ def build_live_snapshot(tournament_ids, ec_name=None, force_refresh=False):
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     return output
+
+
+def _guard_no_shrink(output):
+    """Refuse to save a live snapshot with FEWER games for the same tracked
+    tournaments than the page that is online (pages/index.html). A stripped
+    cache once wiped the whole WOC from the site (2026-11-27). Exit code 3:
+    the workflow then skips the publish and keeps the online page.
+    LIVE_ALLOW_DROP=1 overrides (e.g. after a manual game exclusion)."""
+    if os.environ.get('LIVE_ALLOW_DROP') == '1':
+        return
+    page = os.path.join(BASE, 'pages', 'index.html')
+    if not os.path.exists(page):
+        return
+    with open(page, encoding='utf-8', errors='replace') as f:
+        html = f.read()
+    m_id = re.search(r'"tournament_id":\s*"([^"]*)"', html)
+    m_n = re.search(r'"ec_games_played":\s*(\d+)', html)
+    if not (m_id and m_n):
+        return
+    tid_online, n_online = m_id.group(1), int(m_n.group(1))
+    if tid_online == output['tournament_id'] and output['ec_games_played'] < n_online:
+        print(f'::error::live snapshot has {output["ec_games_played"]} games for {tid_online}, '
+              f'the online page {n_online} - NOT saved (a fetch/cache lost games)')
+        sys.exit(3)
 
 
 if __name__ == '__main__':

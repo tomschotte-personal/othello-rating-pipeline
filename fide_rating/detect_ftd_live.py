@@ -14,7 +14,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-from shift1800_live import fetch_tournament_full
+from shift1800_live import fetch_tournament_full, save_merged_cache
 
 start_id = int(sys.argv[1]) if len(sys.argv) > 1 else 590
 end_id   = int(sys.argv[2]) if len(sys.argv) > 2 else 640
@@ -35,8 +35,7 @@ for tid in range(start_id, end_id + 1):
     n_pl = len(d.get('players_list') or [])
     if start in window or (cur and start >= str(today - timedelta(days=2))):
         hits.append((tid, info.get('name'), start, cur, n_pl))
-        with open(os.path.join(os.path.dirname(BASE), f'tournament_{tid}.json'), 'w', encoding='utf-8') as f:
-            json.dump(d, f, ensure_ascii=False)
+        save_merged_cache(tid, d)
 
 print()
 print(f'=== Live/imminent tournaments found: {len(hits)} ===')

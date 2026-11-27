@@ -138,10 +138,10 @@ def probe(tid):
     # 815+ returned the 48th WOC, id 571) - that must not be stored or converted.
     if not info.get('id') or info.get('id') != tid:
         return {'status': 'missing'}
-    # Persist the cache convert() loads (fetch alone does not write it).
-    with open(os.path.join(ROOT, f'tournament_{tid}.json'), 'w',
-              encoding='utf-8') as f:
-        json.dump(d, f)
+    # Persist the cache convert() loads (fetch alone does not write it) -
+    # MERGED: probing an open multi-day event must not wipe its rounds.
+    from shift1800_live import save_merged_cache
+    d = save_merged_cache(tid, d)
     rounds = info.get('rounds') or 0
     cur = info.get('current_round') or 0
     finished = bool(info.get('end_date')) and cur >= rounds > 0

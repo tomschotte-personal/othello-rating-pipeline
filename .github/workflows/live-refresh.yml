@@ -225,7 +225,12 @@ jobs:
           while [ "$(date +%s)" -lt "$DEADLINE" ]; do
             ITER=$((ITER+1))
             echo "=== iteration $ITER — $(date -u '+%H:%M:%S UTC') ==="
-            python shift1800_live.py --refresh $IDS || echo "compute failed — retrying next iteration"
+            if ! python shift1800_live.py --refresh $IDS; then
+              # exit 3 = no-shrink guard; any failure: keep the online page as is
+              echo "compute failed or refused (fewer games than online) - not publishing this iteration"
+              [ "$(date +%s)" -lt "$DEADLINE" ] && sleep 240
+              continue
+            fi
             # Skip publish when the underlying data hasn't changed (only the
             # ref_date timestamp differs). Prevents commit/deploy spam when a
             # tournament is idle or already finished.
